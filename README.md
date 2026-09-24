@@ -16,6 +16,7 @@ No build step is needed. The committed `.nojekyll` file tells Pages to serve the
 - Mass Effect article: `stories/mass-effect-revisited/index.html`
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
+- Image sourcing and rights log: `IMAGE-RIGHTS.md`
 
 The homepage has two unlinked slots for future listicles. When those articles are ready, add a `stories/<slug>/index.html` page for each, then link its homepage card. Give each page a unique `<title>`, description, H1, canonical URL, Open Graph fields, byline, useful headings, and accurate Article structured data. Add its URL to `sitemap.xml`. Add publication and modification dates only when they are known. Do not add placeholder article pages to the sitemap.
 
