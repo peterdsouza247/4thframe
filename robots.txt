@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://peterdsouza247.github.io/4thframe/sitemap.xml
