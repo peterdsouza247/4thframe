@@ -2,67 +2,175 @@
   {
     "slug": "telltales-batman-reinvention",
     "type": "Long read",
-    "tags": ["Batman", "Telltale", "DC Comics", "Character studies", "Absolute Batman"],
-    "related": ["wolverine-storylines", "warcraft-iii-heroes"]
+    "tags": [
+      "Batman",
+      "Telltale",
+      "DC Comics",
+      "Character studies",
+      "Absolute Batman"
+    ],
+    "related": [
+      "wolverine-storylines",
+      "warcraft-iii-heroes"
+    ]
   },
   {
     "slug": "halo-starting-over",
     "type": "Long read",
-    "tags": ["Halo", "Xbox", "Game design", "Opinion"],
-    "related": ["mass-effect-revisited", "telltales-batman-reinvention"]
+    "tags": [
+      "Halo",
+      "Xbox",
+      "Game design",
+      "Opinion"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "telltales-batman-reinvention"
+    ]
   },
   {
     "slug": "mass-effect-revisited",
     "type": "Long read",
-    "tags": ["Mass Effect", "BioWare", "RPGs", "Retrospectives"],
-    "related": ["halo-starting-over", "vampires-in-gaming"]
+    "tags": [
+      "Mass Effect",
+      "BioWare",
+      "RPGs",
+      "Retrospectives"
+    ],
+    "related": [
+      "halo-starting-over",
+      "vampires-in-gaming"
+    ]
   },
   {
     "slug": "warcraft-iii-heroes",
     "type": "Long read",
-    "tags": ["Warcraft III", "Blizzard", "Strategy games", "Character studies"],
-    "related": ["replay-warcraft-iii-campaigns", "telltales-batman-reinvention"]
+    "tags": [
+      "Warcraft III",
+      "Blizzard",
+      "Strategy games",
+      "Character studies"
+    ],
+    "related": [
+      "replay-warcraft-iii-campaigns",
+      "telltales-batman-reinvention"
+    ]
   },
   {
     "slug": "replay-warcraft-iii-campaigns",
     "type": "Long read",
-    "tags": ["Warcraft III", "Blizzard", "Strategy games", "Retrospectives"],
-    "related": ["warcraft-iii-heroes", "mass-effect-revisited"]
+    "tags": [
+      "Warcraft III",
+      "Blizzard",
+      "Strategy games",
+      "Retrospectives"
+    ],
+    "related": [
+      "warcraft-iii-heroes",
+      "mass-effect-revisited"
+    ]
   },
   {
     "slug": "vampires-in-gaming",
     "type": "List",
-    "tags": ["Vampires", "Games", "RPGs", "Lists"],
-    "related": ["mass-effect-revisited", "wolverine-storylines"]
+    "tags": [
+      "Vampires",
+      "Games",
+      "RPGs",
+      "Lists"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "wolverine-storylines"
+    ]
   },
   {
     "slug": "wolverine-storylines",
     "type": "List",
-    "tags": ["Wolverine", "Marvel Comics", "Games", "Lists"],
-    "related": ["telltales-batman-reinvention", "vampires-in-gaming"]
+    "tags": [
+      "Wolverine",
+      "Marvel Comics",
+      "Games",
+      "Lists"
+    ],
+    "related": [
+      "telltales-batman-reinvention",
+      "vampires-in-gaming"
+    ]
   },
   {
     "slug": "best-j2me-games",
     "type": "List",
-    "tags": ["J2ME", "Mobile gaming", "Retro games", "Gameloft", "Lists"],
-    "related": ["j2me-mobile-gaming-history", "underrated-nes-games"]
+    "tags": [
+      "J2ME",
+      "Mobile gaming",
+      "Retro games",
+      "Gameloft",
+      "Lists"
+    ],
+    "related": [
+      "j2me-mobile-gaming-history",
+      "underrated-nes-games"
+    ]
   },
   {
     "slug": "j2me-mobile-gaming-history",
     "type": "List",
-    "tags": ["J2ME", "Mobile gaming", "Gaming history", "Retro games", "Lists"],
-    "related": ["best-j2me-games", "consoles-deserved-better"]
+    "tags": [
+      "J2ME",
+      "Mobile gaming",
+      "Gaming history",
+      "Retro games",
+      "Lists"
+    ],
+    "related": [
+      "best-j2me-games",
+      "consoles-deserved-better"
+    ]
   },
   {
     "slug": "underrated-nes-games",
     "type": "List",
-    "tags": ["NES", "Nintendo", "Retro games", "Lists"],
-    "related": ["consoles-deserved-better", "best-j2me-games"]
+    "tags": [
+      "NES",
+      "Nintendo",
+      "Retro games",
+      "Lists"
+    ],
+    "related": [
+      "consoles-deserved-better",
+      "best-j2me-games"
+    ]
   },
   {
     "slug": "consoles-deserved-better",
     "type": "List",
-    "tags": ["Consoles", "Gaming history", "Sega", "Handhelds", "Lists"],
-    "related": ["underrated-nes-games", "j2me-mobile-gaming-history"]
+    "tags": [
+      "Consoles",
+      "Gaming history",
+      "Sega",
+      "Handhelds",
+      "Lists"
+    ],
+    "related": [
+      "underrated-nes-games",
+      "j2me-mobile-gaming-history"
+    ]
+  },
+  {
+    "slug": "cancelled-games-masterpieces",
+    "type": "List",
+    "tags": [
+      "Cancelled games",
+      "Gaming history",
+      "Star Wars",
+      "Fable",
+      "Silent Hill",
+      "Lists"
+    ],
+    "related": [
+      "consoles-deserved-better",
+      "underrated-nes-games"
+    ]
   }
 ]
