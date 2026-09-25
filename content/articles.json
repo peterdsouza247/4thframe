@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "telltales-batman-reinvention",
+    "type": "Long read",
+    "tags": ["Batman", "Telltale", "DC Comics", "Character studies", "Absolute Batman"],
+    "related": ["wolverine-storylines", "warcraft-iii-heroes"]
+  },
+  {
+    "slug": "halo-starting-over",
+    "type": "Long read",
+    "tags": ["Halo", "Xbox", "Game design", "Opinion"],
+    "related": ["mass-effect-revisited", "telltales-batman-reinvention"]
+  },
+  {
+    "slug": "mass-effect-revisited",
+    "type": "Long read",
+    "tags": ["Mass Effect", "BioWare", "RPGs", "Retrospectives"],
+    "related": ["halo-starting-over", "vampires-in-gaming"]
+  },
+  {
+    "slug": "warcraft-iii-heroes",
+    "type": "Long read",
+    "tags": ["Warcraft III", "Blizzard", "Strategy games", "Character studies"],
+    "related": ["replay-warcraft-iii-campaigns", "telltales-batman-reinvention"]
+  },
+  {
+    "slug": "replay-warcraft-iii-campaigns",
+    "type": "Long read",
+    "tags": ["Warcraft III", "Blizzard", "Strategy games", "Retrospectives"],
+    "related": ["warcraft-iii-heroes", "mass-effect-revisited"]
+  },
+  {
+    "slug": "vampires-in-gaming",
+    "type": "List",
+    "tags": ["Vampires", "Games", "RPGs", "Lists"],
+    "related": ["mass-effect-revisited", "wolverine-storylines"]
+  },
+  {
+    "slug": "wolverine-storylines",
+    "type": "List",
+    "tags": ["Wolverine", "Marvel Comics", "Games", "Lists"],
+    "related": ["telltales-batman-reinvention", "vampires-in-gaming"]
+  }
+]
