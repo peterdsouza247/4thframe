@@ -1,6 +1,6 @@
 # Fourth Frame
 
-A dependency-free editorial portfolio for GitHub Pages. The homepage groups five long reads and two lists. The Halo, Mass Effect, Warcraft and Batman articles are editable drafts; review their wording, first-person recollections and factual claims before presenting them as final published pieces.
+A dependency-free editorial portfolio for GitHub Pages. The homepage groups five long reads and six lists. Articles are editable drafts; review their wording, first-person recollections and factual claims before presenting them as final published pieces.
 
 ## Repository and Pages
 
@@ -19,6 +19,10 @@ No build step is needed. The committed `.nojekyll` file tells Pages to serve the
 - Telltale Batman article: `stories/telltales-batman-reinvention/index.html`
 - Vampire list: `stories/vampires-in-gaming/index.html`
 - Wolverine list: `stories/wolverine-storylines/index.html`
+- J2ME games list: `stories/best-j2me-games/index.html`
+- J2ME history list: `stories/j2me-mobile-gaming-history/index.html`
+- NES games list: `stories/underrated-nes-games/index.html`
+- Consoles list: `stories/consoles-deserved-better/index.html`
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
 - Article tags and related-story links: `content/articles.json`

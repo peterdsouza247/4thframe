@@ -40,5 +40,29 @@
     "type": "List",
     "tags": ["Wolverine", "Marvel Comics", "Games", "Lists"],
     "related": ["telltales-batman-reinvention", "vampires-in-gaming"]
+  },
+  {
+    "slug": "best-j2me-games",
+    "type": "List",
+    "tags": ["J2ME", "Mobile gaming", "Retro games", "Gameloft", "Lists"],
+    "related": ["j2me-mobile-gaming-history", "underrated-nes-games"]
+  },
+  {
+    "slug": "j2me-mobile-gaming-history",
+    "type": "List",
+    "tags": ["J2ME", "Mobile gaming", "Gaming history", "Retro games", "Lists"],
+    "related": ["best-j2me-games", "consoles-deserved-better"]
+  },
+  {
+    "slug": "underrated-nes-games",
+    "type": "List",
+    "tags": ["NES", "Nintendo", "Retro games", "Lists"],
+    "related": ["consoles-deserved-better", "best-j2me-games"]
+  },
+  {
+    "slug": "consoles-deserved-better",
+    "type": "List",
+    "tags": ["Consoles", "Gaming history", "Sega", "Handhelds", "Lists"],
+    "related": ["underrated-nes-games", "j2me-mobile-gaming-history"]
   }
 ]
