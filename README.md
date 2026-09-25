@@ -24,4 +24,4 @@ No build step is needed. The committed `.nojekyll` file tells Pages to serve the
 
 To add an article, create a `stories/<slug>/index.html` page and link its card in the matching Long reads or Lists section of `index.html`. Give each page a unique `<title>`, description, H1, canonical URL, Open Graph fields, byline, useful headings, and accurate Article structured data. Add its URL to `sitemap.xml`. Add publication and modification dates only when they are known.
 
-The site uses a typographic identity and CSS treatment; it currently has no licensed game imagery or social preview image. Add rights-cleared artwork and `og:image` later if desired.
+The site uses a magazine-inspired masthead, warm paper and ink palette, and original CSS illustrations for its story covers. It currently has no licensed game imagery or social preview image. Add rights-cleared artwork and `og:image` later if desired.
