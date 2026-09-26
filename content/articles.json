@@ -172,5 +172,50 @@
       "consoles-deserved-better",
       "underrated-nes-games"
     ]
+  },
+  {
+    "slug": "when-the-world-stopped-being-the-point",
+    "type": "Long read",
+    "tags": [
+      "World of Warcraft",
+      "WoW: Forever",
+      "MMOs",
+      "Game design",
+      "Blizzard"
+    ],
+    "related": [
+      "mmos-that-transported-us",
+      "warcraft-iii-heroes"
+    ]
+  },
+  {
+    "slug": "what-made-elden-ring-great",
+    "type": "Long read",
+    "tags": [
+      "Elden Ring",
+      "FromSoftware",
+      "Open worlds",
+      "Game design",
+      "RPGs"
+    ],
+    "related": [
+      "when-the-world-stopped-being-the-point",
+      "halo-starting-over"
+    ]
+  },
+  {
+    "slug": "mmos-that-transported-us",
+    "type": "List",
+    "tags": [
+      "MMOs",
+      "Gaming history",
+      "World of Warcraft",
+      "Online worlds",
+      "Lists"
+    ],
+    "related": [
+      "when-the-world-stopped-being-the-point",
+      "j2me-mobile-gaming-history"
+    ]
   }
 ]

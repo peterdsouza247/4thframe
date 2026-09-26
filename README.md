@@ -1,6 +1,6 @@
 # Fourth Frame
 
-A dependency-free editorial portfolio for GitHub Pages. The homepage groups five long reads and seven lists. Articles are editable drafts; review their wording, first-person recollections and factual claims before presenting them as final published pieces.
+A dependency-free editorial portfolio for GitHub Pages. The homepage groups seven long reads and eight lists. Articles are editable drafts; review their wording, first-person recollections and factual claims before presenting them as final published pieces.
 
 ## Repository and Pages
 
@@ -24,6 +24,9 @@ No build step is needed. The committed `.nojekyll` file tells Pages to serve the
 - NES games list: `stories/underrated-nes-games/index.html`
 - Consoles list: `stories/consoles-deserved-better/index.html`
 - Cancelled games list: `stories/cancelled-games-masterpieces/index.html`
+- WoW: Forever essay: `stories/when-the-world-stopped-being-the-point/index.html`
+- Elden Ring essay: `stories/what-made-elden-ring-great/index.html`
+- MMO worlds list: `stories/mmos-that-transported-us/index.html`
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
 - Article tags and related-story links: `content/articles.json`
