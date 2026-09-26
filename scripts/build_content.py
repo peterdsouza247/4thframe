@@ -65,6 +65,8 @@ for entry in CONFIG:
         f'<meta name="twitter:description" content="{escape(description, quote=True)}">',
     ]
     extras += [f'<meta property="article:tag" content="{escape(tag, quote=True)}">' for tag in entry["tags"]]
+    if entry.get("published"):
+        extras.append(f'<meta property="article:published_time" content="{entry["published"]}">')
     extras.append('<!-- site-meta:end -->')
     html = html.replace("</head>", "\n  " + "\n  ".join(extras) + "\n</head>", 1)
 
@@ -80,6 +82,8 @@ for entry in CONFIG:
         "author": {"@type": "Person", "name": "Peter D’Souza", "url": "https://peterdsouza247.github.io/4thframe/#about"},
         "publisher": {"@type": "Organization", "name": "Fourth Frame", "url": "https://peterdsouza247.github.io/4thframe/"}
     }
+    if entry.get("published"):
+        schema["datePublished"] = entry["published"]
     replacement = '<script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False).replace("<", "\\u003c") + "</script>"
     html, count = re.subn(r'<script type="application/ld\+json">.*?</script>', lambda _: replacement, html, count=1, flags=re.S)
     assert count == 1, f"Missing Article JSON-LD: {slug}"
