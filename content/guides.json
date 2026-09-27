@@ -1,0 +1,1848 @@
+[
+  {
+    "name": "Tony Stark / Iron Man",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Iron Man",
+      "Iron Man 2",
+      "The Avengers",
+      "Iron Man 3",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Spider-Man: Homecoming",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ],
+    "extras": [
+      "The Incredible Hulk (Tony cameo only)",
+      "Spider-Man: Far From Home (his legacy through Peter)",
+      "Black Widow (consequences of Civil War, little Tony)."
+    ],
+    "core_text": "Iron Man → Iron Man 2 → The Avengers → Iron Man 3 → Avengers: Age of Ultron → Captain America: Civil War → Spider-Man: Homecoming → Avengers: Infinity War → Avengers: Endgame",
+    "extras_text": "The Incredible Hulk (Tony cameo only); Spider-Man: Far From Home (his legacy through Peter); Black Widow (consequences of Civil War, little Tony)."
+  },
+  {
+    "name": "Steve Rogers / Captain America",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain America: The First Avenger",
+      "The Avengers",
+      "Captain America: The Winter Soldier",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ],
+    "extras": [
+      "Ant-Man (post-credit setup)",
+      "Spider-Man: Homecoming (comic cameos)",
+      "The Falcon and the Winter Soldier (what his choice leaves behind)."
+    ],
+    "core_text": "Captain America: The First Avenger → The Avengers → Captain America: The Winter Soldier → Avengers: Age of Ultron → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame",
+    "extras_text": "Ant-Man (post-credit setup); Spider-Man: Homecoming (comic cameos); The Falcon and the Winter Soldier (what his choice leaves behind)."
+  },
+  {
+    "name": "Thor",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Thor",
+      "The Avengers",
+      "Thor: The Dark World",
+      "Avengers: Age of Ultron",
+      "Thor: Ragnarok",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Thor: Love and Thunder"
+    ],
+    "extras": [
+      "Guardians of the Galaxy (introduces allies before their meeting)",
+      "Loki S1–2 (a different Loki, for their shared history rather than a Thor appearance)."
+    ],
+    "core_text": "Thor → The Avengers → Thor: The Dark World → Avengers: Age of Ultron → Thor: Ragnarok → Avengers: Infinity War → Avengers: Endgame → Thor: Love and Thunder",
+    "extras_text": "Guardians of the Galaxy (introduces allies before their meeting); Loki S1–2 (a different Loki, for their shared history rather than a Thor appearance)."
+  },
+  {
+    "name": "Bruce Banner / Hulk",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "The Incredible Hulk",
+      "The Avengers",
+      "Avengers: Age of Ultron",
+      "Thor: Ragnarok",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "She-Hulk: Attorney at Law (especially episodes 1, 2 and finale)"
+    ],
+    "extras": [
+      "Iron Man 3 (brief comic tag)",
+      "Shang-Chi and the Legend of the Ten Rings (tag clarifies his post-Endgame state)."
+    ],
+    "core_text": "The Incredible Hulk → The Avengers → Avengers: Age of Ultron → Thor: Ragnarok → Avengers: Infinity War → Avengers: Endgame → She-Hulk: Attorney at Law (especially episodes 1, 2 and finale)",
+    "extras_text": "Iron Man 3 (brief comic tag); Shang-Chi and the Legend of the Ten Rings (tag clarifies his post-Endgame state)."
+  },
+  {
+    "name": "Natasha Romanoff / Black Widow",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Iron Man 2",
+      "The Avengers",
+      "Captain America: The Winter Soldier",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Black Widow",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ],
+    "extras": [
+      "Hawkeye (her legacy through Yelena and Clint). Black Widow is set after Civil War",
+      "its credits scene points beyond Endgame, so save it until after Endgame if avoiding that reveal."
+    ],
+    "core_text": "Iron Man 2 → The Avengers → Captain America: The Winter Soldier → Avengers: Age of Ultron → Captain America: Civil War → Black Widow → Avengers: Infinity War → Avengers: Endgame",
+    "extras_text": "Hawkeye (her legacy through Yelena and Clint). Black Widow is set after Civil War; its credits scene points beyond Endgame, so save it until after Endgame if avoiding that reveal."
+  },
+  {
+    "name": "Clint Barton / Hawkeye",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Thor (brief introduction)",
+      "The Avengers",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Avengers: Endgame",
+      "Hawkeye"
+    ],
+    "extras": [
+      "Black Widow (Natasha's family and Yelena's motivation",
+      "its credits scene leads into Hawkeye). Skip Thor if you only want substantial roles."
+    ],
+    "core_text": "Thor (brief introduction) → The Avengers → Avengers: Age of Ultron → Captain America: Civil War → Avengers: Endgame → Hawkeye",
+    "extras_text": "Black Widow (Natasha's family and Yelena's motivation; its credits scene leads into Hawkeye). Skip Thor if you only want substantial roles."
+  },
+  {
+    "name": "Sam Wilson / Captain America",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain America: The Winter Soldier",
+      "Avengers: Age of Ultron (brief)",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "The Falcon and the Winter Soldier",
+      "Captain America: Brave New World"
+    ],
+    "extras": [
+      "Ant-Man (fight and recruitment link)",
+      "The Incredible Hulk (the Ross/Sterns history behind Brave New World)."
+    ],
+    "core_text": "Captain America: The Winter Soldier → Avengers: Age of Ultron (brief) → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → The Falcon and the Winter Soldier → Captain America: Brave New World",
+    "extras_text": "Ant-Man (fight and recruitment link); The Incredible Hulk (the Ross/Sterns history behind Brave New World)."
+  },
+  {
+    "name": "Bucky Barnes / Winter Soldier",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain America: The First Avenger",
+      "Captain America: The Winter Soldier",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "The Falcon and the Winter Soldier",
+      "Thunderbolts\\ / The New Avengers"
+    ],
+    "extras": [
+      "Black Panther (Wakandan context)",
+      "Black Panther: Wakanda Forever (Wakanda's wider place, little direct Bucky story)."
+    ],
+    "core_text": "Captain America: The First Avenger → Captain America: The Winter Soldier → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → The Falcon and the Winter Soldier → Thunderbolts\\ / The New Avengers",
+    "extras_text": "Black Panther (Wakandan context); Black Panther: Wakanda Forever (Wakanda's wider place, little direct Bucky story)."
+  },
+  {
+    "name": "Wanda Maximoff / Scarlet Witch",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "WandaVision",
+      "Doctor Strange in the Multiverse of Madness"
+    ],
+    "extras": [
+      "Agatha All Along (aftermath of Wanda's spell and her family, mostly through others)."
+    ],
+    "core_text": "Avengers: Age of Ultron → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → WandaVision → Doctor Strange in the Multiverse of Madness",
+    "extras_text": "Agatha All Along (aftermath of Wanda's spell and her family, mostly through others)."
+  },
+  {
+    "name": "Vision",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "WandaVision"
+    ],
+    "extras": [
+      "Avengers: Endgame (understanding the world after the Blip",
+      "no substantial Vision role)",
+      "Agatha All Along (Wanda-family ramifications). His story remains open as of this edition."
+    ],
+    "core_text": "Avengers: Age of Ultron → Captain America: Civil War → Avengers: Infinity War → WandaVision",
+    "extras_text": "Avengers: Endgame (understanding the world after the Blip; no substantial Vision role); Agatha All Along (Wanda-family ramifications). His story remains open as of this edition."
+  },
+  {
+    "name": "Pietro Maximoff",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Avengers: Age of Ultron"
+    ],
+    "extras": [
+      "WandaVision (grief and an identity mystery",
+      "the visitor is not a straightforward continuation of Pietro). A short, completed film arc."
+    ],
+    "core_text": "Avengers: Age of Ultron",
+    "extras_text": "WandaVision (grief and an identity mystery; the visitor is not a straightforward continuation of Pietro). A short, completed film arc."
+  },
+  {
+    "name": "James Rhodes / War Machine",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Iron Man",
+      "Iron Man 2",
+      "Iron Man 3",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Secret Invasion"
+    ],
+    "extras": [
+      "The Falcon and the Winter Soldier episode 1 (brief discussion of Steve's shield). Secret Invasion complicates the precise timing of Rhodes's earlier appearances",
+      "do not retroactively assume an exact substitution point."
+    ],
+    "core_text": "Iron Man → Iron Man 2 → Iron Man 3 → Avengers: Age of Ultron → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → Secret Invasion",
+    "extras_text": "The Falcon and the Winter Soldier episode 1 (brief discussion of Steve's shield). Secret Invasion complicates the precise timing of Rhodes's earlier appearances; do not retroactively assume an exact substitution point."
+  },
+  {
+    "name": "Peter Parker / MCU Spider-Man",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain America: Civil War",
+      "Spider-Man: Homecoming",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Spider-Man: Far From Home",
+      "Spider-Man: No Way Home",
+      "Spider-Man: Brand New Day (2026)"
+    ],
+    "extras": [
+      "Iron Man and Iron Man 2 (Tony context)",
+      "Raimi's Spider-Man trilogy and Webb's Amazing Spider-Man pair (give crossover visitors their full histories before No Way Home, but are separate universes)",
+      "Daredevil: Born Again (street-level context, not a prerequisite)."
+    ],
+    "core_text": "Captain America: Civil War → Spider-Man: Homecoming → Avengers: Infinity War → Avengers: Endgame → Spider-Man: Far From Home → Spider-Man: No Way Home → Spider-Man: Brand New Day (2026)",
+    "extras_text": "Iron Man and Iron Man 2 (Tony context); Raimi's Spider-Man trilogy and Webb's Amazing Spider-Man pair (give crossover visitors their full histories before No Way Home, but are separate universes); Daredevil: Born Again (street-level context, not a prerequisite)."
+  },
+  {
+    "name": "Doctor Strange",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Doctor Strange",
+      "Thor: Ragnarok (small connective appearance)",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Spider-Man: No Way Home",
+      "Doctor Strange in the Multiverse of Madness"
+    ],
+    "extras": [
+      "WandaVision (strongly recommended to understand Wanda's state)",
+      "What If…? S1 episode 4 (a distinct Strange variant)."
+    ],
+    "core_text": "Doctor Strange → Thor: Ragnarok (small connective appearance) → Avengers: Infinity War → Avengers: Endgame → Spider-Man: No Way Home → Doctor Strange in the Multiverse of Madness",
+    "extras_text": "WandaVision (strongly recommended to understand Wanda's state); What If…? S1 episode 4 (a distinct Strange variant)."
+  },
+  {
+    "name": "Wong",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Doctor Strange",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Shang-Chi and the Legend of the Ten Rings (including tag)",
+      "Spider-Man: No Way Home",
+      "Doctor Strange in the Multiverse of Madness",
+      "She-Hulk: Attorney at Law (episodes with Wong)"
+    ],
+    "extras": [
+      "The Abomination thread from The Incredible Hulk adds context to Shang-Chi and She-Hulk."
+    ],
+    "core_text": "Doctor Strange → Avengers: Infinity War → Avengers: Endgame → Shang-Chi and the Legend of the Ten Rings (including tag) → Spider-Man: No Way Home → Doctor Strange in the Multiverse of Madness → She-Hulk: Attorney at Law (episodes with Wong)",
+    "extras_text": "The Abomination thread from The Incredible Hulk adds context to Shang-Chi and She-Hulk."
+  },
+  {
+    "name": "Matt Murdock / Daredevil",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Daredevil S1",
+      "Daredevil S2",
+      "The Defenders",
+      "Daredevil S3",
+      "Spider-Man: No Way Home (cameo)",
+      "She-Hulk: Attorney at Law episode 8",
+      "Daredevil: Born Again S1",
+      "S2"
+    ],
+    "extras": [
+      "The Punisher S1 (Frank's own arc)",
+      "Echo (Fisk and the street-level setting). The Defenders bridges a major cliffhanger between Daredevil S2 and S3."
+    ],
+    "core_text": "Daredevil S1 → Daredevil S2 → The Defenders → Daredevil S3 → Spider-Man: No Way Home (cameo) → She-Hulk: Attorney at Law episode 8 → Daredevil: Born Again S1 → S2",
+    "extras_text": "The Punisher S1 (Frank's own arc); Echo (Fisk and the street-level setting). The Defenders bridges a major cliffhanger between Daredevil S2 and S3."
+  },
+  {
+    "name": "Wilson Fisk / Kingpin",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Daredevil S1–3",
+      "Hawkeye",
+      "Echo",
+      "Daredevil: Born Again S1–2"
+    ],
+    "extras": [
+      "The Defenders (Matt's intervening story, little Fisk)",
+      "Spider-Man: No Way Home (Matt cameo only)."
+    ],
+    "core_text": "Daredevil S1–3 → Hawkeye → Echo → Daredevil: Born Again S1–2",
+    "extras_text": "The Defenders (Matt's intervening story, little Fisk); Spider-Man: No Way Home (Matt cameo only)."
+  },
+  {
+    "name": "Jessica Jones",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Jessica Jones S1",
+      "The Defenders",
+      "Jessica Jones S2–3",
+      "Daredevil: Born Again S2"
+    ],
+    "extras": [
+      "Luke Cage S1 (Luke's side after their relationship). Her three seasons contain the main personal arc",
+      "The Defenders supplies the team interval."
+    ],
+    "core_text": "Jessica Jones S1 → The Defenders → Jessica Jones S2–3 → Daredevil: Born Again S2",
+    "extras_text": "Luke Cage S1 (Luke's side after their relationship). Her three seasons contain the main personal arc; The Defenders supplies the team interval."
+  },
+  {
+    "name": "Luke Cage",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Jessica Jones S1",
+      "Luke Cage S1",
+      "The Defenders",
+      "Luke Cage S2"
+    ],
+    "extras": [
+      "Iron Fist S2 (crossover)",
+      "Jessica Jones S3 (brief connective appearance)."
+    ],
+    "core_text": "Jessica Jones S1 → Luke Cage S1 → The Defenders → Luke Cage S2",
+    "extras_text": "Iron Fist S2 (crossover); Jessica Jones S3 (brief connective appearance)."
+  },
+  {
+    "name": "Danny Rand / Iron Fist",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Iron Fist S1",
+      "The Defenders",
+      "Luke Cage S2 (crossover)",
+      "Iron Fist S2"
+    ],
+    "extras": [
+      "Daredevil S2 (the Hand as an antagonist before The Defenders). His on-screen ending is open."
+    ],
+    "core_text": "Iron Fist S1 → The Defenders → Luke Cage S2 (crossover) → Iron Fist S2",
+    "extras_text": "Daredevil S2 (the Hand as an antagonist before The Defenders). His on-screen ending is open."
+  },
+  {
+    "name": "Frank Castle / Punisher",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Daredevil S2",
+      "The Punisher S1–2",
+      "Daredevil: Born Again S1",
+      "The Punisher: One Last Kill (2026 special)"
+    ],
+    "extras": [
+      "Daredevil: Born Again S2 (wider aftermath if following Matt and Fisk)."
+    ],
+    "core_text": "Daredevil S2 → The Punisher S1–2 → Daredevil: Born Again S1 → The Punisher: One Last Kill (2026 special)",
+    "extras_text": "Daredevil: Born Again S2 (wider aftermath if following Matt and Fisk)."
+  },
+  {
+    "name": "Maya Lopez / Echo",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Hawkeye",
+      "Echo"
+    ],
+    "extras": [
+      "Daredevil S1–3 (Fisk's earlier character history)",
+      "Daredevil: Born Again (Fisk's later political story)."
+    ],
+    "core_text": "Hawkeye → Echo",
+    "extras_text": "Daredevil S1–3 (Fisk's earlier character history); Daredevil: Born Again (Fisk's later political story)."
+  },
+  {
+    "name": "Kate Bishop",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Hawkeye",
+      "The Marvels (final scene)"
+    ],
+    "extras": [
+      "Black Widow (Yelena's family",
+      "helps their Hawkeye scenes)",
+      "Avengers: Endgame (Clint's grief)."
+    ],
+    "core_text": "Hawkeye → The Marvels (final scene)",
+    "extras_text": "Black Widow (Yelena's family; helps their Hawkeye scenes); Avengers: Endgame (Clint's grief)."
+  },
+  {
+    "name": "Kamala Khan / Ms. Marvel",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Ms. Marvel",
+      "The Marvels"
+    ],
+    "extras": [
+      "Captain Marvel (Carol's history and Kamala's hero worship)",
+      "WandaVision (Monica's background)."
+    ],
+    "core_text": "Ms. Marvel → The Marvels",
+    "extras_text": "Captain Marvel (Carol's history and Kamala's hero worship); WandaVision (Monica's background)."
+  },
+  {
+    "name": "Jennifer Walters / She-Hulk",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "She-Hulk: Attorney at Law"
+    ],
+    "extras": [
+      "The Incredible Hulk and Avengers: Endgame (Bruce)",
+      "Shang-Chi (Abomination/Wong thread)",
+      "Daredevil S1–3 (Matt). Her season is a coherent self-contained path."
+    ],
+    "core_text": "She-Hulk: Attorney at Law",
+    "extras_text": "The Incredible Hulk and Avengers: Endgame (Bruce); Shang-Chi (Abomination/Wong thread); Daredevil S1–3 (Matt). Her season is a coherent self-contained path."
+  },
+  {
+    "name": "Marc Spector / Steven Grant / Moon Knight",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Moon Knight"
+    ],
+    "extras": [
+      "None required. A self-contained season with an open future."
+    ],
+    "core_text": "Moon Knight",
+    "extras_text": "None required. A self-contained season with an open future."
+  },
+  {
+    "name": "Simon Williams / Wonder Man",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Wonder Man S1"
+    ],
+    "extras": [
+      "Shang-Chi and the Legend of the Ten Rings (Trevor Slattery's earlier reappearance)",
+      "Iron Man 3 (Trevor's introduction)."
+    ],
+    "core_text": "Wonder Man S1",
+    "extras_text": "Shang-Chi and the Legend of the Ten Rings (Trevor Slattery's earlier reappearance); Iron Man 3 (Trevor's introduction)."
+  },
+  {
+    "name": "Agatha Harkness / Billy Maximoff",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "WandaVision",
+      "Agatha All Along"
+    ],
+    "extras": [
+      "Avengers: Infinity War and Endgame (Wanda's losses)",
+      "Doctor Strange in the Multiverse of Madness (Wanda's intervening story)."
+    ],
+    "core_text": "WandaVision → Agatha All Along",
+    "extras_text": "Avengers: Infinity War and Endgame (Wanda's losses); Doctor Strange in the Multiverse of Madness (Wanda's intervening story)."
+  },
+  {
+    "name": "T'Challa / Black Panther",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain America: Civil War",
+      "Black Panther",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ],
+    "extras": [
+      "Black Panther: Wakanda Forever (his legacy and the nation's response",
+      "central if following Wakanda)."
+    ],
+    "core_text": "Captain America: Civil War → Black Panther → Avengers: Infinity War → Avengers: Endgame",
+    "extras_text": "Black Panther: Wakanda Forever (his legacy and the nation's response; central if following Wakanda)."
+  },
+  {
+    "name": "Shuri / Wakanda",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Black Panther",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Black Panther: Wakanda Forever"
+    ],
+    "extras": [
+      "Ironheart (Riri's next chapter after Wakanda)",
+      "The Falcon and the Winter Soldier (Ayo and Dora Milaje)."
+    ],
+    "core_text": "Black Panther → Avengers: Infinity War → Avengers: Endgame → Black Panther: Wakanda Forever",
+    "extras_text": "Ironheart (Riri's next chapter after Wakanda); The Falcon and the Winter Soldier (Ayo and Dora Milaje)."
+  },
+  {
+    "name": "Riri Williams / Ironheart",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Black Panther: Wakanda Forever",
+      "Ironheart"
+    ],
+    "extras": [
+      "Iron Man (Tony's inspiration, no direct connection)."
+    ],
+    "core_text": "Black Panther: Wakanda Forever → Ironheart",
+    "extras_text": "Iron Man (Tony's inspiration, no direct connection)."
+  },
+  {
+    "name": "Carol Danvers / Captain Marvel",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain Marvel",
+      "Avengers: Endgame",
+      "Ms. Marvel (tag)",
+      "The Marvels"
+    ],
+    "extras": [
+      "Shang-Chi (tag about the Ten Rings)",
+      "Secret Invasion (the Skrull consequences of Carol's old promise)."
+    ],
+    "core_text": "Captain Marvel → Avengers: Endgame → Ms. Marvel (tag) → The Marvels",
+    "extras_text": "Shang-Chi (tag about the Ten Rings); Secret Invasion (the Skrull consequences of Carol's old promise)."
+  },
+  {
+    "name": "Monica Rambeau",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Captain Marvel",
+      "WandaVision",
+      "The Marvels"
+    ],
+    "extras": [
+      "X-Men films (recognizing a multiverse connection, not MCU continuity)."
+    ],
+    "core_text": "Captain Marvel → WandaVision → The Marvels",
+    "extras_text": "X-Men films (recognizing a multiverse connection, not MCU continuity)."
+  },
+  {
+    "name": "Nick Fury and the Skrulls",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Iron Man (tag)",
+      "The Avengers",
+      "Captain America: The Winter Soldier",
+      "Captain Marvel",
+      "Spider-Man: Far From Home",
+      "Secret Invasion",
+      "The Marvels"
+    ],
+    "extras": [
+      "Agents of S.H.I.E.L.D. (expansive adjacent TV history, with continuity complexities)",
+      "Avengers: Age of Ultron (Fury's return)",
+      "Avengers: Infinity War (tag)."
+    ],
+    "core_text": "Iron Man (tag) → The Avengers → Captain America: The Winter Soldier → Captain Marvel → Spider-Man: Far From Home → Secret Invasion → The Marvels",
+    "extras_text": "Agents of S.H.I.E.L.D. (expansive adjacent TV history, with continuity complexities); Avengers: Age of Ultron (Fury's return); Avengers: Infinity War (tag)."
+  },
+  {
+    "name": "Scott Lang / Ant-Man",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Ant-Man",
+      "Captain America: Civil War",
+      "Ant-Man and the Wasp",
+      "Avengers: Endgame",
+      "Ant-Man and the Wasp: Quantumania"
+    ],
+    "extras": [
+      "The Falcon and the Winter Soldier (post-Endgame world)",
+      "Loki S1–2 (multiverse stakes, not Scott's arc). Watch the Ant-Man and the Wasp credits after Infinity War if avoiding its crossover reveal."
+    ],
+    "core_text": "Ant-Man → Captain America: Civil War → Ant-Man and the Wasp → Avengers: Endgame → Ant-Man and the Wasp: Quantumania",
+    "extras_text": "The Falcon and the Winter Soldier (post-Endgame world); Loki S1–2 (multiverse stakes, not Scott's arc). Watch the Ant-Man and the Wasp credits after Infinity War if avoiding its crossover reveal."
+  },
+  {
+    "name": "Hope van Dyne / Wasp",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Ant-Man",
+      "Ant-Man and the Wasp",
+      "Avengers: Endgame",
+      "Ant-Man and the Wasp: Quantumania"
+    ],
+    "extras": [
+      "Captain America: Civil War (Scott's detour)",
+      "What If…? (alternate versions)."
+    ],
+    "core_text": "Ant-Man → Ant-Man and the Wasp → Avengers: Endgame → Ant-Man and the Wasp: Quantumania",
+    "extras_text": "Captain America: Civil War (Scott's detour); What If…? (alternate versions)."
+  },
+  {
+    "name": "Loki (mainline and 2012 variant)",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Thor",
+      "The Avengers",
+      "Thor: The Dark World",
+      "Thor: Ragnarok",
+      "Avengers: Infinity War",
+      "Avengers: Endgame (2012 escape)",
+      "Loki S1–2"
+    ],
+    "extras": [
+      "What If…? (alternate possibilities). Important: the series follows a branch created in Endgame, not a resurrection of the Loki from Infinity War."
+    ],
+    "core_text": "Thor → The Avengers → Thor: The Dark World → Thor: Ragnarok → Avengers: Infinity War → Avengers: Endgame (2012 escape) → Loki S1–2",
+    "extras_text": "What If…? (alternate possibilities). Important: the series follows a branch created in Endgame, not a resurrection of the Loki from Infinity War."
+  },
+  {
+    "name": "Guardians: Peter Quill / Gamora / Rocket / Groot / Drax / Nebula",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Guardians of the Galaxy",
+      "Guardians of the Galaxy Vol. 2",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Thor: Love and Thunder (opening handoff)",
+      "The Guardians of the Galaxy Holiday Special",
+      "Guardians of the Galaxy Vol. 3"
+    ],
+    "extras": [
+      "I Am Groot (light Groot shorts)",
+      "Captain Marvel (cosmic background, no direct team link). For Gamora, Endgame changes which version appears in Vol. 3."
+    ],
+    "core_text": "Guardians of the Galaxy → Guardians of the Galaxy Vol. 2 → Avengers: Infinity War → Avengers: Endgame → Thor: Love and Thunder (opening handoff) → The Guardians of the Galaxy Holiday Special → Guardians of the Galaxy Vol. 3",
+    "extras_text": "I Am Groot (light Groot shorts); Captain Marvel (cosmic background, no direct team link). For Gamora, Endgame changes which version appears in Vol. 3."
+  },
+  {
+    "name": "Yelena Belova",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Black Widow",
+      "Hawkeye",
+      "Thunderbolts\\ / The New Avengers"
+    ],
+    "extras": [
+      "Avengers: Endgame (Natasha's fate)",
+      "The Falcon and the Winter Soldier (John Walker and Val's recruitment)."
+    ],
+    "core_text": "Black Widow → Hawkeye → Thunderbolts\\ / The New Avengers",
+    "extras_text": "Avengers: Endgame (Natasha's fate); The Falcon and the Winter Soldier (John Walker and Val's recruitment)."
+  },
+  {
+    "name": "John Walker / U.S. Agent",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "The Falcon and the Winter Soldier",
+      "Thunderbolts\\ / The New Avengers"
+    ],
+    "extras": [
+      "Captain America: The Winter Soldier and Civil War (the shield's history)."
+    ],
+    "core_text": "The Falcon and the Winter Soldier → Thunderbolts\\ / The New Avengers",
+    "extras_text": "Captain America: The Winter Soldier and Civil War (the shield's history)."
+  },
+  {
+    "name": "Ava Starr / Ghost",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Ant-Man and the Wasp",
+      "Thunderbolts\\ / The New Avengers"
+    ],
+    "extras": [
+      "Avengers: Endgame (the Blip context",
+      "no Ghost plot)."
+    ],
+    "core_text": "Ant-Man and the Wasp → Thunderbolts\\ / The New Avengers",
+    "extras_text": "Avengers: Endgame (the Blip context; no Ghost plot)."
+  },
+  {
+    "name": "Reed, Sue, Johnny, Ben / Fantastic Four",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "The Fantastic Four: First Steps (2025)"
+    ],
+    "extras": [
+      "Earlier Fantastic Four films are separate versions, useful only for comparison. Their MCU film is set in its own world",
+      "the team's larger crossover story remains open."
+    ],
+    "core_text": "The Fantastic Four: First Steps (2025)",
+    "extras_text": "Earlier Fantastic Four films are separate versions, useful only for comparison. Their MCU film is set in its own world; the team's larger crossover story remains open."
+  },
+  {
+    "name": "Shang-Chi and Xu Xialing",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Shang-Chi and the Legend of the Ten Rings (including both tags)"
+    ],
+    "extras": [
+      "Iron Man 3 and Marvel One-Shot: All Hail the King (Trevor and the Ten Rings retcon)",
+      "She-Hulk (Abomination's later situation)."
+    ],
+    "core_text": "Shang-Chi and the Legend of the Ten Rings (including both tags)",
+    "extras_text": "Iron Man 3 and Marvel One-Shot: All Hail the King (Trevor and the Ten Rings retcon); She-Hulk (Abomination's later situation)."
+  },
+  {
+    "name": "Eternals ensemble",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Eternals"
+    ],
+    "extras": [
+      "Avengers: Endgame (the Blip is background)",
+      "Captain America: Brave New World (later consequences of a world-changing event). The ensemble's individual stories remain open."
+    ],
+    "core_text": "Eternals",
+    "extras_text": "Avengers: Endgame (the Blip is background); Captain America: Brave New World (later consequences of a world-changing event). The ensemble's individual stories remain open."
+  },
+  {
+    "name": "Sentry / Bob Reynolds",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Thunderbolts\\ / The New Avengers"
+    ],
+    "extras": [
+      "The Falcon and the Winter Soldier, Black Widow, Ant-Man and the Wasp (team members' prior stories)."
+    ],
+    "core_text": "Thunderbolts\\ / The New Avengers",
+    "extras_text": "The Falcon and the Winter Soldier, Black Widow, Ant-Man and the Wasp (team members' prior stories)."
+  },
+  {
+    "name": "Wade Wilson / Deadpool and Logan",
+    "universe": "MCU",
+    "medium": "screen",
+    "core": [
+      "Deadpool",
+      "Deadpool 2",
+      "Logan",
+      "Deadpool & Wolverine"
+    ],
+    "extras": [
+      "X-Men (2000), X2, The Last Stand, The Wolverine, Days of Future Past (Logan's wider Fox history)",
+      "Loki S1 (TVA vocabulary). Logan and the Wolverine seen in Deadpool & Wolverine are not simply one uninterrupted personal timeline."
+    ],
+    "core_text": "Deadpool → Deadpool 2 → Logan → Deadpool & Wolverine",
+    "extras_text": "X-Men (2000), X2, The Last Stand, The Wolverine, Days of Future Past (Logan's wider Fox history); Loki S1 (TVA vocabulary). Logan and the Wolverine seen in Deadpool & Wolverine are not simply one uninterrupted personal timeline."
+  },
+  {
+    "name": "Anakin Skywalker / Darth Vader",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "The Clone Wars (film; S5 “The Wrong Jedi” arc; S7 final four)",
+      "Revenge of the Sith",
+      "Obi-Wan Kenobi",
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi"
+    ],
+    "extras": [
+      "More Clone Wars (Anakin/Ahsoka bond, Mortis S3 episodes 15–17, and his wartime conduct)",
+      "Rebels S2 finale (Ahsoka confrontation)",
+      "Rogue One (Vader as threat)",
+      "Ahsoka episode 5 (Anakin's legacy). Film-only route: episodes I–VI."
+    ],
+    "core_text": "The Phantom Menace → Attack of the Clones → The Clone Wars (film; S5 “The Wrong Jedi” arc; S7 final four) → Revenge of the Sith → Obi-Wan Kenobi → A New Hope → The Empire Strikes Back → Return of the Jedi",
+    "extras_text": "More Clone Wars (Anakin/Ahsoka bond, Mortis S3 episodes 15–17, and his wartime conduct); Rebels S2 finale (Ahsoka confrontation); Rogue One (Vader as threat); Ahsoka episode 5 (Anakin's legacy). Film-only route: episodes I–VI."
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith",
+      "Obi-Wan Kenobi",
+      "A New Hope"
+    ],
+    "extras": [
+      "The Clone Wars S4 episodes 14–18 (undercover mission), S5 episodes 14–16 (Maul/Satine), S7 final arc (parallel to Episode III)",
+      "Rebels S3 episode 20 “Twin Suns” (closure with Maul)."
+    ],
+    "core_text": "The Phantom Menace → Attack of the Clones → Revenge of the Sith → Obi-Wan Kenobi → A New Hope",
+    "extras_text": "The Clone Wars S4 episodes 14–18 (undercover mission), S5 episodes 14–16 (Maul/Satine), S7 final arc (parallel to Episode III); Rebels S3 episode 20 “Twin Suns” (closure with Maul)."
+  },
+  {
+    "name": "Padmé Amidala",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "Revenge of the Sith"
+    ],
+    "extras": [
+      "The Clone Wars S3 episodes 10–11 (diplomatic and personal life)",
+      "S6 episodes 5–7 (political and personal strain). Her three-film arc is complete."
+    ],
+    "core_text": "The Phantom Menace → Attack of the Clones → Revenge of the Sith",
+    "extras_text": "The Clone Wars S3 episodes 10–11 (diplomatic and personal life); S6 episodes 5–7 (political and personal strain). Her three-film arc is complete."
+  },
+  {
+    "name": "Qui-Gon Jinn",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "Tales of the Jedi S1 episodes 2–4 (young Dooku and Qui-Gon perspectives)",
+      "Obi-Wan Kenobi (late coda)"
+    ],
+    "extras": [
+      "The Clone Wars Mortis trilogy S3 episodes 15–17 (Force legacy). Watch Tales after Episode I to preserve the film's reveal."
+    ],
+    "core_text": "The Phantom Menace → Tales of the Jedi S1 episodes 2–4 (young Dooku and Qui-Gon perspectives) → Obi-Wan Kenobi (late coda)",
+    "extras_text": "The Clone Wars Mortis trilogy S3 episodes 15–17 (Force legacy). Watch Tales after Episode I to preserve the film's reveal."
+  },
+  {
+    "name": "Count Dooku",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace (background to his split)",
+      "Tales of the Jedi S1 episodes 2–4",
+      "Attack of the Clones",
+      "The Clone Wars (selected episodes or full series)",
+      "Revenge of the Sith"
+    ],
+    "extras": [
+      "Tales of the Jedi S1 episode 1 is Ahsoka's story",
+      "The Bad Batch S2 episode 3 explores his homeworld's legacy."
+    ],
+    "core_text": "The Phantom Menace (background to his split) → Tales of the Jedi S1 episodes 2–4 → Attack of the Clones → The Clone Wars (selected episodes or full series) → Revenge of the Sith",
+    "extras_text": "Tales of the Jedi S1 episode 1 is Ahsoka's story; The Bad Batch S2 episode 3 explores his homeworld's legacy."
+  },
+  {
+    "name": "Darth Sidious / Palpatine",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "Attack of the Clones",
+      "The Clone Wars S5 episode 16 “The Lawless”",
+      "Revenge of the Sith",
+      "Return of the Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "The Bad Batch S2–3 (Imperial cloning program)",
+      "Rebels S4 (his search for knowledge)",
+      "The Empire Strikes Back (hologram). His sequel return can feel abrupt",
+      "the extras add thematic background, not a complete on-screen bridge."
+    ],
+    "core_text": "The Phantom Menace → Attack of the Clones → The Clone Wars S5 episode 16 “The Lawless” → Revenge of the Sith → Return of the Jedi → The Rise of Skywalker",
+    "extras_text": "The Bad Batch S2–3 (Imperial cloning program); Rebels S4 (his search for knowledge); The Empire Strikes Back (hologram). His sequel return can feel abrupt; the extras add thematic background, not a complete on-screen bridge."
+  },
+  {
+    "name": "Darth Maul",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Phantom Menace",
+      "The Clone Wars S4 episodes 21–22, S5 episodes 1 and 14–16, S7 episodes 9–12",
+      "Maul – Shadow Lord S1",
+      "Solo: A Star Wars Story (late scene)",
+      "Rebels S2 episode 21, S3 episodes 3, 11, 20"
+    ],
+    "extras": [
+      "The Clone Wars S6 episode 13 and S7 episode 8 (context)",
+      "more Rebels S3 (Ezra's temptation). The Solo scene occurs before his Rebels ending in story time."
+    ],
+    "core_text": "The Phantom Menace → The Clone Wars S4 episodes 21–22, S5 episodes 1 and 14–16, S7 episodes 9–12 → Maul – Shadow Lord S1 → Solo: A Star Wars Story (late scene) → Rebels S2 episode 21, S3 episodes 3, 11, 20",
+    "extras_text": "The Clone Wars S6 episode 13 and S7 episode 8 (context); more Rebels S3 (Ezra's temptation). The Solo scene occurs before his Rebels ending in story time."
+  },
+  {
+    "name": "Ahsoka Tano",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars film",
+      "S5 episodes 17–20 (departure)",
+      "S7 episodes 9–12 (Siege of Mandalore)",
+      "Tales of the Jedi S1 episodes 1, 5–6",
+      "Rebels S1 finale, S2 episodes 1–2 and 21–22, S4 episodes 12–15",
+      "The Mandalorian S2 episode 5",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Clone Wars S3 Mortis arc and S4 episode 14 onward (her growth)",
+      "The Book of Boba Fett episode 6 (Ahsoka/Luke)",
+      "Tales of the Empire (Morgan's history). The upcoming Ahsoka S2 is outside this edition."
+    ],
+    "core_text": "The Clone Wars film → S5 episodes 17–20 (departure) → S7 episodes 9–12 (Siege of Mandalore) → Tales of the Jedi S1 episodes 1, 5–6 → Rebels S1 finale, S2 episodes 1–2 and 21–22, S4 episodes 12–15 → The Mandalorian S2 episode 5 → Ahsoka S1",
+    "extras_text": "The Clone Wars S3 Mortis arc and S4 episode 14 onward (her growth); The Book of Boba Fett episode 6 (Ahsoka/Luke); Tales of the Empire (Morgan's history). The upcoming Ahsoka S2 is outside this edition."
+  },
+  {
+    "name": "Captain Rex and the clones",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars film",
+      "S3 episodes 1–2, S4 episodes 7–10, S6 episodes 1–4 (Fives), S7 episodes 9–12",
+      "The Bad Batch S1–3",
+      "Rebels S2–4 (Rex's appearances)"
+    ],
+    "extras": [
+      "Attack of the Clones and Revenge of the Sith (war frame and Order 66)",
+      "Tales of the Underworld (related era). The Bad Batch is the most detailed aftermath of clone service."
+    ],
+    "core_text": "The Clone Wars film → S3 episodes 1–2, S4 episodes 7–10, S6 episodes 1–4 (Fives), S7 episodes 9–12 → The Bad Batch S1–3 → Rebels S2–4 (Rex's appearances)",
+    "extras_text": "Attack of the Clones and Revenge of the Sith (war frame and Order 66); Tales of the Underworld (related era). The Bad Batch is the most detailed aftermath of clone service."
+  },
+  {
+    "name": "Asajj Ventress",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars S1–5 (especially S3 episodes 12–14 and S4 episodes 19–22)",
+      "The Bad Batch S3 episode 9",
+      "Tales of the Underworld (Ventress chapters)"
+    ],
+    "extras": [
+      "The Clone Wars film (early antagonist)",
+      "Dathomir/Maul arcs (her Nightsister roots). Her screen arc remains open."
+    ],
+    "core_text": "The Clone Wars S1–5 (especially S3 episodes 12–14 and S4 episodes 19–22) → The Bad Batch S3 episode 9 → Tales of the Underworld (Ventress chapters)",
+    "extras_text": "The Clone Wars film (early antagonist); Dathomir/Maul arcs (her Nightsister roots). Her screen arc remains open."
+  },
+  {
+    "name": "Bo-Katan Kryze",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars S4 episodes 14–15, S5 episodes 14–16, S7 episodes 9–12",
+      "Rebels S4 episodes 1–2",
+      "The Mandalorian S2 episodes 3 and 8",
+      "The Mandalorian S3"
+    ],
+    "extras": [
+      "The Book of Boba Fett episodes 5–7 (Din's interlude before S3)",
+      "The Mandalorian and Grogu (wider Mandalorian future)."
+    ],
+    "core_text": "The Clone Wars S4 episodes 14–15, S5 episodes 14–16, S7 episodes 9–12 → Rebels S4 episodes 1–2 → The Mandalorian S2 episodes 3 and 8 → The Mandalorian S3",
+    "extras_text": "The Book of Boba Fett episodes 5–7 (Din's interlude before S3); The Mandalorian and Grogu (wider Mandalorian future)."
+  },
+  {
+    "name": "Boba Fett",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Attack of the Clones",
+      "The Clone Wars S2 episodes 20–22 and S4 episodes 20–22",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Mandalorian S2 episodes 6–8",
+      "The Book of Boba Fett"
+    ],
+    "extras": [
+      "The Mandalorian S1 episode 5 (tease)",
+      "The Mandalorian and Grogu if following the era rather than Boba personally."
+    ],
+    "core_text": "Attack of the Clones → The Clone Wars S2 episodes 20–22 and S4 episodes 20–22 → The Empire Strikes Back → Return of the Jedi → The Mandalorian S2 episodes 6–8 → The Book of Boba Fett",
+    "extras_text": "The Mandalorian S1 episode 5 (tease); The Mandalorian and Grogu if following the era rather than Boba personally."
+  },
+  {
+    "name": "Luke Skywalker",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Mandalorian S2 finale",
+      "The Book of Boba Fett episode 6",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "The Force Awakens (search for Luke and cliffhanger",
+      "strongly recommended before The Last Jedi)",
+      "The Mandalorian and Grogu (post-Imperial era, not a Luke chapter)."
+    ],
+    "core_text": "A New Hope → The Empire Strikes Back → Return of the Jedi → The Mandalorian S2 finale → The Book of Boba Fett episode 6 → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "The Force Awakens (search for Luke and cliffhanger; strongly recommended before The Last Jedi); The Mandalorian and Grogu (post-Imperial era, not a Luke chapter)."
+  },
+  {
+    "name": "Leia Organa",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Obi-Wan Kenobi",
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "Rebels S2 episode 12 “A Princess on Lothal” (early Rebel leadership)",
+      "Rogue One (handoff to Episode IV)."
+    ],
+    "core_text": "Obi-Wan Kenobi → A New Hope → The Empire Strikes Back → Return of the Jedi → The Force Awakens → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "Rebels S2 episode 12 “A Princess on Lothal” (early Rebel leadership); Rogue One (handoff to Episode IV)."
+  },
+  {
+    "name": "Han Solo / Chewbacca",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Solo: A Star Wars Story",
+      "A New Hope",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Force Awakens",
+      "The Rise of Skywalker (Han's legacy)"
+    ],
+    "extras": [
+      "The Last Jedi (emotional interval in Ben's journey)",
+      "Revenge of the Sith (Chewbacca cameo)."
+    ],
+    "core_text": "Solo: A Star Wars Story → A New Hope → The Empire Strikes Back → Return of the Jedi → The Force Awakens → The Rise of Skywalker (Han's legacy)",
+    "extras_text": "The Last Jedi (emotional interval in Ben's journey); Revenge of the Sith (Chewbacca cameo)."
+  },
+  {
+    "name": "Lando Calrissian",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Solo: A Star Wars Story",
+      "The Empire Strikes Back",
+      "Return of the Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "Rebels S1 episode 11 and S2 episode 14 (earlier hustles)."
+    ],
+    "core_text": "Solo: A Star Wars Story → The Empire Strikes Back → Return of the Jedi → The Rise of Skywalker",
+    "extras_text": "Rebels S1 episode 11 and S2 episode 14 (earlier hustles)."
+  },
+  {
+    "name": "Cassian Andor",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Andor S1",
+      "Andor S2",
+      "Rogue One"
+    ],
+    "extras": [
+      "A New Hope (immediate payoff of the mission)",
+      "Rebels (parallel rebellion). His three-title story has a defined end."
+    ],
+    "core_text": "Andor S1 → Andor S2 → Rogue One",
+    "extras_text": "A New Hope (immediate payoff of the mission); Rebels (parallel rebellion). His three-title story has a defined end."
+  },
+  {
+    "name": "Jyn Erso / Galen Erso",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rogue One"
+    ],
+    "extras": [
+      "Andor S1–2 (the Rebellion and Death Star program around her story)",
+      "A New Hope (direct continuation). A complete film story."
+    ],
+    "core_text": "Rogue One",
+    "extras_text": "Andor S1–2 (the Rebellion and Death Star program around her story); A New Hope (direct continuation). A complete film story."
+  },
+  {
+    "name": "Mon Mothma",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Revenge of the Sith (small role)",
+      "Andor S1–2",
+      "Rogue One",
+      "Return of the Jedi",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Clone Wars (Republic politics)",
+      "Rebels S3 episode 18 “Secret Cargo” (her public break with the Empire)",
+      "The Mandalorian S3 (New Republic context)."
+    ],
+    "core_text": "Revenge of the Sith (small role) → Andor S1–2 → Rogue One → Return of the Jedi → Ahsoka S1",
+    "extras_text": "The Clone Wars (Republic politics); Rebels S3 episode 18 “Secret Cargo” (her public break with the Empire); The Mandalorian S3 (New Republic context)."
+  },
+  {
+    "name": "Saw Gerrera",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars S5 episodes 2–5",
+      "The Bad Batch (his appearances)",
+      "Rebels S3 episodes 12–13 and S4 episodes 3–4",
+      "Andor S1–2",
+      "Rogue One"
+    ],
+    "extras": [
+      "Jedi: Fallen Order is a game, excluded from this screen guide. His path shows how rebellion can fracture over methods."
+    ],
+    "core_text": "The Clone Wars S5 episodes 2–5 → The Bad Batch (his appearances) → Rebels S3 episodes 12–13 and S4 episodes 3–4 → Andor S1–2 → Rogue One",
+    "extras_text": "Jedi: Fallen Order is a game, excluded from this screen guide. His path shows how rebellion can fracture over methods."
+  },
+  {
+    "name": "Luthen Rael",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Andor S1–2"
+    ],
+    "extras": [
+      "Rogue One (result of the network he helped build). His plot is contained in the series."
+    ],
+    "core_text": "Andor S1–2",
+    "extras_text": "Rogue One (result of the network he helped build). His plot is contained in the series."
+  },
+  {
+    "name": "K-2SO",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Andor S2",
+      "Rogue One"
+    ],
+    "extras": [
+      "A New Hope (mission outcome). A concise companion route."
+    ],
+    "core_text": "Andor S2 → Rogue One",
+    "extras_text": "A New Hope (mission outcome). A concise companion route."
+  },
+  {
+    "name": "Hera Syndulla / Ghost crew",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rebels S1–4",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Bad Batch S1 episodes 11–12 (young Hera)",
+      "Rogue One (Ghost/Rebellion connections)",
+      "The Mandalorian S3 (New Republic environment). Watch Rebels whole seasons for the found-family payoff."
+    ],
+    "core_text": "Rebels S1–4 → Ahsoka S1",
+    "extras_text": "The Bad Batch S1 episodes 11–12 (young Hera); Rogue One (Ghost/Rebellion connections); The Mandalorian S3 (New Republic environment). Watch Rebels whole seasons for the found-family payoff."
+  },
+  {
+    "name": "Ezra Bridger",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rebels S1–4",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Clone Wars Mandalore arcs (some history behind the late Rebels conflicts). His story remains open."
+    ],
+    "core_text": "Rebels S1–4 → Ahsoka S1",
+    "extras_text": "The Clone Wars Mandalore arcs (some history behind the late Rebels conflicts). His story remains open."
+  },
+  {
+    "name": "Sabine Wren",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rebels S1–4",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Clone Wars Siege of Mandalore (heritage context)",
+      "The Mandalorian S3 (what happens to Mandalore)."
+    ],
+    "core_text": "Rebels S1–4 → Ahsoka S1",
+    "extras_text": "The Clone Wars Siege of Mandalore (heritage context); The Mandalorian S3 (what happens to Mandalore)."
+  },
+  {
+    "name": "Kanan Jarrus",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rebels S1–4"
+    ],
+    "extras": [
+      "The Bad Batch S1 episode 1 (young Caleb at Order 66",
+      "continuity perspective differs in details from a comic). A completed series arc."
+    ],
+    "core_text": "Rebels S1–4",
+    "extras_text": "The Bad Batch S1 episode 1 (young Caleb at Order 66; continuity perspective differs in details from a comic). A completed series arc."
+  },
+  {
+    "name": "Grand Admiral Thrawn",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Rebels S3–4",
+      "Ahsoka S1"
+    ],
+    "extras": [
+      "The Mandalorian S2 episode 5 (name-drop and search)",
+      "Tales of the Empire Morgan chapters (his ally). Novels expand him substantially but are outside screen scope."
+    ],
+    "core_text": "Rebels S3–4 → Ahsoka S1",
+    "extras_text": "The Mandalorian S2 episode 5 (name-drop and search); Tales of the Empire Morgan chapters (his ally). Novels expand him substantially but are outside screen scope."
+  },
+  {
+    "name": "Orson Krennic",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Andor S2",
+      "Rogue One"
+    ],
+    "extras": [
+      "A New Hope (result of the Death Star project)."
+    ],
+    "core_text": "Andor S2 → Rogue One",
+    "extras_text": "A New Hope (result of the Death Star project)."
+  },
+  {
+    "name": "Din Djarin and Grogu",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Mandalorian S1",
+      "S2",
+      "The Book of Boba Fett episodes 5–7",
+      "The Mandalorian S3",
+      "The Mandalorian and Grogu (2026)"
+    ],
+    "extras": [
+      "The Clone Wars / Rebels Mandalore arcs (Darksaber politics)",
+      "Ahsoka S1 (parallel New Republic thread). Boba Fett episodes 5–7 are a necessary bridge, despite being in another show's title."
+    ],
+    "core_text": "The Mandalorian S1 → S2 → The Book of Boba Fett episodes 5–7 → The Mandalorian S3 → The Mandalorian and Grogu (2026)",
+    "extras_text": "The Clone Wars / Rebels Mandalore arcs (Darksaber politics); Ahsoka S1 (parallel New Republic thread). Boba Fett episodes 5–7 are a necessary bridge, despite being in another show's title."
+  },
+  {
+    "name": "Fennec Shand",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Bad Batch S1 episodes 4 and 9",
+      "The Mandalorian S1 episode 5 and S2 episodes 6–8",
+      "The Book of Boba Fett"
+    ],
+    "extras": [
+      "The Mandalorian and Grogu (era context)."
+    ],
+    "core_text": "The Bad Batch S1 episodes 4 and 9 → The Mandalorian S1 episode 5 and S2 episodes 6–8 → The Book of Boba Fett",
+    "extras_text": "The Mandalorian and Grogu (era context)."
+  },
+  {
+    "name": "Cobb Vanth",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Mandalorian S2 episode 1",
+      "The Book of Boba Fett episode 6 (and finale)"
+    ],
+    "extras": [
+      "Return of the Jedi (the armor's earlier owner). A small, clear screen arc."
+    ],
+    "core_text": "The Mandalorian S2 episode 1 → The Book of Boba Fett episode 6 (and finale)",
+    "extras_text": "Return of the Jedi (the armor's earlier owner). A small, clear screen arc."
+  },
+  {
+    "name": "Rey",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "A New Hope, The Empire Strikes Back, Return of the Jedi (Luke and Leia's legacy)",
+      "episodes I–III (Palpatine history). Her trilogy works as the core."
+    ],
+    "core_text": "The Force Awakens → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "A New Hope, The Empire Strikes Back, Return of the Jedi (Luke and Leia's legacy); episodes I–III (Palpatine history). Her trilogy works as the core."
+  },
+  {
+    "name": "Ben Solo / Kylo Ren",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "Original trilogy (his family's burden)",
+      "The Mandalorian S2 finale and The Book of Boba Fett episode 6 (Luke's new Jedi teaching in the prior era)."
+    ],
+    "core_text": "The Force Awakens → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "Original trilogy (his family's burden); The Mandalorian S2 finale and The Book of Boba Fett episode 6 (Luke's new Jedi teaching in the prior era)."
+  },
+  {
+    "name": "Finn",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "The Bad Batch (a much earlier lens on soldiers and identity, thematic rather than direct backstory)."
+    ],
+    "core_text": "The Force Awakens → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "The Bad Batch (a much earlier lens on soldiers and identity, thematic rather than direct backstory)."
+  },
+  {
+    "name": "Poe Dameron",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Force Awakens",
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "Star Wars Resistance S1–2 (Poe and the First Order's build-up",
+      "the animation overlaps the sequel era)."
+    ],
+    "core_text": "The Force Awakens → The Last Jedi → The Rise of Skywalker",
+    "extras_text": "Star Wars Resistance S1–2 (Poe and the First Order's build-up; the animation overlaps the sequel era)."
+  },
+  {
+    "name": "Rose Tico",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Last Jedi",
+      "The Rise of Skywalker"
+    ],
+    "extras": [
+      "The Force Awakens (Resistance losses and setting). A supporting arc with a much smaller final-film role."
+    ],
+    "core_text": "The Last Jedi → The Rise of Skywalker",
+    "extras_text": "The Force Awakens (Resistance losses and setting). A supporting arc with a much smaller final-film role."
+  },
+  {
+    "name": "Captain Phasma",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Force Awakens",
+      "The Last Jedi"
+    ],
+    "extras": [
+      "Star Wars Resistance (First Order context). Short completed on-screen arc."
+    ],
+    "core_text": "The Force Awakens → The Last Jedi",
+    "extras_text": "Star Wars Resistance (First Order context). Short completed on-screen arc."
+  },
+  {
+    "name": "Osha and Mae Aniseya",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Acolyte S1"
+    ],
+    "extras": [
+      "No prior viewing required. The season tells their backstory but leaves future questions open."
+    ],
+    "core_text": "The Acolyte S1",
+    "extras_text": "No prior viewing required. The season tells their backstory but leaves future questions open."
+  },
+  {
+    "name": "Sol / Qimir / High Republic cast",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Acolyte S1"
+    ],
+    "extras": [
+      "Prequel films (later Jedi institutions, thematic comparison only). Characters have different degrees of closure within the one season."
+    ],
+    "core_text": "The Acolyte S1",
+    "extras_text": "Prequel films (later Jedi institutions, thematic comparison only). Characters have different degrees of closure within the one season."
+  },
+  {
+    "name": "Omega and Clone Force 99",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "The Clone Wars S7 episodes 1–4",
+      "The Bad Batch S1–3"
+    ],
+    "extras": [
+      "Revenge of the Sith (Order 66)",
+      "The Clone Wars S6 Fives arc (the inhibitor chips). A completed three-season family arc."
+    ],
+    "core_text": "The Clone Wars S7 episodes 1–4 → The Bad Batch S1–3",
+    "extras_text": "Revenge of the Sith (Order 66); The Clone Wars S6 Fives arc (the inhibitor chips). A completed three-season family arc."
+  },
+  {
+    "name": "Jod Na Nawood and the At Attin children",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "Skeleton Crew S1"
+    ],
+    "extras": [
+      "The Mandalorian S1 (New Republic era atmosphere). Their season stands alone."
+    ],
+    "core_text": "Skeleton Crew S1",
+    "extras_text": "The Mandalorian S1 (New Republic era atmosphere). Their season stands alone."
+  },
+  {
+    "name": "Cal Kestis",
+    "universe": "Star Wars",
+    "medium": "screen",
+    "core": [
+      "No film/series path: his main arc is in the Jedi: Fallen Order and Jedi: Survivor games."
+    ],
+    "extras": [
+      "Included here so this guide does not imply the screen canon tells his story."
+    ],
+    "core_text": "No film/series path: his main arc is in the Jedi: Fallen Order and Jedi: Survivor games.",
+    "extras_text": "Included here so this guide does not imply the screen canon tells his story."
+  },
+  {
+    "name": "Scott Summers / Cyclops",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men (1963) #1, #12–16",
+      "Giant-Size X-Men #1; X-Men #94–101 (leader through transition)",
+      "Uncanny X-Men #129–137 (Jean/Phoenix)",
+      "X-Factor #1–6, #65–68",
+      "X-Men (1991) #1–3",
+      "New X-Men (2001) #114–154",
+      "Avengers vs. X-Men #0–12 and AvX: Consequences #1–5 (major leadership rupture)."
+    ],
+    "extras": [
+      "X-Men: The Wedding of Cyclops & Phoenix (Scott/Jean relationship)",
+      "Uncanny X-Men (2013) #1–35 (his revolutionary phase)",
+      "House of X/Powers of X #1–6 each (his place in Krakoa). The later series are a second, more demanding path."
+    ],
+    "core_text": "X-Men (1963) #1, #12–16 → Giant-Size X-Men #1; X-Men #94–101 (leader through transition) → Uncanny X-Men #129–137 (Jean/Phoenix) → X-Factor #1–6, #65–68 → X-Men (1991) #1–3 → New X-Men (2001) #114–154 → Avengers vs. X-Men #0–12 and AvX: Consequences #1–5 (major leadership rupture).",
+    "extras_text": "X-Men: The Wedding of Cyclops & Phoenix (Scott/Jean relationship); Uncanny X-Men (2013) #1–35 (his revolutionary phase); House of X/Powers of X #1–6 each (his place in Krakoa). The later series are a second, more demanding path."
+  },
+  {
+    "name": "Jean Grey / Marvel Girl / Phoenix",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men #1",
+      "X-Men #100–101 (Phoenix turn)",
+      "Uncanny X-Men #129–137 (“Dark Phoenix Saga”)",
+      "Fantastic Four #286 and X-Factor #1–6 (return and original-five reunion)",
+      "X-Factor #65–68",
+      "Phoenix Resurrection: The Return of Jean Grey #1–5",
+      "X-Men Red (2018) #1–11."
+    ],
+    "extras": [
+      "Classic X-Men backup stories (retroactive emotional context)",
+      "New X-Men #114–154 (Jean and Scott's later marriage)",
+      "A.X.E.: Judgment Day and Fall of X era (later Phoenix/Krakoa developments). The Phoenix retcons make #137 and her return a deliberately complicated pair."
+    ],
+    "core_text": "X-Men #1 → X-Men #100–101 (Phoenix turn) → Uncanny X-Men #129–137 (“Dark Phoenix Saga”) → Fantastic Four #286 and X-Factor #1–6 (return and original-five reunion) → X-Factor #65–68 → Phoenix Resurrection: The Return of Jean Grey #1–5 → X-Men Red (2018) #1–11.",
+    "extras_text": "Classic X-Men backup stories (retroactive emotional context); New X-Men #114–154 (Jean and Scott's later marriage); A.X.E.: Judgment Day and Fall of X era (later Phoenix/Krakoa developments). The Phoenix retcons make #137 and her return a deliberately complicated pair."
+  },
+  {
+    "name": "Hank McCoy / Beast",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men #1, #14–16",
+      "Amazing Adventures (1970) #11–17 (his blue-furred transformation)",
+      "The Avengers #137–151 (new team identity)",
+      "X-Factor #1–6, #18–26",
+      "New X-Men #114–154 (science and ethics)",
+      "All-New X-Men (2012) #1–5 (his time-travel decision)."
+    ],
+    "extras": [
+      "Secret Avengers (2010) (Avengers work)",
+      "X-Force (2019) and Wolverine (2020) (a much darker later Beast",
+      "extensive and controversial)",
+      "X-Men: First Class (his happier school years)."
+    ],
+    "core_text": "X-Men #1, #14–16 → Amazing Adventures (1970) #11–17 (his blue-furred transformation) → The Avengers #137–151 (new team identity) → X-Factor #1–6, #18–26 → New X-Men #114–154 (science and ethics) → All-New X-Men (2012) #1–5 (his time-travel decision).",
+    "extras_text": "Secret Avengers (2010) (Avengers work); X-Force (2019) and Wolverine (2020) (a much darker later Beast; extensive and controversial); X-Men: First Class (his happier school years)."
+  },
+  {
+    "name": "Bobby Drake / Iceman",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men #1, #14–16",
+      "The Champions (1975) #1–17 (life after the original X-Men)",
+      "X-Factor #1–6, #18–26",
+      "All-New X-Men (2012) #40 and Uncanny X-Men (2013) #600 (identity revelations across young and adult Bobby)",
+      "Iceman (2017) #1–11."
+    ],
+    "extras": [
+      "Defenders (1972) #122–152 (later team years)",
+      "Iceman (2018) #1–5 (family and self-acceptance after the first solo)",
+      "Astonishing Iceman (2023) #1–5 (modern adventure). The time-displaced Bobby in All-New X-Men is the younger self."
+    ],
+    "core_text": "X-Men #1, #14–16 → The Champions (1975) #1–17 (life after the original X-Men) → X-Factor #1–6, #18–26 → All-New X-Men (2012) #40 and Uncanny X-Men (2013) #600 (identity revelations across young and adult Bobby) → Iceman (2017) #1–11.",
+    "extras_text": "Defenders (1972) #122–152 (later team years); Iceman (2018) #1–5 (family and self-acceptance after the first solo); Astonishing Iceman (2023) #1–5 (modern adventure). The time-displaced Bobby in All-New X-Men is the younger self."
+  },
+  {
+    "name": "Warren Worthington III / Angel / Archangel",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men #1",
+      "The Champions (1975) #1–17",
+      "X-Factor #1–6",
+      "#18–26 (loss of wings and Archangel)",
+      "Uncanny X-Force (2010) #1–18 (“Dark Angel Saga”)."
+    ],
+    "extras": [
+      "X-Factor #36–40 (Inferno, with the team's wider trauma)",
+      "X-Men: First Class (early friendships)",
+      "later Uncanny X-Force #19–35 (aftermath). #18–26 plus Dark Angel Saga is the strongest focused Warren path."
+    ],
+    "core_text": "X-Men #1 → The Champions (1975) #1–17 → X-Factor #1–6 → #18–26 (loss of wings and Archangel) → Uncanny X-Force (2010) #1–18 (“Dark Angel Saga”).",
+    "extras_text": "X-Factor #36–40 (Inferno, with the team's wider trauma); X-Men: First Class (early friendships); later Uncanny X-Force #19–35 (aftermath). #18–26 plus Dark Angel Saga is the strongest focused Warren path."
+  },
+  {
+    "name": "Charles Xavier / Professor X (mentor)",
+    "universe": "X-Men",
+    "medium": "comics",
+    "core": [
+      "X-Men #1, #12–13",
+      "Uncanny X-Men #161 (Magneto history)",
+      "X-Men: Legacy (2008) #208–225 (confronting past actions)",
+      "House of X/Powers of X #1–6 each (his new vision)."
+    ],
+    "extras": [
+      "Onslaught crossover (the darker side of Xavier's psyche, sprawling)",
+      "New X-Men #114–154 (school and ideals under pressure)",
+      "X-Men (1963) #1–66 (the original teaching model)."
+    ],
+    "core_text": "X-Men #1, #12–13 → Uncanny X-Men #161 (Magneto history) → X-Men: Legacy (2008) #208–225 (confronting past actions) → House of X/Powers of X #1–6 each (his new vision).",
+    "extras_text": "Onslaught crossover (the darker side of Xavier's psyche, sprawling); New X-Men #114–154 (school and ideals under pressure); X-Men (1963) #1–66 (the original teaching model)."
+  },
+  {
+    "name": "Superman / Clark Kent",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "Action Comics #1 (1938 debut; historical)",
+      "The Man of Steel (1986) #1–6 (modernized origin)",
+      "The Death of Superman / Funeral for a Friend / Reign of the Supermen (major legacy arc)",
+      "All-Star Superman #1–12 (self-contained statement of the character)",
+      "JLA (1997) #1–9."
+    ],
+    "extras": [
+      "Superman: For All Seasons #1–4 (warm origin perspective)",
+      "Kingdom Come #1–4 (possible future and League ideals). All-Star is its own take",
+      "it does not directly follow the Death/Return storyline."
+    ],
+    "core_text": "Action Comics #1 (1938 debut; historical) → The Man of Steel (1986) #1–6 (modernized origin) → The Death of Superman / Funeral for a Friend / Reign of the Supermen (major legacy arc) → All-Star Superman #1–12 (self-contained statement of the character) → JLA (1997) #1–9.",
+    "extras_text": "Superman: For All Seasons #1–4 (warm origin perspective); Kingdom Come #1–4 (possible future and League ideals). All-Star is its own take; it does not directly follow the Death/Return storyline."
+  },
+  {
+    "name": "Batman / Bruce Wayne",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "Detective Comics #27 (debut)",
+      "Batman: Year One (Batman #404–407)",
+      "The Long Halloween #1–13",
+      "JLA #1–9",
+      "JLA #43–46 (“Tower of Babel”)."
+    ],
+    "extras": [
+      "Dark Victory #0–13 (follow-up to Long Halloween)",
+      "The New Frontier (his place in the team's beginning)",
+      "Batman: The Black Mirror (Dick Grayson under the cowl, so not a Bruce core chapter). The detective stories help explain the tension in Tower of Babel."
+    ],
+    "core_text": "Detective Comics #27 (debut) → Batman: Year One (Batman #404–407) → The Long Halloween #1–13 → JLA #1–9 → JLA #43–46 (“Tower of Babel”).",
+    "extras_text": "Dark Victory #0–13 (follow-up to Long Halloween); The New Frontier (his place in the team's beginning); Batman: The Black Mirror (Dick Grayson under the cowl, so not a Bruce core chapter). The detective stories help explain the tension in Tower of Babel."
+  },
+  {
+    "name": "Wonder Woman / Diana",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "All Star Comics #8 and Sensation Comics #1 (debut/history)",
+      "Wonder Woman (1987) #1–7 (Pérez's modern origin)",
+      "Wonder Woman: The Hiketeia (standalone moral clash with Batman)",
+      "JLA #1–9",
+      "Wonder Woman (2002) #195–226 (Rucka's diplomacy and conflict)."
+    ],
+    "extras": [
+      "Wonder Woman Historia: The Amazons #1–3 (mythic alternate/reimagined Amazon history)",
+      "The New Frontier (early League era). Rucka's run is longer than the issue range here",
+      "continue if it clicks."
+    ],
+    "core_text": "All Star Comics #8 and Sensation Comics #1 (debut/history) → Wonder Woman (1987) #1–7 (Pérez's modern origin) → Wonder Woman: The Hiketeia (standalone moral clash with Batman) → JLA #1–9 → Wonder Woman (2002) #195–226 (Rucka's diplomacy and conflict).",
+    "extras_text": "Wonder Woman Historia: The Amazons #1–3 (mythic alternate/reimagined Amazon history); The New Frontier (early League era). Rucka's run is longer than the issue range here; continue if it clicks."
+  },
+  {
+    "name": "Barry Allen / Flash",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "Showcase #4 (1956 debut)",
+      "The Flash (1959) #123 (“Flash of Two Worlds”)",
+      "Crisis on Infinite Earths #1–12 (Barry's defining sacrifice)",
+      "The Flash: Rebirth (2009) #1–6 (return)",
+      "Flashpoint #1–5 (new continuity)."
+    ],
+    "extras": [
+      "The Flash (2011) #1–25 (accessible New 52 adventures)",
+      "The Life Story of the Flash (retrospective biography). Crisis is a universe-wide event",
+      "Barry's key turn is in #8, but the whole miniseries supplies its stakes."
+    ],
+    "core_text": "Showcase #4 (1956 debut) → The Flash (1959) #123 (“Flash of Two Worlds”) → Crisis on Infinite Earths #1–12 (Barry's defining sacrifice) → The Flash: Rebirth (2009) #1–6 (return) → Flashpoint #1–5 (new continuity).",
+    "extras_text": "The Flash (2011) #1–25 (accessible New 52 adventures); The Life Story of the Flash (retrospective biography). Crisis is a universe-wide event; Barry's key turn is in #8, but the whole miniseries supplies its stakes."
+  },
+  {
+    "name": "Hal Jordan / Green Lantern",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "Showcase #22 (debut)",
+      "Green Lantern: Emerald Twilight (Green Lantern (1990) #48–50; fall)",
+      "Green Lantern: Rebirth (2004) #1–6 (return)",
+      "Green Lantern (2005) #29–35 (“Secret Origin” flashback)",
+      "Sinestro Corps War (2007 event)",
+      "Blackest Night #0–8."
+    ],
+    "extras": [
+      "The New Frontier (Hal's period-appropriate emotional story)",
+      "Green Lantern (2011) #1–20 (Johns's concluding run). For Sinestro Corps War, use a collection or reading order: it crosses Green Lantern and Green Lantern Corps."
+    ],
+    "core_text": "Showcase #22 (debut) → Green Lantern: Emerald Twilight (Green Lantern (1990) #48–50; fall) → Green Lantern: Rebirth (2004) #1–6 (return) → Green Lantern (2005) #29–35 (“Secret Origin” flashback) → Sinestro Corps War (2007 event) → Blackest Night #0–8.",
+    "extras_text": "The New Frontier (Hal's period-appropriate emotional story); Green Lantern (2011) #1–20 (Johns's concluding run). For Sinestro Corps War, use a collection or reading order: it crosses Green Lantern and Green Lantern Corps."
+  },
+  {
+    "name": "Arthur Curry / Aquaman",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "More Fun Comics #73 (historical debut)",
+      "Aquaman (2011) #1–6 (“The Trench”; strong modern start)",
+      "#7–13 (“The Others”)",
+      "Justice League (2011) #15–17 (“Throne of Atlantis”; read relevant Aquaman crossover chapters in the collection)",
+      "Aquaman #14–25 (Atlantis and kingship)."
+    ],
+    "extras": [
+      "The New Frontier (founder portrait)",
+      "Aquaman (1994) #0–8 (the 1990s harpoon-hand era, different voice)",
+      "Aquaman (2016) #1–24 (politics and Mera). The New 52 route is a rebooted Arthur, not direct continuation of 1940s issues."
+    ],
+    "core_text": "More Fun Comics #73 (historical debut) → Aquaman (2011) #1–6 (“The Trench”; strong modern start) → #7–13 (“The Others”) → Justice League (2011) #15–17 (“Throne of Atlantis”; read relevant Aquaman crossover chapters in the collection) → Aquaman #14–25 (Atlantis and kingship).",
+    "extras_text": "The New Frontier (founder portrait); Aquaman (1994) #0–8 (the 1990s harpoon-hand era, different voice); Aquaman (2016) #1–24 (politics and Mera). The New 52 route is a rebooted Arthur, not direct continuation of 1940s issues."
+  },
+  {
+    "name": "J'onn J'onzz / Martian Manhunter",
+    "universe": "Justice League",
+    "medium": "comics",
+    "core": [
+      "Detective Comics #225 (debut)",
+      "The Brave and the Bold #28",
+      "JLA (1997) #1–9",
+      "Martian Manhunter (1998) #1–6 (personal history and identity)",
+      "JLA #43–46."
+    ],
+    "extras": [
+      "Justice League International (1987) #1–7 (team humor and J'onn as its center)",
+      "Martian Manhunter (2018) #1–12 (self-contained modern reinterpretation)",
+      "The New Frontier (powerful outsider-to-hero story). He is absent from the New 52 founding seven in Justice League #1–6."
+    ],
+    "core_text": "Detective Comics #225 (debut) → The Brave and the Bold #28 → JLA (1997) #1–9 → Martian Manhunter (1998) #1–6 (personal history and identity) → JLA #43–46.",
+    "extras_text": "Justice League International (1987) #1–7 (team humor and J'onn as its center); Martian Manhunter (2018) #1–12 (self-contained modern reinterpretation); The New Frontier (powerful outsider-to-hero story). He is absent from the New 52 founding seven in Justice League #1–6."
+  },
+  {
+    "name": "Tony Stark / Iron Man",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "Tales of Suspense #39 (debut)",
+      "The Avengers #1–4",
+      "Iron Man (1968) #120–128 (“Demon in a Bottle”)",
+      "Iron Man #225–232 (“Armor Wars”)",
+      "Iron Man: Extremis (Iron Man (2005) #1–6)",
+      "Civil War (2006) #1–7 (his most divisive team decision)."
+    ],
+    "extras": [
+      "Iron Man (1968) #169–182 (Obadiah Stane and relapse)",
+      "Invincible Iron Man (2008) #1–19 (post-Civil War reinvention). Civil War has many tie-ins, but the seven-issue event conveys Tony's central choice."
+    ],
+    "core_text": "Tales of Suspense #39 (debut) → The Avengers #1–4 → Iron Man (1968) #120–128 (“Demon in a Bottle”) → Iron Man #225–232 (“Armor Wars”) → Iron Man: Extremis (Iron Man (2005) #1–6) → Civil War (2006) #1–7 (his most divisive team decision).",
+    "extras_text": "Iron Man (1968) #169–182 (Obadiah Stane and relapse); Invincible Iron Man (2008) #1–19 (post-Civil War reinvention). Civil War has many tie-ins, but the seven-issue event conveys Tony's central choice."
+  },
+  {
+    "name": "Thor Odinson",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "Journey into Mystery #83 (debut)",
+      "The Avengers #1–4",
+      "Thor (1966) #337–353 (Simonson's Beta Ray Bill beginning)",
+      "Thor #364–366 (Frog Thor interlude, optional to the serious arc)",
+      "Thor: God of Thunder (2012) #1–11 (“God Butcher/Godbomb”)",
+      "The Mighty Thor (2015) #1–23 and The Mighty Thor #700–706 (Jane Foster's mantle and its cost, Thor's legacy)."
+    ],
+    "extras": [
+      "More Walt Simonson Thor #337–382 (the full landmark run)",
+      "Unworthy Thor #1–5 (Odinson after losing Mjolnir)",
+      "War of the Realms #1–6 (later payoff). Jane's route is included as Thor's legacy, not a claim that she founded the Avengers."
+    ],
+    "core_text": "Journey into Mystery #83 (debut) → The Avengers #1–4 → Thor (1966) #337–353 (Simonson's Beta Ray Bill beginning) → Thor #364–366 (Frog Thor interlude, optional to the serious arc) → Thor: God of Thunder (2012) #1–11 (“God Butcher/Godbomb”) → The Mighty Thor (2015) #1–23 and The Mighty Thor #700–706 (Jane Foster's mantle and its cost, Thor's legacy).",
+    "extras_text": "More Walt Simonson Thor #337–382 (the full landmark run); Unworthy Thor #1–5 (Odinson after losing Mjolnir); War of the Realms #1–6 (later payoff). Jane's route is included as Thor's legacy, not a claim that she founded the Avengers."
+  },
+  {
+    "name": "Bruce Banner / Hulk",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "The Incredible Hulk (1962) #1 (debut)",
+      "The Avengers #1–3 (formation and immediate split)",
+      "The Incredible Hulk #377 (key Banner/Hulk integration)",
+      "Planet Hulk (The Incredible Hulk (1999) #92–105)",
+      "World War Hulk #1–5",
+      "Immortal Hulk #1–50 (a later, largely complete horror epic)."
+    ],
+    "extras": [
+      "The Defenders (1972) #1 onward (his other team)",
+      "Hulk: Future Imperfect #1–2 (possible dark future)",
+      "Immortal Hulk is excellent but considerably darker than the founding-team comics."
+    ],
+    "core_text": "The Incredible Hulk (1962) #1 (debut) → The Avengers #1–3 (formation and immediate split) → The Incredible Hulk #377 (key Banner/Hulk integration) → Planet Hulk (The Incredible Hulk (1999) #92–105) → World War Hulk #1–5 → Immortal Hulk #1–50 (a later, largely complete horror epic).",
+    "extras_text": "The Defenders (1972) #1 onward (his other team); Hulk: Future Imperfect #1–2 (possible dark future); Immortal Hulk is excellent but considerably darker than the founding-team comics."
+  },
+  {
+    "name": "Hank Pym / Ant-Man / Giant-Man / Yellowjacket",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "Tales to Astonish #27 (“The Man in the Ant Hill”)",
+      "#35 (Ant-Man identity)",
+      "#44 (Janet/Wasp)",
+      "The Avengers #1, #16",
+      "#54–58 (Ultron's creation and Vision)",
+      "The Avengers #212–213 and #217 (painful downfall and consequences)",
+      "Avengers Academy #1–6 (later mentor role)."
+    ],
+    "extras": [
+      "West Coast Avengers (1985) #42–44 (Ultron/Vision family aftermath)",
+      "Mighty Avengers (2009) #21–36 (Hank leading as Wasp)",
+      "Avengers: The Children's Crusade (Wanda/Ultron family history). The domestic-abuse storyline is disturbing, and later comics revisit it differently."
+    ],
+    "core_text": "Tales to Astonish #27 (“The Man in the Ant Hill”) → #35 (Ant-Man identity) → #44 (Janet/Wasp) → The Avengers #1, #16 → #54–58 (Ultron's creation and Vision) → The Avengers #212–213 and #217 (painful downfall and consequences) → Avengers Academy #1–6 (later mentor role).",
+    "extras_text": "West Coast Avengers (1985) #42–44 (Ultron/Vision family aftermath); Mighty Avengers (2009) #21–36 (Hank leading as Wasp); Avengers: The Children's Crusade (Wanda/Ultron family history). The domestic-abuse storyline is disturbing, and later comics revisit it differently."
+  },
+  {
+    "name": "Janet van Dyne / Wasp",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "Tales to Astonish #44 (debut)",
+      "The Avengers #1, #16",
+      "The Avengers #213, #217 (her response to Hank's abuse)",
+      "#227–230 (Janet takes the chair)",
+      "#273–277 (“Under Siege,” leadership under pressure)",
+      "Secret Invasion #1–8 (major later turning point)."
+    ],
+    "extras": [
+      "Avengers (1998) #1–4 (team relaunch)",
+      "Unstoppable Wasp (2017) #1–8 (Nadia Pym/Janet mentorship, a different Wasp)",
+      "Avengers #500–503 (collapse of the old institution). Janet was a founder and later an important chair, not simply Hank's partner."
+    ],
+    "core_text": "Tales to Astonish #44 (debut) → The Avengers #1, #16 → The Avengers #213, #217 (her response to Hank's abuse) → #227–230 (Janet takes the chair) → #273–277 (“Under Siege,” leadership under pressure) → Secret Invasion #1–8 (major later turning point).",
+    "extras_text": "Avengers (1998) #1–4 (team relaunch); Unstoppable Wasp (2017) #1–8 (Nadia Pym/Janet mentorship, a different Wasp); Avengers #500–503 (collapse of the old institution). Janet was a founder and later an important chair, not simply Hank's partner."
+  },
+  {
+    "name": "Steve Rogers / Captain America (early recruit)",
+    "universe": "Avengers",
+    "medium": "comics",
+    "core": [
+      "Captain America Comics #1 (1941 historical debut)",
+      "The Avengers #4 (return)",
+      "#16 (leads the new roster)",
+      "Captain America (2004) #1–25 (Brubaker's Winter Soldier and Civil War era)",
+      "Civil War #1–7",
+      "Captain America #25–42 (aftermath and Bucky)."
+    ],
+    "extras": [
+      "Captain America: Man Out of Time #1–5 (accessible retelling of his adjustment)",
+      "The Avengers #273–277 (team solidarity). He is here because the team becomes hard to understand without him, while he is explicitly not one of the five founders."
+    ],
+    "core_text": "Captain America Comics #1 (1941 historical debut) → The Avengers #4 (return) → #16 (leads the new roster) → Captain America (2004) #1–25 (Brubaker's Winter Soldier and Civil War era) → Civil War #1–7 → Captain America #25–42 (aftermath and Bucky).",
+    "extras_text": "Captain America: Man Out of Time #1–5 (accessible retelling of his adjustment); The Avengers #273–277 (team solidarity). He is here because the team becomes hard to understand without him, while he is explicitly not one of the five founders."
+  }
+]
