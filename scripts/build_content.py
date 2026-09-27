@@ -88,6 +88,8 @@ for entry in CONFIG:
     html, count = re.subn(r'<script type="application/ld\+json">.*?</script>', lambda _: replacement, html, count=1, flags=re.S)
     assert count == 1, f"Missing Article JSON-LD: {slug}"
 
+    if '<a href="../../guides/">Guides</a>' not in html:
+        html = html.replace('<a href="../../search/">Search</a>', '<a href="../../guides/">Guides</a><a href="../../search/">Search</a>', 1)
     if '<a href="../../search/">Search</a>' not in html:
         html = html.replace('<a href="../../#about">About</a>', '<a href="../../search/">Search</a><a href="../../#about">About</a>', 1)
     html = re.sub(r"\s*<!-- topics:start -->.*?<!-- topics:end -->\s*(?=<div class=\"article-end\">)", "", html, flags=re.S)

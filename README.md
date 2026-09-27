@@ -50,3 +50,7 @@ Give each article a unique `<title>`, description, H1, canonical URL and useful 
 The site uses a magazine-inspired masthead, warm paper and ink palette, and original CSS illustrations for its story covers. It currently has no licensed game imagery or social preview image. To add one, follow the rights and `<figure>` instructions in `IMAGE-RIGHTS.md`, then add an `og:image` only when the same permission covers sharing a social preview.
 
 For optional private page analytics and public article view counters, see [`GOATCOUNTER.md`](GOATCOUNTER.md). Enter the counting URL once in `assets/analytics.js`; all pages already load the dormant template.
+
+## Character guides
+
+The Guides section lives at `guides/`. Edit `content/guides/screen.md` and `content/guides/comics.md`, then run `python3 scripts/build_guides.py`. Commit the source files, generated `content/guides.json`, and `guides/index.html` together. Each character is a three-column Markdown table row (`Character | Core | Extras`); separate core steps with `→` and optional notes with semicolons. The builder preserves the full wording as searchable text, produces static HTML cards for indexing and no-JavaScript reading, and checks that entries were parsed. The filter/sort interaction is in `assets/guides.js`. Update the edition date and scope notes when adding new releases or comics.
