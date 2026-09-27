@@ -9,6 +9,7 @@
   <meta name="description" content="Search Peter D’Souza’s essays and lists on games, comics, characters and game design.">
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../assets/style.css">
+  <script src="../assets/search-utils.js" defer></script>
   <script src="../assets/search.js" defer></script>
   <script defer src="../assets/analytics.js"></script>
 </head>
@@ -21,7 +22,7 @@
   </div></header>
   <main class="shell" id="main">
     <div class="search-header"><span class="eyebrow">Explore the archive</span><h1>Find a story.</h1><p>Search the article text, headlines and topics, or choose a tag below. All results are drawn from the stories on this site.</p>
-      <form class="search-form" action="./" method="get" role="search"><label class="skip" for="search-input">Search articles</label><input id="search-input" name="q" type="search" placeholder="Try Batman, worldbuilding, or RPGs" autocomplete="off"><button type="submit">Search</button></form>
+      <form class="search-form" action="./" method="get" role="search"><label class="skip" for="search-input">Search articles</label><div class="search-input-wrap"><input id="search-input" name="q" type="search" placeholder="Try Batman, worldbuilding, or RPGs" autocomplete="off"><div class="suggestions" id="search-suggestions" hidden></div></div><button type="submit">Search</button></form>
       <div class="search-filters" id="tag-filters" aria-label="Filter by topic"></div>
     </div>
     <p class="search-count" id="search-count" role="status" aria-live="polite">Loading stories…</p>

@@ -7,6 +7,8 @@
   const coreOnly = document.getElementById('core-only');
   const status = document.getElementById('guide-status');
   const empty = document.getElementById('guide-empty');
+  const suggest = window.FourthFrameSearch;
+  const suggestionList = document.getElementById('guide-suggestions');
   let medium = 'all';
   let universe = 'all';
 
@@ -17,7 +19,7 @@
   }
 
   function update() {
-    const needle = query.value.trim().toLocaleLowerCase();
+    const needle = query.value.trim();
     const ordered = cards.map((card, index) => ({ card, index }));
     if (sort.value !== 'editorial') ordered.sort((a, b) => {
       const byName = a.card.dataset.name.localeCompare(b.card.dataset.name);
@@ -32,7 +34,7 @@
     cards.forEach(card => {
       const matches = (medium === 'all' || card.dataset.medium === medium) &&
         (universe === 'all' || card.dataset.universe === universe) &&
-        (!needle || card.dataset.search.includes(needle));
+        suggest.matches(card.dataset.search, needle);
       card.hidden = !matches;
       if (matches) visible += 1;
     });
@@ -56,6 +58,23 @@
     update();
   });
   query.addEventListener('input', update);
+  suggest.suggestions(query, suggestionList, () => {
+    const eligible = cards.filter(card => (medium === 'all' || card.dataset.medium === medium) &&
+      (universe === 'all' || card.dataset.universe === universe));
+    const names = eligible.flatMap(card => {
+      const full = card.querySelector('h3').textContent;
+      const short = full.split('/').map(part => part.replace(/^MCU\s+/, '').trim());
+      return [full, ...short.filter(part => part !== full)].map(value => ({
+        label: value === full ? full : `${value} · ${full}`,
+        value: value === full ? full : value
+      }));
+    });
+    const titles = eligible.flatMap(card => [...card.querySelectorAll('ol li')].map(item => ({
+      label: `${item.textContent} · ${card.querySelector('h3').textContent}`,
+      value: item.textContent
+    })));
+    return [...names, ...titles];
+  }, update);
   sort.addEventListener('change', update);
   coreOnly.addEventListener('change', update);
   update();
