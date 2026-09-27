@@ -54,3 +54,5 @@ For optional private page analytics and public article view counters, see [`GOAT
 ## Character guides
 
 The Guides section lives at `guides/`. Edit `content/guides/screen.md` and `content/guides/comics.md`, then run `python3 scripts/build_guides.py`. Commit the source files, generated `content/guides.json`, and `guides/index.html` together. Each character is a three-column Markdown table row (`Character | Core | Extras`); separate core steps with `→` and optional notes with semicolons. The builder preserves the full wording as searchable text, produces static HTML cards for indexing and no-JavaScript reading, and checks that entries were parsed. The filter/sort interaction is in `assets/guides.js`. Update the edition date and scope notes when adding new releases or comics.
+
+Search suggestions and punctuation-tolerant matching are shared by the article archive and character guides in `assets/search-utils.js`. Search matches forms such as `Spider-Man`, `Spider Man` and `spiderman`; suggestions use article titles/topics or character names/route steps.

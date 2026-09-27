@@ -4,11 +4,13 @@
   const filters = document.querySelector("#tag-filters");
   const count = document.querySelector("#search-count");
   const results = document.querySelector("#results");
+  const suggest = window.FourthFrameSearch;
+  const suggestionList = document.querySelector('#search-suggestions');
   const params = new URLSearchParams(location.search);
   let selectedTag = params.get("tag") || "";
   let articles = [];
 
-  const normalize = value => value.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  const normalize = suggest.normalize;
   const occurrences = (text, term) => text.split(term).length - 1;
 
   function updateUrl() {
@@ -63,10 +65,11 @@
       const body = normalize(article.body);
       const combined = title + " " + tags + " " + description + " " + body;
       if (selectedTag && !article.tags.includes(selectedTag)) return null;
-      if (!terms.every(term => combined.includes(term))) return null;
+      if (!suggest.matches(combined, input.value)) return null;
       const score = terms.reduce((total, term) =>
-        total + occurrences(title, term) * 8 + occurrences(tags, term) * 7 +
-        occurrences(description, term) * 3 + Math.min(occurrences(body, term), 5), 0);
+        total + (occurrences(title, term) + occurrences(suggest.compact(title), suggest.compact(term))) * 8 +
+        occurrences(tags, term) * 7 + occurrences(description, term) * 3 +
+        Math.min(occurrences(body, term), 5), 0);
       return { article, score };
     }).filter(Boolean).sort((a, b) => b.score - a.score);
 
@@ -104,6 +107,14 @@
     renderResults();
   });
 
+  const dropdown = suggest.suggestions(input, suggestionList, () => {
+    const available = selectedTag ? articles.filter(article => article.tags.includes(selectedTag)) : articles;
+    const names = available.map(article => ({ label: article.title, value: article.title }));
+    const tags = [...new Set(articles.flatMap(article => article.tags))]
+      .map(tag => ({ label: `Topic: ${tag}`, value: tag }));
+    return [...names, ...tags];
+  }, () => { updateUrl(); renderResults(); });
+
   fetch("../search-index.json")
     .then(response => {
       if (!response.ok) throw new Error("Search index could not be loaded.");
@@ -114,6 +125,7 @@
       if (!articles.some(article => article.tags.includes(selectedTag))) selectedTag = "";
       renderFilters();
       renderResults();
+      dropdown.refresh();
     })
     .catch(() => {
       count.textContent = "Search unavailable";
