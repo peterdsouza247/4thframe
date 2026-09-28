@@ -15,22 +15,24 @@ No build step is needed. The committed `.nojekyll` file tells Pages to serve the
 Article files (updated by `scripts/add_article.py`):
 
 <!-- article-files:start -->
-
-- Halo article: `stories/halo-starting-over/index.html`
-- Mass Effect article: `stories/mass-effect-revisited/index.html`
-- Warcraft III heroes article: `stories/warcraft-iii-heroes/index.html`
-- Warcraft III campaigns article: `stories/replay-warcraft-iii-campaigns/index.html`
-- Telltale Batman article: `stories/telltales-batman-reinvention/index.html`
-- Vampire list: `stories/vampires-in-gaming/index.html`
-- Wolverine list: `stories/wolverine-storylines/index.html`
-- J2ME games list: `stories/best-j2me-games/index.html`
-- J2ME history list: `stories/j2me-mobile-gaming-history/index.html`
-- NES games list: `stories/underrated-nes-games/index.html`
-- Consoles list: `stories/consoles-deserved-better/index.html`
-- Cancelled games list: `stories/cancelled-games-masterpieces/index.html`
-- WoW: Forever essay: `stories/when-the-world-stopped-being-the-point/index.html`
-- Elden Ring essay: `stories/what-made-elden-ring-great/index.html`
-- MMO worlds list: `stories/mmos-that-transported-us/index.html`
+- telltales-batman-reinvention: `stories/telltales-batman-reinvention/index.html`
+- halo-starting-over: `stories/halo-starting-over/index.html`
+- mass-effect-revisited: `stories/mass-effect-revisited/index.html`
+- warcraft-iii-heroes: `stories/warcraft-iii-heroes/index.html`
+- replay-warcraft-iii-campaigns: `stories/replay-warcraft-iii-campaigns/index.html`
+- vampires-in-gaming: `stories/vampires-in-gaming/index.html`
+- wolverine-storylines: `stories/wolverine-storylines/index.html`
+- best-j2me-games: `stories/best-j2me-games/index.html`
+- j2me-mobile-gaming-history: `stories/j2me-mobile-gaming-history/index.html`
+- underrated-nes-games: `stories/underrated-nes-games/index.html`
+- consoles-deserved-better: `stories/consoles-deserved-better/index.html`
+- cancelled-games-masterpieces: `stories/cancelled-games-masterpieces/index.html`
+- when-the-world-stopped-being-the-point: `stories/when-the-world-stopped-being-the-point/index.html`
+- what-made-elden-ring-great: `stories/what-made-elden-ring-great/index.html`
+- mmos-that-transported-us: `stories/mmos-that-transported-us/index.html`
+- master-one-way-or-mix: `stories/master-one-way-or-mix/index.html`
+- when-the-fight-stopped-moving: `stories/when-the-fight-stopped-moving/index.html`
+- from-browser-duel-to-full-game: `stories/from-browser-duel-to-full-game/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
@@ -50,6 +52,25 @@ Give each article a unique `<title>`, description, H1, canonical URL and useful 
 The site uses a magazine-inspired masthead, warm paper and ink palette, and original CSS illustrations for its story covers. It currently has no licensed game imagery or social preview image. To add one, follow the rights and `<figure>` instructions in `IMAGE-RIGHTS.md`, then add an `og:image` only when the same permission covers sharing a social preview.
 
 For optional private page analytics and public article view counters, see [`GOATCOUNTER.md`](GOATCOUNTER.md). Enter the counting URL once in `assets/analytics.js`; all pages already load the dormant template.
+
+## Development Journal
+
+The three *Masters of the Way* draft entries have editable Markdown in
+`content/journal/`. Review the first-person wording and playtest claims before
+merging this change. Their generated pages live in `stories/`, their cards in
+the homepage Journal section, and their full text in site search.
+
+After editing a draft, run for example:
+
+```bash
+python3 scripts/update_journal.py content/journal/when-the-fight-stopped-moving.md
+```
+
+The command regenerates its page, homepage card, tags, related links and search
+index. For a new entry, use `ARTICLE-TEMPLATE.md` with `type: "Journal"`, save
+it in `content/journal/`, then use `scripts/add_article.py` as above. Keep the
+Markdown source with the generated HTML. The journal describes Peter's own
+game and is identified as such on the homepage.
 
 ## Character guides
 

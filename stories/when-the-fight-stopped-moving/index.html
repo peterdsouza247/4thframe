@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171c28">
+  <title>When the fight stopped moving | Fourth Frame</title>
+  <meta name="description" content="How a range stalemate exposed a flaw in Masters of the Way, and what the current fix still needs from live playtests.">
+  <link rel="canonical" href="https://peterdsouza247.github.io/4thframe/stories/when-the-fight-stopped-moving/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="When the fight stopped moving">
+  <meta property="og:description" content="How a range stalemate exposed a flaw in Masters of the Way, and what the current fix still needs from live playtests.">
+  <meta property="og:url" content="https://peterdsouza247.github.io/4thframe/stories/when-the-fight-stopped-moving/">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/style.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "When the fight stopped moving", "description": "How a range stalemate exposed a flaw in Masters of the Way, and what the current fix still needs from live playtests.", "inLanguage": "en", "articleSection": "Journal", "keywords": ["Masters of the Way", "Game development", "Playtesting", "Game design"], "mainEntityOfPage": "https://peterdsouza247.github.io/4thframe/stories/when-the-fight-stopped-moving/", "author": {"@type": "Person", "name": "Peter D’Souza", "url": "https://peterdsouza247.github.io/4thframe/#about"}, "publisher": {"@type": "Organization", "name": "Fourth Frame", "url": "https://peterdsouza247.github.io/4thframe/"}}</script>
+  <script defer src="../../assets/analytics.js"></script>
+
+  <!-- site-meta:start -->
+  <meta name="author" content="Peter D’Souza">
+  <meta property="og:site_name" content="Fourth Frame">
+  <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="When the fight stopped moving">
+  <meta name="twitter:description" content="How a range stalemate exposed a flaw in Masters of the Way, and what the current fix still needs from live playtests.">
+  <meta property="article:tag" content="Masters of the Way">
+  <meta property="article:tag" content="Game development">
+  <meta property="article:tag" content="Playtesting">
+  <meta property="article:tag" content="Game design">
+  <!-- site-meta:end -->
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="mast"><div class="shell">
+    <div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div>
+    <div class="mast-row"><a class="wordmark" href="../../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div>
+    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#lists">Lists</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
+  </div></header>
+  <main id="main">
+    <header class="article-header wrap"><span class="kicker">Masters of the Way / Playtesting</span><h1>When the fight stopped moving</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
+    <div class="article-band warcraft-band" aria-hidden="true"><span>DEVELOPMENT JOURNAL</span></div>
+    <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>Journal / 1 min</aside><article class="article-body">
+<p>One of the first useful reports about <a href="https://peterdsouza247.github.io/masters-of-the-way/">Masters of the Way</a> described a duel that just kept going. Kevin and Shanna found a fight where both sides were stuck at Far range with hands full of cards they couldn&#x27;t use. The turn counter advanced; the fight did not.</p>
+<p>It was more than an AI mistake. Range is meant to be a tactical constraint, but the game needs a way to resolve a position where neither fighter can act. Otherwise a deck-building decision becomes an endless loop.</p>
+<h2>The current response</h2>
+<p>The build now offers <strong>Reset stance</strong> when a player has no playable card: spend one stamina, discard the hand and draw again. The AI can do the same. If several turns still pass without action, the referee brings the fighters to Close range. A second stalemate there goes to a decision, and a hard turn cap is the final backstop.</p>
+<p>The forfeit option also gives a player a deliberate way out of a match. It asks for confirmation and records the result rather than silently abandoning the duel.</p>
+<h2>What code cannot confirm</h2>
+<p>Those paths exist in the game, but the reported Reyes-at-Far case still needs a live replay. I want a playtester to see the fix in a normal match and tell me whether it feels like a fair referee intervention or an invisible correction to a deck problem.</p>
+<p>The lesson for the itch playtest is straightforward: a match ending is necessary, but <em>how</em> it ends matters. I would rather hear about an awkward decision than have a stuck fight quietly disappear from the record.</p>
+
+<!-- topics:start -->
+<div class="article-tags" aria-label="Topics"><span>Explore topics</span><a href="../../search/?tag=Masters%20of%20the%20Way">Masters of the Way</a> <a href="../../search/?tag=Game%20development">Game development</a> <a href="../../search/?tag=Playtesting">Playtesting</a> <a href="../../search/?tag=Game%20design">Game design</a></div>
+<aside class="related-stories" aria-label="Related stories"><h2>Keep reading</h2><ul><li><a href="../../stories/master-one-way-or-mix/">Master one way, or take what works from everywhere?</a></li></ul></aside>
+<!-- topics:end -->
+<div class="article-end"><a href="../../#journal">← More journal entries</a></div>
+    </article></div>
+  </main>
+  <footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>

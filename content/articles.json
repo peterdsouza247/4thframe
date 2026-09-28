@@ -217,5 +217,45 @@
       "when-the-world-stopped-being-the-point",
       "j2me-mobile-gaming-history"
     ]
+  },
+  {
+    "slug": "master-one-way-or-mix",
+    "type": "Journal",
+    "tags": [
+      "Masters of the Way",
+      "Game development",
+      "Card games",
+      "Martial arts"
+    ],
+    "related": [
+      "what-made-elden-ring-great"
+    ]
+  },
+  {
+    "slug": "when-the-fight-stopped-moving",
+    "type": "Journal",
+    "tags": [
+      "Masters of the Way",
+      "Game development",
+      "Playtesting",
+      "Game design"
+    ],
+    "related": [
+      "master-one-way-or-mix"
+    ]
+  },
+  {
+    "slug": "from-browser-duel-to-full-game",
+    "type": "Journal",
+    "tags": [
+      "Masters of the Way",
+      "Game development",
+      "Roadmap",
+      "Card games"
+    ],
+    "related": [
+      "master-one-way-or-mix",
+      "when-the-fight-stopped-moving"
+    ]
   }
 ]
