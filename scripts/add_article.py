@@ -67,8 +67,8 @@ def parse_markdown(source):
     for key in REQUIRED - {"tags"}:
         if not isinstance(fields[key], str) or not fields[key].strip():
             fail(f"{key} must be nonempty text")
-    if fields["type"] not in {"Long read", "List"}:
-        fail('type must be "Long read" or "List"')
+    if fields["type"] not in {"Long read", "List", "Journal"}:
+        fail('type must be "Long read", "List", or "Journal"')
     if not SLUG.fullmatch(fields["slug"]):
         fail("slug must contain lowercase letters, numbers and single hyphens")
     if not fields["tags"] or len(fields["tags"]) != len(set(fields["tags"])):
@@ -145,7 +145,7 @@ def article_html(meta, body_html, minutes):
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
     band = "list-band" if meta["type"] == "List" else "warcraft-band"
-    section = "lists" if meta["type"] == "List" else "long-reads"
+    section = "lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads")
     schema = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title,
                          "description": meta["description"], "mainEntityOfPage": canonical}, ensure_ascii=False).replace("<", "\\u003c")
     return f'''<!doctype html>
@@ -171,14 +171,14 @@ def article_html(meta, body_html, minutes):
   <header class="mast"><div class="shell">
     <div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div>
     <div class="mast-row"><a class="wordmark" href="../../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div>
-    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#lists">Lists</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
+    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#lists">Lists</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
   </div></header>
   <main id="main">
     <header class="article-header wrap"><span class="kicker">{h(meta['category'])}</span><h1>{h(title)}</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
     <div class="article-band {band}" aria-hidden="true"><span>{h(label)}</span></div>
     <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>{h(meta['type'])} / {minutes} min</aside><article class="article-body">
 {body_html}
-<div class="article-end"><a href="../../#{section}">← More {h(meta['type'].lower())}s</a></div>
+<div class="article-end"><a href="../../#{section}">← {"More journal entries" if meta['type'] == 'Journal' else 'More ' + h(meta['type'].lower()) + 's'}</a></div>
     </article></div>
   </main>
   <footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
@@ -190,6 +190,10 @@ def article_html(meta, body_html, minutes):
 def homepage_card(meta, minutes):
     h = lambda value: escape(value, quote=True)
     slug = meta["slug"]
+    if meta["type"] == "Journal":
+        return (f'    <article class="journal-entry"><span class="eyebrow">Development journal / {h(meta["category"])}</span>'
+                f'<h3><a href="stories/{slug}/">{h(meta["title"])}</a></h3>'
+                f'<p>{h(meta["summary"])}</p><span class="meta">Peter D’Souza · {minutes} min</span></article>\n')
     if meta["type"] == "List":
         return f'    <div class="list-row"><span class="section-id">00</span><h3><a href="stories/{slug}/">{h(meta["title"])}</a></h3><span class="meta">{h(meta["category"])} ↗</span></div>\n'
     art = meta.get("art", "mass")
@@ -198,6 +202,10 @@ def homepage_card(meta, minutes):
 
 def update_home(home, meta, minutes):
     card = homepage_card(meta, minutes)
+    if meta["type"] == "Journal":
+        marker = '    <!-- journal-entries:start -->\n'
+        assert marker in home, "Missing journal section marker"
+        return home.replace(marker, marker + card, 1)
     if meta["type"] == "List":
         start = home.index('  <section class="lists shell"')
         end = home.index("  </section>", start)

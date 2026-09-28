@@ -92,6 +92,8 @@ for entry in CONFIG:
         html = html.replace('<a href="../../search/">Search</a>', '<a href="../../guides/">Guides</a><a href="../../search/">Search</a>', 1)
     if '<a href="../../search/">Search</a>' not in html:
         html = html.replace('<a href="../../#about">About</a>', '<a href="../../search/">Search</a><a href="../../#about">About</a>', 1)
+    if '<a href="../../#journal">Journal</a>' not in html:
+        html = html.replace('<a href="../../guides/">Guides</a>', '<a href="../../#journal">Journal</a><a href="../../guides/">Guides</a>', 1)
     html = re.sub(r"\s*<!-- topics:start -->.*?<!-- topics:end -->\s*(?=<div class=\"article-end\">)", "", html, flags=re.S)
     chips = " ".join(
         f'<a href="../../search/?tag={quote(tag)}">{escape(tag)}</a>' for tag in entry["tags"]
