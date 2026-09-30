@@ -9,6 +9,7 @@ tags: ["Game design", "RPGs"]
 related: ["what-made-elden-ring-great"]
 cover_label: "ANALYSIS"
 art: elden
+# section: "Screen" # For TV or film long reads in the homepage Screen section.
 # published: 2026-09-26
 ---
 

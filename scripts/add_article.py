@@ -24,7 +24,7 @@ STORIES = ROOT / "stories"
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 LOCAL_IMAGE = re.compile(r"(?:\.\./\.\./)?assets/images/[a-zA-Z0-9_./-]+\Z")
 REQUIRED = {"title", "slug", "type", "description", "summary", "category", "tags"}
-OPTIONAL = {"related", "cover_label", "art", "published"}
+OPTIONAL = {"related", "cover_label", "art", "published", "section"}
 
 
 def fail(message):
@@ -69,6 +69,8 @@ def parse_markdown(source):
             fail(f"{key} must be nonempty text")
     if fields["type"] not in {"Long read", "List", "Journal"}:
         fail('type must be "Long read", "List", or "Journal"')
+    if fields.get("section") and (fields["section"], fields["type"]) != ("Screen", "Long read"):
+        fail('section may only be "Screen" for a Long read')
     if not SLUG.fullmatch(fields["slug"]):
         fail("slug must contain lowercase letters, numbers and single hyphens")
     if not fields["tags"] or len(fields["tags"]) != len(set(fields["tags"])):
@@ -144,8 +146,8 @@ def article_html(meta, body_html, minutes):
     h = lambda value: escape(value, quote=True)
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
-    band = "list-band" if meta["type"] == "List" else "warcraft-band"
-    section = "lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads")
+    band = (meta.get("art", "pantheon") + "-band") if meta.get("section") == "Screen" else ("list-band" if meta["type"] == "List" else "warcraft-band")
+    section = "screen" if meta.get("section") == "Screen" else ("lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads"))
     schema = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title,
                          "description": meta["description"], "mainEntityOfPage": canonical}, ensure_ascii=False).replace("<", "\\u003c")
     return f'''<!doctype html>
@@ -171,14 +173,14 @@ def article_html(meta, body_html, minutes):
   <header class="mast"><div class="shell">
     <div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div>
     <div class="mast-row"><a class="wordmark" href="../../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div>
-    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#lists">Lists</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
+    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#screen">Screen</a><a href="../../#lists">Lists</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
   </div></header>
   <main id="main">
     <header class="article-header wrap"><span class="kicker">{h(meta['category'])}</span><h1>{h(title)}</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
     <div class="article-band {band}" aria-hidden="true"><span>{h(label)}</span></div>
     <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>{h(meta['type'])} / {minutes} min</aside><article class="article-body">
 {body_html}
-<div class="article-end"><a href="../../#{section}">← {"More journal entries" if meta['type'] == 'Journal' else 'More ' + h(meta['type'].lower()) + 's'}</a></div>
+<div class="article-end"><a href="../../#{section}">← {"More screen stories" if section == 'screen' else ("More journal entries" if meta['type'] == 'Journal' else 'More ' + h(meta['type'].lower()) + 's')}</a></div>
     </article></div>
   </main>
   <footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
@@ -197,11 +199,16 @@ def homepage_card(meta, minutes):
     if meta["type"] == "List":
         return f'    <div class="list-row"><span class="section-id">00</span><h3><a href="stories/{slug}/">{h(meta["title"])}</a></h3><span class="meta">{h(meta["category"])} ↗</span></div>\n'
     art = meta.get("art", "mass")
-    return f'      <article class="story"><div class="story-art {art}" aria-hidden="true"><span class="art-label">{h(meta["category"])} / 00</span></div><div class="story-text"><span class="eyebrow">{h(meta["category"])}</span><h3><a href="stories/{slug}/">{h(meta["title"])}</a></h3><p>{h(meta["summary"])}</p><div class="meta"><span>Peter D’Souza</span><span>{minutes} min</span></div></div></article>\n'
+    label = h(meta["category"]) + ("" if meta.get("section") == "Screen" else " / 00")
+    return f'      <article class="story"><div class="story-art {art}" aria-hidden="true"><span class="art-label">{label}</span></div><div class="story-text"><span class="eyebrow">{h(meta["category"])}</span><h3><a href="stories/{slug}/">{h(meta["title"])}</a></h3><p>{h(meta["summary"])}</p><div class="meta"><span>Peter D’Souza</span><span>{minutes} min</span></div></div></article>\n'
 
 
 def update_home(home, meta, minutes):
     card = homepage_card(meta, minutes)
+    if meta.get("section") == "Screen":
+        marker = '      <!-- screen-entries:start -->\n'
+        assert marker in home, "Missing Screen section marker"
+        return home.replace(marker, marker + card, 1)
     if meta["type"] == "Journal":
         marker = '    <!-- journal-entries:start -->\n'
         assert marker in home, "Missing journal section marker"
