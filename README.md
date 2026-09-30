@@ -34,6 +34,8 @@ Article files (updated by `scripts/add_article.py`):
 - when-the-fight-stopped-moving: `stories/when-the-fight-stopped-moving/index.html`
 - from-browser-duel-to-full-game: `stories/from-browser-duel-to-full-game/index.html`
 - why-pantheons-ai-story-feels-so-personal: `stories/why-pantheons-ai-story-feels-so-personal/index.html`
+- why-heroes-is-still-worth-watching: `stories/why-heroes-is-still-worth-watching/index.html`
+- who-is-a-football-club-for: `stories/who-is-a-football-club-for/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`

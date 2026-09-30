@@ -272,5 +272,35 @@
       "telltales-batman-reinvention",
       "mass-effect-revisited"
     ]
+  },
+  {
+    "slug": "why-heroes-is-still-worth-watching",
+    "type": "Long read",
+    "tags": [
+      "Heroes",
+      "TV",
+      "Superheroes",
+      "Science fiction",
+      "Retrospectives"
+    ],
+    "related": [
+      "why-pantheons-ai-story-feels-so-personal",
+      "telltales-batman-reinvention"
+    ]
+  },
+  {
+    "slug": "who-is-a-football-club-for",
+    "type": "Long read",
+    "tags": [
+      "Ted Lasso",
+      "AFC Richmond",
+      "Manchester City",
+      "Football",
+      "Ownership"
+    ],
+    "related": [
+      "why-pantheons-ai-story-feels-so-personal",
+      "why-heroes-is-still-worth-watching"
+    ]
   }
 ]
