@@ -40,7 +40,7 @@
     });
     grid.classList.toggle('core-only', coreOnly.checked);
     empty.hidden = visible > 0;
-    status.textContent = `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only' : ''}. Select a card to read its path.`;
+    status.textContent = `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only in watch/read routes' : ''}. Choose a series or character to begin.`;
   }
 
   document.querySelector('.guide-kind').addEventListener('click', event => {

@@ -95,3 +95,7 @@ page = '''<!doctype html>
 </body></html>'''
 OUT.write_text(page.replace('__COUNT__', str(len(routes))).replace('__CARDS__', cards), encoding='utf-8')
 print(f'Built {len(routes)} character routes ({sum(r["medium"]=="screen" for r in routes)} screen, {sum(r["medium"]=="comics" for r in routes)} comics)')
+
+# Reapply the game catalogue after regenerating the watch/read routes.
+from build_game_guides import main as build_games
+build_games()
