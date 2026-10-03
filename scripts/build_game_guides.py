@@ -10,13 +10,17 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://peterdsouza247.github.io/4thframe/'
 
 
+def game_world_tiles(guides):
+    return ''.join(f'<article class="world-tile" data-world="{esc(g["name"],quote=True)}" data-medium="games"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Games / Lore &amp; entry points</p><h3>{esc(g["name"])}</h3><p>{esc(g["strap"])}</p><a class="world-primary" href="{g["slug"]}/">Explore the world <span aria-hidden="true">↗</span></a><a class="world-start" href="{g["slug"]}/#entry-points">Help me choose where to start</a></article>' for g in guides)
+
+
 def render(g):
     is_screen=g.get('medium')=='screen'
     medium_label='Screen' if is_screen else 'Games'
     verb='watch' if is_screen else 'play'
     completed_noun='title' if is_screen else 'game'
     route_noun='titles' if is_screen else 'games'
-    pilot_class=' lore-pilot' if is_screen else ''
+    pilot_class=' lore-pilot' if is_screen or g.get('strands') else ''
     events = {e['id']: e for e in g['events']}
     milestones = {m['value']: m for m in g['milestones']}
     assert len(events) == len(g['events']), 'Duplicate event ID'
@@ -73,8 +77,8 @@ def render(g):
     description=esc(g['description'],quote=True)
     atlas=''
     if g.get('strands'):
-        strands=''.join(f'<button type="button" class="lore-strand" data-strand="{esc(s["name"],quote=True)}"><span class="strand-orbit" aria-hidden="true"></span><span class="eyebrow">{esc(s["name"])}</span><strong>{esc(s["title"])}</strong><span>{esc(s["text"])}</span><span class="strand-link">Follow this strand ↓</span></button>' for s in g['strands'])
-        atlas=f'<section class="lore-atlas" id="story-strands" aria-labelledby="strands-title"><div class="section-head"><h2 id="strands-title">Three ways to understand the world.</h2></div><p>Choose the questions that interest you. Each strand leads to a smaller set of lore milestones.</p><div class="lore-strands">{strands}</div></section>'
+        strands=''.join(f'<button type="button" class="lore-strand" data-strand="{esc(s["name"],quote=True)}"><span class="strand-orbit" aria-hidden="true"></span><span class="eyebrow">{esc(s["name"])}</span><strong>{esc(s["title"])}</strong><span>{esc(s["text"])}</span><span class="strand-link">{esc(g.get("strand_link","Follow this strand ↓"))}</span></button>' for s in g['strands'])
+        atlas=f'<section class="lore-atlas" id="story-strands" aria-labelledby="strands-title"><div class="section-head"><h2 id="strands-title">{esc(g.get("atlas_title","Three ways to understand the world."))}</h2></div><p>{esc(g.get("atlas_intro","Choose the questions that interest you. Each strand leads to a smaller set of lore milestones."))}</p><div class="lore-strands">{strands}</div></section>'
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#171c28">
 <title>{esc(g['name'])}: where to start, lore &amp; character guide | Fourth Frame</title><meta name="description" content="{description}"><link rel="canonical" href="{BASE}guides/{g['slug']}/"><meta property="og:type" content="article"><meta property="og:site_name" content="Fourth Frame"><meta property="og:title" content="{esc(g['name'])}: where to start"><meta property="og:description" content="{description}"><meta property="og:url" content="{BASE}guides/{g['slug']}/"><link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="../../assets/style.css"><link rel="stylesheet" href="../../assets/game-guides.css"><script defer src="../../assets/game-guides.js"></script><script defer src="../../assets/analytics.js"></script></head>
@@ -108,6 +112,7 @@ def main():
         cards+=f'''<article class="guide-card game-route" data-universe="{esc(g['name'])}" data-medium="games" data-name="{g['name'].lower()}" data-core-count="{len(g['entries'])}" data-search="{esc(search,quote=True)}"><div class="guide-card-top"><span class="guide-index">{i}</span><span class="guide-universe">{esc(g['name'])} / Play</span></div><h3><a href="{g['slug']}/">{esc(g['name'])}: where to start</a></h3><p>{esc(g['description'])}</p><p class="guide-card-summary">{len(g['entries'])} entry points · {len(g['characters'])} character guides</p><a class="game-guide-link" href="{g['slug']}/">Explore the guide</a></article>'''
     path=ROOT/'guides/index.html'
     page=path.read_text()
+    page=re.sub(r'<!-- game-worlds:start -->.*?<!-- game-worlds:end -->',lambda _: '<!-- game-worlds:start -->'+game_world_tiles(guides)+'<!-- game-worlds:end -->',page,flags=re.S)
     page=re.sub(r'<!-- game-guides:start -->.*?<!-- game-guides:end -->','',page,flags=re.S)
     marker='<section class="guide-grid" id="guide-grid" aria-label="Character routes">'
     assert marker in page
@@ -126,7 +131,9 @@ def main():
     page=page.replace('<link rel="stylesheet" href="../assets/style.css">','<link rel="stylesheet" href="../assets/style.css"><link rel="stylesheet" href="../assets/game-guides.css">') if 'href="../assets/game-guides.css"' not in page else page
     route_count=len(json.loads((ROOT/'content/guides.json').read_text()))+len(guides)
     page=re.sub(r'(<p class="guide-status"[^>]*>).*?(</p>)',lambda m:m[1]+f'{route_count} guides. Choose a series or character to begin.'+m[2],page,flags=re.S)
-    page=page.replace('Find where to start Warcraft and Mass Effect, or follow Marvel, Star Wars and DC characters through watch and reading routes.','Find welcoming starting points for twelve game series, plus Marvel, Star Wars and DC character watch and reading routes.')
+    description=f'Find welcoming starting points for {len(guides)} game series, plus Marvel, Star Wars and DC character watch and reading routes.'
+    page=re.sub(r'Find welcoming starting points for (?:twelve|\d+) game series, plus Marvel, Star Wars and DC character watch and reading routes\.',description,page)
+    page=page.replace('Find where to start Warcraft and Mass Effect, or follow Marvel, Star Wars and DC characters through watch and reading routes.',description)
     page=page.replace('Character or title</label>','Series, character or title</label>').replace('Character A–Z','Name A–Z')
     roadmap=json.loads((ROOT/'content/guides/game-roadmap.json').read_text())
     future=('<section class="game-roadmap"><h2>Next worlds to explore</h2><p>Planned guides: '+esc(', '.join(roadmap))+'.</p></section>') if roadmap else ''

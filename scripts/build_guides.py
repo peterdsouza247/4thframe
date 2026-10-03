@@ -5,6 +5,7 @@ import html
 import json
 import re
 from build_screen_guides import route_id
+from build_game_guides import game_world_tiles
 
 ROOT = Path(__file__).resolve().parents[1]
 SCREEN = ROOT / 'content/guides/screen.md'
@@ -68,10 +69,8 @@ def card(route, idx):
     </article>'''
 
 cards = '\n'.join(card(route, i) for i, route in enumerate(routes, 1))
-world_tiles=''
-for slug in json.loads((ROOT/'content/guides/game-series.json').read_text()):
-    g=json.loads((ROOT/'content/guides'/f'{slug}.json').read_text())
-    world_tiles+=f'<article class="world-tile" data-world="{esc(g["name"])}" data-medium="games"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Games / Lore &amp; entry points</p><h3>{esc(g["name"])}</h3><p>{esc(g["strap"])}</p><a class="world-primary" href="{slug}/">Explore the world <span aria-hidden="true">↗</span></a><a class="world-start" href="{slug}/#entry-points">Help me choose where to start</a></article>'
+game_slugs=json.loads((ROOT/'content/guides/game-series.json').read_text())
+world_tiles='<!-- game-worlds:start -->'+game_world_tiles([json.loads((ROOT/'content/guides'/f'{slug}.json').read_text()) for slug in game_slugs])+'<!-- game-worlds:end -->'
 screen_tiles='''<article class="world-tile world-featured" data-world="MCU" data-medium="screen"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Screen / New lore pilot</p><h3>Marvel Cinematic Universe</h3><p>Understand the people, institutions, and connections behind the shared world.</p><a class="world-primary" href="mcu/">Explore the lore <span aria-hidden="true">↗</span></a><button type="button" class="world-start" data-browse-world="MCU" data-browse-medium="screen">Choose a character route</button></article><article class="world-tile" data-world="Star Wars" data-medium="screen"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Screen / Character timelines</p><h3>Star Wars</h3><p>Follow a character across films, series, and selected animated arcs.</p><a class="world-primary" href="screen/#star-wars-cassian-andor">Explore a viewing timeline <span aria-hidden="true">↗</span></a><button type="button" class="world-start" data-browse-world="Star Wars" data-browse-medium="screen">Choose a character route</button></article>'''
 comic_tiles=''.join(f'<article class="world-tile" data-world="{world}" data-medium="comics"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Comics / Character routes</p><h3>{world}</h3><p>Find the core reading path and optional stories for your favourite characters.</p><button type="button" class="world-primary" data-browse-world="{world}" data-browse-medium="comics">Choose a character <span aria-hidden="true">↗</span></button></article>' for world in ['X-Men','Justice League','Avengers'])
 world_nav='<section class="world-grid" id="world-grid" aria-label="Choose a world">'+screen_tiles+world_tiles+comic_tiles+'</section>'
