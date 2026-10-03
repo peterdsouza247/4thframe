@@ -38,6 +38,11 @@
     document.getElementById('timeline-empty').hidden = visible > 0;
   }
   [limit,order,character,mainOnly,branch].filter(Boolean).forEach(control => control.addEventListener('change',update));
+  root.querySelectorAll('[data-strand]').forEach(button => button.addEventListener('click',() => {
+    if (!branch) return;
+    branch.value=button.dataset.strand;character.value='all';mainOnly.checked=false;update();
+    document.getElementById('timeline').scrollIntoView({block:'start'});branch.focus({preventScroll:true});
+  }));
   root.querySelectorAll('[data-follow]').forEach(button => {
     button.hidden = false;
     button.addEventListener('click',() => {

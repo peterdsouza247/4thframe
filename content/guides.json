@@ -155,13 +155,13 @@
       "Avengers: Infinity War",
       "Avengers: Endgame",
       "The Falcon and the Winter Soldier",
-      "Thunderbolts\\ / The New Avengers"
+      "Thunderbolts* / The New Avengers"
     ],
     "extras": [
       "Black Panther (Wakandan context)",
       "Black Panther: Wakanda Forever (Wakanda's wider place, little direct Bucky story)."
     ],
-    "core_text": "Captain America: The First Avenger → Captain America: The Winter Soldier → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → The Falcon and the Winter Soldier → Thunderbolts\\ / The New Avengers",
+    "core_text": "Captain America: The First Avenger → Captain America: The Winter Soldier → Captain America: Civil War → Avengers: Infinity War → Avengers: Endgame → The Falcon and the Winter Soldier → Thunderbolts* / The New Avengers",
     "extras_text": "Black Panther (Wakandan context); Black Panther: Wakanda Forever (Wakanda's wider place, little direct Bucky story)."
   },
   {
@@ -683,13 +683,13 @@
     "core": [
       "Black Widow",
       "Hawkeye",
-      "Thunderbolts\\ / The New Avengers"
+      "Thunderbolts* / The New Avengers"
     ],
     "extras": [
       "Avengers: Endgame (Natasha's fate)",
       "The Falcon and the Winter Soldier (John Walker and Val's recruitment)."
     ],
-    "core_text": "Black Widow → Hawkeye → Thunderbolts\\ / The New Avengers",
+    "core_text": "Black Widow → Hawkeye → Thunderbolts* / The New Avengers",
     "extras_text": "Avengers: Endgame (Natasha's fate); The Falcon and the Winter Soldier (John Walker and Val's recruitment)."
   },
   {
@@ -698,12 +698,12 @@
     "medium": "screen",
     "core": [
       "The Falcon and the Winter Soldier",
-      "Thunderbolts\\ / The New Avengers"
+      "Thunderbolts* / The New Avengers"
     ],
     "extras": [
       "Captain America: The Winter Soldier and Civil War (the shield's history)."
     ],
-    "core_text": "The Falcon and the Winter Soldier → Thunderbolts\\ / The New Avengers",
+    "core_text": "The Falcon and the Winter Soldier → Thunderbolts* / The New Avengers",
     "extras_text": "Captain America: The Winter Soldier and Civil War (the shield's history)."
   },
   {
@@ -712,13 +712,13 @@
     "medium": "screen",
     "core": [
       "Ant-Man and the Wasp",
-      "Thunderbolts\\ / The New Avengers"
+      "Thunderbolts* / The New Avengers"
     ],
     "extras": [
       "Avengers: Endgame (the Blip context",
       "no Ghost plot)."
     ],
-    "core_text": "Ant-Man and the Wasp → Thunderbolts\\ / The New Avengers",
+    "core_text": "Ant-Man and the Wasp → Thunderbolts* / The New Avengers",
     "extras_text": "Avengers: Endgame (the Blip context; no Ghost plot)."
   },
   {
@@ -768,12 +768,12 @@
     "universe": "MCU",
     "medium": "screen",
     "core": [
-      "Thunderbolts\\ / The New Avengers"
+      "Thunderbolts* / The New Avengers"
     ],
     "extras": [
       "The Falcon and the Winter Soldier, Black Widow, Ant-Man and the Wasp (team members' prior stories)."
     ],
-    "core_text": "Thunderbolts\\ / The New Avengers",
+    "core_text": "Thunderbolts* / The New Avengers",
     "extras_text": "The Falcon and the Winter Soldier, Black Widow, Ant-Man and the Wasp (team members' prior stories)."
   },
   {
