@@ -1,20 +1,20 @@
 ---
-title: "10 Overlooked Platforming Gems Worth Revisiting"
+title: "9 Overlooked Platforming Gems Worth Revisiting"
 slug: platforming-gems-worth-revisiting
 type: "List"
-description: "From Rescue Rangers and Power Rangers to Aladdin, Shinobi and Ristar, ten retro platforming picks worth revisiting, with the right versions explained."
-summary: "Cartoon heroes, stretchy arms and a ninja's dog: ten reasons to look beyond Mario and Sonic."
+description: "Rescue Rangers, Earthworm Jim, Jazz Jackrabbit, Dangerous Dave and more: nine retro platforming picks worth revisiting, with clear version notes."
+summary: "Cartoon heroes, ninja teamwork and DOS favourites: nine reasons to look beyond Mario and Sonic."
 category: "Games / Retro platformers"
-tags: ["Retro games", "Platformers", "NES", "SNES", "Mega Drive", "Lists"]
+tags: ["Retro games", "Platformers", "NES", "SNES", "Mega Drive", "DOS", "PC games", "Lists"]
 related: ["best-nes-famicom-shooters", "underrated-nes-games", "consoles-deserved-better"]
 cover_label: "ONE MORE JUMP"
 ---
 
 A cardboard box is a surprisingly good weapon when you are a chipmunk. Pick it up, throw it at a mechanical dog, then duck beneath another while your partner decides whether to help or hurl you across the screen. *Chip 'n Dale: Rescue Rangers* understood that a small set of good actions could carry an entire adventure.
 
-That is the appeal of this corner of platforming history. Mario and Sonic are obvious return visits, but the shelves around them held cartoon adaptations, odd mascots and action games with ideas worth borrowing. Some of these sold well. *Aladdin* and *The Lion King* are familiar names, hardly secret discoveries. The case here is for playing them again, alongside games that receive much less attention.
+That is the appeal of this corner of platforming history. Mario and Sonic are obvious return visits, but the cartridges and early PC games around them held cartoon adaptations, odd mascots and action games with ideas worth borrowing. Some of these sold well. *Aladdin* and *The Lion King* are familiar names, hardly secret discoveries. The case here is for playing them again, alongside games that receive much less attention.
 
-These are ten picks, not a strict ranking. The list stretches from straightforward platformers to action games where jumping shares the controller with fighting. Versions matter: a familiar title on a different console can be a different game altogether.
+These are nine picks across consoles and DOS, not a strict ranking. The list stretches from straightforward platformers to action games where jumping shares the controller with fighting. Versions matter: a familiar title on a different console can be a different game altogether.
 
 ## 1. Chip 'n Dale: Rescue Rangers
 
@@ -48,21 +48,21 @@ There are two recommendations under this heading. Capcom's *Aladdin* puts its em
 
 Choose the SNES game if platforming is the main attraction. Choose the Genesis game if expressive characters and swordplay are what you remember. Better still, try both and notice how the same source material produces different rhythms. They are separate games, not a single port with altered colours. The [Disney Classic Games Collection](https://www.digitaleclipse.com/games/disneyclassicgames) includes both 16-bit interpretations; it is an expanded package compared with the original 2019 collection. [Capcom version background](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_%28SNES_video_game%29); [Genesis mechanics](https://www.sega-16.com/2004/06/disneys-aladdin/).
 
-## 5. Shadow Dancer: The Secret of Shinobi
+## 5. Shadow of the Ninja
 
-**Version: Mega Drive/Genesis. Best for: deliberate action with an unusually useful dog.**
+**Version: NES, also known as Blue Shadow in Europe. Best for: a ninja adventure you can share.**
 
-The *Shinobi* name covers several different kinds of ninja game. For a less obvious return visit, *Shadow Dancer* deserves a turn. Its dog can pin an enemy down while you make the next move, adding another way to manage an encounter beyond throwing a shuriken or closing the distance yourself.
+A second ninja changes the appeal immediately. Hayate and Kaede can fight through Natsume's action platformer together, with enemies and gaps demanding attention even when there are two of you. Hanging from platforms and choosing when to commit to an attack make movement part of the fighting, rather than a pause between encounters.
 
-One hit is enough to kill you. That makes the distance to an enemy, the order of your attacks and the moment you commit to a jump matter. It is satisfying when a section that initially looks dangerous becomes a sequence you can execute cleanly. The Genesis game differs substantially from the arcade *Shadow Dancer*, so check the subtitle. *The Revenge of Shinobi* and *Shinobi III* are other strong directions to explore; neither should be confused with Tengen's much rougher NES adaptation of the original *Shinobi*. [Version and gameplay comparison](https://www.nintendolife.com/reviews/megadrive/shadow_dancer_the_secret_of_shinobi).
+The futuristic streets and machinery give the adventure a harsher atmosphere than the cartoon games here. Its difficulty asks both players to learn the route, and company does not make every jump forgiving. That is part of the satisfaction: clearing a troublesome section together feels earned. This entry is for the original NES game, called *Kage* in Japan and *Blue Shadow* in Europe; the later *Shadow of the Ninja Reborn* is a separate remake. [Original game and cooperative play](https://www.nintendo.com/en-gb/Games/NES/Shadow-of-the-Ninja--278865.html).
 
-## 6. Little Nemo: The Dream Master
+## 6. Earthworm Jim
 
-**Version: NES. Best for: exploring a strange world through changing abilities.**
+**Versions: the original Mega Drive/Genesis and SNES games. Best for: strange sights and physical comedy.**
 
-Nemo enters Slumberland with a bag of candy, which is a wonderfully peculiar starting loadout. Feed certain creatures and he can ride them or take on their abilities. A new animal can change how you read the terrain: something that looked unreachable becomes a route worth investigating. Gathering keys encourages you to search rather than race straight to the exit.
+Jim's suit gives him a gun, but his own body is the better joke. He can use his worm head as a whip to strike enemies and catch hooks, turning a ridiculous character design into a useful platforming move. The animation carries that absurdity into the way he stands, moves and reacts. Even the opening's cow-launching gag makes the world feel happily unhinged.
 
-There is a vulnerability to controlling a small child in this world, particularly when candy will only stun an enemy. The animals make the dream inviting, but the game can be demanding. Its appeal is the mixture of curiosity and danger, with each new capability making familiar space feel different. [Capcom's manual](https://www.world-of-nintendo.com/manuals/nes/little_nemo_dream_master.shtml) is a useful introduction to how the animal companions work.
+Shiny keeps interrupting the usual run-and-jump routine with different situations, including rocket races and the job of protecting Peter Puppy. Those detours give the game personality, although some are more frustrating than funny when you have to repeat them. Revisit it for its expressive action and willingness to be strange, rather than expecting every experiment to land. The 16-bit releases, later Special Edition and handheld adaptations are not all interchangeable. [Original versions and gameplay](https://en.wikipedia.org/wiki/Earthworm_Jim_%28video_game%29).
 
 ## 7. Darkwing Duck
 
@@ -72,32 +72,24 @@ The gas gun is the obvious tool, but Darkwing's cape and ability to hang from le
 
 Special gas adds further possibilities, including arrows that can help with traversal. It is a compact example of how a character's equipment can shape a platformer. Expect to learn troublesome sections rather than sail through on cartoon charm. If *DuckTales* is already on your replay list, this is a worthwhile companion with a sharper action emphasis. [Controls and special weapons](https://www.world-of-nintendo.com/manuals/nes/darkwing_duck.shtml).
 
-## 8. Ristar
+## 8. Jazz Jackrabbit
 
-**Version: Mega Drive/Genesis. Best for: a mascot who actually moves differently.**
+**Version: the original 1994 DOS game. Best for: fast movement with a gun in your hands.**
 
-Ristar reaches out with stretchy arms, grabs an enemy and pulls himself into a headbutt. The same emphasis on reaching and holding shapes the platforming. Where a conventional mascot game asks whether you can clear a gap, this one also asks what you can grab around it.
+Jazz brings mascot-platformer energy to the PC: a green rabbit, a red bandana and enough speed to make you watch the next stretch of ground carefully. His gun changes the rhythm. You can clear threats while moving, but running too eagerly still puts you into trouble. The pleasure is in finding a route you can take at pace without losing control of the situation.
 
-The movement takes a little adjustment if you arrive expecting Sonic's momentum. Give it that time. Reaching in different directions makes the character feel unusually tactile, and it gives the designers more to work with than a change of costume. There is a strong idea here that would still support a good game without the bright scenery or appealing star-shaped hero. This recommendation is for the Genesis release, not the separate Game Gear adaptation. [How the grab works](https://gamefaqs.gamespot.com/genesis/586423-ristar/reviews/87483).
+Collecting ammunition lets you switch away from the basic blaster, with weapons such as bouncing projectiles and missiles that split into a V-shaped shot. The [original on-disk manual](https://www.abandonwaredos.com/docawd.php?idg=1762&sf=jazz-jackrabbit-manual.txt&sg=Jazz+Jackrabbit&st=manual) explains the arsenal. This recommendation is for the first *Jazz Jackrabbit*, not its sequel. The [Jazz Jackrabbit Collection](https://www.gog.com/en/game/jazz_jackrabbit_collection) groups the original episodes, additional CD episodes and Holiday Hare outings, making the scope of the release worth checking.
 
-## 9. Rocket Knight Adventures
+## 9. Dangerous Dave
 
-**Version: Mega Drive/Genesis. Best for: a platformer that keeps changing the situation.**
+**Version: the 1990 DOS game. Best for: a small challenge with no room for careless jumps.**
 
-An armoured opossum with a rocket pack sounds like a mascot assembled from spare parts. Sparkster makes the combination work. Charging the pack and choosing a direction gives him a burst of movement that can serve traversal or attack. A good launch feels committed, with a destination you have to think about before letting go.
+Find the trophy, then reach the exit. *Dangerous Dave* gives you a goal that fits in a sentence, but the route can make you think twice. Fire, awkward ledges and moving enemies turn a simple screen into a sequence you need to understand. A gun or jetpack can change your options, making the journey to a useful pickup part of the problem.
 
-Konami surrounds that central move with changing scenery and encounters, so the game has room to surprise beyond its first clever idea. Its personality comes through in the action as much as the character design. The original *Rocket Knight Adventures* is included in [Rocket Knight Adventures: Re-Sparked](https://www.konami.com/games/eu/en/products/rocketknight/), alongside the two 16-bit *Sparkster* games. Those are distinct follow-ups, not alternate names for this adventure.
-
-## 10. Kid Chameleon
-
-**Version: Mega Drive/Genesis. Best for: secrets, transformations and a longer commitment.**
-
-The sunglasses suggest another attempt to make a mascot look cool. The masks are the reason to stay. A knight can climb walls, a samurai carries a sword, and other forms change what you can break, reach or survive. Finding a transformation can alter the route through a stage as well as your next fight.
-
-This is the untidy, ambitious pick. Branching paths and a long journey make it rewarding to investigate, but also harder to recommend for a quick evening than *Rescue Rangers*. Expect some friction and a little wandering. If you enjoy platformers where a power-up changes the possibilities of a level, there is plenty to discover beneath the attitude. [Masks and route design](https://www.gamespot.com/reviews/kid-chameleon-review/1900-6172342/).
+It is plainer and less fluid than the big 16-bit productions in this list, and its unforgiving hazards can make a short attempt end abruptly. The appeal is how quickly it gets down to business. There is very little between starting the game and having a jump worth concentrating on. Here, “Dave” means the original DOS *Dangerous Dave*, rather than *Dangerous Dave in the Haunted Mansion*. [John Romero's series history](https://www.dangerousdave.com/saga) identifies the 1990 PC release; his [level notes](https://rome.ro/dangerous-dave) describe the trophies, weapons and jetpack routes.
 
 ## Where to start
 
-For an easy first decision, choose *Rescue Rangers* with a friend, Capcom's *Aladdin* for platforming, or *Ristar* for an unfamiliar way to move. Save *Shadow Dancer* for an evening when you want to learn a precise sequence, and *Kid Chameleon* for when you have time to get lost.
+For an easy first decision, choose *Rescue Rangers* with a friend or Capcom's *Aladdin* for platforming. Try *Earthworm Jim* for strange comedy, *Jazz Jackrabbit* for speed, or *Dangerous Dave* for a compact DOS challenge. Pick *Shadow of the Ninja* when you want to learn a demanding route with someone beside you.
 
-The strongest reason to revisit these games is a specific action that still feels good: throwing the box, catching the ledge, launching the rocket. Get that right and an old cartridge needs very little help to become interesting again.
+The strongest reason to revisit these games is a specific action that still feels good: throwing the box, catching the ledge, landing the head whip. Get that right and an old game needs very little help to become interesting again.
