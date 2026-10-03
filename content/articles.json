@@ -302,5 +302,37 @@
       "why-pantheons-ai-story-feels-so-personal",
       "why-heroes-is-still-worth-watching"
     ]
+  },
+  {
+    "slug": "platforming-gems-worth-revisiting",
+    "type": "List",
+    "tags": [
+      "Retro games",
+      "Platformers",
+      "NES",
+      "SNES",
+      "Mega Drive",
+      "Lists"
+    ],
+    "related": [
+      "best-nes-famicom-shooters",
+      "underrated-nes-games",
+      "consoles-deserved-better"
+    ]
+  },
+  {
+    "slug": "best-nes-famicom-shooters",
+    "type": "List",
+    "tags": [
+      "Retro games",
+      "NES",
+      "Famicom",
+      "Shooters",
+      "Lists"
+    ],
+    "related": [
+      "platforming-gems-worth-revisiting",
+      "underrated-nes-games"
+    ]
   }
 ]
