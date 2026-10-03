@@ -1,9 +1,9 @@
 ---
-title: "10 NES and Famicom Shooters Worth Taking Flight For"
+title: "11 NES and Famicom Shooters Worth Taking Flight For"
 slug: best-nes-famicom-shooters
 type: "List"
-description: "Sky Destroyer, Galaga, 1943, Life Force and more: ten NES and Famicom aircraft and spacecraft shooters, ranked with clear version notes."
-summary: "From Sky Destroyer's ocean horizon to Life Force's alien interior, ten shooters with distinct reasons to return."
+description: "Macross, Gradius, Sky Destroyer and more: eleven NES and Famicom aircraft and spacecraft shooters, ranked with clear version notes."
+summary: "Transforming Valkyries, weapon upgrades and an ocean horizon: eleven shooters with distinct reasons to return."
 category: "Games / NES shooters"
 tags: ["Retro games", "NES", "Famicom", "Shooters", "Lists"]
 related: ["platforming-gems-worth-revisiting", "underrated-nes-games"]
@@ -14,9 +14,9 @@ The plane sits ahead of you, the ocean stretches to the horizon, and something d
 
 The NES and its Japanese counterpart, the Famicom, offered far more than one kind of flying shooter. Some built everything around a formation breaking apart. Others gave you a scrolling landscape, an upgrade decision or another player whose survival suddenly mattered as much as yours.
 
-This is an editorial ranking of ten games worth revisiting, balancing distinctive ideas, handling and variety. It includes real aircraft and fictional spacecraft, so *Galaga* belongs alongside *1943*. Japan-only Famicom releases are labelled. These recommendations concern the home versions, which can differ considerably from the arcade games bearing the same names. Familiar games sit beside less obvious picks; obscurity is not a requirement.
+This is an editorial ranking of eleven games worth revisiting, balancing distinctive ideas, handling and variety. It includes real aircraft and fictional spacecraft, so *Galaga* belongs alongside *1943*. Japan-only Famicom releases are labelled. These recommendations concern the home versions, which can differ considerably from the arcade games bearing the same names. Familiar games sit beside less obvious picks; obscurity is not a requirement.
 
-## 10. Sky Destroyer
+## 11. Sky Destroyer
 
 **Version: Famicom, Japan-only. Style: behind-the-plane aerial combat.**
 
@@ -24,7 +24,7 @@ Most games in this list show the action from above or the side. Taito's *Sky Des
 
 The repetition is noticeable, and the early presentation does not offer the variety of the higher entries. That is why it starts this ranking rather than leading it. Yet the horizon, approaching enemies and changing light remain a compelling little spectacle. If this is the plane game you half remember from childhood, there is a good reason its viewpoint stayed with you. Its [original Famicom release](https://www.arcade-history.com/game/54627/sky-destroyer-model-tfc-sd-4500) was in 1985.
 
-## 9. Galaga: Demons of Death
+## 10. Galaga: Demons of Death
 
 **Version: NES; Galaga on Famicom. Style: fixed-screen space shooting.**
 
@@ -32,7 +32,7 @@ The repetition is noticeable, and the early presentation does not offer the vari
 
 Its most memorable gamble is letting a fighter be captured, then rescuing it to form a dual fighter with greater firepower. That possibility makes a threatening enemy ability something you can exploit. The fixed screen limits the scenery, but the changing formations provide the drama. It is the clearest starting point here if scrolling terrain and elaborate upgrades feel like too much to learn at once. The [NES manual](https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABNE.pdf) explains the capture and rescue mechanic.
 
-## 8. Xevious
+## 9. Xevious
 
 **Version: NES/Famicom. Style: vertically scrolling air-and-ground combat.**
 
@@ -40,7 +40,7 @@ The forward gun handles airborne enemies. The targeting reticle tells you where 
 
 Its restrained presentation is a long way from the busy spectacle of later shooters, but the division of your attention still works. Rather than chasing a more powerful weapon, you are trying to make better use of the two attacks already available. It is a useful next step after *Galaga*: more movement, a scrolling landscape and another job to do, without a complicated upgrade system. [NES mechanics and manual excerpt](https://consoleclassix.com/nes/xevious.html).
 
-## 7. Stinger
+## 8. Stinger
 
 **Version: NES; Moero TwinBee on Famicom. Style: colourful scrolling shooting.**
 
@@ -48,7 +48,7 @@ Clouds contain bells. Shooting a bell changes its colour, and collecting the col
 
 The cartoon aircraft and odd enemies make *Stinger* a welcome change from military sorties and alien machinery. Its alternating scrolling directions also keep the journey from settling into one routine. Two-player play is part of the NES version's appeal, but do not confuse its limits with the Japanese release: *Moero TwinBee* supports three players, while the NES game supports two. The friendliness of the art should not be mistaken for an easy ride. [Version differences and bell system](https://www.mobygames.com/game/13798/stinger/).
 
-## 6. 1943: The Battle of Midway
+## 7. 1943: The Battle of Midway
 
 **Version: NES/Famicom. Style: military aircraft, vertical scrolling.**
 
@@ -56,11 +56,19 @@ For someone who specifically wants planes rather than spaceships, this would be 
 
 The energy meter adds pressure even when you are avoiding direct hits. Survival includes managing depletion and taking the right pickups, not simply keeping a small collection of lives intact. It can be a demanding game, and its longer engagements will not suit everyone. Still, the mixture of aircraft development, aerial threats and ships gives it a stronger return appeal than *1942* for this list. The console progression system is a reason to seek out this version specifically. [NES adaptation and energy system](https://gaminghistory101.com/2012/01/24/1943/).
 
+## 6. The Super Dimension Fortress Macross
+
+**Version: Famicom, Japan-only. Style: horizontal space shooting with a transforming fighter.**
+
+The Valkyrie has three forms: a fast fighter, the halfway GERWALK configuration, and a humanoid Battroid. They change its speed and firing capabilities, so transforming is a tactical decision as well as a satisfying little animation. Battroid can shoot behind itself, which makes an enemy slipping past you a different problem from the one it presents in fighter mode.
+
+The missions carry you from open space toward a large enemy vessel, then into its interior to destroy the reactor. That gives the action a clear destination beyond another screen of enemies. It is an early, comparatively repetitive shooter, but the transformable craft supplies a strong identity. If your memory is of a spaceship suddenly growing arms and legs, this is a good place to return. The recommendation concerns Namco's 1985 Famicom game, not the many later Macross adaptations. [Forms, missions and release details](https://www.arcade-history.com/game/53920/choujikuu-yousai-macross-model-nmr-4500).
+
 ## 5. Gradius
 
 **Version: NES/Famicom. Style: horizontal space shooting with selectable upgrades.**
 
-The power meter is the decision that makes *Gradius* distinctive. Collecting a capsule advances the selection; pressing the power-up button takes the highlighted upgrade. You can improve something useful now or keep collecting toward a different weapon or protection. A pickup has value because of what it lets you choose.
+The power meter is the decision that makes *Gradius* distinctive. Collecting a capsule advances the selection; pressing the power-up button takes the highlighted upgrade. You can improve something useful now or keep collecting toward a different weapon or protection. Missiles handle targets below you, lasers extend your reach, and glowing Options follow the ship and repeat its attacks. Your little fighter gradually becomes a whole formation.
 
 Building the Vic Viper into a capable ship feels excellent. Losing those upgrades makes the return to a weaker craft feel severe, particularly in a stage you had been handling comfortably. That harsh recovery is worth knowing about before you begin. If you enjoy preparing a machine and then protecting the investment, however, the game has a strong pull. [Konami's NES manual](https://www.world-of-nintendo.com/manuals/nes/gradius.shtml) explains the power-boosting system.
 
@@ -98,6 +106,6 @@ Two-player cooperative play is the deciding advantage for this ranking. Learning
 
 ## Pick the kind of flight you want
 
-Start with *Galaga* for a simple control scheme and formation reading. Pick *1943* if the attraction is aircraft and naval battles. Choose *Gun-Nac* for upgrades and odd personality, or *Life Force* for a shared campaign. *Sky Destroyer* is the distinctive nostalgia stop, especially if you remember watching the ocean from behind a green plane.
+Start with *Galaga* for a simple control scheme and formation reading. Pick *1943* if the attraction is aircraft and naval battles. Try *Macross* for the transforming Valkyrie or *Gradius* for building a weapons loadout. Choose *Gun-Nac* for upgrades and odd personality, or *Life Force* for a shared campaign. *Sky Destroyer* is the distinctive nostalgia stop, especially if you remember watching the ocean from behind a green plane.
 
 A good shooter makes you notice something before it happens: the gap closing, the formation turning, the pickup drifting into danger. These games use a small screen to make those decisions immediate. That is enough to keep a short flight interesting, even decades later.
