@@ -1,0 +1,600 @@
+{
+  "slug": "metal-gear",
+  "name": "Metal Gear",
+  "strap": "Choose a Snake. Keep the surprises intact.",
+  "description": "Where to start Metal Gear, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Metal Gear combines military thrillers, family connections, and arguments about loyalty and control. Its prequels explain earlier history after the audience has already met its consequences, so chronological order is not automatically the best first route.",
+  "recommendation": "Start Metal Gear Solid for the central Solid Snake story, then follow release order. Choose Metal Gear Solid 3 or its Delta remake for an accessible, largely self-contained Cold War prequel.",
+  "basics": [
+    [
+      "A recurring weapon idea",
+      "Metal Gear is the name given to weapon systems tied to nuclear deterrence and military power. Each crisis asks who controls that power."
+    ],
+    [
+      "More than one Snake",
+      "Solid Snake and the young soldier called Naked Snake are different protagonists in different eras. The guide keeps later identity revelations inside recaps."
+    ],
+    [
+      "Release order versus history",
+      "Prequels were written after later-set games. Starting with one is valid, but a historical sort should not be mistaken for a spoiler-free viewing plan."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "solid",
+      "title": "Metal Gear Solid",
+      "audience": "I want the central story and its surprises",
+      "why": "Shadow Moses introduces Snake, his support team, and the series’ mix of stealth and political intrigue in one focused mission. Optional recaps cover the two MSX games.",
+      "need": "A veteran operative is sent to resolve a hostage crisis involving a nuclear threat.",
+      "skip": "Playing the two older Metal Gear games, every codec conversation, and the prequels before starting.",
+      "tradeoff": "Its controls and camera reflect its era. The older games add history, but the briefing and recap can provide enough context.",
+      "next": "Continue Metal Gear Solid 2, then 3, then 4. Follow with Peace Walker, Ground Zeroes, and The Phantom Pain if Big Boss’s story interests you.",
+      "recap_events": [
+        "mg",
+        "mg2"
+      ],
+      "unlock": "recap-solid"
+    },
+    {
+      "id": "snake-eater",
+      "title": "Metal Gear Solid 3 / Delta: Snake Eater",
+      "audience": "I want a focused espionage prequel",
+      "why": "A Cold War mission introduces its own cast and emotional conflict. Delta retells this campaign with newer presentation.",
+      "need": "Naked Snake is operating in 1964 amid a crisis involving the Soviet Union, a weapon project, and his mentor.",
+      "skip": "The earlier released games before this adventure.",
+      "tradeoff": "Starting with the prequel changes how later connections land. Avoid online character biographies, which often reveal their entire future.",
+      "next": "Return to Metal Gear Solid and continue release order. Alternatively follow the Big Boss-era games after accepting that you are seeing history before its later reveals.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "phantom",
+      "title": "The Phantom Pain",
+      "audience": "I mainly want open-ended stealth missions",
+      "why": "Its flexible bases and tools make it a strong gameplay-first entry, even when the wider conspiracy is not your immediate interest.",
+      "need": "An independent military organisation has been devastated; its survivors seek to rebuild and pursue those responsible.",
+      "skip": "A complete saga marathon and optional collectible recordings.",
+      "tradeoff": "Its narrative depends on Peace Walker and Ground Zeroes, and important context sits outside the missions. It is a weaker first choice if story clarity matters most.",
+      "next": "Read the optional bridge recap, then play missions at your own pace. Try Snake Eater or Metal Gear Solid afterwards for a more concentrated narrative.",
+      "recap_events": [
+        "peace",
+        "ground"
+      ],
+      "unlock": "recap-phantom"
+    }
+  ],
+  "events": [
+    {
+      "id": "mg",
+      "title": "Metal Gear",
+      "year": 1987,
+      "era": "1995: Outer Heaven",
+      "premise": "Solid Snake infiltrates a fortified military state to investigate a dangerous weapon.",
+      "recap": "Snake destroys Metal Gear and discovers Big Boss’s responsibility for Outer Heaven. The mission breaks the assumed trust between operative and commander.",
+      "why": "Optional MSX original; its recap gives useful history before Metal Gear Solid.",
+      "characters": [
+        "solid",
+        "bigboss"
+      ],
+      "optional": true,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "mg2",
+      "title": "Metal Gear 2: Solid Snake",
+      "year": 1990,
+      "era": "1999: Zanzibar Land",
+      "premise": "Snake enters a new military crisis involving a scientist and another Metal Gear.",
+      "recap": "The mission brings Snake into conflict with Gray Fox and Big Boss. Their apparent defeat leaves a personal history carried into the later games.",
+      "why": "Optional MSX sequel; distinct from the separate NES game Snake’s Revenge.",
+      "characters": [
+        "solid",
+        "bigboss",
+        "grayfox"
+      ],
+      "optional": true,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "mgs",
+      "title": "Metal Gear Solid",
+      "year": 1998,
+      "era": "2005: Shadow Moses",
+      "premise": "Snake is sent into a nuclear hostage crisis at an Alaskan facility.",
+      "recap": "Liquid’s plans are tied to the Les Enfants Terribles project, while FOXDIE and Ocelot reveal other parties manipulating the mission. Snake and Otacon survive the crisis with their trust in institutions transformed.",
+      "why": "Recommended beginning for the central release-order saga.",
+      "characters": [
+        "solid",
+        "liquid",
+        "otacon",
+        "ocelot",
+        "grayfox"
+      ],
+      "optional": false,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "mgs2",
+      "title": "Sons of Liberty",
+      "year": 2001,
+      "era": "2007–2009: tanker and Big Shell",
+      "premise": "A tanker investigation leads to another mission whose information cannot always be trusted.",
+      "recap": "Raiden’s operation is manipulated by the Patriots’ information-control experiment. Solidus’s revolt and the deception around the mission challenge who gets to shape the future.",
+      "why": "Play after Metal Gear Solid; its construction depends on that familiarity.",
+      "characters": [
+        "solid",
+        "raiden",
+        "otacon",
+        "ocelot"
+      ],
+      "optional": false,
+      "chronology": 9,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "mgs3",
+      "title": "Snake Eater",
+      "year": 2004,
+      "era": "1964: the Cold War",
+      "premise": "Naked Snake infiltrates Soviet territory to stop a weapons crisis and confront his mentor.",
+      "recap": "The Boss’s mission is revealed as a sacrifice arranged through political demands. Snake receives the name Big Boss, but the honour deepens his distrust of the system that used her.",
+      "why": "Alternative starting point; Delta retells this story.",
+      "characters": [
+        "bigboss",
+        "boss",
+        "ocelot",
+        "eva",
+        "zero"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "portable",
+      "title": "Portable Ops",
+      "year": 2006,
+      "era": "1970: San Hieronymo",
+      "premise": "A rebellion draws Naked Snake into recruiting a force of his own.",
+      "recap": "The rebellion’s defeat provides another account of Snake moving towards independent military organisation. Later games do not require every detail of this account.",
+      "why": "Optional adjacent prequel; aspects of its relationship to the main saga are debated.",
+      "characters": [
+        "bigboss"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Optional prequel",
+      "status": "Released"
+    },
+    {
+      "id": "mgs4",
+      "title": "Guns of the Patriots",
+      "year": 2008,
+      "era": "2014: the war economy",
+      "premise": "An ageing Solid Snake undertakes a mission inside a world shaped by managed warfare.",
+      "recap": "The campaign resolves the Patriots’ system and many relationships from the Solid Snake saga. Big Boss’s final meeting with Snake reframes the conflict’s human cost.",
+      "why": "A conclusion, not a recommended standalone opening.",
+      "characters": [
+        "solid",
+        "otacon",
+        "raiden",
+        "ocelot",
+        "bigboss"
+      ],
+      "optional": false,
+      "chronology": 10,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "peace",
+      "title": "Peace Walker",
+      "year": 2010,
+      "era": "1974: Costa Rica",
+      "premise": "Big Boss’s independent force is drawn into a conflict involving nuclear deterrence and the legacy of The Boss.",
+      "recap": "Big Boss rejects the simulated Boss’s ideal of laying down arms. His organisation develops its own nuclear capability, while Paz’s deception reveals a wider struggle with Cipher.",
+      "why": "Recommended before the Metal Gear Solid V pair.",
+      "characters": [
+        "bigboss",
+        "kaz"
+      ],
+      "optional": false,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "rising",
+      "title": "Metal Gear Rising: Revengeance",
+      "year": 2013,
+      "era": "2018: a later conflict",
+      "premise": "Raiden confronts a private military conspiracy in an action-focused continuation.",
+      "recap": "Raiden defeats Armstrong’s project and chooses a path outside the institutions trying to justify violence.",
+      "why": "Optional action spin-off after Raiden’s Solid-era story; not required for the Big Boss prequels.",
+      "characters": [
+        "raiden"
+      ],
+      "optional": true,
+      "chronology": 11,
+      "branch": "Raiden’s follow-up",
+      "status": "Released"
+    },
+    {
+      "id": "ground",
+      "title": "Ground Zeroes",
+      "year": 2014,
+      "era": "1975: Camp Omega",
+      "premise": "A short infiltration mission sends Big Boss to recover two people held at a prison facility.",
+      "recap": "The rescue is followed by an attack that destroys Mother Base and leaves Snake in a coma. It is the direct bridge into The Phantom Pain.",
+      "why": "Short recommended prologue before The Phantom Pain.",
+      "characters": [
+        "bigboss",
+        "kaz"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "phantom",
+      "title": "The Phantom Pain",
+      "year": 2015,
+      "era": "1984: rebuilding a force",
+      "premise": "A survivor called Venom Snake rebuilds Diamond Dogs alongside familiar allies.",
+      "recap": "Venom Snake is revealed as Big Boss’s body double, carrying a role prepared for him while the original pursues another plan. The revelation changes how the later Outer Heaven history is read.",
+      "why": "Gameplay-first alternative; its identity outcome is gated here.",
+      "characters": [
+        "venom",
+        "kaz",
+        "ocelot"
+      ],
+      "optional": false,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "solid",
+      "name": "Solid Snake",
+      "role": "The central Solid-era operative",
+      "motivation": "He gradually defines duty through people rather than the organisations issuing orders.",
+      "relationships": "Otacon, Liquid, Gray Fox, and Big Boss connect his missions to a personal history.",
+      "route": [
+        "mg",
+        "mg2",
+        "mgs",
+        "mgs2",
+        "mgs4"
+      ],
+      "updates": []
+    },
+    {
+      "id": "bigboss",
+      "name": "Naked Snake / Big Boss",
+      "role": "The protagonist of the central prequels",
+      "motivation": "His relationship with duty changes as institutions demand increasingly personal sacrifices.",
+      "relationships": "The Boss, Ocelot, EVA, Zero, and Kaz shape different phases of his life.",
+      "route": [
+        "mgs3",
+        "portable",
+        "peace",
+        "ground",
+        "mg",
+        "mg2",
+        "mgs4"
+      ],
+      "updates": [
+        {
+          "event": "mgs3",
+          "text": "The mission earns him the title Big Boss but destroys his confidence in its political meaning."
+        }
+      ]
+    },
+    {
+      "id": "boss",
+      "name": "The Boss",
+      "role": "Naked Snake’s mentor",
+      "motivation": "The meaning of loyalty lies at the heart of her apparent choices.",
+      "relationships": "Snake’s trust in her gives the Cold War mission its emotional centre.",
+      "route": [
+        "mgs3"
+      ],
+      "updates": [
+        {
+          "event": "mgs3",
+          "text": "Her apparent defection conceals a mission that requires her own sacrifice."
+        }
+      ]
+    },
+    {
+      "id": "ocelot",
+      "name": "Ocelot",
+      "role": "An operative moving between factions",
+      "motivation": "Competing loyalties and long-term plans make his immediate role hard to read.",
+      "relationships": "He intersects with both major eras of the Snake story.",
+      "route": [
+        "mgs3",
+        "phantom",
+        "mgs",
+        "mgs2",
+        "mgs4"
+      ],
+      "updates": []
+    },
+    {
+      "id": "otacon",
+      "name": "Hal “Otacon” Emmerich",
+      "role": "A weapons engineer",
+      "motivation": "Responsibility for the technology he helps create leads him towards active opposition to its misuse.",
+      "relationships": "Solid Snake becomes his closest operational partner.",
+      "route": [
+        "mgs",
+        "mgs2",
+        "mgs4"
+      ],
+      "updates": []
+    },
+    {
+      "id": "raiden",
+      "name": "Raiden",
+      "role": "An operative introduced in Sons of Liberty",
+      "motivation": "He struggles to define an identity beyond the roles and history imposed on him.",
+      "relationships": "Snake, Rose, and the Patriots complicate his understanding of the mission.",
+      "route": [
+        "mgs2",
+        "mgs4",
+        "rising"
+      ],
+      "updates": []
+    },
+    {
+      "id": "kaz",
+      "name": "Kazuhira Miller",
+      "role": "A partner in Big Boss’s military enterprise",
+      "motivation": "Loyalty to a shared organisation becomes entangled with loss and revenge.",
+      "relationships": "Big Boss and the later Diamond Dogs command give that loyalty different meanings.",
+      "route": [
+        "peace",
+        "ground",
+        "phantom"
+      ],
+      "updates": []
+    },
+    {
+      "id": "zero",
+      "name": "Major Zero",
+      "role": "The commander of the Snake Eater support team",
+      "motivation": "His ideas about order and unity acquire different implications across the saga.",
+      "relationships": "Snake and The Boss’s legacy give his later ambitions context.",
+      "route": [
+        "mgs3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "eva",
+      "name": "EVA",
+      "role": "An agent in the Cold War mission",
+      "motivation": "Her work forces her to manage trust alongside concealed obligations.",
+      "relationships": "Naked Snake’s immediate partnership does not explain every part of her role.",
+      "route": [
+        "mgs3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "liquid",
+      "name": "Liquid Snake",
+      "role": "The leader of the Shadow Moses uprising",
+      "motivation": "His rebellion is deeply personal as well as military.",
+      "relationships": "Solid Snake and Big Boss sit at the centre of his grievances.",
+      "route": [
+        "mgs"
+      ],
+      "updates": []
+    },
+    {
+      "id": "grayfox",
+      "name": "Gray Fox",
+      "role": "A veteran linked to Snake’s earlier missions",
+      "motivation": "Duty, rivalry, and debt make his history difficult to separate from Snake’s.",
+      "relationships": "Solid Snake encounters him in changing roles.",
+      "route": [
+        "mg2",
+        "mgs"
+      ],
+      "updates": []
+    },
+    {
+      "id": "venom",
+      "name": "Venom Snake",
+      "role": "The Phantom Pain’s player character",
+      "motivation": "Rebuilding a destroyed force gives him a mission shaped by loss and incomplete knowledge.",
+      "relationships": "Kaz and Ocelot help build Diamond Dogs.",
+      "route": [
+        "phantom"
+      ],
+      "updates": [
+        {
+          "event": "phantom",
+          "text": "His identity as Big Boss’s body double is revealed at the end of the campaign."
+        }
+      ]
+    }
+  ],
+  "factions": [
+    [
+      "Military organisations",
+      "FOX, FOXHOUND, MSF, and Diamond Dogs belong to different periods and command structures. Similar names do not make them interchangeable."
+    ],
+    [
+      "Cipher and the Patriots",
+      "These names belong to the saga’s struggle over control. Their deeper relationships are part of the story’s reveals, not prerequisites for starting."
+    ],
+    [
+      "Private military forces",
+      "Later games ask how war changes when organisations and technologies profit from keeping it active."
+    ],
+    [
+      "The support team",
+      "Radio calls provide character and practical context. Listen when interested; memorising every acronym is unnecessary."
+    ]
+  ],
+  "timeline_help": "Release order is recommended for a first complete story journey. Story order starts in 1964 and moves through the prequels before the Solid-era games; it changes when important connections are revealed. Portable Ops is labelled an optional prequel, and Rising a separate follow-up. Finishing Snake Eater does not unlock The Phantom Pain’s identity recap.",
+  "scope": "Covers the MSX Metal Gear and Metal Gear 2, Metal Gear Solid 1–4, Portable Ops, Peace Walker, Ground Zeroes, The Phantom Pain, and Rising. Delta retells Snake Eater. Master Collection editions are access routes to existing games, not new story events; Vol. 2’s 2026 release includes Guns of the Patriots and Peace Walker. Snake’s Revenge, Acid, Survive, and other spin-offs are outside the central introductory route. Portable Ops is included with a continuity caveat rather than presented as mandatory preparation.",
+  "sources": [
+    [
+      "Official series portal",
+      "https://www.konami.com/mg/"
+    ],
+    [
+      "Master Collection Vol. 1",
+      "https://www.konami.com/games/us/en/products/mgsmc/"
+    ],
+    [
+      "Delta release",
+      "https://www.konami.com/games/us/en/topics/2980/"
+    ],
+    [
+      "Master Collection Vol. 2 release",
+      "https://www.konami.com/games/us/en/topics/3378/"
+    ],
+    [
+      "Konami: historical timeline",
+      "https://eu-support.konami.com/hc/en-gb/articles/9822379926423-Backstory-What-is-the-timeline-of-the-events-that-precede-Metal-Gear-Solid-V-Ground-Zeroes-and-Metal-Gear-Solid-V-The-Phantom-Pain"
+    ],
+    [
+      "Konami: Peace Walker background",
+      "https://eu-support.konami.com/hc/en-gb/articles/9769470038039-Backstory-What-is-the-story-of-Metal-Gear-Solid-Peace-Walker"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "mg",
+      "label": "Finished Metal Gear only",
+      "unlocks": [
+        "mg"
+      ]
+    },
+    {
+      "value": "mg2",
+      "label": "Finished Metal Gear 2: Solid Snake only",
+      "unlocks": [
+        "mg2"
+      ]
+    },
+    {
+      "value": "mgs",
+      "label": "Finished Metal Gear Solid only",
+      "unlocks": [
+        "mgs"
+      ]
+    },
+    {
+      "value": "mgs2",
+      "label": "Finished Sons of Liberty only",
+      "unlocks": [
+        "mgs2"
+      ]
+    },
+    {
+      "value": "mgs3",
+      "label": "Finished Snake Eater only",
+      "unlocks": [
+        "mgs3"
+      ]
+    },
+    {
+      "value": "portable",
+      "label": "Finished Portable Ops only",
+      "unlocks": [
+        "portable"
+      ]
+    },
+    {
+      "value": "mgs4",
+      "label": "Finished Guns of the Patriots only",
+      "unlocks": [
+        "mgs4"
+      ]
+    },
+    {
+      "value": "peace",
+      "label": "Finished Peace Walker only",
+      "unlocks": [
+        "peace"
+      ]
+    },
+    {
+      "value": "rising",
+      "label": "Finished Metal Gear Rising: Revengeance only",
+      "unlocks": [
+        "rising"
+      ]
+    },
+    {
+      "value": "ground",
+      "label": "Finished Ground Zeroes only",
+      "unlocks": [
+        "ground"
+      ]
+    },
+    {
+      "value": "phantom",
+      "label": "Finished The Phantom Pain only",
+      "unlocks": [
+        "phantom"
+      ]
+    },
+    {
+      "value": "recap-solid",
+      "label": "Earlier-story recap for Metal Gear Solid",
+      "unlocks": [
+        "mg",
+        "mg2"
+      ]
+    },
+    {
+      "value": "recap-phantom",
+      "label": "Earlier-story recap for The Phantom Pain",
+      "unlocks": [
+        "peace",
+        "ground"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "mg",
+        "mg2",
+        "mgs",
+        "mgs2",
+        "mgs3",
+        "portable",
+        "mgs4",
+        "peace",
+        "rising",
+        "ground",
+        "phantom"
+      ]
+    }
+  ]
+}

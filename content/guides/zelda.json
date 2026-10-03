@@ -1,0 +1,878 @@
+{
+  "slug": "zelda",
+  "name": "The Legend of Zelda",
+  "strap": "Choose an adventure. The timeline can wait.",
+  "description": "Where to start The Legend of Zelda, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Most Zelda games introduce a new adventure with familiar names and themes. Their historical connections are optional context, not a requirement to work through every incarnation of Link before choosing one.",
+  "recommendation": "Start Breath of the Wild for open-ended exploration, Link’s Awakening for a compact traditional adventure, or Ocarina of Time for the classic 3D structure. Echoes of Wisdom offers a welcoming adventure led by Zelda herself.",
+  "basics": [
+    [
+      "Recurring names, different lives",
+      "Link and Zelda usually refer to different people across distant eras. Familiar names do not mean every game follows one uninterrupted lifetime."
+    ],
+    [
+      "An adventure first",
+      "Exploration, puzzles, tools, and local characters explain each game’s immediate stakes. You can learn its version of Hyrule as you play."
+    ],
+    [
+      "Several historical branches",
+      "Nintendo’s timeline divides after Ocarina of Time. Breath of the Wild and Tears of the Kingdom occupy a distant era; this guide does not invent a definitive merger with an earlier branch."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "wild",
+      "title": "Breath of the Wild",
+      "audience": "I want freedom and discovery",
+      "why": "Its world teaches through exploration and experimentation. Local people and optional memories provide context without requiring earlier games.",
+      "need": "Hyrule is living in the aftermath of a calamity, and Link must decide how to confront the danger still present.",
+      "skip": "Every earlier Zelda, collecting every shrine or seed, and a timeline explanation.",
+      "tradeoff": "Its open structure is different from the older item-and-dungeon pattern. The story is partly discovered out of order.",
+      "next": "Continue to Tears of the Kingdom if you want more of this Link and Zelda. Hyrule Warriors stories are optional.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "awakening",
+      "title": "Link’s Awakening",
+      "audience": "I want a compact, traditional adventure",
+      "why": "A self-contained island mystery introduces Zelda-style dungeons and tools without requiring knowledge of Hyrule’s royal history.",
+      "need": "Link washes ashore on Koholint and searches for a way home.",
+      "skip": "The earlier games, their lore, and a branch-by-branch marathon.",
+      "tradeoff": "Its smaller world and older puzzle structure are less open-ended than Breath of the Wild. The original and remake tell the same central story.",
+      "next": "Try A Link to the Past or A Link Between Worlds for a larger top-down adventure.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "ocarina",
+      "title": "Ocarina of Time",
+      "audience": "I want the classic 3D adventure",
+      "why": "A focused opening, expanding tools, and memorable companions introduce the series’ traditional 3D pattern. It also supplies useful context for later branch discussions.",
+      "need": "A boy from the forest is drawn into Hyrule’s struggle over sacred power.",
+      "skip": "The earlier released games and learning the official timeline before playing.",
+      "tradeoff": "Camera, combat, and presentation depend on the edition. Its centrality to the timeline does not make it compulsory for newer games.",
+      "next": "Choose Majora’s Mask for this Link’s direct follow-up, or The Wind Waker and Twilight Princess for different later branches.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "echoes",
+      "title": "Echoes of Wisdom",
+      "audience": "I want to play as Zelda",
+      "why": "Its new central mechanic offers inventive solutions in a compact top-down Hyrule. A fresh crisis introduces its own supporting cast.",
+      "need": "Strange rifts threaten the kingdom; Zelda works with a companion called Tri.",
+      "skip": "Earlier Zelda games, playing as Link first, and knowing its precise timeline position.",
+      "tradeoff": "Echo-based problem solving differs from the usual sword-first approach. Familiar geography is a bonus rather than a prerequisite.",
+      "next": "Try Link’s Awakening for another compact adventure or Breath of the Wild for a larger playground.",
+      "recap_events": [],
+      "unlock": "none"
+    }
+  ],
+  "events": [
+    {
+      "id": "original",
+      "title": "The Legend of Zelda",
+      "year": 1986,
+      "era": "An earlier generation of players’ first Hyrule",
+      "premise": "Link gathers fragments of sacred power to oppose Ganon.",
+      "recap": "Link defeats Ganon and rescues Zelda after completing the Triforce of Wisdom.",
+      "why": "Optional historical original; its sparse directions reward patient exploration.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon"
+      ],
+      "optional": true,
+      "chronology": 306,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "adventure",
+      "title": "The Adventure of Link",
+      "year": 1987,
+      "era": "After the original adventure",
+      "premise": "Link undertakes trials tied to a sleeping princess and the Triforce of Courage.",
+      "recap": "Link completes the trials and awakens the sleeping Zelda. This princess’s history is distinct from the first game’s immediate rescue.",
+      "why": "Optional direct continuation with a different combat and exploration structure.",
+      "characters": [
+        "link",
+        "zelda"
+      ],
+      "optional": true,
+      "chronology": 307,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "past",
+      "title": "A Link to the Past",
+      "year": 1991,
+      "era": "A divided Hyrule",
+      "premise": "A young Link responds to a plea for help amid a plot involving the kingdom’s sacred history.",
+      "recap": "Link defeats Ganon in the Dark World and uses the Triforce to restore the kingdom.",
+      "why": "Strong top-down alternative beginning.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon"
+      ],
+      "optional": true,
+      "chronology": 301,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "awakening",
+      "title": "Link’s Awakening",
+      "year": 1993,
+      "era": "Koholint Island",
+      "premise": "A shipwrecked Link searches for instruments connected to the Wind Fish.",
+      "recap": "Koholint is revealed as part of the Wind Fish’s dream. Awakening it ends the island’s existence and lets Link return to the sea.",
+      "why": "Recommended compact beginning; the remake retells it.",
+      "characters": [
+        "link"
+      ],
+      "optional": false,
+      "chronology": 302,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "ocarina",
+      "title": "Ocarina of Time",
+      "year": 1998,
+      "era": "An adventure across two ages",
+      "premise": "Link and Zelda try to protect Hyrule from Ganondorf’s ambitions.",
+      "recap": "Link defeats Ganondorf in the adult-era confrontation, and Zelda sends him back to his childhood. Nintendo’s history also places a separate downfall path alongside the child and adult branches.",
+      "why": "Recommended classic 3D beginning; later branch knowledge is optional.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "impa"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Shared past",
+      "status": "Released"
+    },
+    {
+      "id": "majora",
+      "title": "Majora’s Mask",
+      "year": 2000,
+      "era": "A journey after Ocarina",
+      "premise": "Link reaches Termina, where a falling moon gives his adventure a repeating three-day deadline.",
+      "recap": "Link frees Skull Kid from the mask’s influence and averts the moon’s destruction. Helping individual townspeople determines how much of their lives the player sees.",
+      "why": "Optional direct follow-up to Ocarina; its time system is a substantial change.",
+      "characters": [
+        "link",
+        "skullkid"
+      ],
+      "optional": true,
+      "chronology": 201,
+      "branch": "Child branch",
+      "status": "Released"
+    },
+    {
+      "id": "oracles",
+      "title": "Oracle of Seasons / Oracle of Ages",
+      "year": 2001,
+      "era": "Two linked lands",
+      "premise": "Link adventures through Holodrum and Labrynna using seasons and time as puzzle mechanics.",
+      "recap": "Each game resolves its local crisis; a linked playthrough adds Twinrova’s attempt to restore Ganon and an additional confrontation.",
+      "why": "Optional paired top-down adventures. Either can be played first; linking is extra context.",
+      "characters": [
+        "link",
+        "ganon"
+      ],
+      "optional": true,
+      "chronology": 303,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "four",
+      "title": "Four Swords",
+      "year": 2002,
+      "era": "The Four Sword’s legacy",
+      "premise": "Link is divided into a team while opposing the wind mage Vaati.",
+      "recap": "The Links defeat Vaati and rescue Zelda through the power of the Four Sword.",
+      "why": "Optional cooperative-style adventure; access and player requirements depend on edition.",
+      "characters": [
+        "link",
+        "zelda",
+        "vaati"
+      ],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Shared past",
+      "status": "Released"
+    },
+    {
+      "id": "wind",
+      "title": "The Wind Waker",
+      "year": 2002,
+      "era": "The Great Sea",
+      "premise": "A young islander follows a family rescue into a much larger voyage.",
+      "recap": "Tetra’s identity as Zelda and the submerged kingdom’s fate are revealed. Ganondorf is defeated, while the king chooses a future beyond old Hyrule.",
+      "why": "Accessible standalone 3D alternative; no Ocarina playthrough is required.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "tetra"
+      ],
+      "optional": true,
+      "chronology": 101,
+      "branch": "Adult branch",
+      "status": "Released"
+    },
+    {
+      "id": "four-adventures",
+      "title": "Four Swords Adventures",
+      "year": 2004,
+      "era": "A later Four Sword crisis",
+      "premise": "Multiple Links confront Vaati and a wider threat to Hyrule.",
+      "recap": "The campaign defeats Vaati and seals a new Ganon in the Four Sword.",
+      "why": "Optional multiplayer-oriented branch entry.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "vaati"
+      ],
+      "optional": true,
+      "chronology": 203,
+      "branch": "Child branch",
+      "status": "Released"
+    },
+    {
+      "id": "minish",
+      "title": "The Minish Cap",
+      "year": 2004,
+      "era": "A small world within Hyrule",
+      "premise": "Link and Ezlo seek a cure for Zelda while discovering the world of the tiny Minish.",
+      "recap": "Link restores the sacred blade and defeats Vaati, freeing Zelda from his curse.",
+      "why": "Standalone top-down alternative; useful Four Sword context.",
+      "characters": [
+        "link",
+        "zelda",
+        "vaati"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Shared past",
+      "status": "Released"
+    },
+    {
+      "id": "twilight",
+      "title": "Twilight Princess",
+      "year": 2006,
+      "era": "Hyrule and the Twilight Realm",
+      "premise": "A village rescue draws Link into a crisis joining two realms.",
+      "recap": "Midna and Link defeat Zant and Ganondorf. Midna’s departure closes the connection between the realms.",
+      "why": "Standalone traditional 3D alternative.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "midna"
+      ],
+      "optional": true,
+      "chronology": 202,
+      "branch": "Child branch",
+      "status": "Released"
+    },
+    {
+      "id": "phantom",
+      "title": "Phantom Hourglass",
+      "year": 2007,
+      "era": "After The Wind Waker",
+      "premise": "Link pursues a ghost ship after Tetra disappears.",
+      "recap": "Link defeats Bellum and frees Tetra; the adventure resolves its own sea-world mystery.",
+      "why": "Optional direct follow-up; best after The Wind Waker.",
+      "characters": [
+        "link",
+        "tetra"
+      ],
+      "optional": true,
+      "chronology": 102,
+      "branch": "Adult branch",
+      "status": "Released"
+    },
+    {
+      "id": "spirit",
+      "title": "Spirit Tracks",
+      "year": 2009,
+      "era": "A later kingdom",
+      "premise": "A new Link and Zelda investigate the disappearance of the kingdom’s sacred railway tracks.",
+      "recap": "Zelda’s spirit accompanies Link to stop Malladus, and she regains her body.",
+      "why": "Optional later adventure; not the same Link as The Wind Waker.",
+      "characters": [
+        "link",
+        "zelda"
+      ],
+      "optional": true,
+      "chronology": 103,
+      "branch": "Adult branch",
+      "status": "Released"
+    },
+    {
+      "id": "skyward",
+      "title": "Skyward Sword",
+      "year": 2011,
+      "era": "The earliest main-series history",
+      "premise": "Link leaves the sky to follow Zelda into the lands below.",
+      "recap": "Link and Zelda defeat Demise. The blade’s transformation and Fi’s farewell connect this adventure to the Master Sword’s later role.",
+      "why": "Optional origin-focused 3D adventure; not mandatory because it is earliest in history.",
+      "characters": [
+        "link",
+        "zelda",
+        "fi"
+      ],
+      "optional": true,
+      "chronology": 1,
+      "branch": "Shared past",
+      "status": "Released"
+    },
+    {
+      "id": "between",
+      "title": "A Link Between Worlds",
+      "year": 2013,
+      "era": "Hyrule and Lorule",
+      "premise": "A new Link investigates people disappearing into paintings.",
+      "recap": "The crisis exposes Lorule’s damaged sacred foundation. Link and Zelda use Hyrule’s Triforce to restore Lorule’s own.",
+      "why": "Welcoming standalone top-down alternative with flexible dungeon access.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon"
+      ],
+      "optional": true,
+      "chronology": 304,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "tri",
+      "title": "Tri Force Heroes",
+      "year": 2015,
+      "era": "Hytopia",
+      "premise": "Three heroes confront a kingdom’s fashion-related curse.",
+      "recap": "The heroes lift Princess Styla’s curse through their cooperative trials.",
+      "why": "Optional cooperative-style detour; not needed for Hyrule’s central lore.",
+      "characters": [
+        "link"
+      ],
+      "optional": true,
+      "chronology": 305,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "wild",
+      "title": "Breath of the Wild",
+      "year": 2017,
+      "era": "A distant era of Hyrule",
+      "premise": "Link explores a damaged kingdom while Zelda’s long struggle continues.",
+      "recap": "Link defeats Calamity Ganon and frees Zelda. Optional memories reveal how the Champions and kingdom fell a century earlier.",
+      "why": "Recommended open-world beginning.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "impa",
+        "sidon"
+      ],
+      "optional": false,
+      "chronology": 402,
+      "branch": "Distant era",
+      "status": "Released"
+    },
+    {
+      "id": "calamity",
+      "title": "Hyrule Warriors: Age of Calamity",
+      "year": 2020,
+      "era": "An alternative version of the calamity",
+      "premise": "A Warriors-style campaign revisits the era of the Champions through altered events.",
+      "recap": "Time-travel intervention produces a different outcome from Breath of the Wild’s past. It should not replace that game’s account of its history.",
+      "why": "Optional action spin-off on a separate path.",
+      "characters": [
+        "link",
+        "zelda",
+        "impa"
+      ],
+      "optional": true,
+      "chronology": 401,
+      "branch": "Alternative calamity",
+      "status": "Released"
+    },
+    {
+      "id": "tears",
+      "title": "Tears of the Kingdom",
+      "year": 2023,
+      "era": "After Breath of the Wild",
+      "premise": "Link and Zelda investigate a new upheaval beneath and above Hyrule.",
+      "recap": "Zelda’s transformation into the Light Dragon restores the Master Sword. Link defeats Ganondorf, and Zelda returns to human form with help from Rauru and Sonia.",
+      "why": "Recommended continuation after Breath of the Wild; it can introduce its plot independently but reveals the previous game’s situation.",
+      "characters": [
+        "link",
+        "zelda",
+        "ganon",
+        "rauru",
+        "sidon"
+      ],
+      "optional": false,
+      "chronology": 403,
+      "branch": "Distant era",
+      "status": "Released"
+    },
+    {
+      "id": "echoes",
+      "title": "Echoes of Wisdom",
+      "year": 2024,
+      "era": "A different top-down Hyrule",
+      "premise": "Zelda and Tri investigate strange rifts swallowing people and places.",
+      "recap": "Zelda rescues Link and confronts Null, stopping its threat to the world.",
+      "why": "Recommended independent Zelda-led beginning.",
+      "characters": [
+        "zelda",
+        "link"
+      ],
+      "optional": false,
+      "chronology": 305.5,
+      "branch": "Downfall branch",
+      "status": "Released"
+    },
+    {
+      "id": "imprisonment",
+      "title": "Hyrule Warriors: Age of Imprisonment",
+      "year": 2025,
+      "era": "The ancient past shown in Tears",
+      "premise": "A Warriors-style campaign explores the ancient conflict associated with Rauru, Zelda, and Ganondorf.",
+      "recap": "",
+      "why": "Optional canonical prequel to Tears of the Kingdom. Play Tears first if you want its historical reveals in their original context; this guide covers the prequel’s setup.",
+      "characters": [
+        "zelda",
+        "ganon",
+        "rauru"
+      ],
+      "optional": true,
+      "chronology": 400,
+      "branch": "Distant era",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "link",
+      "name": "Link",
+      "role": "The hero’s recurring name",
+      "motivation": "Courage is expressed through helping people and solving the immediate crisis.",
+      "relationships": "Companions and communities give each incarnation a distinct life.",
+      "route": [
+        "original",
+        "adventure",
+        "past",
+        "awakening",
+        "ocarina",
+        "majora",
+        "oracles",
+        "four",
+        "wind",
+        "four-adventures",
+        "minish",
+        "twilight",
+        "phantom",
+        "spirit",
+        "skyward",
+        "between",
+        "tri",
+        "wild",
+        "calamity",
+        "tears",
+        "echoes"
+      ],
+      "updates": []
+    },
+    {
+      "id": "zelda",
+      "name": "Zelda",
+      "role": "A recurring name in Hyrule’s royal history",
+      "motivation": "Responsibility, knowledge, and personal agency take different forms in each adventure.",
+      "relationships": "Link is a frequent ally; the exact relationship changes across incarnations.",
+      "route": [
+        "original",
+        "adventure",
+        "past",
+        "ocarina",
+        "four",
+        "wind",
+        "four-adventures",
+        "minish",
+        "twilight",
+        "spirit",
+        "skyward",
+        "between",
+        "wild",
+        "calamity",
+        "tears",
+        "echoes",
+        "imprisonment"
+      ],
+      "updates": []
+    },
+    {
+      "id": "ganon",
+      "name": "Ganon / Ganondorf",
+      "role": "A recurring source of conflict",
+      "motivation": "The pursuit of power gives different adventures a familiar opposition.",
+      "relationships": "His form, history, and relationship to Hyrule vary across eras.",
+      "route": [
+        "original",
+        "past",
+        "ocarina",
+        "oracles",
+        "wind",
+        "four-adventures",
+        "twilight",
+        "between",
+        "wild",
+        "tears",
+        "imprisonment"
+      ],
+      "updates": []
+    },
+    {
+      "id": "impa",
+      "name": "Impa",
+      "role": "A recurring name among Zelda’s protectors",
+      "motivation": "Service to the royal family connects practical guidance to a wider duty.",
+      "relationships": "Different Impas belong to different generations of Hyrule.",
+      "route": [
+        "ocarina",
+        "wild",
+        "calamity"
+      ],
+      "updates": []
+    },
+    {
+      "id": "skullkid",
+      "name": "Skull Kid",
+      "role": "A lonely figure in Termina’s crisis",
+      "motivation": "The need for friendship becomes entangled with the influence of a dangerous mask.",
+      "relationships": "Link, the fairies, and Termina’s guardians frame his adventure.",
+      "route": [
+        "majora"
+      ],
+      "updates": []
+    },
+    {
+      "id": "tetra",
+      "name": "Tetra",
+      "role": "A pirate captain",
+      "motivation": "Her independence and decisiveness make her a central partner at sea.",
+      "relationships": "Link and her crew share the voyages of The Wind Waker and Phantom Hourglass.",
+      "route": [
+        "wind",
+        "phantom"
+      ],
+      "updates": [
+        {
+          "event": "wind",
+          "text": "The story reveals that she is this era’s Zelda."
+        }
+      ]
+    },
+    {
+      "id": "vaati",
+      "name": "Vaati",
+      "role": "A wind mage tied to the Four Sword stories",
+      "motivation": "Ambition turns knowledge and magic towards domination.",
+      "relationships": "The Minish Cap supplies an origin, while the Four Sword adventures revisit the threat.",
+      "route": [
+        "minish",
+        "four",
+        "four-adventures"
+      ],
+      "updates": []
+    },
+    {
+      "id": "midna",
+      "name": "Midna",
+      "role": "Link’s companion in Twilight Princess",
+      "motivation": "Her own realm’s crisis makes cooperation with Link a matter of survival and trust.",
+      "relationships": "Zant and Zelda connect the two realms’ responsibilities.",
+      "route": [
+        "twilight"
+      ],
+      "updates": [
+        {
+          "event": "twilight",
+          "text": "Her role as the Twilight Princess is revealed, and she ultimately closes the connection between realms."
+        }
+      ]
+    },
+    {
+      "id": "fi",
+      "name": "Fi",
+      "role": "A guide associated with Skyward Sword’s blade",
+      "motivation": "She helps Link understand the tasks before him through a different kind of companionship.",
+      "relationships": "The sword’s purpose links her guidance to Zelda’s journey.",
+      "route": [
+        "skyward"
+      ],
+      "updates": []
+    },
+    {
+      "id": "rauru",
+      "name": "Rauru of the distant era",
+      "role": "An ancient king in Tears of the Kingdom’s history",
+      "motivation": "His attempt to protect a kingdom requires trust among people with different powers.",
+      "relationships": "Sonia, Zelda, and Ganondorf shape the ancient conflict. This is not the same role as Ocarina’s sage of the same name.",
+      "route": [
+        "tears",
+        "imprisonment"
+      ],
+      "updates": []
+    },
+    {
+      "id": "sidon",
+      "name": "Sidon",
+      "role": "A Zora prince in Breath of the Wild",
+      "motivation": "Optimism and responsibility connect his people’s crisis to Link’s mission.",
+      "relationships": "Mipha and the Zora community shape his outlook.",
+      "route": [
+        "wild",
+        "tears"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Hyrule’s peoples",
+      "Hylians, Zora, Gorons, Gerudo, Rito, and other communities have histories that vary between games. Their local introductions are enough to begin."
+    ],
+    [
+      "Royal and sacred traditions",
+      "The Triforce, goddess traditions, and Master Sword recur, but a game usually explains the version relevant to its plot."
+    ],
+    [
+      "Allies across realms",
+      "Companions such as Midna and Tri make individual adventures distinct. Learning them as you meet them is part of the experience."
+    ],
+    [
+      "Warriors campaigns",
+      "Age of Calamity follows altered events; Age of Imprisonment is an optional canonical ancient-era story connected to Tears. Their different relationships should not be collapsed into one label."
+    ]
+  ],
+  "timeline_help": "Release order shows the series’ development. Story order groups Nintendo’s separate branches rather than suggesting one uninterrupted path. Use the branch filter for a manageable view. Breath of the Wild and Tears belong to a distant era without a definitive earlier-branch placement here. A character route follows recurring names across incarnations, not necessarily one person’s life.",
+  "scope": "Covers the main adventure series from the original game through Echoes of Wisdom, including the Oracle pair, Four Sword games, and Tri Force Heroes. Remakes and the announced Ocarina anniversary edition retell existing adventures. Age of Calamity and Age of Imprisonment are optional related campaigns with different continuity relationships; the latter’s coverage is introductory. Other Warriors editions, crossovers, and minor spin-offs are outside this route. Nintendo’s timeline places Echoes after Tri Force Heroes and before the original game. The distant-era placement remains explicitly separate.",
+  "sources": [
+    [
+      "Nintendo: official Zelda history",
+      "https://www.nintendo.com/jp/character/zelda/en/history/index.html"
+    ],
+    [
+      "Zelda series introduction",
+      "https://zelda.nintendo.com/about/"
+    ],
+    [
+      "Zelda releases and announcements",
+      "https://zelda.nintendo.com/news/"
+    ],
+    [
+      "Age of Imprisonment",
+      "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-imprisonment-121582/"
+    ],
+    [
+      "Nintendo: Age of Imprisonment launch and continuity",
+      "https://www.nintendo.com/au/news-and-articles/hyrule-warriors-age-of-imprisonment-launches-today-exclusively-on-nintendo-switch-2/"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "original",
+      "label": "Finished The Legend of Zelda only",
+      "unlocks": [
+        "original"
+      ]
+    },
+    {
+      "value": "adventure",
+      "label": "Finished The Adventure of Link only",
+      "unlocks": [
+        "adventure"
+      ]
+    },
+    {
+      "value": "past",
+      "label": "Finished A Link to the Past only",
+      "unlocks": [
+        "past"
+      ]
+    },
+    {
+      "value": "awakening",
+      "label": "Finished Link’s Awakening only",
+      "unlocks": [
+        "awakening"
+      ]
+    },
+    {
+      "value": "ocarina",
+      "label": "Finished Ocarina of Time only",
+      "unlocks": [
+        "ocarina"
+      ]
+    },
+    {
+      "value": "majora",
+      "label": "Finished Majora’s Mask only",
+      "unlocks": [
+        "majora"
+      ]
+    },
+    {
+      "value": "oracles",
+      "label": "Finished Oracle of Seasons / Oracle of Ages only",
+      "unlocks": [
+        "oracles"
+      ]
+    },
+    {
+      "value": "four",
+      "label": "Finished Four Swords only",
+      "unlocks": [
+        "four"
+      ]
+    },
+    {
+      "value": "wind",
+      "label": "Finished The Wind Waker only",
+      "unlocks": [
+        "wind"
+      ]
+    },
+    {
+      "value": "four-adventures",
+      "label": "Finished Four Swords Adventures only",
+      "unlocks": [
+        "four-adventures"
+      ]
+    },
+    {
+      "value": "minish",
+      "label": "Finished The Minish Cap only",
+      "unlocks": [
+        "minish"
+      ]
+    },
+    {
+      "value": "twilight",
+      "label": "Finished Twilight Princess only",
+      "unlocks": [
+        "twilight"
+      ]
+    },
+    {
+      "value": "phantom",
+      "label": "Finished Phantom Hourglass only",
+      "unlocks": [
+        "phantom"
+      ]
+    },
+    {
+      "value": "spirit",
+      "label": "Finished Spirit Tracks only",
+      "unlocks": [
+        "spirit"
+      ]
+    },
+    {
+      "value": "skyward",
+      "label": "Finished Skyward Sword only",
+      "unlocks": [
+        "skyward"
+      ]
+    },
+    {
+      "value": "between",
+      "label": "Finished A Link Between Worlds only",
+      "unlocks": [
+        "between"
+      ]
+    },
+    {
+      "value": "tri",
+      "label": "Finished Tri Force Heroes only",
+      "unlocks": [
+        "tri"
+      ]
+    },
+    {
+      "value": "wild",
+      "label": "Finished Breath of the Wild only",
+      "unlocks": [
+        "wild"
+      ]
+    },
+    {
+      "value": "calamity",
+      "label": "Finished Hyrule Warriors: Age of Calamity only",
+      "unlocks": [
+        "calamity"
+      ]
+    },
+    {
+      "value": "tears",
+      "label": "Finished Tears of the Kingdom only",
+      "unlocks": [
+        "tears"
+      ]
+    },
+    {
+      "value": "echoes",
+      "label": "Finished Echoes of Wisdom only",
+      "unlocks": [
+        "echoes"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "original",
+        "adventure",
+        "past",
+        "awakening",
+        "ocarina",
+        "majora",
+        "oracles",
+        "four",
+        "wind",
+        "four-adventures",
+        "minish",
+        "twilight",
+        "phantom",
+        "spirit",
+        "skyward",
+        "between",
+        "tri",
+        "wild",
+        "calamity",
+        "tears",
+        "echoes"
+      ]
+    }
+  ]
+}

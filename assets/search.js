@@ -74,7 +74,7 @@
     }).filter(Boolean).sort((a, b) => b.score - a.score);
 
     results.replaceChildren();
-    count.textContent = matches.length + (matches.length === 1 ? " story" : " stories") +
+    count.textContent = matches.length + (matches.length === 1 ? " result" : " results") +
       (selectedTag ? " · " + selectedTag : "");
     if (!matches.length) {
       addText(results, "p", "No matches yet. Try a shorter phrase or another topic.", "empty-state");

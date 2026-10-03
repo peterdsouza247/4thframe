@@ -1,0 +1,467 @@
+{
+  "slug": "witcher",
+  "name": "The Witcher",
+  "strap": "Meet Geralt. Follow the people who matter.",
+  "description": "Where to start The Witcher, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "The Witcher games build on books and earlier adventures, but their quests introduce the people and conflicts you need. A compelling first journey is better than a reading-and-playing obligation.",
+  "recommendation": "Start The Witcher 3: Wild Hunt for the most welcoming combination of character drama, exploration, and modern presentation. Use a short earlier-story recap if you want political context, then let the quests introduce the cast.",
+  "basics": [
+    [
+      "Witchers",
+      "Professional monster hunters transformed and trained for dangerous work. Geralt’s profession does not determine whether a problem has an easy moral answer."
+    ],
+    [
+      "The Continent",
+      "Human kingdoms, Nilfgaard, mages, and nonhuman communities compete for power and survival."
+    ],
+    [
+      "Books and adaptations",
+      "The games continue after the books. Reading them adds context; the television adaptations are separate interpretations rather than required game chapters."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "wild",
+      "title": "The Witcher 3: Wild Hunt",
+      "audience": "I want the strongest general starting point",
+      "why": "The search for Ciri gives a large world a personal centre. Quests introduce Geralt’s relationships and explain the immediate stakes as you travel.",
+      "need": "Geralt is searching for Ciri while war and the Wild Hunt threaten the people around her.",
+      "skip": "The first two games, the books, television seasons, and collecting every map marker.",
+      "tradeoff": "Some returning relationships and political references assume a shared past. The optional recap reveals earlier game outcomes, and imported or simulated choices can affect details.",
+      "next": "Finish the main story, then Hearts of Stone and Blood and Wine. The 2026 remaster is a version of this campaign, not a fourth chapter.",
+      "recap_events": [
+        "w2"
+      ],
+      "unlock": "recap-wild"
+    },
+    {
+      "id": "politics",
+      "title": "The Witcher 2: Assassins of Kings",
+      "audience": "I want a shorter political adventure",
+      "why": "Its focused chapters put alliances and consequences at the centre. It is a workable starting point for players more interested in political choices than a vast open world.",
+      "need": "Geralt is caught in the aftermath of attacks on northern rulers.",
+      "skip": "The first game and the novels if you prefer to learn through this adventure.",
+      "tradeoff": "Combat and navigation are less forgiving than The Witcher 3. A major route choice means one playthrough will not show every chapter.",
+      "next": "Continue to Wild Hunt when you want a broader world and the Ciri storyline.",
+      "recap_events": [
+        "w1"
+      ],
+      "unlock": "recap-politics"
+    },
+    {
+      "id": "throne",
+      "title": "Thronebreaker: The Witcher Tales",
+      "audience": "I want a self-contained ruler’s story",
+      "why": "Queen Meve’s campaign introduces the world through leadership, war, and difficult decisions. Geralt’s trilogy is not its prerequisite.",
+      "need": "Meve leads the northern kingdoms of Lyria and Rivia during Nilfgaard’s invasion.",
+      "skip": "All three Geralt games, competitive Gwent, and the television series.",
+      "tradeoff": "Its battles use a card system rather than the trilogy’s action combat. It is a different protagonist’s adventure.",
+      "next": "Try Wild Hunt if you want to explore the same world through Geralt. You do not need to play multiplayer Gwent.",
+      "recap_events": [],
+      "unlock": "none"
+    }
+  ],
+  "events": [
+    {
+      "id": "w1",
+      "title": "The Witcher",
+      "year": 2007,
+      "era": "Geralt’s first game adventure",
+      "premise": "An attack on Kaer Morhen draws Geralt into a struggle involving stolen witcher secrets and a divided city.",
+      "recap": "The Salamandra investigation converges with Jacques de Aldersberg’s plans. The ending introduces a threat to northern rulers that grows in the sequel.",
+      "why": "Optional original foundation; its older combat and structure are a real trade-off.",
+      "characters": [
+        "geralt",
+        "triss",
+        "dandelion",
+        "vesemir"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "w2",
+      "title": "The Witcher 2: Assassins of Kings",
+      "year": 2011,
+      "era": "The kingslayer crisis",
+      "premise": "Geralt investigates royal assassinations while northern factions struggle over the future.",
+      "recap": "Geralt uncovers Letho’s role and Nilfgaard’s use of the assassinations to destabilise the North. Choices affect allies and who remains in power before the next war.",
+      "why": "Focused alternative starting point; a short recap can bridge to Wild Hunt.",
+      "characters": [
+        "geralt",
+        "triss",
+        "dandelion",
+        "letho"
+      ],
+      "optional": false,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "w3",
+      "title": "The Witcher 3: Wild Hunt",
+      "year": 2015,
+      "era": "The search for Ciri",
+      "premise": "Geralt follows Ciri’s trail through a continent at war.",
+      "recap": "The confrontation with the Wild Hunt ends in a struggle over Ciri’s future and the White Frost. Ciri’s fate, rulers, and Geralt’s relationships vary with the player’s choices.",
+      "why": "Recommended first adventure. Remastered retells this story.",
+      "characters": [
+        "geralt",
+        "ciri",
+        "yennefer",
+        "triss",
+        "dandelion",
+        "vesemir",
+        "emhyr"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "hearts",
+      "title": "Hearts of Stone",
+      "year": 2015,
+      "era": "A contract in the North",
+      "premise": "An apparently straightforward contract binds Geralt to a bargain involving Olgierd and Gaunter O’Dimm.",
+      "recap": "Geralt learns the price of Olgierd’s bargain. The conclusion can save Olgierd or leave him to O’Dimm, depending on the player’s actions.",
+      "why": "Optional Wild Hunt expansion; playable alongside the base story.",
+      "characters": [
+        "geralt",
+        "olgierd"
+      ],
+      "optional": true,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "blood",
+      "title": "Blood and Wine",
+      "year": 2016,
+      "era": "Toussaint",
+      "premise": "A monster investigation takes Geralt to a duchy with a beautiful surface and dangerous secrets.",
+      "recap": "The investigation reaches a conflict involving Dettlaff, Syanna, and Anna Henrietta. Different decisions produce different losses and a personal epilogue for Geralt.",
+      "why": "Optional expansion and a natural final stop after the base game.",
+      "characters": [
+        "geralt",
+        "regis"
+      ],
+      "optional": true,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "throne",
+      "title": "Thronebreaker",
+      "year": 2018,
+      "era": "Before the game trilogy",
+      "premise": "Queen Meve leads her people through Nilfgaard’s invasion.",
+      "recap": "Meve’s alliances and decisions change the shape and cost of her campaign. This is her story during the book-era war, not a mandatory missing chapter of Geralt’s games.",
+      "why": "Self-contained card-and-story alternative.",
+      "characters": [
+        "meve"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Meve’s campaign",
+      "status": "Released"
+    },
+    {
+      "id": "songs",
+      "title": "Songs of the Past",
+      "year": 2027,
+      "era": "Future Wild Hunt expansion",
+      "premise": "A further Witcher 3 expansion has been announced for 2027.",
+      "recap": "",
+      "why": "Future optional content; this guide does not assume its ending or require it for the existing trilogy.",
+      "characters": [],
+      "optional": true,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Announced"
+    },
+    {
+      "id": "w4",
+      "title": "The Witcher IV",
+      "year": null,
+      "era": "Future main-series game",
+      "premise": "A new main-series adventure with Ciri as its protagonist has been announced.",
+      "recap": "",
+      "why": "An announced sequel is not yet a recommended playable entry. No release date or completed-story recap is assumed.",
+      "characters": [
+        "ciri"
+      ],
+      "optional": true,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Announced"
+    }
+  ],
+  "characters": [
+    {
+      "id": "geralt",
+      "name": "Geralt of Rivia",
+      "role": "A witcher",
+      "motivation": "Professional detachment repeatedly meets loyalty to people he cannot treat as a contract.",
+      "relationships": "Ciri, Yennefer, Triss, and Dandelion make the wider world personal.",
+      "route": [
+        "w1",
+        "w2",
+        "w3",
+        "hearts",
+        "blood"
+      ],
+      "updates": []
+    },
+    {
+      "id": "ciri",
+      "name": "Ciri",
+      "role": "A young woman pursued by powerful forces",
+      "motivation": "She wants agency over a future other people claim the right to decide.",
+      "relationships": "Geralt and Yennefer are her central family bonds.",
+      "route": [
+        "w3",
+        "w4"
+      ],
+      "updates": [
+        {
+          "event": "w3",
+          "text": "Her ultimate fate depends partly on how Geralt supports her independence."
+        }
+      ]
+    },
+    {
+      "id": "yennefer",
+      "name": "Yennefer of Vengerberg",
+      "role": "A sorceress",
+      "motivation": "Her pursuit of Ciri combines fierce affection with a willingness to make difficult choices.",
+      "relationships": "Geralt and Ciri are central to her life.",
+      "route": [
+        "w3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "triss",
+      "name": "Triss Merigold",
+      "role": "A sorceress and Geralt’s ally",
+      "motivation": "Care for individuals competes with responsibility to a persecuted community.",
+      "relationships": "Geralt and other mages connect her personal and political stories.",
+      "route": [
+        "w1",
+        "w2",
+        "w3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "dandelion",
+      "name": "Dandelion",
+      "role": "A bard and Geralt’s friend",
+      "motivation": "Storytelling and friendship draw him into dangers beyond performance.",
+      "relationships": "Geralt and Zoltan provide recurring anchors.",
+      "route": [
+        "w1",
+        "w2",
+        "w3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "vesemir",
+      "name": "Vesemir",
+      "role": "An experienced witcher",
+      "motivation": "He preserves a dwindling tradition while protecting the people trained within it.",
+      "relationships": "Kaer Morhen and Geralt’s witcher family are his home.",
+      "route": [
+        "w1",
+        "w3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "emhyr",
+      "name": "Emhyr var Emreis",
+      "role": "Nilfgaard’s emperor",
+      "motivation": "Personal concerns and imperial ambition often appear in the same request.",
+      "relationships": "His relationship to Ciri matters to the search.",
+      "route": [
+        "w3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "letho",
+      "name": "Letho of Gulet",
+      "role": "A witcher entangled in the assassinations",
+      "motivation": "Survival and loyalty to his school shape a political bargain.",
+      "relationships": "Geralt’s investigation brings their motives into conflict.",
+      "route": [
+        "w2"
+      ],
+      "updates": [
+        {
+          "event": "w2",
+          "text": "He explains his part in Nilfgaard’s destabilisation of the northern kingdoms."
+        }
+      ]
+    },
+    {
+      "id": "meve",
+      "name": "Queen Meve",
+      "role": "The ruler of Lyria and Rivia",
+      "motivation": "She must protect a realm while deciding what costs leadership can justify.",
+      "relationships": "Her companions and subjects test loyalty during invasion.",
+      "route": [
+        "throne"
+      ],
+      "updates": []
+    },
+    {
+      "id": "olgierd",
+      "name": "Olgierd von Everec",
+      "role": "A man at the centre of a dangerous bargain",
+      "motivation": "His demands conceal a history of desire, loss, and consequences.",
+      "relationships": "Gaunter O’Dimm and Iris make the contract more than a list of tasks.",
+      "route": [
+        "hearts"
+      ],
+      "updates": []
+    },
+    {
+      "id": "regis",
+      "name": "Regis",
+      "role": "An old friend of Geralt",
+      "motivation": "Compassion and obligation shape his involvement in Toussaint’s crisis.",
+      "relationships": "Geralt and Dettlaff give him competing loyalties.",
+      "route": [
+        "blood"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Northern kingdoms and Nilfgaard",
+      "War changes borders and daily life. Understanding the broad conflict is enough to begin; every royal genealogy is optional."
+    ],
+    [
+      "Mages",
+      "Political influence and persecution shape their choices. Individual sorceresses do not share one agenda."
+    ],
+    [
+      "Nonhuman communities",
+      "Elves, dwarves, and other peoples face different histories of exclusion. A faction’s stated cause does not settle the morality of its actions."
+    ],
+    [
+      "Witcher schools",
+      "Their training explains Geralt’s profession. School histories and equipment hunts are optional depth."
+    ]
+  ],
+  "timeline_help": "The trilogy’s release order follows Geralt’s game adventures. Story order moves Thronebreaker to the earlier book-era war; it does not make that game compulsory. Hearts of Stone can run alongside Wild Hunt, while Blood and Wine makes a satisfying later epilogue. Announced entries carry no outcome recap.",
+  "scope": "Covers the three released Geralt games, Hearts of Stone, Blood and Wine, and Thronebreaker. Enhanced editions and the 2026 Wild Hunt remaster are versions of existing campaigns. Songs of the Past is announced for 2027, and The Witcher IV remains a future main-series entry in this guide. Books, television adaptations, competitive Gwent, and other spin-offs are optional. Branching endings are described as possibilities rather than one canonical player outcome.",
+  "sources": [
+    [
+      "Witcher games and editions",
+      "https://www.thewitcher.com/us/en/buy"
+    ],
+    [
+      "Wild Hunt Remastered release",
+      "https://www.thewitcher.com/us/en/news/52054/thewitcher.com/witcher3"
+    ],
+    [
+      "Thronebreaker",
+      "https://www.thewitcher.com/en/witchertales-thronebreaker"
+    ],
+    [
+      "Songs of the Past announcement",
+      "https://www.thewitcher.com/us/en/songs-of-the-past"
+    ],
+    [
+      "The Witcher IV",
+      "https://www.thewitcher.com/us/en/witcher4"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "w1",
+      "label": "Finished The Witcher only",
+      "unlocks": [
+        "w1"
+      ]
+    },
+    {
+      "value": "w2",
+      "label": "Finished The Witcher 2: Assassins of Kings only",
+      "unlocks": [
+        "w2"
+      ]
+    },
+    {
+      "value": "w3",
+      "label": "Finished The Witcher 3: Wild Hunt only",
+      "unlocks": [
+        "w3"
+      ]
+    },
+    {
+      "value": "hearts",
+      "label": "Finished Hearts of Stone only",
+      "unlocks": [
+        "hearts"
+      ]
+    },
+    {
+      "value": "blood",
+      "label": "Finished Blood and Wine only",
+      "unlocks": [
+        "blood"
+      ]
+    },
+    {
+      "value": "throne",
+      "label": "Finished Thronebreaker only",
+      "unlocks": [
+        "throne"
+      ]
+    },
+    {
+      "value": "recap-wild",
+      "label": "Earlier-story recap for The Witcher 3: Wild Hunt",
+      "unlocks": [
+        "w2"
+      ]
+    },
+    {
+      "value": "recap-politics",
+      "label": "Earlier-story recap for The Witcher 2: Assassins of Kings",
+      "unlocks": [
+        "w1"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "w1",
+        "w2",
+        "w3",
+        "hearts",
+        "blood",
+        "throne"
+      ]
+    }
+  ]
+}

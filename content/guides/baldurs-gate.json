@@ -1,0 +1,464 @@
+{
+  "slug": "baldurs-gate",
+  "name": "Baldur’s Gate",
+  "strap": "Gather your party. Start where you belong.",
+  "description": "Where to start Baldur’s Gate, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Baldur’s Gate has two useful beginnings: a continuous classic saga and a much later adventure that welcomes new players. Knowing every Forgotten Realms name is unnecessary.",
+  "recommendation": "Start Baldur’s Gate 3 for a modern, self-contained party adventure. Begin Baldur’s Gate: Enhanced Edition if you want to follow the original protagonist across games.",
+  "basics": [
+    [
+      "The Sword Coast",
+      "A region of cities, wilderness, competing faiths, and political ambitions in the Forgotten Realms."
+    ],
+    [
+      "Two generations of rules",
+      "BG1–2 use older Dungeons & Dragons systems with pausable real-time combat. BG3 uses turn-based combat inspired by fifth edition."
+    ],
+    [
+      "Choices are personal",
+      "Companion survival, loyalty, romance, and the protagonist’s future can vary. This guide does not declare one playthrough correct."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "new",
+      "title": "Baldur’s Gate 3",
+      "audience": "I want the modern party adventure",
+      "why": "A new central conflict and a largely new cast make the third game a welcoming starting point. Returning people reward familiarity rather than require it.",
+      "need": "Your party is infected with mind-flayer parasites and needs answers.",
+      "skip": "BG1–2, Siege of Dragonspear, Forgotten Realms novels, and tabletop campaigns.",
+      "tradeoff": "Returning-character history will carry less personal weight. You can learn it later without losing the main story.",
+      "next": "Follow companion quests and the main acts. Try the classic saga afterwards if you want Jaheira and Minsc’s earlier adventures.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "saga",
+      "title": "Baldur’s Gate: Enhanced Edition",
+      "audience": "I want one character’s complete classic journey",
+      "why": "The first game introduces your ward, the Sword Coast, and a mystery that grows into the next game’s personal conflict.",
+      "need": "You have grown up at Candlekeep under Gorion’s protection.",
+      "skip": "BG3 and all external D&D reading.",
+      "tradeoff": "Low-level characters are fragile and the older rules need adjustment. Use pause and a comfortable difficulty.",
+      "next": "Continue to Shadows of Amn, then Throne of Bhaal. Tales of the Sword Coast and Siege of Dragonspear are optional detours.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "amn",
+      "title": "Baldur’s Gate II: Shadows of Amn",
+      "audience": "I want the classic saga’s richer party stories",
+      "why": "A concentrated opening and more developed companion quests make it a workable direct entry. The game lets you create a new character.",
+      "need": "You are a child of Bhaal whose earlier adventure has attracted dangerous attention.",
+      "skip": "A complete BG1 playthrough if its slower opening is a barrier.",
+      "tradeoff": "The opening reveals the first game’s central identity mystery. Read the optional recap only if you accept that reveal.",
+      "next": "Continue to Throne of Bhaal for the protagonist’s conclusion.",
+      "recap_events": [
+        "bg1"
+      ],
+      "unlock": "recap-amn"
+    }
+  ],
+  "events": [
+    {
+      "id": "bg1",
+      "title": "Baldur’s Gate",
+      "year": 1998,
+      "era": "The Sword Coast",
+      "premise": "Gorion’s ward leaves Candlekeep amid an iron crisis and a dangerous pursuit.",
+      "recap": "The protagonist discovers a connection to the dead god Bhaal and defeats Sarevok’s scheme to ignite war for his own ascent.",
+      "why": "Classic saga beginning; Enhanced Edition is a version of this story.",
+      "characters": [
+        "ward",
+        "imoen",
+        "jaheira",
+        "minsc",
+        "sarevok"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "tales",
+      "title": "Tales of the Sword Coast",
+      "year": 1999,
+      "era": "During the first adventure",
+      "premise": "Additional expeditions lead to remote dangers including Durlag’s Tower.",
+      "recap": "The tower’s history turns a dungeon expedition into a story of mistrust, family, and tragedy. Its resolution does not replace the base game’s finale.",
+      "why": "Optional dungeon and exploration content.",
+      "characters": [
+        "ward"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "bg2",
+      "title": "Baldur’s Gate II: Shadows of Amn",
+      "year": 2000,
+      "era": "Amn",
+      "premise": "Captivity under Jon Irenicus draws the protagonist into a deeply personal struggle.",
+      "recap": "Irenicus steals the protagonist’s soul. The pursuit ultimately defeats him and restores it, while companion paths depend on recruitment and decisions.",
+      "why": "Classic party-focused entry or direct sequel to BG1.",
+      "characters": [
+        "ward",
+        "imoen",
+        "jaheira",
+        "minsc",
+        "irenicus"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "throne",
+      "title": "Throne of Bhaal",
+      "year": 2001,
+      "era": "The Bhaalspawn crisis",
+      "premise": "The struggle among Bhaal’s heirs forces the protagonist to choose a future.",
+      "recap": "The protagonist confronts the remaining Bhaalspawn conflict and Melissan’s designs. The final choice can embrace divinity or a mortal future.",
+      "why": "Play after Shadows of Amn; it concludes the original saga.",
+      "characters": [
+        "ward",
+        "imoen",
+        "jaheira",
+        "minsc",
+        "sarevok"
+      ],
+      "optional": false,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "siege",
+      "title": "Siege of Dragonspear",
+      "year": 2016,
+      "era": "Between BG1 and BG2",
+      "premise": "A crusade led by Caelar Argent creates a new crisis on the Sword Coast.",
+      "recap": "The conflict reaches Avernus and ends the immediate crusade. The protagonist’s changing reputation helps bridge the circumstances before Shadows of Amn.",
+      "why": "Optional bridge added later; not required to understand BG2.",
+      "characters": [
+        "ward",
+        "imoen",
+        "jaheira",
+        "minsc"
+      ],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "bg3",
+      "title": "Baldur’s Gate 3",
+      "year": 2023,
+      "era": "More than a century later",
+      "premise": "An unlikely party searches for relief from mind-flayer parasites and a growing cult.",
+      "recap": "The Absolute’s power is tied to an elder brain and the Chosen of the Dead Three. The confrontation and companions’ futures branch according to the player’s choices.",
+      "why": "Recommended modern starting point; no old save is needed.",
+      "characters": [
+        "jaheira",
+        "minsc",
+        "shadowheart",
+        "astarion",
+        "laezel",
+        "karlach",
+        "gale",
+        "wyll"
+      ],
+      "optional": false,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "ward",
+      "name": "Gorion’s ward",
+      "role": "The classic saga’s player character",
+      "motivation": "Define how inherited power affects a life shaped by friends and enemies.",
+      "relationships": "Gorion and Imoen are the earliest personal anchors.",
+      "route": [
+        "bg1",
+        "tales",
+        "siege",
+        "bg2",
+        "throne"
+      ],
+      "updates": [
+        {
+          "event": "bg1",
+          "text": "The protagonist is revealed as a Bhaalspawn."
+        }
+      ]
+    },
+    {
+      "id": "imoen",
+      "name": "Imoen",
+      "role": "A friend from Candlekeep",
+      "motivation": "Affection and resilience keep her close to the protagonist’s personal journey.",
+      "relationships": "Her bond with Gorion’s ward makes the later struggle deeply personal.",
+      "route": [
+        "bg1",
+        "siege",
+        "bg2",
+        "throne"
+      ],
+      "updates": [
+        {
+          "event": "bg2",
+          "text": "Her captivity and own Bhaalspawn heritage bring her into Irenicus’s plans."
+        }
+      ]
+    },
+    {
+      "id": "jaheira",
+      "name": "Jaheira",
+      "role": "A druid with Harper ties",
+      "motivation": "Duty and hard-earned judgement shape how she advises adventurers.",
+      "relationships": "Khalid is her partner in the first game; the Harpers remain a wider connection.",
+      "route": [
+        "bg1",
+        "siege",
+        "bg2",
+        "throne",
+        "bg3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "minsc",
+      "name": "Minsc",
+      "role": "A ranger with an unusual companion",
+      "motivation": "He approaches injustice with fierce loyalty and direct action.",
+      "relationships": "Boo, his hamster, is inseparable from his identity.",
+      "route": [
+        "bg1",
+        "siege",
+        "bg2",
+        "throne",
+        "bg3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "sarevok",
+      "name": "Sarevok Anchev",
+      "role": "A powerful figure in the original crisis",
+      "motivation": "He sees conflict as a path to power.",
+      "relationships": "His ambitions become entangled with the protagonist’s origins.",
+      "route": [
+        "bg1",
+        "throne"
+      ],
+      "updates": [
+        {
+          "event": "bg1",
+          "text": "He seeks to use the coming war to claim Bhaal’s legacy."
+        }
+      ]
+    },
+    {
+      "id": "irenicus",
+      "name": "Jon Irenicus",
+      "role": "A mage holding the party captive",
+      "motivation": "He treats other people’s lives as instruments in a private struggle.",
+      "relationships": "Bodhi and the protagonist are central to his plans.",
+      "route": [
+        "bg2"
+      ],
+      "updates": []
+    },
+    {
+      "id": "shadowheart",
+      "name": "Shadowheart",
+      "role": "A guarded cleric",
+      "motivation": "Faith and personal loyalty compete as she learns whom to trust.",
+      "relationships": "Her goddess and the party shape her decisions.",
+      "route": [
+        "bg3"
+      ],
+      "updates": [
+        {
+          "event": "bg3",
+          "text": "Her response to Shar and her recovered history depends on choices during her quest."
+        }
+      ]
+    },
+    {
+      "id": "astarion",
+      "name": "Astarion",
+      "role": "An elven rogue",
+      "motivation": "He seeks autonomy while deciding what to do with newfound freedom.",
+      "relationships": "His past ties to Cazador make power and safety personal questions.",
+      "route": [
+        "bg3"
+      ],
+      "updates": [
+        {
+          "event": "bg3",
+          "text": "His confrontation with Cazador can lead to very different futures."
+        }
+      ]
+    },
+    {
+      "id": "laezel",
+      "name": "Lae’zel",
+      "role": "A githyanki warrior",
+      "motivation": "Conviction in her people’s teachings drives her search for a cure.",
+      "relationships": "Vlaakith’s authority and the party test that conviction.",
+      "route": [
+        "bg3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "karlach",
+      "name": "Karlach",
+      "role": "A tiefling fighter",
+      "motivation": "She wants to enjoy a life no longer defined by another person’s war.",
+      "relationships": "Her past in Avernus and connections in Baldur’s Gate matter to her future.",
+      "route": [
+        "bg3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "gale",
+      "name": "Gale",
+      "role": "A wizard from Waterdeep",
+      "motivation": "Ambition, guilt, and curiosity complicate his need for help.",
+      "relationships": "Mystra and the other companions challenge his idea of worth.",
+      "route": [
+        "bg3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "wyll",
+      "name": "Wyll",
+      "role": "The Blade of Frontiers",
+      "motivation": "He tries to reconcile heroic responsibility with the price of his pact.",
+      "relationships": "His father and Mizora pull his duties in different directions.",
+      "route": [
+        "bg3"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Bhaal and the Dead Three",
+      "Their cults connect murder, domination, and death to political schemes. BG3 teaches the immediate stakes in its own story."
+    ],
+    [
+      "Harpers",
+      "A loose network concerned with resisting dangerous concentrations of power; Jaheira offers a personal perspective."
+    ],
+    [
+      "Mind flayers and githyanki",
+      "Their histories explain parts of the parasite crisis, but the games supply the necessary context."
+    ]
+  ],
+  "timeline_help": "Story order places Tales within BG1 and Siege of Dragonspear before BG2. BG3 is a later adventure with a new protagonist, not the third act of the same save. Completion settings reveal individual games only.",
+  "scope": "Covers the original saga, its major story expansions, and BG3. Enhanced Editions are versions rather than extra chronology entries. The Black Pits arena stories and console Dark Alliance games are outside this character route. BG3 shares a world with tabletop material such as Descent into Avernus, but reading that adventure is optional.",
+  "sources": [
+    [
+      "BG1 Enhanced Edition",
+      "https://www.beamdog.com/games/baldurs-gate-enhanced/"
+    ],
+    [
+      "BG2 and Throne of Bhaal",
+      "https://baldursgateii.beamdog.com/"
+    ],
+    [
+      "Siege of Dragonspear",
+      "https://www.beamdog.com/games/baldurs-gate-siege-dragonspear/"
+    ],
+    [
+      "BG3 story and companions",
+      "https://baldursgate3.game/about"
+    ],
+    [
+      "BG3’s relationship to earlier stories",
+      "https://larian.com/support/faqs/story-and-lore-information_56"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "bg1",
+      "label": "Finished Baldur’s Gate only",
+      "unlocks": [
+        "bg1"
+      ]
+    },
+    {
+      "value": "tales",
+      "label": "Finished Tales of the Sword Coast only",
+      "unlocks": [
+        "tales"
+      ]
+    },
+    {
+      "value": "bg2",
+      "label": "Finished Baldur’s Gate II: Shadows of Amn only",
+      "unlocks": [
+        "bg2"
+      ]
+    },
+    {
+      "value": "throne",
+      "label": "Finished Throne of Bhaal only",
+      "unlocks": [
+        "throne"
+      ]
+    },
+    {
+      "value": "siege",
+      "label": "Finished Siege of Dragonspear only",
+      "unlocks": [
+        "siege"
+      ]
+    },
+    {
+      "value": "bg3",
+      "label": "Finished Baldur’s Gate 3 only",
+      "unlocks": [
+        "bg3"
+      ]
+    },
+    {
+      "value": "recap-amn",
+      "label": "Earlier-story recap for Baldur’s Gate II: Shadows of Amn",
+      "unlocks": [
+        "bg1"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "bg1",
+        "tales",
+        "bg2",
+        "throne",
+        "siege",
+        "bg3"
+      ]
+    }
+  ]
+}

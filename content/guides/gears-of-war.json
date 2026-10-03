@@ -1,0 +1,514 @@
+{
+  "slug": "gears-of-war",
+  "name": "Gears of War",
+  "strap": "Meet Delta Squad. Choose your first fight.",
+  "description": "Where to start Gears of War, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Gears works best when you care about the squad. Its original trilogy, later generation, and prequels offer different beginnings without requiring novels or competitive play.",
+  "recommendation": "Start the first Gears of War campaign, using Reloaded if it suits your platform. Gears 4 is a workable fresh-generation alternative. E-Day is a new origin story, currently in early access ahead of its 6 October 2026 general launch.",
+  "basics": [
+    [
+      "Sera",
+      "The setting is Sera, a human world devastated by war; it is not Earth."
+    ],
+    [
+      "Emergence Day",
+      "The Locust emerge from underground and overwhelm human settlements. The first game begins years into the war."
+    ],
+    [
+      "Campaign first",
+      "Co-op can make the squad experience more immediate. Horde, competitive modes, collectibles, and books are optional."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "delta",
+      "title": "Gears of War / Reloaded",
+      "audience": "I want the squad’s original journey",
+      "why": "A rescue and a clear military objective introduce Marcus, Dom, and their world through action. Reloaded retells this opening story.",
+      "need": "Human survivors are fighting the Locust on Sera. Marcus is returning to military service.",
+      "skip": "Novels, comics, multiplayer, Judgment, and the prequels.",
+      "tradeoff": "Later parts of the original trilogy have different platform availability. Check access before planning a three-game run.",
+      "next": "Play Gears 2, then Gears 3. Add prequels when you want more about the squad.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "generation",
+      "title": "Gears of War 4",
+      "audience": "I want a more modern fresh-generation start",
+      "why": "JD, Kait, and Del introduce a new threat after the original war. Older characters provide context without replacing this group’s story.",
+      "need": "The old war ended; new settlements and political restrictions shape life on Sera.",
+      "skip": "Full original-trilogy playthroughs and all external media.",
+      "tradeoff": "Marcus’s personal history has more weight if you know the earlier games. The new arc continues into Gears 5.",
+      "next": "Use the optional trilogy recap, then play Gears 5.",
+      "recap_events": [
+        "g1",
+        "g2",
+        "g3"
+      ],
+      "unlock": "recap-generation"
+    },
+    {
+      "id": "eday",
+      "title": "Gears of War: E-Day",
+      "audience": "I want to see the invasion’s beginning",
+      "why": "Its prequel premise introduces a younger Marcus and Dom at the point their world changes. No later campaign is needed to understand that setup.",
+      "need": "Emergence Day is the first large-scale Locust attack on Sera.",
+      "skip": "Every previous game and the novels.",
+      "tradeoff": "As reviewed on 3 October 2026, early access is available but general launch is 6 October. This recommendation is based on the verified premise, not an assumed ending.",
+      "next": "Continue to Gears of War for the established later squad story when ready.",
+      "recap_events": [],
+      "unlock": "none"
+    }
+  ],
+  "events": [
+    {
+      "id": "g1",
+      "title": "Gears of War",
+      "year": 2006,
+      "era": "Years after Emergence Day",
+      "premise": "Marcus Fenix rejoins Delta Squad in a campaign against the Locust.",
+      "recap": "The squad deploys the Lightmass Bomb against the underground enemy, winning an immediate victory without ending the war.",
+      "why": "Original starting point; Ultimate Edition and Reloaded are versions of this campaign.",
+      "characters": [
+        "marcus",
+        "dom",
+        "baird",
+        "cole",
+        "anya"
+      ],
+      "optional": false,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "g2",
+      "title": "Gears of War 2",
+      "year": 2008,
+      "era": "The Locust war continues",
+      "premise": "Delta enters the underground struggle as human cities fall.",
+      "recap": "Dom finds Maria but cannot rescue the life she once had. The campaign culminates in sinking Jacinto, a desperate answer to the subterranean threat.",
+      "why": "Follow the first game for the squad’s emotional stakes.",
+      "characters": [
+        "marcus",
+        "dom",
+        "baird",
+        "cole",
+        "anya"
+      ],
+      "optional": false,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "g3",
+      "title": "Gears of War 3",
+      "year": 2011,
+      "era": "The war’s final crisis",
+      "premise": "The surviving squad seeks an answer to the Locust and Lambent threat.",
+      "recap": "Dom sacrifices himself. Adam Fenix’s countermeasure ends the immediate Locust/Lambent war at terrible personal cost.",
+      "why": "The conclusion of the original trilogy.",
+      "characters": [
+        "marcus",
+        "dom",
+        "baird",
+        "cole",
+        "anya"
+      ],
+      "optional": false,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "raam",
+      "title": "RAAM’s Shadow",
+      "year": 2011,
+      "era": "Before the first game",
+      "premise": "A different squad confronts the Locust assault on Ilima.",
+      "recap": "The evacuation gives the war a civilian perspective alongside the campaign’s battles.",
+      "why": "Optional Gears 3 DLC prequel.",
+      "characters": [],
+      "optional": true,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "judgment",
+      "title": "Gears of War: Judgment",
+      "year": 2013,
+      "era": "Early in the Locust war",
+      "premise": "Kilo Squad faces an invasion and a military tribunal.",
+      "recap": "Baird’s defiance of orders is judged against the necessity of stopping Karn. The accompanying Aftermath campaign returns to a period within Gears 3.",
+      "why": "Optional Baird/Cole story; its framing jumps between testimony and action.",
+      "characters": [
+        "baird",
+        "cole"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "g4",
+      "title": "Gears of War 4",
+      "year": 2016,
+      "era": "A new generation",
+      "premise": "JD, Kait, and Del investigate attacks on their community.",
+      "recap": "The Swarm emerge as a transformed continuation of the old threat. Kait’s family connection to Myrrah changes what the conflict means for her.",
+      "why": "Alternative modern entry after a short trilogy recap.",
+      "characters": [
+        "marcus",
+        "jd",
+        "kait",
+        "del"
+      ],
+      "optional": false,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "g5",
+      "title": "Gears 5",
+      "year": 2019,
+      "era": "The Swarm conflict",
+      "premise": "Kait pursues the truth about her family while the COG prepares for war.",
+      "recap": "Kait’s connection to the Locust’s origins comes into focus. The Swarm gains a queen, and a late choice leaves either JD or Del alive.",
+      "why": "Play after Gears 4; outcomes are not treated as one fixed future here.",
+      "characters": [
+        "marcus",
+        "jd",
+        "kait",
+        "del",
+        "baird",
+        "cole"
+      ],
+      "optional": false,
+      "chronology": 9,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "tactics",
+      "title": "Gears Tactics",
+      "year": 2020,
+      "era": "Before the first game",
+      "premise": "Gabe Diaz leads a squad against a Locust scientist’s campaign.",
+      "recap": "Ukkon is defeated; Gabe’s family ties connect this prequel to Kait’s later generation.",
+      "why": "Optional tactical game, with different play from the shooters.",
+      "characters": [
+        "gabe"
+      ],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "hivebusters",
+      "title": "Hivebusters",
+      "year": 2020,
+      "era": "Alongside Gears 5’s era",
+      "premise": "A new three-person team tests a way to attack Swarm hives.",
+      "recap": "The squad’s operation establishes a different approach to entering and destroying a hive.",
+      "why": "A compact optional campaign for a new cast.",
+      "characters": [],
+      "optional": true,
+      "chronology": 10,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "eday",
+      "title": "Gears of War: E-Day",
+      "year": 2026,
+      "era": "Emergence Day",
+      "premise": "A younger Marcus and Dom face the beginning of the Locust invasion.",
+      "recap": "",
+      "why": "A new origin route; no unverified campaign resolution is supplied.",
+      "characters": [
+        "marcus",
+        "dom"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Early access; general launch 6 October 2026"
+    }
+  ],
+  "characters": [
+    {
+      "id": "marcus",
+      "name": "Marcus Fenix",
+      "role": "A soldier returning to duty",
+      "motivation": "Duty to his squad competes with a history of personal loss and institutional distrust.",
+      "relationships": "Dom is his closest friend; Adam Fenix and JD connect different generations.",
+      "route": [
+        "eday",
+        "g1",
+        "g2",
+        "g3",
+        "g4",
+        "g5"
+      ],
+      "updates": [
+        {
+          "event": "g3",
+          "text": "Victory over the old threat costs him Dom and his father."
+        }
+      ]
+    },
+    {
+      "id": "dom",
+      "name": "Dominic Santiago",
+      "role": "Marcus’s closest squadmate",
+      "motivation": "His loyalty is inseparable from the search for his family.",
+      "relationships": "Maria and Marcus give the war its most personal stakes.",
+      "route": [
+        "eday",
+        "g1",
+        "g2",
+        "g3"
+      ],
+      "updates": [
+        {
+          "event": "g2",
+          "text": "Finding Maria does not bring the reunion he hoped for."
+        },
+        {
+          "event": "g3",
+          "text": "He sacrifices himself to save the squad."
+        }
+      ]
+    },
+    {
+      "id": "baird",
+      "name": "Damon Baird",
+      "role": "A technically skilled soldier",
+      "motivation": "Scepticism and expertise make him question plans that others accept on authority.",
+      "relationships": "Cole is his long-standing squadmate.",
+      "route": [
+        "judgment",
+        "g1",
+        "g2",
+        "g3",
+        "g5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "cole",
+      "name": "Augustus Cole",
+      "role": "A former sports star and soldier",
+      "motivation": "His energy sustains the squad, even when the world cannot sustain his old identity.",
+      "relationships": "Baird and Delta Squad form his wartime community.",
+      "route": [
+        "judgment",
+        "g1",
+        "g2",
+        "g3",
+        "g5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "anya",
+      "name": "Anya Stroud",
+      "role": "A COG officer",
+      "motivation": "She keeps military work connected to the people carrying it out.",
+      "relationships": "Marcus and Delta Squad are central to her story.",
+      "route": [
+        "g1",
+        "g2",
+        "g3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "jd",
+      "name": "JD Fenix",
+      "role": "A soldier of the later generation",
+      "motivation": "He wants a life defined by his choices rather than his father’s legend.",
+      "relationships": "Marcus, Kait, and Del complicate that independence.",
+      "route": [
+        "g4",
+        "g5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "kait",
+      "name": "Kait Diaz",
+      "role": "An Outsider drawn into the Swarm conflict",
+      "motivation": "She seeks answers without surrendering control of her identity.",
+      "relationships": "Her family, JD, and Del give competing stakes to that search.",
+      "route": [
+        "g4",
+        "g5"
+      ],
+      "updates": [
+        {
+          "event": "g4",
+          "text": "Her mother’s final message ties her family to the Locust’s leadership."
+        }
+      ]
+    },
+    {
+      "id": "del",
+      "name": "Del Walker",
+      "role": "JD’s friend and fellow adventurer",
+      "motivation": "Curiosity and loyalty guide how he responds to military and personal crises.",
+      "relationships": "JD and Kait are his closest companions.",
+      "route": [
+        "g4",
+        "g5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "gabe",
+      "name": "Gabe Diaz",
+      "role": "The tactical prequel’s squad leader",
+      "motivation": "He puts the needs of his people ahead of a clean institutional story.",
+      "relationships": "His family links the prequel to Kait’s generation.",
+      "route": [
+        "tactics"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "COG",
+      "The Coalition of Ordered Governments is humanity’s central military power, but its survival policies carry consequences."
+    ],
+    [
+      "Locust and Lambent",
+      "The underground enemy and a related transformed threat drive the original trilogy."
+    ],
+    [
+      "Outsiders and Swarm",
+      "Independent settlements and a new enemy frame the later generation’s conflict."
+    ]
+  ],
+  "timeline_help": "Release order is the recommended first journey. Story order puts E-Day, Judgment, Tactics, and RAAM’s Shadow before the first game. Judgment’s Aftermath portion overlaps Gears 3, so the entries are not a frame-by-frame chronology. The starting-route filter includes both generations and E-Day as alternatives.",
+  "scope": "Covers the major shooter campaigns, selected story DLC, and Tactics. Reloaded and Ultimate Edition are versions of Gears of War. E-Day’s status is dated to 3 October 2026; its ending is not summarised. Multiplayer seasons, books, comics, and Gears POP! are not required. Gears 5’s late survival choice remains player-dependent.",
+  "sources": [
+    [
+      "Gears game catalogue",
+      "https://www.gearsofwar.com/"
+    ],
+    [
+      "Reloaded announcement",
+      "https://news.xbox.com/en-us/2025/05/05/gears-of-war-reloaded/"
+    ],
+    [
+      "E-Day dates and editions",
+      "https://www.gearsofwar.com/en-ca/news/gears-of-war-e-day/"
+    ],
+    [
+      "E-Day launch preparation",
+      "https://news.xbox.com/en-us/2026/09/17/gears-of-war-e-day-gone-gold-pre-install-pc-specs/amp/"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "g1",
+      "label": "Finished Gears of War only",
+      "unlocks": [
+        "g1"
+      ]
+    },
+    {
+      "value": "g2",
+      "label": "Finished Gears of War 2 only",
+      "unlocks": [
+        "g2"
+      ]
+    },
+    {
+      "value": "g3",
+      "label": "Finished Gears of War 3 only",
+      "unlocks": [
+        "g3"
+      ]
+    },
+    {
+      "value": "raam",
+      "label": "Finished RAAM’s Shadow only",
+      "unlocks": [
+        "raam"
+      ]
+    },
+    {
+      "value": "judgment",
+      "label": "Finished Gears of War: Judgment only",
+      "unlocks": [
+        "judgment"
+      ]
+    },
+    {
+      "value": "g4",
+      "label": "Finished Gears of War 4 only",
+      "unlocks": [
+        "g4"
+      ]
+    },
+    {
+      "value": "g5",
+      "label": "Finished Gears 5 only",
+      "unlocks": [
+        "g5"
+      ]
+    },
+    {
+      "value": "tactics",
+      "label": "Finished Gears Tactics only",
+      "unlocks": [
+        "tactics"
+      ]
+    },
+    {
+      "value": "hivebusters",
+      "label": "Finished Hivebusters only",
+      "unlocks": [
+        "hivebusters"
+      ]
+    },
+    {
+      "value": "recap-generation",
+      "label": "Earlier-story recap for Gears of War 4",
+      "unlocks": [
+        "g1",
+        "g2",
+        "g3"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "g1",
+        "g2",
+        "g3",
+        "raam",
+        "judgment",
+        "g4",
+        "g5",
+        "tactics",
+        "hivebusters"
+      ]
+    }
+  ]
+}

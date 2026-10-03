@@ -1,0 +1,484 @@
+{
+  "slug": "starcraft",
+  "name": "StarCraft",
+  "strap": "Pick a campaign. Learn the war through its people.",
+  "description": "Where to start StarCraft, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "StarCraft’s story is a chain of betrayals, loyalties, and competing perspectives. The campaigns teach their armies, so you can begin without multiplayer expertise.",
+  "recommendation": "Start Wings of Liberty for the most accessible campaign introduction. Choose StarCraft and Brood War, through Remastered, if you want Kerrigan and Raynor’s full original story.",
+  "basics": [
+    [
+      "The Koprulu sector",
+      "Human colonies, the zerg, and the protoss fight over a region far from Earth."
+    ],
+    [
+      "Three perspectives",
+      "Terrans, zerg, and protoss have different institutions and motives. Their campaigns are sequential viewpoints on a shared conflict."
+    ],
+    [
+      "Campaign difficulty",
+      "A comfortable setting lets you learn strategy without ranked-play expectations. Challenge modes and co-op commanders are optional."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "liberty",
+      "title": "StarCraft II: Wings of Liberty",
+      "audience": "I want the easiest campaign introduction",
+      "why": "Raynor’s ship, crew, and mission choices give the conflict a human centre. Tutorials teach the army as the story grows.",
+      "need": "Raynor leads rebels against Mengsk; his history with Kerrigan makes the zerg threat personal.",
+      "skip": "A full original-game playthrough, Brood War, multiplayer, and novels.",
+      "tradeoff": "The starting situation contains major original-story developments. Read the short recap if you accept those spoilers.",
+      "next": "Continue to Heart of the Swarm, then Whispers of Oblivion and Legacy of the Void.",
+      "recap_events": [
+        "sc1",
+        "brood"
+      ],
+      "unlock": "recap-liberty"
+    },
+    {
+      "id": "original",
+      "title": "StarCraft / Remastered",
+      "audience": "I want the original betrayals and relationships",
+      "why": "The terran, zerg, and protoss campaigns establish the people whose choices drive both games. Remastered includes the original and Brood War stories.",
+      "need": "The sector’s human government faces rebellion and alien threats.",
+      "skip": "StarCraft II, books, competitive build orders, and perfect mission scores.",
+      "tradeoff": "Older pathfinding and controls require patience. Play the campaign episodes in their intended sequence.",
+      "next": "Continue directly to Brood War, then Wings of Liberty.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "protoss",
+      "title": "Legacy of the Void",
+      "audience": "I want to lead the protoss",
+      "why": "Artanis’s coalition has a clear immediate purpose, and its army offers a different style of strategy.",
+      "need": "The protoss seek to reclaim their home while a larger threat manipulates the conflict.",
+      "skip": "A full three-army marathon if the protoss are what brought you here.",
+      "tradeoff": "This is the saga’s concluding campaign, so its recap and epilogue reveal much of the earlier story.",
+      "next": "Play Whispers of Oblivion first; use earlier recaps if desired, then the main campaign and epilogue.",
+      "recap_events": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm"
+      ],
+      "unlock": "recap-protoss"
+    }
+  ],
+  "events": [
+    {
+      "id": "sc1",
+      "title": "StarCraft",
+      "year": 1998,
+      "era": "The original sector crisis",
+      "premise": "Rebellion, alien invasion, and competing commands pull the sector into war.",
+      "recap": "Mengsk abandons Kerrigan to the zerg and forms the Dominion. Kerrigan emerges transformed, while the protoss sacrifice Aiur’s Overmind victory at enormous cost.",
+      "why": "Original foundation; play terran, zerg, then protoss episodes.",
+      "characters": [
+        "raynor",
+        "kerrigan",
+        "mengsk",
+        "zeratul",
+        "tassadar"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "brood",
+      "title": "Brood War",
+      "year": 1998,
+      "era": "After the Overmind",
+      "premise": "The protoss, invading UED, and zerg factions contest the broken balance of power.",
+      "recap": "Kerrigan manipulates allies and rivals to consolidate the Swarm. The UED expedition is defeated, and her victory leaves Raynor with deeply personal reasons to oppose her.",
+      "why": "Original saga continuation; episode order matters.",
+      "characters": [
+        "raynor",
+        "kerrigan",
+        "mengsk",
+        "zeratul",
+        "artanis"
+      ],
+      "optional": false,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "wings",
+      "title": "Wings of Liberty",
+      "year": 2010,
+      "era": "Raynor’s rebellion",
+      "premise": "Raynor’s crew fights Dominion authority while pursuing artefacts connected to Kerrigan.",
+      "recap": "The artefact strips away Kerrigan’s zerg form. Tychus’s hidden order to kill her forces Raynor to choose between the mission’s bargain and the person he wants to save.",
+      "why": "Recommended accessible beginning with an optional earlier recap.",
+      "characters": [
+        "raynor",
+        "kerrigan",
+        "mengsk",
+        "tychus",
+        "zeratul"
+      ],
+      "optional": false,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "swarm",
+      "title": "Heart of the Swarm",
+      "year": 2013,
+      "era": "Kerrigan’s campaign",
+      "premise": "Kerrigan gathers the Swarm while seeking answers about Raynor and revenge against Mengsk.",
+      "recap": "Kerrigan becomes a primal zerg leader and overthrows Mengsk, while a larger cosmic conflict takes precedence over revenge.",
+      "why": "Follow Wings of Liberty.",
+      "characters": [
+        "raynor",
+        "kerrigan",
+        "mengsk"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "whispers",
+      "title": "Whispers of Oblivion",
+      "year": 2015,
+      "era": "Before Legacy of the Void",
+      "premise": "Zeratul follows clues to a threat behind the sector’s wars.",
+      "recap": "The missions connect the xel’naga prophecy to Amon’s plans and warn the protoss of the danger ahead.",
+      "why": "Short recommended prologue before Legacy.",
+      "characters": [
+        "zeratul"
+      ],
+      "optional": true,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "legacy",
+      "title": "Legacy of the Void",
+      "year": 2015,
+      "era": "Artanis’s coalition",
+      "premise": "Protoss communities must overcome division to confront Amon.",
+      "recap": "The protoss sever Amon’s hold through the Khala and assemble a coalition to retake their future. The main campaign hands the saga to its epilogue.",
+      "why": "Conclusion-focused alternative entry; stronger after the other campaigns.",
+      "characters": [
+        "artanis",
+        "zeratul",
+        "kerrigan",
+        "raynor"
+      ],
+      "optional": false,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "epilogue",
+      "title": "Into the Void",
+      "year": 2015,
+      "era": "After Legacy’s campaign",
+      "premise": "The three peoples confront the threat beyond their earlier wars.",
+      "recap": "Kerrigan takes on xel’naga power and defeats Amon. The epilogue resolves the main saga’s cosmic conflict while leaving the peoples to their own futures.",
+      "why": "Play after Legacy, not as a separate starting point.",
+      "characters": [
+        "kerrigan",
+        "raynor",
+        "artanis"
+      ],
+      "optional": false,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "nova",
+      "title": "Nova Covert Ops",
+      "year": 2016,
+      "era": "After the main conflict",
+      "premise": "A Dominion ghost investigates covert operations and a threat within human politics.",
+      "recap": "Nova confronts the Defenders of Man conspiracy rather than restarting the main xel’naga saga.",
+      "why": "Optional self-contained terran follow-up.",
+      "characters": [
+        "nova"
+      ],
+      "optional": true,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "raynor",
+      "name": "Jim Raynor",
+      "role": "A terran rebel",
+      "motivation": "He wants his resistance to stand for people rather than another ruler’s ambition.",
+      "relationships": "Kerrigan and Mengsk turn political conflict into personal betrayal.",
+      "route": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm",
+        "legacy",
+        "epilogue"
+      ],
+      "updates": []
+    },
+    {
+      "id": "kerrigan",
+      "name": "Sarah Kerrigan",
+      "role": "A terran ghost at the story’s beginning",
+      "motivation": "Control over her own life becomes inseparable from power over others.",
+      "relationships": "Raynor and Mengsk define competing parts of her history.",
+      "route": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm",
+        "legacy",
+        "epilogue"
+      ],
+      "updates": [
+        {
+          "event": "sc1",
+          "text": "Mengsk’s abandonment leads to her transformation by the zerg."
+        }
+      ]
+    },
+    {
+      "id": "mengsk",
+      "name": "Arcturus Mengsk",
+      "role": "A revolutionary leader",
+      "motivation": "His pursuit of victory tests how far political liberation can turn into personal rule.",
+      "relationships": "Raynor and Kerrigan know the human cost of his plans.",
+      "route": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm"
+      ],
+      "updates": [
+        {
+          "event": "sc1",
+          "text": "The rebellion installs him at the head of the Dominion."
+        }
+      ]
+    },
+    {
+      "id": "zeratul",
+      "name": "Zeratul",
+      "role": "A dark templar",
+      "motivation": "He seeks knowledge dangerous enough to change the fate of his people.",
+      "relationships": "Tassadar and Artanis connect his work to a divided protoss society.",
+      "route": [
+        "sc1",
+        "brood",
+        "wings",
+        "whispers",
+        "legacy"
+      ],
+      "updates": []
+    },
+    {
+      "id": "tassadar",
+      "name": "Tassadar",
+      "role": "A protoss commander",
+      "motivation": "He challenges inherited divisions when survival demands cooperation.",
+      "relationships": "Zeratul and Raynor become unlikely allies.",
+      "route": [
+        "sc1"
+      ],
+      "updates": [
+        {
+          "event": "sc1",
+          "text": "His sacrifice destroys the Overmind on Aiur."
+        }
+      ]
+    },
+    {
+      "id": "artanis",
+      "name": "Artanis",
+      "role": "A protoss leader",
+      "motivation": "He tries to build a shared future from communities divided by history.",
+      "relationships": "Zeratul’s warnings help change how he understands duty.",
+      "route": [
+        "brood",
+        "legacy",
+        "epilogue"
+      ],
+      "updates": []
+    },
+    {
+      "id": "tychus",
+      "name": "Tychus Findlay",
+      "role": "Raynor’s old associate",
+      "motivation": "A bargain for freedom places him inside a mission with hidden demands.",
+      "relationships": "His history with Raynor complicates the campaign’s trust.",
+      "route": [
+        "wings"
+      ],
+      "updates": [
+        {
+          "event": "wings",
+          "text": "His order to kill Kerrigan puts him in direct conflict with Raynor."
+        }
+      ]
+    },
+    {
+      "id": "nova",
+      "name": "Nova Terra",
+      "role": "A Dominion ghost",
+      "motivation": "She must decide which orders serve the people they claim to protect.",
+      "relationships": "Dominion institutions give her mission its political stakes.",
+      "route": [
+        "nova"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Terran governments",
+      "The Confederacy, Dominion, UED, and rebels have different interests. “Terran” is a species grouping, not one faction."
+    ],
+    [
+      "The Swarm",
+      "Zerg leadership and purpose change across the campaigns; Kerrigan is not their only historical authority."
+    ],
+    [
+      "Protoss communities",
+      "Aiur’s templar and the dark templar carry old divisions; Artanis’s project seeks cooperation beyond them."
+    ],
+    [
+      "Xel’naga",
+      "Ancient creators and their legacy connect the local wars to the saga’s larger threat."
+    ]
+  ],
+  "timeline_help": "Campaign release order broadly follows the story. Play each original game’s episodes in sequence. Whispers is a prologue and Into the Void an epilogue, not extra full games. The starting-route filter marks the central saga; Wings of Liberty remains a valid shorter starting commitment.",
+  "scope": "Covers StarCraft, Brood War, the three StarCraft II campaigns, Whispers of Oblivion, Into the Void, and Nova Covert Ops. Remastered is a version of the original campaigns. Nova is optional follow-up content. Multiplayer, co-op commander lore, books, and the unreleased StarCraft: Ghost are not required.",
+  "sources": [
+    [
+      "StarCraft II campaigns",
+      "https://starcraft2.blizzard.com/"
+    ],
+    [
+      "Wings of Liberty access",
+      "https://news.blizzard.com/en-us/article/21183629/starcraft-ii-going-free-to-play-explained"
+    ],
+    [
+      "Whispers of Oblivion",
+      "https://news.blizzard.com/en-us/article/19804019/whispers-of-oblivion-prologue-to-legacy-of-the-void"
+    ],
+    [
+      "Legacy and epilogue",
+      "https://news.blizzard.com/en-gb/article/19954440/legacy-of-the-void-launch-day-patch-notes"
+    ],
+    [
+      "Nova mission packs",
+      "https://news.blizzard.com/en-us/article/20194482/starcraft-ii-legacy-of-the-void-3-5-0-patch-notes"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "sc1",
+      "label": "Finished StarCraft only",
+      "unlocks": [
+        "sc1"
+      ]
+    },
+    {
+      "value": "brood",
+      "label": "Finished Brood War only",
+      "unlocks": [
+        "brood"
+      ]
+    },
+    {
+      "value": "wings",
+      "label": "Finished Wings of Liberty only",
+      "unlocks": [
+        "wings"
+      ]
+    },
+    {
+      "value": "swarm",
+      "label": "Finished Heart of the Swarm only",
+      "unlocks": [
+        "swarm"
+      ]
+    },
+    {
+      "value": "whispers",
+      "label": "Finished Whispers of Oblivion only",
+      "unlocks": [
+        "whispers"
+      ]
+    },
+    {
+      "value": "legacy",
+      "label": "Finished Legacy of the Void only",
+      "unlocks": [
+        "legacy"
+      ]
+    },
+    {
+      "value": "epilogue",
+      "label": "Finished Into the Void only",
+      "unlocks": [
+        "epilogue"
+      ]
+    },
+    {
+      "value": "nova",
+      "label": "Finished Nova Covert Ops only",
+      "unlocks": [
+        "nova"
+      ]
+    },
+    {
+      "value": "recap-liberty",
+      "label": "Earlier-story recap for StarCraft II: Wings of Liberty",
+      "unlocks": [
+        "sc1",
+        "brood"
+      ]
+    },
+    {
+      "value": "recap-protoss",
+      "label": "Earlier-story recap for Legacy of the Void",
+      "unlocks": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "sc1",
+        "brood",
+        "wings",
+        "swarm",
+        "whispers",
+        "legacy",
+        "epilogue",
+        "nova"
+      ]
+    }
+  ]
+}

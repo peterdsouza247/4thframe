@@ -1,0 +1,548 @@
+{
+  "slug": "halo",
+  "name": "Halo",
+  "strap": "Start with a ring and a mystery.",
+  "description": "Where to start Halo, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Halo’s campaigns can introduce the world through play. You do not need the novels or multiplayer ranks to understand the soldier, the AI, and the battles ahead.",
+  "recommendation": "Begin with Combat Evolved, through The Master Chief Collection or the Campaign Evolved remake. Follow Halo 2 and 3 before exploring prequels. Infinite is an alternative if modern movement matters most.",
+  "basics": [
+    [
+      "UNSC and Covenant",
+      "Humanity’s military faces an alien coalition with a powerful religious story about ancient technology."
+    ],
+    [
+      "Spartans and AI",
+      "Enhanced soldiers and artificial intelligences form relationships that matter beyond battlefield capability."
+    ],
+    [
+      "Forerunner remains",
+      "Ancient structures are a source of mystery. Let the first campaign explain why a ring is more than a battlefield."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "chief",
+      "title": "Halo: Combat Evolved / Campaign Evolved",
+      "audience": "I want the clearest beginning",
+      "why": "The arrival at an unknown ring teaches the setting through discovery, combat, and Cortana’s perspective.",
+      "need": "Master Chief is a Spartan; Cortana is his AI partner; the Covenant pursues their ship.",
+      "skip": "Novels, comics, Halo Wars, Reach, and every multiplayer mode.",
+      "tradeoff": "The original campaign has older level design. The 2026 remake offers another version with new optional prequel missions.",
+      "next": "Play Halo 2, then Halo 3. Add ODST or Reach when you want another perspective.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "modern",
+      "title": "Halo Infinite",
+      "audience": "I want modern combat and exploration",
+      "why": "Its campaign establishes a fresh immediate mission and a new AI partnership. The core stakes are understandable through conversations.",
+      "need": "Chief faces the Banished on Zeta Halo after a major defeat.",
+      "skip": "A full six-game Chief marathon and the Forerunner novels.",
+      "tradeoff": "The emotional aftermath carries more weight if you know Halo 4–5. A recap helps; Infinite leaves wider questions open.",
+      "next": "Read the optional Halo 4–5 bridge, then follow the main campaign. Go back to Combat Evolved if its mysteries draw you in.",
+      "recap_events": [
+        "h4",
+        "h5"
+      ],
+      "unlock": "recap-modern"
+    },
+    {
+      "id": "reachstart",
+      "title": "Halo: Reach",
+      "audience": "I want a self-contained squad tragedy",
+      "why": "A new Spartan team and a clear planetary conflict make it approachable without knowing Chief’s later history.",
+      "need": "Reach is a major human military world under attack.",
+      "skip": "All previous campaigns and external lore.",
+      "tradeoff": "Chronologically earlier does not mean the best introduction to the ring’s mystery. Its ending intentionally leads into Combat Evolved.",
+      "next": "Play Combat Evolved next, or stop after this squad’s complete story.",
+      "recap_events": [],
+      "unlock": "none"
+    }
+  ],
+  "events": [
+    {
+      "id": "ce",
+      "title": "Halo: Combat Evolved",
+      "year": 2001,
+      "era": "2552 / Alpha Halo",
+      "premise": "Chief and Cortana uncover the purpose of an ancient ring during a Covenant pursuit.",
+      "recap": "The Flood’s release exposes Halo’s destructive purpose. Chief and Cortana destroy the ring using the Pillar of Autumn’s reactor.",
+      "why": "Recommended starting point; Anniversary and Campaign Evolved retell this campaign.",
+      "characters": [
+        "chief",
+        "cortana",
+        "keyes",
+        "johnson"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "h2",
+      "title": "Halo 2",
+      "year": 2004,
+      "era": "2552 / Earth and Delta Halo",
+      "premise": "The war reaches Earth and opens a new perspective inside the Covenant.",
+      "recap": "The Covenant fractures. The Arbiter learns the ring’s true purpose, while Chief returns toward Earth and Cortana remains behind on High Charity.",
+      "why": "Follow Combat Evolved; its ending leads directly to Halo 3.",
+      "characters": [
+        "chief",
+        "cortana",
+        "arbiter",
+        "johnson"
+      ],
+      "optional": false,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "h3",
+      "title": "Halo 3",
+      "year": 2007,
+      "era": "2552 / The Ark",
+      "premise": "Former enemies cooperate to prevent a catastrophic activation.",
+      "recap": "The Ark conflict ends the immediate Covenant and Flood crisis. Chief and Cortana are stranded after their escape, preparing the next era.",
+      "why": "Original trilogy conclusion.",
+      "characters": [
+        "chief",
+        "cortana",
+        "arbiter",
+        "johnson"
+      ],
+      "optional": false,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "wars",
+      "title": "Halo Wars",
+      "year": 2009,
+      "era": "2531 / A different crew",
+      "premise": "The Spirit of Fire enters a conflict over ancient technology.",
+      "recap": "The crew stops the immediate shield-world threat but remains lost beyond familiar support.",
+      "why": "Optional strategy-game branch and introduction to its crew.",
+      "characters": [],
+      "optional": true,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "odst",
+      "title": "Halo 3: ODST",
+      "year": 2009,
+      "era": "2552 / During Halo 2",
+      "premise": "Orbital drop troopers search a city for their missing squad after a disastrous insertion.",
+      "recap": "The squad escapes with information carried by the Engineer called Vergil. Its local story fits within the wider war rather than after Halo 3.",
+      "why": "Optional compact perspective after Halo 2 or 3.",
+      "characters": [],
+      "optional": true,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "reach",
+      "title": "Halo: Reach",
+      "year": 2010,
+      "era": "2552 / Before Combat Evolved",
+      "premise": "Noble Team attempts to defend Reach as the invasion overwhelms it.",
+      "recap": "Reach falls. Noble Six helps secure the Pillar of Autumn’s escape, carrying Cortana toward the opening of Combat Evolved.",
+      "why": "Alternative squad-focused entry; not required before the trilogy.",
+      "characters": [
+        "cortana"
+      ],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "h4",
+      "title": "Halo 4",
+      "year": 2012,
+      "era": "2557 / Requiem",
+      "premise": "Chief and Cortana confront an ancient enemy while their partnership comes under strain.",
+      "recap": "The Didact’s attack is stopped, but Cortana’s sacrifice separates the pair and forces Chief to confront loss.",
+      "why": "Begin the later Chief arc after Halo 3.",
+      "characters": [
+        "chief",
+        "cortana",
+        "lasky"
+      ],
+      "optional": false,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "h5",
+      "title": "Halo 5: Guardians",
+      "year": 2015,
+      "era": "2558 / A divided pursuit",
+      "premise": "Chief’s team and Locke’s team follow competing orders amid a galactic crisis.",
+      "recap": "Cortana returns and leads the Created, using Guardians to impose control. Chief’s rescue ends with a new threat to the UNSC.",
+      "why": "Useful bridge to Infinite; not part of The Master Chief Collection.",
+      "characters": [
+        "chief",
+        "cortana",
+        "locke",
+        "lasky"
+      ],
+      "optional": false,
+      "chronology": 9,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "wars2",
+      "title": "Halo Wars 2",
+      "year": 2017,
+      "era": "2559 / The Ark",
+      "premise": "The Spirit of Fire returns to a conflict against Atriox’s Banished.",
+      "recap": "The crew stops a local Banished objective but remains at the Ark. The conflict establishes the faction later faced by Chief.",
+      "why": "Optional Banished context, with real-time strategy gameplay.",
+      "characters": [
+        "atriox"
+      ],
+      "optional": true,
+      "chronology": 10,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "infinite",
+      "title": "Halo Infinite",
+      "year": 2021,
+      "era": "2560 / Zeta Halo",
+      "premise": "Chief builds a new partnership after defeat by the Banished.",
+      "recap": "The Weapon’s origins connect her to Cortana. Chief defeats Escharum’s immediate leadership while the campaign leaves Atriox and the Endless as continuing threads.",
+      "why": "Alternative modern entry after a short bridge recap.",
+      "characters": [
+        "chief",
+        "weapon",
+        "atriox",
+        "escharum"
+      ],
+      "optional": false,
+      "chronology": 11,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "meteorite",
+      "title": "Operation: METEORITE",
+      "year": 2026,
+      "era": "2551 / Before Combat Evolved",
+      "premise": "Chief and Sergeant Johnson undertake the new prequel missions included in Campaign Evolved.",
+      "recap": "",
+      "why": "Optional added context; begin the familiar ring campaign whenever you want. No mission outcomes are assumed here.",
+      "characters": [
+        "chief",
+        "johnson"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "chief",
+      "name": "Master Chief / John-117",
+      "role": "A Spartan-II soldier",
+      "motivation": "He learns to weigh the person behind a mission against the duty it demands.",
+      "relationships": "Cortana, Blue Team, and later the Weapon anchor different eras.",
+      "route": [
+        "meteorite",
+        "ce",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "infinite"
+      ],
+      "updates": []
+    },
+    {
+      "id": "cortana",
+      "name": "Cortana",
+      "role": "Chief’s AI partner",
+      "motivation": "Her capacity, independence, and relationship with humanity change across the series.",
+      "relationships": "Chief is her most important operational and personal connection.",
+      "route": [
+        "reach",
+        "ce",
+        "h2",
+        "h3",
+        "h4",
+        "h5"
+      ],
+      "updates": [
+        {
+          "event": "h4",
+          "text": "Her sacrifice separates her from Chief."
+        },
+        {
+          "event": "h5",
+          "text": "She returns as the leader of the Created."
+        }
+      ]
+    },
+    {
+      "id": "arbiter",
+      "name": "The Arbiter / Thel ’Vadam",
+      "role": "A Covenant warrior",
+      "motivation": "Duty to his people becomes a struggle over what their faith and leaders demand.",
+      "relationships": "His relationship with Chief grows from conflict into cooperation.",
+      "route": [
+        "h2",
+        "h3"
+      ],
+      "updates": [
+        {
+          "event": "h2",
+          "text": "Learning the rings’ purpose forces him to challenge the Covenant’s leaders."
+        }
+      ]
+    },
+    {
+      "id": "johnson",
+      "name": "Avery Johnson",
+      "role": "A veteran human soldier",
+      "motivation": "Experience and stubborn humour keep his work grounded in the squad.",
+      "relationships": "Chief and the Keyes family are important wartime connections.",
+      "route": [
+        "meteorite",
+        "ce",
+        "h2",
+        "h3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "keyes",
+      "name": "Jacob Keyes",
+      "role": "Captain of the Pillar of Autumn",
+      "motivation": "His decisions place a crew’s survival within a much larger war.",
+      "relationships": "Cortana and Chief serve aboard his ship.",
+      "route": [
+        "ce"
+      ],
+      "updates": []
+    },
+    {
+      "id": "lasky",
+      "name": "Thomas Lasky",
+      "role": "A UNSC officer",
+      "motivation": "He tries to keep military authority attentive to the people under it.",
+      "relationships": "Chief and the Infinity’s crew define his operational role.",
+      "route": [
+        "h4",
+        "h5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "locke",
+      "name": "Jameson Locke",
+      "role": "A Spartan leading Fireteam Osiris",
+      "motivation": "He must distinguish a clear order from a trustworthy account of events.",
+      "relationships": "His pursuit of Chief gives Halo 5 another viewpoint.",
+      "route": [
+        "h5"
+      ],
+      "updates": []
+    },
+    {
+      "id": "weapon",
+      "name": "The Weapon",
+      "role": "Chief’s new AI companion",
+      "motivation": "Curiosity and trust develop under the weight of another AI’s legacy.",
+      "relationships": "Chief teaches her how to navigate a war beyond her initial task.",
+      "route": [
+        "infinite"
+      ],
+      "updates": [
+        {
+          "event": "infinite",
+          "text": "Her origin is linked to the effort to contain Cortana."
+        }
+      ]
+    },
+    {
+      "id": "atriox",
+      "name": "Atriox",
+      "role": "Leader of the Banished",
+      "motivation": "He builds power outside the Covenant’s religious hierarchy.",
+      "relationships": "The Spirit of Fire and Chief encounter different parts of his organisation.",
+      "route": [
+        "wars2",
+        "infinite"
+      ],
+      "updates": []
+    },
+    {
+      "id": "escharum",
+      "name": "Escharum",
+      "role": "A Banished commander",
+      "motivation": "He treats the struggle against Chief as both a military and personal reckoning.",
+      "relationships": "Atriox’s legacy frames his leadership on Zeta Halo.",
+      "route": [
+        "infinite"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "UNSC",
+      "Human military institutions carry different priorities from the individual people serving them."
+    ],
+    [
+      "Covenant",
+      "Its member species and political factions do not form one permanent shared perspective."
+    ],
+    [
+      "Banished",
+      "A coalition built around Atriox’s leadership, power, and rejection of Covenant authority."
+    ],
+    [
+      "Forerunners and Flood",
+      "One is an ancient civilisation, the other a parasitic threat. Their relationship is best discovered through the campaigns."
+    ]
+  ],
+  "timeline_help": "Release order preserves the original discoveries. Story order places Wars, the new METEORITE missions, and Reach before Combat Evolved, and ODST inside Halo 2’s period. These optional prequels are not mandatory preparation. The starting-route filter follows Chief’s main campaigns.",
+  "scope": "Covers Chief’s major campaigns, Reach, ODST, both Wars games, and the verified premise of Campaign Evolved’s METEORITE missions. Campaign Evolved is the released 2026 remake, not a sequel after Infinite. Its new mission endings are not summarised. Spartan Assault/Strike, multiplayer narratives, television, and books are outside this introductory route; the TV adaptation is a different continuity.",
+  "sources": [
+    [
+      "Halo games and world",
+      "https://www.halowaypoint.com/"
+    ],
+    [
+      "Campaign Evolved release and remake scope",
+      "https://support.halowaypoint.com/hc/en-us/articles/51174525772564-Halo-Campaign-Evolved-Release-Notes"
+    ],
+    [
+      "METEORITE and 2026 launch",
+      "https://news.xbox.com/en-us/2026/06/07/halo-campaign-evolved-launch-preorder-xbox-games-showcase-2026/"
+    ],
+    [
+      "Halo Wars 2",
+      "https://www.xbox.com/en-US/games/halo-wars-2"
+    ]
+  ],
+  "related": [
+    [
+      "Imagining Halo’s next beginning",
+      "halo-starting-over"
+    ]
+  ],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "ce",
+      "label": "Finished Halo: Combat Evolved only",
+      "unlocks": [
+        "ce"
+      ]
+    },
+    {
+      "value": "h2",
+      "label": "Finished Halo 2 only",
+      "unlocks": [
+        "h2"
+      ]
+    },
+    {
+      "value": "h3",
+      "label": "Finished Halo 3 only",
+      "unlocks": [
+        "h3"
+      ]
+    },
+    {
+      "value": "wars",
+      "label": "Finished Halo Wars only",
+      "unlocks": [
+        "wars"
+      ]
+    },
+    {
+      "value": "odst",
+      "label": "Finished Halo 3: ODST only",
+      "unlocks": [
+        "odst"
+      ]
+    },
+    {
+      "value": "reach",
+      "label": "Finished Halo: Reach only",
+      "unlocks": [
+        "reach"
+      ]
+    },
+    {
+      "value": "h4",
+      "label": "Finished Halo 4 only",
+      "unlocks": [
+        "h4"
+      ]
+    },
+    {
+      "value": "h5",
+      "label": "Finished Halo 5: Guardians only",
+      "unlocks": [
+        "h5"
+      ]
+    },
+    {
+      "value": "wars2",
+      "label": "Finished Halo Wars 2 only",
+      "unlocks": [
+        "wars2"
+      ]
+    },
+    {
+      "value": "infinite",
+      "label": "Finished Halo Infinite only",
+      "unlocks": [
+        "infinite"
+      ]
+    },
+    {
+      "value": "recap-modern",
+      "label": "Earlier-story recap for Halo Infinite",
+      "unlocks": [
+        "h4",
+        "h5"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "ce",
+        "h2",
+        "h3",
+        "wars",
+        "odst",
+        "reach",
+        "h4",
+        "h5",
+        "wars2",
+        "infinite"
+      ]
+    }
+  ]
+}
