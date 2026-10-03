@@ -6,18 +6,12 @@
   const order = document.getElementById('timeline-order');
   const character = document.getElementById('timeline-character');
   const mainOnly = document.getElementById('recommended-only');
+  const branch = document.getElementById('timeline-branch');
   const timeline = document.getElementById('story-timeline');
   const events = [...timeline.querySelectorAll('.timeline-event')];
   const spoilers = [...root.querySelectorAll('[data-spoiler]')];
   const status = document.getElementById('timeline-status');
   const dialog = document.getElementById('recap-dialog');
-  const recapSets = {
-    campaign: ['wc1', 'wc2', 'portal'],
-    modern: ['legion', 'bfa', 'shadow', 'dragon', 'warwithin'],
-    saga: ['legion', 'bfa', 'shadow', 'dragon'],
-    classic: ['wc3', 'frozen'],
-    crew: ['me1']
-  };
   function update() {
     const allowed = new Set(data.milestones.find(m => m.value === limit.value).unlocks);
     spoilers.forEach(node => {
@@ -36,19 +30,20 @@
     let visible = 0;
     [...events].sort((a,b) => Number(a.dataset[order.value === 'story' ? 'story' : 'release']) - Number(b.dataset[order.value === 'story' ? 'story' : 'release'])).forEach(event => {
       const relevant = character.value === 'all' || event.dataset.characters.split(' ').includes(character.value);
-      event.hidden = !relevant || (mainOnly.checked && event.dataset.optional === 'true');
+      event.hidden = !relevant || (mainOnly.checked && event.dataset.optional === 'true') || (branch && branch.value !== 'all' && event.dataset.branch !== branch.value);
       if (!event.hidden) visible++;
       timeline.append(event);
     });
     status.textContent = `${visible} ${visible === 1 ? 'entry' : 'entries'} shown. ${limit.selectedOptions[0].textContent}.`;
     document.getElementById('timeline-empty').hidden = visible > 0;
   }
-  [limit,order,character,mainOnly].forEach(control => control.addEventListener('change',update));
+  [limit,order,character,mainOnly,branch].filter(Boolean).forEach(control => control.addEventListener('change',update));
   root.querySelectorAll('[data-follow]').forEach(button => {
     button.hidden = false;
     button.addEventListener('click',() => {
       character.value = button.dataset.follow;
       mainOnly.checked = false;
+      if (branch) branch.value = 'all';
       update();
       character.focus({preventScroll:true});
       document.getElementById('timeline').scrollIntoView();
@@ -67,7 +62,7 @@
       const need = document.createElement('p');
       need.textContent = entry.need;
       body.append(need);
-      (recapSets[entry.id] || []).forEach(id => {
+      (entry.recap_events || []).forEach(id => {
         const event = document.getElementById(`event-${id}`);
         const heading = document.createElement('h3');
         heading.textContent = event.querySelector('h3').textContent;
@@ -87,6 +82,7 @@
   root.querySelectorAll('a[href^="#event-"]').forEach(link => link.addEventListener('click',() => {
     character.value = 'all';
     mainOnly.checked = false;
+    if (branch) branch.value = 'all';
     update();
   }));
 })();

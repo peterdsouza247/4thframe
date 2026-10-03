@@ -29,7 +29,8 @@
       "skip": "Novels, comics, multiplayer, exhaustive planet surveys, and a perfect-playthrough checklist.",
       "tradeoff": "The first game’s combat and exploration show their age. Choose a comfortable difficulty and follow your curiosity rather than clearing every map.",
       "next": "Import your save into Mass Effect 2, then Mass Effect 3. Add the suggested DLC when it fits your interests.",
-      "unlock": "none"
+      "unlock": "none",
+      "recap_events": []
     },
     {
       "id": "crew",
@@ -40,7 +41,10 @@
       "skip": "A full Mass Effect 1 playthrough if it is stopping you from beginning, plus all external media.",
       "tradeoff": "You lose the experience of meeting returning characters for the first time. Some details use defaults rather than decisions from a full imported save.",
       "next": "Read the ME1 recap only if you accept its spoilers, play recruitment and loyalty missions, then continue to Mass Effect 3.",
-      "unlock": "me1"
+      "unlock": "me1",
+      "recap_events": [
+        "me1"
+      ]
     },
     {
       "id": "explore",
@@ -51,7 +55,8 @@
       "skip": "The entire Shepard trilogy, its DLC, novels, comics, and multiplayer.",
       "tradeoff": "Its tone and structure differ from the trilogy, and it leaves some wider questions open. It is not the continuation of Shepard’s crew story.",
       "next": "Play the main campaign and crew missions you enjoy. Try Mass Effect 1 later if you want the trilogy’s political and character journey.",
-      "unlock": "none"
+      "unlock": "none",
+      "recap_events": []
     }
   ],
   "events": [
@@ -622,5 +627,6 @@
         "andromeda"
       ]
     }
-  ]
+  ],
+  "timeline_help": "Story order places DLC within its campaign, before the final resolution. Andromeda’s expedition leaves during the trilogy era but its playable story occurs much later. The starting-route filter shows the three Shepard games; Andromeda remains a separate entry point."
 }

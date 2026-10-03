@@ -50,11 +50,8 @@
     press(event.currentTarget, button);
     update();
   });
-  document.querySelector('.guide-filters').addEventListener('click', event => {
-    const button = event.target.closest('button[data-universe]');
-    if (!button) return;
-    universe = button.dataset.universe;
-    press(event.currentTarget, button);
+  document.getElementById('guide-universe').addEventListener('change', event => {
+    universe = event.target.value;
     update();
   });
   query.addEventListener('input', update);

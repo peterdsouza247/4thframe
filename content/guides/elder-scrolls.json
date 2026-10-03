@@ -1,0 +1,550 @@
+{
+  "slug": "elder-scrolls",
+  "name": "The Elder Scrolls",
+  "strap": "Choose a province. Make your own beginning.",
+  "description": "Where to start The Elder Scrolls, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Each main Elder Scrolls game introduces a new hero, a different province, and a local crisis. Shared history rewards curiosity, but the numbered games are designed to work as individual adventures.",
+  "recommendation": "Begin with Skyrim for an accessible open-world introduction. Choose Oblivion Remastered for a more traditional fantasy quest, or Morrowind if discovery and an unfamiliar culture matter more than modern conveniences.",
+  "basics": [
+    [
+      "Tamriel",
+      "A continent of provinces with competing cultures, rulers, and accounts of their past."
+    ],
+    [
+      "A new hero each time",
+      "Arena, Daggerfall, Morrowind, Oblivion, and Skyrim do not follow one returning player character. There is no save-import chain to complete."
+    ],
+    [
+      "History is disputed",
+      "Religions, books, and witnesses often disagree. Treat an in-world account as someone’s perspective rather than an unquestionable encyclopedia entry."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "skyrim",
+      "title": "Skyrim",
+      "audience": "I want an accessible world to explore",
+      "why": "Its opening establishes the immediate crisis, while guilds and side quests offer ways to find your own interests. You can understand the adventure without any earlier game.",
+      "need": "Dragons have returned to a province divided by civil war.",
+      "skip": "Arena through Oblivion, Online, lore videos, and completing every guild.",
+      "tradeoff": "Its combat and conversation systems are simpler than some earlier entries. Avoid treating the enormous quest list as homework.",
+      "next": "Follow the main quest or a faction that interests you. Dawnguard and Dragonborn are optional story expansions.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "oblivion",
+      "title": "Oblivion / Oblivion Remastered",
+      "audience": "I want a traditional fantasy quest",
+      "why": "A clear crisis and a central ally provide a strong narrative spine, with towns and guilds around it. The remaster tells the same story as the original.",
+      "need": "The Empire faces a succession crisis and dangerous gates opening across Cyrodiil.",
+      "skip": "The first three numbered games and Skyrim.",
+      "tradeoff": "The original game’s systems and the remaster’s presentation differ, but neither requires prior lore. Level scaling can affect the feel of progression.",
+      "next": "Try the guilds you like, then Shivering Isles for a distinctive separate realm. Knights of the Nine is another optional quest line.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "morrowind",
+      "title": "Morrowind",
+      "audience": "I want unusual culture and patient discovery",
+      "why": "Its local religions, political houses, and unfamiliar landscape make learning the world part of the adventure.",
+      "need": "You arrive in Vvardenfell amid competing accounts of prophecy and authority.",
+      "skip": "Arena and Daggerfall, a complete map checklist, and all the later games.",
+      "tradeoff": "Directions, chance-based attacks, and older interfaces demand patience. Reading and asking questions matter more than following markers.",
+      "next": "Finish the main story if it holds you, then choose Tribunal or Bloodmoon. Neither is preparation for Oblivion.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "online",
+      "title": "The Elder Scrolls Online",
+      "audience": "I want shared adventures and many provinces",
+      "why": "A separate historical era and its own introductions make Online an independent entrance into Tamriel.",
+      "need": "The game is set long before Skyrim, amid rival alliances and supernatural crises.",
+      "skip": "The numbered games and every previous Online chapter.",
+      "tradeoff": "MMO progression, optional paid content, and the order of accessible quest lines can make the catalogue feel larger than the story you actually need.",
+      "next": "Choose one coherent campaign or zone story. Use its quest guide before adding more chapters.",
+      "recap_events": [],
+      "unlock": "none"
+    }
+  ],
+  "events": [
+    {
+      "id": "arena",
+      "title": "Arena",
+      "year": 1994,
+      "era": "The Imperial Simulacrum",
+      "premise": "A prisoner undertakes a journey across Tamriel to challenge an impostor at the heart of the Empire.",
+      "recap": "The hero defeats Jagar Tharn and restores Uriel Septim VII.",
+      "why": "Optional historical foundation; its interface and structure are distant from modern entries.",
+      "characters": [],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "daggerfall",
+      "title": "Daggerfall",
+      "year": 1996,
+      "era": "The Iliac Bay",
+      "premise": "An imperial agent investigates a haunting and a politically dangerous letter.",
+      "recap": "The struggle over the Numidium leads to the Warp in the West, allowing otherwise conflicting outcomes to become part of later history.",
+      "why": "Optional political adventure; not required for Morrowind.",
+      "characters": [],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "morrowind",
+      "title": "Morrowind",
+      "year": 2002,
+      "era": "Vvardenfell",
+      "premise": "A newcomer explores prophecy, colonial rule, and the power surrounding Red Mountain.",
+      "recap": "The protagonist fulfils the Nerevarine role and defeats Dagoth Ur by breaking his connection to the Heart of Lorkhan. This also undermines the Tribunal’s borrowed divinity.",
+      "why": "A strong alternative starting point for readers who enjoy discovery.",
+      "characters": [
+        "nerevarine",
+        "vivec"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "tribunal",
+      "title": "Tribunal",
+      "year": 2002,
+      "era": "Mournhold",
+      "premise": "An attack leads the hero to the city ruled by King Helseth and the influence of Almalexia.",
+      "recap": "Almalexia’s loss of divine power drives her confrontation with Sotha Sil and the protagonist. The expansion exposes the Tribunal’s decline.",
+      "why": "Optional Morrowind continuation; begin after its base story for context.",
+      "characters": [
+        "nerevarine"
+      ],
+      "optional": true,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "bloodmoon",
+      "title": "Bloodmoon",
+      "year": 2003,
+      "era": "Solstheim",
+      "premise": "A journey to the northern island draws the hero into settlements, local traditions, and a dangerous hunt.",
+      "recap": "The hero confronts Hircine’s hunt; involvement with lycanthropy varies with choices.",
+      "why": "Optional Morrowind expansion with a different atmosphere.",
+      "characters": [
+        "nerevarine"
+      ],
+      "optional": true,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "oblivion",
+      "title": "Oblivion",
+      "year": 2006,
+      "era": "The Oblivion Crisis",
+      "premise": "The Empire’s succession crisis coincides with gates opening to Mehrunes Dagon’s realm.",
+      "recap": "Martin Septim sacrifices himself to stop Dagon and close the crisis. The old imperial dynasty ends even as Tamriel is saved.",
+      "why": "Recommended traditional quest; Remastered is the same campaign.",
+      "characters": [
+        "martin"
+      ],
+      "optional": false,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "knights",
+      "title": "Knights of the Nine",
+      "year": 2006,
+      "era": "Cyrodiil",
+      "premise": "A pilgrimage draws the hero into restoring an order and confronting an ancient enemy.",
+      "recap": "The restored order defeats Umaril through a quest tied to Pelinal’s legacy.",
+      "why": "Optional Oblivion quest line.",
+      "characters": [],
+      "optional": true,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "shivering",
+      "title": "Shivering Isles",
+      "year": 2007,
+      "era": "The realm of madness",
+      "premise": "Sheogorath invites the hero into a realm facing a recurring catastrophe.",
+      "recap": "The hero breaks the Greymarch’s cycle and assumes the role of Sheogorath as Jyggalag is freed.",
+      "why": "Optional Oblivion expansion; a useful route into the Daedric princes.",
+      "characters": [
+        "sheogorath"
+      ],
+      "optional": true,
+      "chronology": 9,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "skyrim",
+      "title": "Skyrim",
+      "year": 2011,
+      "era": "Two centuries after Oblivion",
+      "premise": "A traveller survives an execution interrupted by a dragon and enters a divided province.",
+      "recap": "The Dragonborn defeats Alduin in Sovngarde. Civil-war, guild, and companion outcomes can vary independently of that victory.",
+      "why": "Recommended broad starting point; Anniversary and Special editions are versions of this story.",
+      "characters": [
+        "dragonborn"
+      ],
+      "optional": false,
+      "chronology": 10,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "dawnguard",
+      "title": "Dawnguard",
+      "year": 2012,
+      "era": "Skyrim’s vampire crisis",
+      "premise": "A conflict between vampire hunters and an ancient clan puts a prophecy in motion.",
+      "recap": "Serana helps the Dragonborn confront Harkon. The player’s faction choice changes the route through the crisis.",
+      "why": "Optional Skyrim expansion; Serana’s main route.",
+      "characters": [
+        "dragonborn",
+        "serana"
+      ],
+      "optional": true,
+      "chronology": 11,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "dragonborn",
+      "title": "Dragonborn",
+      "year": 2012,
+      "era": "Return to Solstheim",
+      "premise": "Cultists lead the Dragonborn to an island under the influence of another dragon-born figure.",
+      "recap": "The protagonist defeats Miraak in Apocrypha, while Hermaeus Mora’s involvement complicates the meaning of victory.",
+      "why": "Optional Skyrim expansion; its central conflict works best after learning the Dragonborn role.",
+      "characters": [
+        "dragonborn",
+        "miraak"
+      ],
+      "optional": true,
+      "chronology": 12,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "eso",
+      "title": "The Elder Scrolls Online",
+      "year": 2014,
+      "era": "The Second Era",
+      "premise": "A new adventurer enters an era of rival alliances and a supernatural crisis.",
+      "recap": "The original main quest resolves the threat of Molag Bal’s Planemeld. Later chapters and seasons tell further stories rather than replacing one numbered-game finale.",
+      "why": "Independent MMO entry; choose a campaign instead of completing its entire catalogue.",
+      "characters": [
+        "lyris",
+        "abnur"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Online",
+      "status": "Released"
+    },
+    {
+      "id": "tes6",
+      "title": "The Elder Scrolls VI",
+      "year": null,
+      "era": "Future release",
+      "premise": "Bethesda has announced a further main-series game.",
+      "recap": "",
+      "why": "An announced game is not a playable starting point. No plot or release date is assumed here.",
+      "characters": [],
+      "optional": true,
+      "chronology": 13,
+      "branch": "Main timeline",
+      "status": "Announced"
+    }
+  ],
+  "characters": [
+    {
+      "id": "dragonborn",
+      "name": "The Last Dragonborn",
+      "role": "Skyrim’s player character",
+      "motivation": "Choose how to respond to the dragon crisis and the conflicts of a divided province.",
+      "relationships": "The Greybeards, Blades, and local factions offer competing expectations.",
+      "route": [
+        "skyrim",
+        "dawnguard",
+        "dragonborn"
+      ],
+      "updates": []
+    },
+    {
+      "id": "serana",
+      "name": "Serana",
+      "role": "A vampire connected to an old prophecy",
+      "motivation": "Her wish for independence sits inside a family’s struggle for power.",
+      "relationships": "Harkon and Valerica make Dawnguard’s conflict personal.",
+      "route": [
+        "dawnguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "martin",
+      "name": "Martin Septim",
+      "role": "A priest drawn into the succession crisis",
+      "motivation": "He must decide what a newly revealed duty demands of him.",
+      "relationships": "The hero and the Blades support his response to the Oblivion Crisis.",
+      "route": [
+        "oblivion"
+      ],
+      "updates": [
+        {
+          "event": "oblivion",
+          "text": "His sacrifice ends the crisis and the Septim dynasty."
+        }
+      ]
+    },
+    {
+      "id": "sheogorath",
+      "name": "Sheogorath",
+      "role": "The Daedric Prince of Madness",
+      "motivation": "His apparently chaotic realm faces a cycle he wants the visitor to confront.",
+      "relationships": "Jyggalag and the inhabitants of the Isles give his requests context.",
+      "route": [
+        "shivering"
+      ],
+      "updates": [
+        {
+          "event": "shivering",
+          "text": "The expansion separates Jyggalag from the role the hero takes on."
+        }
+      ]
+    },
+    {
+      "id": "nerevarine",
+      "name": "The Nerevarine",
+      "role": "Morrowind’s player character",
+      "motivation": "Determine what a prophecy means through the people who accept or reject it.",
+      "relationships": "Vivec, the Ashlanders, and the Great Houses have different interpretations.",
+      "route": [
+        "morrowind",
+        "tribunal",
+        "bloodmoon"
+      ],
+      "updates": []
+    },
+    {
+      "id": "vivec",
+      "name": "Vivec",
+      "role": "One of Morrowind’s Tribunal",
+      "motivation": "Religious authority and responsibility are entwined with a contested past.",
+      "relationships": "The other Tribunal members and the Nerevarine challenge that authority.",
+      "route": [
+        "morrowind"
+      ],
+      "updates": [
+        {
+          "event": "morrowind",
+          "text": "The destruction of the Heart’s enchantments ends the Tribunal’s source of divine power."
+        }
+      ]
+    },
+    {
+      "id": "miraak",
+      "name": "Miraak",
+      "role": "A rival tied to Solstheim’s crisis",
+      "motivation": "He seeks power and a way beyond his dependence on Hermaeus Mora.",
+      "relationships": "The Last Dragonborn becomes central to his attempted escape.",
+      "route": [
+        "dragonborn"
+      ],
+      "updates": []
+    },
+    {
+      "id": "lyris",
+      "name": "Lyris Titanborn",
+      "role": "A warrior in Online’s original campaign",
+      "motivation": "Loyalty and determination make her a guide through a crisis of captivity and power.",
+      "relationships": "The Five Companions link her to the campaign’s larger struggle.",
+      "route": [
+        "eso"
+      ],
+      "updates": []
+    },
+    {
+      "id": "abnur",
+      "name": "Abnur Tharn",
+      "role": "An imperial battlemage",
+      "motivation": "Political calculation and immediate necessity make him an uneasy ally.",
+      "relationships": "The Five Companions provide context for his cooperation.",
+      "route": [
+        "eso"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "The Empire and provinces",
+      "Imperial authority changes across eras. Local cultures and independence movements have their own interests."
+    ],
+    [
+      "Aedra and Daedra",
+      "These divine groupings help explain different religions. Daedric princes are individual powers with distinct spheres, not one team."
+    ],
+    [
+      "Guilds and local houses",
+      "Mage, warrior, thief, religious, and political organisations offer different paths. Joining all of them is optional."
+    ],
+    [
+      "Online’s alliances",
+      "The three alliances belong to Online’s historical conflict. They are not prerequisites for understanding Skyrim’s factions."
+    ]
+  ],
+  "timeline_help": "Release order shows how the games were introduced. Story order moves Online to its much earlier era; its many zone arcs do not fit into one tidy numbered-game sequence. The starting-route filter shows alternative base campaigns. Finishing Skyrim reveals only Skyrim’s recap, not Morrowind or Oblivion.",
+  "scope": "Covers Arena, Daggerfall, Morrowind and its two expansions, Oblivion and selected story expansions, Skyrim and its two expansions, plus an orientation to Online’s original main quest. Oblivion Remastered and Skyrim editions retell existing campaigns. Online’s chapters, DLC, and seasons are a separate optional catalogue; its 2025 and 2026 updates should not be mistaken for numbered sequels. Battlespire, Redguard, mobile games, and every Online zone are outside this introductory route. The Elder Scrolls VI is listed as announced only.",
+  "sources": [
+    [
+      "Elder Scrolls series",
+      "https://elderscrolls.bethesda.net/"
+    ],
+    [
+      "Oblivion Remastered",
+      "https://elderscrolls.bethesda.net/en-US/oblivion-remastered"
+    ],
+    [
+      "Skyrim editions",
+      "https://elderscrolls.bethesda.net/en/skyrim10"
+    ],
+    [
+      "Online: world and era",
+      "https://www.elderscrollsonline.com/en-us/discover"
+    ],
+    [
+      "Online updates",
+      "https://www.elderscrollsonline.com/en-gb/updates"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "arena",
+      "label": "Finished Arena only",
+      "unlocks": [
+        "arena"
+      ]
+    },
+    {
+      "value": "daggerfall",
+      "label": "Finished Daggerfall only",
+      "unlocks": [
+        "daggerfall"
+      ]
+    },
+    {
+      "value": "morrowind",
+      "label": "Finished Morrowind only",
+      "unlocks": [
+        "morrowind"
+      ]
+    },
+    {
+      "value": "tribunal",
+      "label": "Finished Tribunal only",
+      "unlocks": [
+        "tribunal"
+      ]
+    },
+    {
+      "value": "bloodmoon",
+      "label": "Finished Bloodmoon only",
+      "unlocks": [
+        "bloodmoon"
+      ]
+    },
+    {
+      "value": "oblivion",
+      "label": "Finished Oblivion only",
+      "unlocks": [
+        "oblivion"
+      ]
+    },
+    {
+      "value": "knights",
+      "label": "Finished Knights of the Nine only",
+      "unlocks": [
+        "knights"
+      ]
+    },
+    {
+      "value": "shivering",
+      "label": "Finished Shivering Isles only",
+      "unlocks": [
+        "shivering"
+      ]
+    },
+    {
+      "value": "skyrim",
+      "label": "Finished Skyrim only",
+      "unlocks": [
+        "skyrim"
+      ]
+    },
+    {
+      "value": "dawnguard",
+      "label": "Finished Dawnguard only",
+      "unlocks": [
+        "dawnguard"
+      ]
+    },
+    {
+      "value": "dragonborn",
+      "label": "Finished Dragonborn only",
+      "unlocks": [
+        "dragonborn"
+      ]
+    },
+    {
+      "value": "eso",
+      "label": "Finished The Elder Scrolls Online only",
+      "unlocks": [
+        "eso"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "arena",
+        "daggerfall",
+        "morrowind",
+        "tribunal",
+        "bloodmoon",
+        "oblivion",
+        "knights",
+        "shivering",
+        "skyrim",
+        "dawnguard",
+        "dragonborn",
+        "eso"
+      ]
+    }
+  ]
+}

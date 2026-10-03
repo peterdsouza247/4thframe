@@ -29,7 +29,12 @@
       "skip": "Warcraft I and II, WoW, novels, and comics. Read their short recaps only if you become curious.",
       "tradeoff": "This is a strategy game with armies and missions. It introduces the world through its leaders rather than a custom adventurer.",
       "next": "Play The Frozen Throne next. Stop there for a complete strategy-era journey, or follow one character into WoW.",
-      "unlock": "portal"
+      "unlock": "portal",
+      "recap_events": [
+        "wc1",
+        "wc2",
+        "portal"
+      ]
     },
     {
       "id": "modern",
@@ -40,7 +45,14 @@
       "skip": "Clearing old expansions in release order, collecting everything, and buying lore books.",
       "tradeoff": "The MMO tells stories across quests, cinematics, and raids. Old campaigns are not one seamless sequence, and access to the latest expansion is separate from learning the world.",
       "next": "Join Midnight when your character is ready. Use the saga recap below; choose The War Within first if you want the arc’s beginning.",
-      "unlock": "warwithin"
+      "unlock": "warwithin",
+      "recap_events": [
+        "legion",
+        "bfa",
+        "shadow",
+        "dragon",
+        "warwithin"
+      ]
     },
     {
       "id": "saga",
@@ -51,7 +63,13 @@
       "skip": "Full playthroughs of Battle for Azeroth, Shadowlands, and Dragonflight. Their recaps supply the relevant bridge.",
       "tradeoff": "This is still WoW: character requirements and campaign access apply. A lore entry point is not a promise that a fresh character can immediately enter every quest.",
       "next": "Follow the main campaign, then Midnight. Return to older regions only when their stories interest you.",
-      "unlock": "dragon"
+      "unlock": "dragon",
+      "recap_events": [
+        "legion",
+        "bfa",
+        "shadow",
+        "dragon"
+      ]
     },
     {
       "id": "classic",
@@ -62,7 +80,11 @@
       "skip": "Strategy games, modern expansion campaigns, and a checklist of raids.",
       "tradeoff": "Classic’s rules and pace differ from modern WoW. Choose the Classic version your friends play; it is not a required first step before retail.",
       "next": "Continue through the zones you enjoy, or move to modern WoW later with a short lore recap.",
-      "unlock": "frozen"
+      "unlock": "frozen",
+      "recap_events": [
+        "wc3",
+        "frozen"
+      ]
     }
   ],
   "events": [
@@ -366,9 +388,7 @@
       "premise": "The announced final chapter of the Worldsoul Saga turns toward Northrend and the titans.",
       "recap": "",
       "why": "An announced destination, not a playable entry point. No ending or release date is assumed here.",
-      "characters": [
-        ""
-      ],
+      "characters": [],
       "optional": true,
       "chronology": null,
       "status": "Announced"
@@ -991,5 +1011,6 @@
         "midnight"
       ]
     }
-  ]
+  ],
+  "timeline_help": "Warcraft’s release and journey order broadly align. Warlords of Draenor is an alternate-history detour after Pandaria, not the original past. The starting-route filter highlights Warcraft III and the Worldsoul Saga; older expansions remain optional context."
 }

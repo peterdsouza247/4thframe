@@ -1,0 +1,643 @@
+{
+  "slug": "dragon-age",
+  "name": "Dragon Age",
+  "strap": "Choose your chapter of Thedas.",
+  "description": "Where to start Dragon Age, why each entry point works, what to skip, and the lore and characters worth knowing.",
+  "intro": "Each major Dragon Age game introduces a new protagonist. Start with the style of adventure you want, then learn the older decisions that matter to its people.",
+  "recommendation": "Choose Origins for the richest introduction to Thedas’s institutions, Inquisition for a broad modern adventure, or The Veilguard for a more direct action RPG. None requires a full series marathon.",
+  "basics": [
+    [
+      "Thedas",
+      "A continent whose nations, faiths, and histories give different answers to the same conflicts."
+    ],
+    [
+      "The Fade and the Veil",
+      "The Fade is tied to dreams and spirits. The Veil separates it from the physical world; magic can make that boundary dangerous."
+    ],
+    [
+      "A changing world",
+      "Rulers, companion outcomes, and romances can vary. Later games preserve some earlier choices, but not every decision carries into every sequel."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "origin",
+      "title": "Dragon Age: Origins",
+      "audience": "I want the political and cultural foundation",
+      "why": "The playable origins introduce how class, ancestry, faith, and power shape ordinary lives before the wider crisis.",
+      "need": "Grey Wardens fight darkspawn; a Blight threatens Ferelden.",
+      "skip": "All other games, novels, and downloadable side stories.",
+      "tradeoff": "Its tactical combat and presentation are older. Pause often and choose a difficulty that lets you enjoy the party.",
+      "next": "Finish Origins, then Awakening if you want more Wardens. Move to Dragon Age II when ready.",
+      "recap_events": [],
+      "unlock": "none"
+    },
+    {
+      "id": "inquisitor",
+      "title": "Dragon Age: Inquisition",
+      "audience": "I want a large adventure with a new hero",
+      "why": "The opening crisis gives the new Inquisitor a clear role. The party gradually explains the region’s tensions.",
+      "need": "Mages and templars are in conflict; a breach has opened in the sky.",
+      "skip": "Full Origins and DAII playthroughs, map completion, and multiplayer.",
+      "tradeoff": "Some returning people will have more history than you. Avoid clearing every Hinterlands task before moving on.",
+      "next": "Follow the main story and companions, then Trespasser as the epilogue. Other DLC is optional.",
+      "recap_events": [
+        "da2"
+      ],
+      "unlock": "recap-inquisitor"
+    },
+    {
+      "id": "rook",
+      "title": "Dragon Age: The Veilguard",
+      "audience": "I want the most direct action RPG",
+      "why": "Rook and a new party offer an immediate way into northern Thedas. The campaign supplies its urgent problem.",
+      "need": "Solas plans to alter the Veil; Varric’s team seeks to stop the consequences.",
+      "skip": "A complete three-game playthrough, novels, and podcasts.",
+      "tradeoff": "Inquisition and Trespasser give Solas’s story more personal weight. This game carries a narrower set of earlier choices.",
+      "next": "Use the short Inquisition/Trespasser recap if you accept those spoilers, then prioritise the companion missions.",
+      "recap_events": [
+        "inquisition",
+        "trespasser"
+      ],
+      "unlock": "recap-rook"
+    }
+  ],
+  "events": [
+    {
+      "id": "origins",
+      "title": "Dragon Age: Origins",
+      "year": 2009,
+      "era": "Ferelden",
+      "premise": "A new Grey Warden gathers allies against a Blight and a kingdom’s internal crisis.",
+      "recap": "The archdemon is defeated, but its defeat demands a solution to the sacrifice required of a Grey Warden. Ferelden’s ruler and the Warden’s fate vary.",
+      "why": "The strongest cultural foundation for the series.",
+      "characters": [
+        "warden",
+        "alistair",
+        "morrigan",
+        "leliana"
+      ],
+      "optional": false,
+      "chronology": 1,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "awakening",
+      "title": "Awakening",
+      "year": 2010,
+      "era": "After Origins",
+      "premise": "A Warden commander faces darkspawn whose behaviour challenges familiar assumptions.",
+      "recap": "The Architect’s intelligent darkspawn and the Mother’s threat complicate the idea that every darkspawn encounter has one simple answer. Choices determine how those threats are handled.",
+      "why": "Optional Warden follow-up.",
+      "characters": [
+        "warden",
+        "anders"
+      ],
+      "optional": true,
+      "chronology": 2,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "witchhunt",
+      "title": "Witch Hunt",
+      "year": 2010,
+      "era": "After Origins",
+      "premise": "The search for Morrigan closes a personal thread from the first game.",
+      "recap": "The encounter centres on Morrigan and an eluvian; the protagonist’s decision determines whether their paths part or continue together.",
+      "why": "Optional bridge if Morrigan matters to your playthrough.",
+      "characters": [
+        "warden",
+        "morrigan"
+      ],
+      "optional": true,
+      "chronology": 3,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "da2",
+      "title": "Dragon Age II",
+      "year": 2011,
+      "era": "Kirkwall over several years",
+      "premise": "Hawke’s refugee family finds a new life amid a city’s escalating disputes.",
+      "recap": "Anders destroys Kirkwall’s Chantry, forcing a final confrontation between mages and templars. Hawke’s response and relationships depend on choices.",
+      "why": "A focused alternative beginning with a small, recurring cast.",
+      "characters": [
+        "hawke",
+        "varric",
+        "anders"
+      ],
+      "optional": false,
+      "chronology": 4,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "legacy",
+      "title": "Legacy",
+      "year": 2011,
+      "era": "During Dragon Age II",
+      "premise": "A threat tied to Hawke’s family leads to an ancient prison.",
+      "recap": "The encounter introduces Corypheus and the danger around his apparent defeat, supplying background for Inquisition.",
+      "why": "Optional DAII chapter; recap it for Inquisition.",
+      "characters": [
+        "hawke",
+        "varric"
+      ],
+      "optional": true,
+      "chronology": 5,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "inquisition",
+      "title": "Dragon Age: Inquisition",
+      "year": 2014,
+      "era": "The Breach",
+      "premise": "A survivor with an unusual mark becomes the face of an organisation trying to close the sky.",
+      "recap": "The Inquisition defeats Corypheus. Solas leaves; the epilogue reveals that his identity and connection to the crisis were not what the party assumed.",
+      "why": "A new-protagonist entry point.",
+      "characters": [
+        "inquisitor",
+        "varric",
+        "solas",
+        "cassandra",
+        "leliana",
+        "morrigan",
+        "dorian"
+      ],
+      "optional": false,
+      "chronology": 6,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "hakkon",
+      "title": "Jaws of Hakkon",
+      "year": 2015,
+      "era": "During Inquisition",
+      "premise": "The search for an earlier Inquisitor uncovers a different history of the institution.",
+      "recap": "The earlier Inquisitor’s identity challenges the simplified story preserved by later authorities.",
+      "why": "Optional history expedition.",
+      "characters": [
+        "inquisitor"
+      ],
+      "optional": true,
+      "chronology": 7,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "descent",
+      "title": "The Descent",
+      "year": 2015,
+      "era": "During Inquisition",
+      "premise": "A Deep Roads expedition investigates disturbances below the surface.",
+      "recap": "The investigation reaches a titan, expanding the questions around dwarven origins and lyrium.",
+      "why": "Optional dwarven lore with later thematic relevance.",
+      "characters": [
+        "inquisitor"
+      ],
+      "optional": true,
+      "chronology": 8,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "trespasser",
+      "title": "Trespasser",
+      "year": 2015,
+      "era": "Two years after Inquisition",
+      "premise": "A political review of the Inquisition exposes a new threat and unresolved loyalties.",
+      "recap": "Solas explains his intention to remove the Veil and restore what he believes he lost. The Inquisitor must choose the organisation’s future and a response to him.",
+      "why": "Recommended story epilogue after the base game.",
+      "characters": [
+        "inquisitor",
+        "solas",
+        "varric"
+      ],
+      "optional": false,
+      "chronology": 9,
+      "branch": "Main timeline",
+      "status": "Released"
+    },
+    {
+      "id": "veilguard",
+      "title": "Dragon Age: The Veilguard",
+      "year": 2024,
+      "era": "Northern Thedas",
+      "premise": "Rook gathers a specialist team amid a crisis involving the Veil and ancient elven powers.",
+      "recap": "The campaign confronts Elgar’nan and Ghilan’nain and forces a resolution with Solas. Companion preparation and decisions shape survival and the available conclusion.",
+      "why": "Modern action-focused entry with optional earlier context.",
+      "characters": [
+        "rook",
+        "varric",
+        "solas",
+        "harding",
+        "neve",
+        "lucanis",
+        "bellara",
+        "davrin",
+        "emmrich",
+        "taash"
+      ],
+      "optional": false,
+      "chronology": 10,
+      "branch": "Main timeline",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "warden",
+      "name": "The Grey Warden",
+      "role": "Origins’ player character",
+      "motivation": "Your background shapes how you assemble allies and confront the Blight.",
+      "relationships": "Alistair, Morrigan, and Leliana offer different responses to your decisions.",
+      "route": [
+        "origins",
+        "awakening",
+        "witchhunt"
+      ],
+      "updates": []
+    },
+    {
+      "id": "alistair",
+      "name": "Alistair",
+      "role": "A fellow Grey Warden",
+      "motivation": "Humour and uncertainty coexist with a strong sense of loyalty.",
+      "relationships": "The Warden and Ferelden’s political crisis test what responsibilities he will accept.",
+      "route": [
+        "origins"
+      ],
+      "updates": [
+        {
+          "event": "origins",
+          "text": "His royal heritage makes him a possible ruler of Ferelden, depending on the player’s decisions."
+        }
+      ]
+    },
+    {
+      "id": "morrigan",
+      "name": "Morrigan",
+      "role": "An apostate mage",
+      "motivation": "Independence and inherited knowledge make her distrust conventional authority.",
+      "relationships": "Flemeth, the Warden, and later the Inquisitor shape her story.",
+      "route": [
+        "origins",
+        "witchhunt",
+        "inquisition"
+      ],
+      "updates": []
+    },
+    {
+      "id": "leliana",
+      "name": "Leliana",
+      "role": "A bard with a spiritual calling",
+      "motivation": "Compassion and conviction coexist with an aptitude for secrets.",
+      "relationships": "The Warden and the Chantry frame important parts of her development.",
+      "route": [
+        "origins",
+        "inquisition"
+      ],
+      "updates": []
+    },
+    {
+      "id": "hawke",
+      "name": "Hawke",
+      "role": "Dragon Age II’s player character",
+      "motivation": "A family’s need for survival grows into responsibility for a divided city.",
+      "relationships": "Varric and the Kirkwall companions witness different sides of Hawke.",
+      "route": [
+        "da2",
+        "legacy",
+        "inquisition"
+      ],
+      "updates": []
+    },
+    {
+      "id": "varric",
+      "name": "Varric Tethras",
+      "role": "A dwarven storyteller",
+      "motivation": "He uses loyalty and humour to keep people together when institutions fail them.",
+      "relationships": "Hawke, the Inquisitor, and Rook belong to different chapters of his life.",
+      "route": [
+        "da2",
+        "legacy",
+        "inquisition",
+        "trespasser",
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "anders",
+      "name": "Anders",
+      "role": "A mage seeking freedom",
+      "motivation": "His frustration with confinement grows into a struggle over the methods of liberation.",
+      "relationships": "Hawke and his connection with Justice shape the Kirkwall story.",
+      "route": [
+        "awakening",
+        "da2"
+      ],
+      "updates": [
+        {
+          "event": "da2",
+          "text": "His attack on the Chantry forces the city into open conflict."
+        }
+      ]
+    },
+    {
+      "id": "inquisitor",
+      "name": "The Inquisitor",
+      "role": "Inquisition’s player character",
+      "motivation": "Define how a powerful emergency organisation should act and whom it should answer to.",
+      "relationships": "Cassandra, Leliana, Varric, and Solas shape its purpose.",
+      "route": [
+        "inquisition",
+        "hakkon",
+        "descent",
+        "trespasser"
+      ],
+      "updates": []
+    },
+    {
+      "id": "solas",
+      "name": "Solas",
+      "role": "An elven mage with unusual knowledge",
+      "motivation": "His account of spirits and elven history challenges accepted stories.",
+      "relationships": "His bond with the Inquisitor affects how later confrontations feel.",
+      "route": [
+        "inquisition",
+        "trespasser",
+        "veilguard"
+      ],
+      "updates": [
+        {
+          "event": "trespasser",
+          "text": "He is Fen’Harel and intends to remove the Veil."
+        }
+      ]
+    },
+    {
+      "id": "cassandra",
+      "name": "Cassandra Pentaghast",
+      "role": "A Seeker helping establish the Inquisition",
+      "motivation": "She wants an institution capable of answering a crisis without abandoning principle.",
+      "relationships": "Her faith and partnership with Leliana shape the organisation.",
+      "route": [
+        "inquisition"
+      ],
+      "updates": []
+    },
+    {
+      "id": "dorian",
+      "name": "Dorian Pavus",
+      "role": "A mage from Tevinter",
+      "motivation": "He wants his homeland to become better than its entrenched hierarchies allow.",
+      "relationships": "The Inquisitor learns a personal view of Tevinter through him.",
+      "route": [
+        "inquisition"
+      ],
+      "updates": []
+    },
+    {
+      "id": "rook",
+      "name": "Rook",
+      "role": "The Veilguard’s player character",
+      "motivation": "Build a team whose different backgrounds can answer a shared threat.",
+      "relationships": "Varric and the seven companions guide the new leader.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "harding",
+      "name": "Lace Harding",
+      "role": "A dwarven scout",
+      "motivation": "Competence and curiosity carry her from field work into larger mysteries.",
+      "relationships": "She connects the Inquisition’s era to Rook’s team.",
+      "route": [
+        "inquisition",
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "neve",
+      "name": "Neve Gallus",
+      "role": "A detective in Minrathous",
+      "motivation": "She protects people overlooked by the powerful.",
+      "relationships": "The Shadow Dragons and the city’s streets ground her loyalties.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "lucanis",
+      "name": "Lucanis Dellamorte",
+      "role": "An Antivan Crow",
+      "motivation": "Professional duty competes with a deeply personal struggle.",
+      "relationships": "His Crow family and Rook’s team complicate his obligations.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "bellara",
+      "name": "Bellara Lutare",
+      "role": "A Veil Jumper",
+      "motivation": "Curiosity about elven artefacts is tied to questions of family and responsibility.",
+      "relationships": "The Veil Jumpers give her research a wider purpose.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "davrin",
+      "name": "Davrin",
+      "role": "A Grey Warden",
+      "motivation": "He tests the difference between inherited duty and a future worth protecting.",
+      "relationships": "Assan, his griffon companion, is central to that question.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "emmrich",
+      "name": "Emmrich Volkarin",
+      "role": "A necromancer",
+      "motivation": "His thoughtful concern with mortality gives death magic a very human perspective.",
+      "relationships": "Manfred and the Mourn Watch connect him to Nevarra’s traditions.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    },
+    {
+      "id": "taash",
+      "name": "Taash",
+      "role": "A dragon hunter",
+      "motivation": "Strength and skill do not remove the work of finding a personal identity.",
+      "relationships": "Their mother and the Lords of Fortune shape that journey.",
+      "route": [
+        "veilguard"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Grey Wardens",
+      "An order defined by its fight against darkspawn and the sacrifices that duty demands."
+    ],
+    [
+      "Chantry, circles, and templars",
+      "Faith, magical confinement, and military enforcement generate conflicts that differ across nations."
+    ],
+    [
+      "Elves and Tevinter",
+      "Elven communities and Tevinter’s institutions hold sharply unequal power. Their histories should not be reduced to one shared viewpoint."
+    ],
+    [
+      "Veilguard allies",
+      "The Shadow Dragons, Antivan Crows, Veil Jumpers, Mourn Watch, and Lords of Fortune give Rook’s party different local stakes."
+    ]
+  ],
+  "timeline_help": "Use release order for a first series journey. Story order places the optional expansions within the periods they belong to. The starting-route filter includes the four major games and Trespasser; choose one entry point rather than treating that list as homework. Completion settings reveal one entry at a time.",
+  "scope": "Covers the four major games and selected narrative DLC. Origins’ other origin retellings and challenge content, DAII’s Mark of the Assassin, novels, comics, and podcasts are optional material outside this introductory timeline. No fixed ruler, romance, protagonist survival, or world state is imposed.",
+  "sources": [
+    [
+      "Dragon Age series",
+      "https://www.ea.com/games/dragon-age"
+    ],
+    [
+      "The Veilguard and its team",
+      "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard"
+    ],
+    [
+      "Companion progression",
+      "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard/news/combat-and-progression"
+    ],
+    [
+      "BioWare’s launch letter",
+      "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard/news/launch-letter-from-bioware"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "origins",
+      "label": "Finished Dragon Age: Origins only",
+      "unlocks": [
+        "origins"
+      ]
+    },
+    {
+      "value": "awakening",
+      "label": "Finished Awakening only",
+      "unlocks": [
+        "awakening"
+      ]
+    },
+    {
+      "value": "witchhunt",
+      "label": "Finished Witch Hunt only",
+      "unlocks": [
+        "witchhunt"
+      ]
+    },
+    {
+      "value": "da2",
+      "label": "Finished Dragon Age II only",
+      "unlocks": [
+        "da2"
+      ]
+    },
+    {
+      "value": "legacy",
+      "label": "Finished Legacy only",
+      "unlocks": [
+        "legacy"
+      ]
+    },
+    {
+      "value": "inquisition",
+      "label": "Finished Dragon Age: Inquisition only",
+      "unlocks": [
+        "inquisition"
+      ]
+    },
+    {
+      "value": "hakkon",
+      "label": "Finished Jaws of Hakkon only",
+      "unlocks": [
+        "hakkon"
+      ]
+    },
+    {
+      "value": "descent",
+      "label": "Finished The Descent only",
+      "unlocks": [
+        "descent"
+      ]
+    },
+    {
+      "value": "trespasser",
+      "label": "Finished Trespasser only",
+      "unlocks": [
+        "trespasser"
+      ]
+    },
+    {
+      "value": "veilguard",
+      "label": "Finished Dragon Age: The Veilguard only",
+      "unlocks": [
+        "veilguard"
+      ]
+    },
+    {
+      "value": "recap-inquisitor",
+      "label": "Earlier-story recap for Dragon Age: Inquisition",
+      "unlocks": [
+        "da2"
+      ]
+    },
+    {
+      "value": "recap-rook",
+      "label": "Earlier-story recap for Dragon Age: The Veilguard",
+      "unlocks": [
+        "inquisition",
+        "trespasser"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "origins",
+        "awakening",
+        "witchhunt",
+        "da2",
+        "legacy",
+        "inquisition",
+        "hakkon",
+        "descent",
+        "trespasser",
+        "veilguard"
+      ]
+    }
+  ]
+}
