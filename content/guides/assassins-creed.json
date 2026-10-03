@@ -1,0 +1,743 @@
+{
+  "slug": "assassins-creed",
+  "name": "Assassin’s Creed",
+  "strap": "Choose a life in history. Let the conspiracy unfold.",
+  "intro": "Assassin’s Creed follows people whose private struggles become entangled with a secret war over freedom and control. The historical adventure is usually your way in; the Animus and modern-day story explain why someone is revisiting it. Choose a person or period first, then deepen the connections that interest you.",
+  "recommendation": "Begin Assassin’s Creed II for Ezio’s character arc, Origins for an Egyptian open-world RPG, or Mirage for a more focused stealth adventure. Black Flag is a welcoming pirate route; Shadows offers a fresh pair of protagonists in Japan. Historical chronology is optional context, not our recommended first-play order.",
+  "description": "Where to start Assassin’s Creed, which stories connect, and the lore, motives and relationships worth knowing.",
+  "basics": [
+    [
+      "Two layers, two orders",
+      "The Animus lets a present-day user experience the past. Historical events jump between periods as the modern-day story moves forward. Sorting by century can therefore put later revelations before their setup. Follow release order if the present-day mystery is your main interest."
+    ],
+    [
+      "Freedom, order and imperfect people",
+      "Assassins broadly defend freedom; Templars seek order through control. Individual characters complicate that division. Notice when revenge, duty or ambition changes what a person is willing to justify. The games’ secret history is fiction."
+    ],
+    [
+      "Ancient technology, not a required mythology course",
+      "The Isu were an advanced civilization whose surviving artifacts affect human history. Pieces of Eden are powerful objects tied to that legacy. Their precise functions and the characters’ discoveries are part of the stories; learn them as they become relevant."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "ezio",
+      "title": "Assassin’s Creed II",
+      "audience": "I want a character I can grow with",
+      "why": "Ezio learns about the conflict as you do. His family, friendships and changing responsibilities make the larger conspiracy personal.",
+      "need": "A young Florentine is drawn into a violent conspiracy. The modern framing follows Desmond, who has escaped an organization using his inherited memories.",
+      "skip": "Playing the original first if you mainly want Ezio’s life. The short films, collectibles and side games are optional.",
+      "tradeoff": "II continues Desmond’s situation from the first game. You can follow Ezio without every detail, but start the 2007 game instead if the present-day mystery matters most.",
+      "next": "Continue Brotherhood, then Revelations. III follows the modern-day story with a new historical protagonist; it is not a fourth Ezio game.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "origins",
+      "title": "Assassin’s Creed Origins",
+      "audience": "I want exploration and the Brotherhood’s beginnings",
+      "why": "Bayek and Aya’s personal loss gives the formation of an organization a human cause. Ancient Egypt provides a distinct setting and the RPG structure offers room to explore.",
+      "need": "Bayek is a protector in Egypt. He and his wife Aya pursue the people behind a devastating family loss.",
+      "skip": "All earlier games, knowing the whole Isu history, clearing every map marker, and buying every expansion.",
+      "tradeoff": "This is a larger RPG with levels and equipment. The historical story begins fresh, while Layla introduces another continuing modern-day thread.",
+      "next": "The Hidden Ones is an optional follow-up about the organization taking shape. Choose Odyssey, then Valhalla in release order if you want more of Layla’s thread.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "mirage",
+      "title": "Assassin’s Creed Mirage",
+      "audience": "I want stealth in a focused city adventure",
+      "why": "Basim’s apprenticeship teaches the Hidden Ones’ methods through investigations, tools and a close view of Baghdad.",
+      "need": "A street thief with troubling visions dreams of joining the Hidden Ones. Roshan becomes his mentor.",
+      "skip": "Valhalla before beginning this historical coming-of-age story, the older games and a complete artifact glossary.",
+      "tradeoff": "The ending gains extra meaning from Valhalla. Mirage works as an introduction to Basim, but choose Valhalla first if preserving its revelations is your priority.",
+      "next": "Explore the optional Valley of Memory story if you want more Basim. Choose Valhalla for his later role, or II for another apprentice-to-mentor arc.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "pirate",
+      "title": "Assassin’s Creed IV: Black Flag / Black Flag Resynced",
+      "audience": "I want pirates, exploration and a flawed hero",
+      "why": "Edward enters the conflict from the outside, making his ambitions and friendships a useful introduction to what the Brotherhood asks of a person.",
+      "need": "Edward Kenway wants wealth and independence in the Caribbean. His shortcuts draw him into the Assassin–Templar conflict.",
+      "skip": "III before Edward’s adventure, playing both editions, and completing every naval activity.",
+      "tradeoff": "The original contains a post-III modern framing and may reveal earlier series outcomes. Resynced reworks the experience; the modern-day release route in this guide uses the original.",
+      "next": "Freedom Cry follows Adéwalé in a separate, optional story. Rogue and III explore the later Atlantic conflict; play III after the earlier Desmond games if following that modern-day arc.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "japan",
+      "title": "Assassin’s Creed Shadows",
+      "audience": "I want a new cast and contrasting perspectives",
+      "why": "Naoe and Yasuke offer different relationships to power and different ways through the same turbulent setting. You meet their local allies and opponents within the game.",
+      "need": "Naoe is a shinobi from Iga; Yasuke is a samurai whose path intersects hers during Japan’s wars of unification.",
+      "skip": "Every earlier historical adventure, DLC before the base story, and knowing all previous Assassins by name.",
+      "tradeoff": "Its dual protagonists and larger systems differ from Mirage’s concentrated stealth approach. Shared-world references add context but need not dictate your starting point.",
+      "next": "Claws of Awaji is an optional continuation after the base story. Try Mirage for a smaller stealth route or Origins for another large historical world.",
+      "unlock": "none",
+      "recap_events": []
+    }
+  ],
+  "events": [
+    {
+      "id": "ac1",
+      "title": "Assassin’s Creed",
+      "year": 2007,
+      "branch": "Desmond and Altaïr",
+      "chronology": 1191,
+      "era": "Third Crusade / 1191",
+      "premise": "Desmond is forced to revisit Altaïr’s assignments while a conspiracy emerges around his captors.",
+      "why": "Start here for the modern-day mystery’s original setup. II is an alternative if you chiefly want Ezio.",
+      "characters": [
+        "altair",
+        "desmond"
+      ],
+      "recap": "Altaïr discovers his mentor’s betrayal and confronts the Apple’s power. Desmond’s captivity reveals a continuing present-day conflict.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "ii",
+      "title": "Assassin’s Creed II",
+      "year": 2009,
+      "branch": "Ezio’s life",
+      "chronology": 1476,
+      "era": "Renaissance Italy / from 1476",
+      "premise": "A family conspiracy draws Ezio into a struggle he initially understands as revenge.",
+      "why": "Recommended character beginning. The historical arc continues directly into Brotherhood.",
+      "characters": [
+        "ezio",
+        "desmond"
+      ],
+      "recap": "Ezio confronts Rodrigo Borgia and encounters a message intended for Desmond rather than himself.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "brotherhood",
+      "title": "Assassin’s Creed Brotherhood",
+      "year": 2010,
+      "branch": "Ezio’s life",
+      "chronology": 1499,
+      "era": "Rome / from 1499",
+      "premise": "Ezio rebuilds a Brotherhood amid Borgia control of Rome.",
+      "why": "Continue II; recruitment turns his personal mission into collective resistance.",
+      "characters": [
+        "ezio",
+        "desmond"
+      ],
+      "recap": "Ezio breaks Cesare Borgia’s power and recovers the Apple. Desmond’s encounter with Juno ends in Lucy’s death.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "revelations",
+      "title": "Assassin’s Creed Revelations",
+      "year": 2011,
+      "branch": "Ezio’s life",
+      "chronology": 1511,
+      "era": "Constantinople / 1511, with earlier memories",
+      "premise": "An older Ezio follows Altaïr’s legacy while Desmond struggles within the Animus.",
+      "why": "Concludes Ezio’s game trilogy. Altaïr’s flashbacks do not make this the first historical entry.",
+      "characters": [
+        "ezio",
+        "altair",
+        "desmond"
+      ],
+      "recap": "Ezio finds Altaïr’s final resting place, leaves the artifact behind and addresses Desmond. Desmond awakens with knowledge of a coming catastrophe.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "iii",
+      "title": "Assassin’s Creed III",
+      "year": 2012,
+      "branch": "Desmond and Altaïr",
+      "chronology": 1754,
+      "era": "Colonial America / 1754 onward",
+      "premise": "Connor’s fight for his people intersects with a revolution and opposing secret orders.",
+      "why": "Concludes the original Desmond arc; best after the 2007 game and Ezio trilogy when following modern-day outcomes.",
+      "characters": [
+        "connor",
+        "desmond"
+      ],
+      "recap": "Desmond sacrifices his life to avert the catastrophe, releasing Juno in the process. Connor’s victories do not secure every promise made to his people.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "liberation",
+      "title": "Assassin’s Creed Liberation",
+      "year": 2012,
+      "branch": "Other historical adventures",
+      "chronology": 1765,
+      "era": "Louisiana / 1765 onward",
+      "premise": "Aveline moves between social identities while confronting oppression and a Templar network.",
+      "why": "Optional companion-era adventure with its own protagonist, available in remastered editions.",
+      "characters": [
+        "aveline"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "blackflag",
+      "title": "Assassin’s Creed IV: Black Flag",
+      "year": 2013,
+      "branch": "Other historical adventures",
+      "chronology": 1715,
+      "era": "Caribbean / 1715 onward",
+      "premise": "Edward pursues a pirate fortune while rival orders seek an ancient secret.",
+      "why": "Recommended pirate beginning. The 2013 edition has a post-III modern-day framing; the historical story does not require Connor’s adventure.",
+      "characters": [
+        "edward",
+        "adewale"
+      ],
+      "recap": "Edward’s losses redirect him from self-interest toward the Brotherhood’s responsibilities.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "freedom",
+      "title": "Assassin’s Creed Freedom Cry",
+      "year": 2013,
+      "branch": "Other historical adventures",
+      "chronology": 1735,
+      "era": "Saint-Domingue / 1735",
+      "premise": "Adéwalé confronts slavery and aids resistance beyond Edward’s expedition.",
+      "why": "Optional Black Flag expansion, also released standalone in 2014. Read the local struggle as its own story.",
+      "characters": [
+        "adewale"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "rogue",
+      "title": "Assassin’s Creed Rogue",
+      "year": 2014,
+      "branch": "Other historical adventures",
+      "chronology": 1752,
+      "era": "North Atlantic / from 1752",
+      "premise": "Shay’s break with the Assassins changes his understanding of their war.",
+      "why": "Optional counterpoint to Black Flag and III. Its connections reward familiarity but are not a separate starting obligation.",
+      "characters": [
+        "shay"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "unity",
+      "title": "Assassin’s Creed Unity",
+      "year": 2014,
+      "branch": "Other historical adventures",
+      "chronology": 1789,
+      "era": "Paris / French Revolution",
+      "premise": "Arno’s loyalties and a relationship across faction lines unfold amid revolution.",
+      "why": "A local character arc; earlier protagonists are optional context.",
+      "characters": [
+        "arno"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "syndicate",
+      "title": "Assassin’s Creed Syndicate",
+      "year": 2015,
+      "branch": "Other historical adventures",
+      "chronology": 1868,
+      "era": "London / 1868",
+      "premise": "Jacob and Evie Frye contest Templar power using contrasting approaches.",
+      "why": "A fresh historical cast. Its short modern-day scenes continue existing threads rather than begin a self-contained present-day arc.",
+      "characters": [
+        "fryes"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "origins",
+      "title": "Assassin’s Creed Origins",
+      "year": 2017,
+      "branch": "Layla’s era",
+      "chronology": -49,
+      "era": "Egypt / 49 BCE onward",
+      "premise": "Bayek and Aya hunt those responsible for a loss as an older struggle becomes visible.",
+      "why": "Recommended RPG beginning. The Hidden Ones is an optional organizational follow-up.",
+      "characters": [
+        "bayek-aya",
+        "layla"
+      ],
+      "recap": "Bayek and Aya turn their fight into the Hidden Ones’ broader cause; Aya takes the name Amunet.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "odyssey",
+      "title": "Assassin’s Creed Odyssey",
+      "year": 2018,
+      "branch": "Layla’s era",
+      "chronology": -431,
+      "era": "Greece / from 431 BCE",
+      "premise": "A mercenary’s family search intersects with secret power during the Peloponnesian War.",
+      "why": "A separate historical adventure before Origins’ period. Play after Origins for Layla’s modern thread. The Fate of Atlantis expands that thread significantly; it is optional for a historical-only visit.",
+      "characters": [
+        "kassandra",
+        "layla"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "valhalla",
+      "title": "Assassin’s Creed Valhalla",
+      "year": 2020,
+      "branch": "Layla’s era",
+      "chronology": 872,
+      "era": "Norway and England / ninth century",
+      "premise": "Eivor seeks a home for a clan while alliances and the Hidden Ones complicate that mission.",
+      "why": "A long settlement saga; best after Origins and Odyssey for modern-day continuity. Basim’s historical backstory is explored later in Mirage.",
+      "characters": [
+        "eivor",
+        "basim",
+        "layla"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "mirage",
+      "title": "Assassin’s Creed Mirage",
+      "year": 2023,
+      "branch": "Basim’s apprenticeship",
+      "chronology": 861,
+      "era": "Baghdad / ninth century",
+      "premise": "Basim joins the Hidden Ones and investigates a conspiracy while searching for answers about himself.",
+      "why": "Recommended focused stealth route. Its earlier setting is not a recommendation to reveal its ending before Valhalla.",
+      "characters": [
+        "basim"
+      ],
+      "recap": "",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "shadows",
+      "title": "Assassin’s Creed Shadows",
+      "year": 2025,
+      "branch": "Other historical adventures",
+      "chronology": 1579,
+      "era": "Japan / late sixteenth century",
+      "premise": "Naoe and Yasuke navigate a country at war through different backgrounds and abilities.",
+      "why": "Recommended fresh historical cast. Claws of Awaji extends the base adventure.",
+      "characters": [
+        "naoe-yasuke"
+      ],
+      "recap": "",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "resynced",
+      "title": "Assassin’s Creed Black Flag Resynced",
+      "year": 2026,
+      "branch": "Other historical adventures",
+      "chronology": 1715,
+      "era": "Caribbean / Edward’s adventure revisited",
+      "premise": "A reworked telling returns to Edward’s pirate adventure with new scenes and systems.",
+      "why": "An alternative edition, not the next chapter after Shadows. The original remains the reference for this guide’s early modern-day route.",
+      "characters": [
+        "edward",
+        "adewale"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "altair",
+      "name": "Altaïr Ibn-La’Ahad",
+      "role": "Assassin / Third Crusade",
+      "motivation": "Altaïr’s ability initially exceeds his judgment. His assignments force him to question obedience and the authority behind his targets.",
+      "relationships": "His mentor and fellow Assassins shape the first game; Ezio later studies his legacy.",
+      "route": [
+        "ac1",
+        "revelations"
+      ],
+      "updates": []
+    },
+    {
+      "id": "ezio",
+      "name": "Ezio Auditore",
+      "role": "Apprentice, leader and seeker / Renaissance",
+      "motivation": "Ezio’s revenge opens into responsibility for other people. His trilogy is most useful as a changing life: a young man, an organizer, then someone asking what the struggle has meant.",
+      "relationships": "Family and Leonardo connect him to ordinary life; Altaïr’s legacy becomes a later source of questions.",
+      "route": [
+        "ii",
+        "brotherhood",
+        "revelations"
+      ],
+      "updates": [
+        {
+          "event": "revelations",
+          "text": "He chooses to leave the artifact and the endless search behind."
+        }
+      ]
+    },
+    {
+      "id": "desmond",
+      "name": "Desmond Miles",
+      "role": "Modern-day participant / original arc",
+      "motivation": "Desmond begins by wanting freedom from his captors. Experiencing inherited lives gradually makes him responsible for a conflict he once tried to escape.",
+      "relationships": "Modern Assassins guide his use of the Animus. His route follows release order, not the centuries of his ancestors.",
+      "route": [
+        "ac1",
+        "ii",
+        "brotherhood",
+        "revelations",
+        "iii"
+      ],
+      "updates": [
+        {
+          "event": "iii",
+          "text": "His final decision averts a catastrophe at the cost of his life."
+        }
+      ]
+    },
+    {
+      "id": "edward",
+      "name": "Edward Kenway",
+      "role": "Pirate captain / Caribbean",
+      "motivation": "Edward pursues independence through wealth. His friends and the cost of his shortcuts make the secret war a challenge to how he measures a successful life.",
+      "relationships": "Adéwalé is his quartermaster. Connor belongs to a later generation of the Kenway family; their stories do not need to be played in genealogy order.",
+      "route": [
+        "blackflag",
+        "resynced"
+      ],
+      "updates": [
+        {
+          "event": "blackflag",
+          "text": "Loss changes his understanding of commitment and the Brotherhood."
+        }
+      ]
+    },
+    {
+      "id": "adewale",
+      "name": "Adéwalé",
+      "role": "Sailor and Assassin / Caribbean",
+      "motivation": "Adéwalé’s struggle for freedom is concrete: it concerns people whose lives are controlled through slavery. Freedom Cry gives him a mission beyond serving Edward’s ambitions.",
+      "relationships": "Edward’s ally in Black Flag and the lead of his own later adventure.",
+      "route": [
+        "blackflag",
+        "freedom",
+        "resynced"
+      ],
+      "updates": []
+    },
+    {
+      "id": "connor",
+      "name": "Ratonhnhaké:ton / Connor",
+      "role": "Protector / American Revolution",
+      "motivation": "Connor wants to protect his community. Revolutionary language about liberty and the secret orders’ promises become things to test against what happens to actual people.",
+      "relationships": "Achilles mentors him; family ties complicate the conflict rather than explain it away.",
+      "route": [
+        "iii"
+      ],
+      "updates": []
+    },
+    {
+      "id": "aveline",
+      "name": "Aveline de Grandpré",
+      "role": "Assassin / Louisiana",
+      "motivation": "Aveline crosses sharply unequal social worlds. Her identities show how access, appearance and power shape the fight for freedom.",
+      "relationships": "Her own allies and family carry Liberation; Connor’s surrounding era is useful context rather than homework.",
+      "route": [
+        "liberation"
+      ],
+      "updates": []
+    },
+    {
+      "id": "shay",
+      "name": "Shay Patrick Cormac",
+      "role": "Defector / North Atlantic",
+      "motivation": "Shay judges an organization by the consequences of its actions. His change of allegiance asks whether an attractive ideal can excuse disastrous decisions.",
+      "relationships": "Former comrades become opponents. Rogue connects the Atlantic games with Unity without becoming a required prequel.",
+      "route": [
+        "rogue"
+      ],
+      "updates": []
+    },
+    {
+      "id": "arno",
+      "name": "Arno Dorian",
+      "role": "Assassin / Revolutionary Paris",
+      "motivation": "Arno’s personal loyalties do not fit comfortably inside faction doctrine. His story works best when love, guilt and institutional ambition are kept in view together.",
+      "relationships": "Élise’s relationship to the Templars complicates his commitments.",
+      "route": [
+        "unity"
+      ],
+      "updates": []
+    },
+    {
+      "id": "fryes",
+      "name": "Jacob and Evie Frye",
+      "role": "Twin Assassins / Victorian London",
+      "motivation": "Jacob favors direct action and a local power base; Evie gives greater weight to investigation and dangerous artifacts. Their disagreement makes the same mission feel different from each side.",
+      "relationships": "Siblings working to restore Assassin influence in London. Neither is an earlier game’s character renamed.",
+      "route": [
+        "syndicate"
+      ],
+      "updates": []
+    },
+    {
+      "id": "bayek-aya",
+      "name": "Bayek and Aya",
+      "role": "Protectors and founders / Egypt",
+      "motivation": "Grief initially gives them a common target. Their larger significance is the decision to protect people beyond the family they have lost.",
+      "relationships": "Husband and wife whose paths widen into different responsibilities; their relationship makes the Brotherhood’s beginnings personal.",
+      "route": [
+        "origins"
+      ],
+      "updates": [
+        {
+          "event": "origins",
+          "text": "Their private mission becomes the Hidden Ones’ continuing cause."
+        }
+      ]
+    },
+    {
+      "id": "kassandra",
+      "name": "Kassandra / Alexios",
+      "role": "Mercenary / Ancient Greece",
+      "motivation": "The playable mercenary searches for family while navigating powers that want to exploit a remarkable inheritance. Choices shape parts of that family’s outcome.",
+      "relationships": "The siblings’ roles depend on the player’s choice. Later shared-world appearances use Kassandra; this guide does not prescribe one ending for every playthrough.",
+      "route": [
+        "odyssey"
+      ],
+      "updates": []
+    },
+    {
+      "id": "eivor",
+      "name": "Eivor",
+      "role": "Clan leader / Viking era",
+      "motivation": "Eivor’s first concern is a home and a future for the clan. The Hidden Ones’ war intersects with that goal without making Eivor a conventional Assassin apprentice.",
+      "relationships": "Sigurd’s ambitions and Basim’s influence complicate leadership and loyalty.",
+      "route": [
+        "valhalla"
+      ],
+      "updates": []
+    },
+    {
+      "id": "basim",
+      "name": "Basim Ibn Ishaq",
+      "role": "Apprentice and later mentor / ninth century",
+      "motivation": "Basim wants justice, belonging and an explanation for disturbing visions. Mirage’s apprenticeship makes his later role easier to understand, while Valhalla supplies another perspective.",
+      "relationships": "Roshan mentors him in Mirage; he later crosses paths with Eivor and Sigurd. Those games disclose his story in different orders.",
+      "route": [
+        "mirage",
+        "valhalla"
+      ],
+      "updates": []
+    },
+    {
+      "id": "layla",
+      "name": "Layla Hassan",
+      "role": "Modern-day investigator / RPG-era thread",
+      "motivation": "Layla’s research turns from professional ambition into a responsibility shaped by discoveries from the past. She is the link between otherwise different historical casts.",
+      "relationships": "Follow Origins → Odyssey → Valhalla for her thread. Odyssey’s Fate of Atlantis adds important connective context.",
+      "route": [
+        "origins",
+        "odyssey",
+        "valhalla"
+      ],
+      "updates": []
+    },
+    {
+      "id": "naoe-yasuke",
+      "name": "Naoe and Yasuke",
+      "role": "Shinobi and samurai / Japan",
+      "motivation": "Naoe’s local roots and Yasuke’s experience of service give them different stakes in the same changing country. Their partnership invites attention to who has power and who bears its cost.",
+      "relationships": "Two protagonists in Shadows, with separate introductions and intersecting missions.",
+      "route": [
+        "shadows"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Assassins and the Hidden Ones",
+      "Different names mark stages of an organization dedicated to resisting domination. Its Creed asks for discipline as well as freedom. Origins explores the formation; Mirage shows an established network; Ezio shows recruitment and leadership."
+    ],
+    [
+      "Templars and precursor orders",
+      "The recurring opposing project pursues order through control. Names and institutions change with the period. The Order of the Ancients and the Cult of Kosmos should not simply be treated as identical labels for every ancient opponent."
+    ],
+    [
+      "Abstergo and the present",
+      "Abstergo gives the modern conflict a corporate face. The Animus turns inherited history into an object of research and exploitation. Follow the modern participants to understand who is looking into the past and why."
+    ],
+    [
+      "Isu and Pieces of Eden",
+      "The First Civilization’s technology provides the shared world’s deeper mystery. Powers that appear supernatural can have an ancient technological explanation within the fiction. Specific identities and artifact revelations belong to each game’s discoveries."
+    ],
+    [
+      "Local lives matter",
+      "A pirate republic, an Indigenous community, a threatened family or a divided city is more than a stage for secret orders. The historical characters’ loyalties explain why faction slogans do not settle every decision."
+    ],
+    [
+      "A manageable mythology route",
+      "For the original modern arc: 2007 → II → Brotherhood → Revelations → III. For Layla: Origins → Odyssey → Valhalla, with Fate of Atlantis as a substantial connective detour. These are alternatives to committing to the whole franchise."
+    ]
+  ],
+  "sources": [
+    [
+      "Ubisoft release-order guide",
+      "https://news.ubisoft.com/en-ca/article/6ceMaQ0MpYMPeN1mJxXlLF/how-to-play-the-assassins-creed-games-in-order"
+    ],
+    [
+      "Brotherhood history and historical periods (spoilers)",
+      "https://news.ubisoft.com/en-us/article/OdmNeoYjCSPewU2FGDBDZ/assassins-creed-mirage-the-evolution-of-the-brotherhood"
+    ],
+    [
+      "Ezio collection and character arc",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/the-ezio-collection"
+    ],
+    [
+      "Origins",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/origins"
+    ],
+    [
+      "Odyssey and selected expansions",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/odyssey"
+    ],
+    [
+      "Valhalla",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla"
+    ],
+    [
+      "Mirage and its cast",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/mirage"
+    ],
+    [
+      "Black Flag and Edward",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/iv-black-flag"
+    ],
+    [
+      "Resynced’s scope",
+      "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know"
+    ],
+    [
+      "Shadows and its expansion",
+      "https://www.ubisoft.com/en-us/game/assassins-creed/shadows"
+    ]
+  ],
+  "related": [],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "ac1",
+      "label": "Finished Assassin’s Creed only",
+      "unlocks": [
+        "ac1"
+      ]
+    },
+    {
+      "value": "ii",
+      "label": "Finished Assassin’s Creed II only",
+      "unlocks": [
+        "ii"
+      ]
+    },
+    {
+      "value": "brotherhood",
+      "label": "Finished Assassin’s Creed Brotherhood only",
+      "unlocks": [
+        "brotherhood"
+      ]
+    },
+    {
+      "value": "revelations",
+      "label": "Finished Assassin’s Creed Revelations only",
+      "unlocks": [
+        "revelations"
+      ]
+    },
+    {
+      "value": "iii",
+      "label": "Finished Assassin’s Creed III only",
+      "unlocks": [
+        "iii"
+      ]
+    },
+    {
+      "value": "blackflag",
+      "label": "Finished Assassin’s Creed IV: Black Flag only",
+      "unlocks": [
+        "blackflag"
+      ]
+    },
+    {
+      "value": "origins",
+      "label": "Finished Assassin’s Creed Origins only",
+      "unlocks": [
+        "origins"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "ac1",
+        "ii",
+        "brotherhood",
+        "revelations",
+        "iii",
+        "blackflag",
+        "origins"
+      ]
+    }
+  ],
+  "branch_label": "Character arc or era",
+  "story_order_label": "Historical setting order",
+  "atlas_title": "Three paths into the secret war.",
+  "atlas_intro": "These are reading and playing routes within one fictional history. Choose a route to reduce the timeline; the other historical adventures remain available in the filter.",
+  "strand_link": "Explore this route ↓",
+  "strands": [
+    {
+      "name": "Ezio’s life",
+      "title": "Revenge becomes responsibility",
+      "text": "Follow one person from a young man in Renaissance Italy to a mentor seeking answers. Begin with II, then Brotherhood and Revelations."
+    },
+    {
+      "name": "Layla’s era",
+      "title": "Ancient worlds and inherited power",
+      "text": "Begin Origins for the Hidden Ones’ formation. Odyssey and Valhalla develop different historical protagonists and the continuing modern-day mystery."
+    },
+    {
+      "name": "Other historical adventures",
+      "title": "Choose a place and a person",
+      "text": "Pirates, revolutionaries, London’s twins and Japan’s two protagonists offer distinct historical stories. Their settings are invitations, not prerequisites."
+    }
+  ],
+  "timeline_help": "Historical setting order sorts by the principal historical story’s starting year, with BCE dates first and overlapping adventures kept approximate. Revelations contains earlier memories; this sort does not move its modern framing backward. For modern-day mysteries use release order and the character routes. The starting-route filter highlights alternative beginnings and Ezio’s direct follow-ups, not a compulsory franchise marathon.",
+  "scope": "Covers fourteen distinct mainline historical adventures through Shadows, Liberation and Freedom Cry, plus Black Flag Resynced as an alternative telling. Original release years distinguish remakes and remasters from new story chapters. Released additions such as The Hidden Ones, The Fate of Atlantis, Valley of Memory and Claws of Awaji are discussed as selected detours rather than exhaustively summarized. Modern-day outcomes are covered only where explicitly disclosed; Odyssey and Valhalla have orientation rather than full ending recaps. Chronicles, handheld and VR games, multiplayer projects, novels, comics, films and announced future games are outside this first guide’s full timeline. No future title’s outcomes or release dates are invented."
+}

@@ -9,6 +9,10 @@
   const empty = document.getElementById('guide-empty');
   const suggest = window.FourthFrameSearch;
   const suggestionList = document.getElementById('guide-suggestions');
+  const worldGrid = document.getElementById('world-grid');
+  const worldTiles = worldGrid ? [...worldGrid.querySelectorAll('.world-tile')] : [];
+  const viewButtons = document.querySelector('.guide-view');
+  let view = worldGrid ? 'worlds' : 'routes';
   let medium = 'all';
   let universe = 'all';
 
@@ -39,8 +43,18 @@
       if (matches) visible += 1;
     });
     grid.classList.toggle('core-only', coreOnly.checked);
-    empty.hidden = visible > 0;
-    status.textContent = `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only in watch/read routes' : ''}. Choose a series or character to begin.`;
+    grid.hidden = view === 'worlds';
+    let worlds = 0;
+    worldTiles.forEach(tile => {
+      tile.hidden = !(medium === 'all' || tile.dataset.medium === medium) || !(universe === 'all' || tile.dataset.world === universe);
+      if (!tile.hidden) worlds++;
+    });
+    if (worldGrid) worldGrid.hidden = view !== 'worlds';
+    viewButtons?.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed',String(button.dataset.guideView===view)));
+    document.querySelector('.guide-sort').hidden = view === 'worlds';
+    document.querySelector('.guide-toggle').hidden = view === 'worlds';
+    empty.hidden = view === 'worlds' ? worlds > 0 : visible > 0;
+    status.textContent = view === 'worlds' ? `${worlds} worlds. Explore the lore or choose a starting point.` : `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only in watch/read routes' : ''}. Choose a series or character to begin.`;
   }
 
   document.querySelector('.guide-kind').addEventListener('click', event => {
@@ -54,7 +68,23 @@
     universe = event.target.value;
     update();
   });
-  query.addEventListener('input', update);
+  query.addEventListener('input', () => { if(query.value.trim()) view='routes'; update(); });
+  viewButtons?.addEventListener('click',event => {
+    const button=event.target.closest('[data-guide-view]');if(!button)return;
+    view=button.dataset.guideView;
+    if(view==='worlds') {
+      query.value='';universe='all';medium='all';document.getElementById('guide-universe').value='all';
+      press(document.querySelector('.guide-kind'),document.querySelector('.guide-kind [data-medium="all"]'));
+    }
+    update();
+  });
+  worldGrid?.addEventListener('click',event => {
+    const button=event.target.closest('[data-browse-world]');if(!button)return;
+    universe=button.dataset.browseWorld;medium=button.dataset.browseMedium;view='routes';query.value='';
+    document.getElementById('guide-universe').value=universe;
+    press(document.querySelector('.guide-kind'),document.querySelector(`.guide-kind [data-medium="${medium}"]`));
+    update();document.querySelector('.guide-controls').scrollIntoView({block:'start'});query.focus({preventScroll:true});
+  });
   suggest.suggestions(query, suggestionList, () => {
     const eligible = cards.filter(card => (medium === 'all' || card.dataset.medium === medium) &&
       (universe === 'all' || card.dataset.universe === universe));

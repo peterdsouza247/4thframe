@@ -1,0 +1,785 @@
+{
+  "slug": "tomb-raider",
+  "name": "Tomb Raider",
+  "strap": "Follow Lara. Choose the adventure that speaks to you.",
+  "description": "Where to start Tomb Raider, how its eras connect, and the people, relics and rivalries behind Lara Croft’s adventures.",
+  "intro": "Tomb Raider follows an archaeologist whose curiosity takes her into places that should have stayed buried. Some games celebrate her confidence; others ask what it costs to become that person. Choose one era first. You do not need three versions of her life as homework.",
+  "recommendation": "Start Tomb Raider (2013) for a character-led origin, or Legend for an already confident Lara and a shorter globe-trotting adventure. Choose the first game in I–III Remastered if discovering the series’ original tombs appeals to you. Each is a complete way in.",
+  "branch_label": "Era or route",
+  "atlas_title": "Three ways to meet Lara.",
+  "atlas_intro": "These cards separate the original games’ storytelling eras. Pick one to see its adventures; detours and announced games have their own filters.",
+  "strand_link": "Explore this era ↓",
+  "strands": [
+    {
+      "name": "Classic era",
+      "title": "Curiosity and dangerous relics",
+      "text": "An established adventurer pursues lost civilizations. Start with the 1996 adventure, available in I–III Remastered."
+    },
+    {
+      "name": "Legend era",
+      "title": "Family, rivalry and myth",
+      "text": "A new account of Lara’s past ties Excalibur and Atlantis to a personal search. Begin with Legend."
+    },
+    {
+      "name": "Survivor era",
+      "title": "Becoming the Tomb Raider",
+      "text": "An inexperienced explorer learns to survive, then confronts the consequences of her obsession. Begin with Tomb Raider (2013)."
+    }
+  ],
+  "basics": [
+    [
+      "Same icon, revised histories",
+      "The classic games, Legend trilogy and Survivor trilogy originally presented different versions of Lara’s history. Use those eras to understand the released games; do not force every detail into one biography. New projects draw on that legacy, but their final connections are not prerequisites here."
+    ],
+    [
+      "Myth becomes material",
+      "Relics are more than collectibles: they can turn legends into immediate dangers. Notice who wants a discovery, what power they expect from it, and who lives with the consequences. These are fictional interpretations of real cultures and myths."
+    ],
+    [
+      "What changes is Lara’s relationship to discovery",
+      "Classic Lara often seeks the challenge itself. Legend makes missing family and an old friendship central. Survivor follows the tension between understanding the past, proving herself and protecting people. These are useful lenses, not rules for every scene."
+    ]
+  ],
+  "entries": [
+    {
+      "id": "survivor",
+      "title": "Tomb Raider (2013)",
+      "audience": "I want a modern origin and a close look at Lara",
+      "why": "A first expedition introduces Lara and her friends as people rather than names you should already know. Its survival story gives her later determination an emotional foundation.",
+      "need": "Lara is a young archaeologist aboard the Endurance. An expedition searching for Yamatai becomes a struggle to get home.",
+      "skip": "All earlier games, the films, comics and animated series. Collectibles and optional tombs are not prerequisites.",
+      "tradeoff": "Combat and cinematic peril take more space than the older games’ slow exploration. Expect a grittier Lara than the confident figure on the classic covers.",
+      "next": "Continue with Rise of the Tomb Raider, then Shadow of the Tomb Raider. Stop after this game if a single adventure is enough.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "legend",
+      "title": "Tomb Raider: Legend",
+      "audience": "I want confident Lara, puzzles and globe-trotting",
+      "why": "Its guided opening, fluid movement and supporting cast make a welcoming introduction to the adventurer at work. A personal mystery gives the journey a clear direction.",
+      "need": "Lara investigates an ancient sword and a mystery connected to her mother. Her team helps remotely; the game introduces them.",
+      "skip": "The six classic games, the Survivor trilogy and reading a family history in advance.",
+      "tradeoff": "Older camera conventions and quick-time events may take adjustment. The central family mystery continues into Underworld.",
+      "next": "Play Anniversary for this era’s earlier Scion adventure, then Underworld for the convergence. Release order is our recommendation; Anniversary → Legend → Underworld is the era’s broad story order.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "classic",
+      "title": "Tomb Raider (1996), in I–III Remastered",
+      "audience": "I want the original exploration and atmosphere",
+      "why": "The first adventure lets architecture, silence and dangerous spaces carry the experience. Start with its first game rather than treating the collection as a three-game obligation.",
+      "need": "Lara accepts a commission to retrieve an ancient artifact called the Scion. Her employer and the relic’s history are part of the mystery.",
+      "skip": "II and III until you want more, the expansions, the later classic games and both reboot trilogies.",
+      "tradeoff": "Navigation and precise platforming ask for patience. The remaster offers control choices, but the underlying level design remains from the original era.",
+      "next": "Try Tomb Raider II for another mostly standalone relic hunt. Continue into The Last Revelation later if you want the Von Croy story; III is an optional expedition.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "coop",
+      "title": "Lara Croft and the Guardian of Light",
+      "audience": "I want a self-contained adventure with a friend",
+      "why": "An isometric action-puzzle adventure puts cooperation at the centre. It also works as a solo detour without a larger continuity commitment.",
+      "need": "Lara and the ancient warrior Totec must deal with a dangerous power released from the Mirror of Smoke.",
+      "skip": "Every mainline game, Lara’s family mysteries and completing all challenge objectives.",
+      "tradeoff": "Its viewpoint and emphasis differ from the main games. It gives you Lara’s adventure spirit rather than a detailed origin or ongoing character arc.",
+      "next": "Try Lara Croft and the Temple of Osiris for another co-op detour. Choose Legend or Tomb Raider (2013) when you want a mainline story.",
+      "unlock": "none",
+      "recap_events": []
+    }
+  ],
+  "events": [
+    {
+      "id": "original",
+      "title": "Tomb Raider",
+      "year": 1996,
+      "branch": "Classic era",
+      "chronology": 101,
+      "era": "The Scion expedition",
+      "premise": "An employer commissions Lara to retrieve a relic from ancient ruins.",
+      "why": "The original starting point; play this adventure through I–III Remastered if that edition suits you.",
+      "characters": [
+        "lara",
+        "natla"
+      ],
+      "recap": "Lara destroys the Scion and defeats Natla’s plan.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "ii",
+      "title": "Tomb Raider II",
+      "year": 1997,
+      "branch": "Classic era",
+      "chronology": 102,
+      "era": "The Dagger of Xian",
+      "premise": "Lara races rival treasure hunters for a legendary dagger.",
+      "why": "A mostly standalone continuation of the classic explorer; no trilogy recap is needed.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "Lara stops the cult leader Bartoli and secures the dagger.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "iii",
+      "title": "Tomb Raider III: Adventures of Lara Croft",
+      "year": 1998,
+      "branch": "Classic era",
+      "chronology": 103,
+      "era": "The meteorite artifacts",
+      "premise": "A hunt for connected artifacts leads Lara across several continents.",
+      "why": "An optional, demanding expedition; not necessary to understand the later Egyptian arc.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "Lara defeats Willard after his attempt to harness the meteorite artifacts.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "revelation",
+      "title": "Tomb Raider: The Last Revelation",
+      "year": 1999,
+      "branch": "Classic era",
+      "chronology": 104,
+      "era": "Egypt and an old mentor",
+      "premise": "An Egyptian discovery puts Lara in conflict with a supernatural danger and Werner Von Croy.",
+      "why": "The useful beginning of the later classic arc. Its opening visits Lara’s youth, but most of the adventure takes place later. Available in IV–VI Remastered.",
+      "characters": [
+        "lara",
+        "werner"
+      ],
+      "recap": "Lara seals Set away, but a collapsing temple leaves her fate uncertain.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "chronicles",
+      "title": "Tomb Raider: Chronicles",
+      "year": 2000,
+      "branch": "Classic era",
+      "chronology": 105,
+      "era": "Remembered expeditions",
+      "premise": "Lara’s friends recount earlier adventures in a framing story connected to The Last Revelation.",
+      "why": "Optional anthology. Flashbacks do not form one clean chronological step; its framing follows the prior game.",
+      "characters": [
+        "lara",
+        "werner",
+        "zip"
+      ],
+      "recap": "The stories are framed by Lara’s presumed loss. Von Croy’s search finds her backpack, leaving hope that she survived.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "angel",
+      "title": "Tomb Raider: The Angel of Darkness",
+      "year": 2003,
+      "branch": "Classic era",
+      "chronology": 106,
+      "era": "Paris and Prague",
+      "premise": "A murder accusation draws Lara into an occult conspiracy and the path of Kurtis Trent.",
+      "why": "The last classic-era chapter, available in IV–VI Remastered. Its intended follow-ups were not released; do not expect Legend to resolve its remaining threads.",
+      "characters": [
+        "lara",
+        "werner",
+        "kurtis"
+      ],
+      "recap": "Lara defeats Karel after uncovering the conspiracy behind Eckhardt and the Sleeper; Kurtis’s fate is left open.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "legend",
+      "title": "Tomb Raider: Legend",
+      "year": 2006,
+      "branch": "Legend era",
+      "chronology": 202,
+      "era": "Excalibur and a missing mother",
+      "premise": "Lara follows clues to a sword connected to her childhood and encounters an old friend’s competing ambitions.",
+      "why": "Recommended start for this era; introduces Amanda, Zip and Lara’s family mystery.",
+      "characters": [
+        "lara",
+        "amanda",
+        "zip",
+        "richard"
+      ],
+      "recap": "Amanda’s account points Lara toward Avalon and leaves the search for her mother unresolved.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "anniversary",
+      "title": "Tomb Raider: Anniversary",
+      "year": 2007,
+      "branch": "Legend era",
+      "chronology": 201,
+      "era": "A revised Scion adventure",
+      "premise": "Lara accepts a commission for the Scion in a new telling of the original expedition.",
+      "why": "An earlier adventure within the Legend era. It revises the 1996 story; you do not need to play both versions.",
+      "characters": [
+        "lara",
+        "natla",
+        "richard"
+      ],
+      "recap": "Lara rejects Natla’s offer, destroys the Scion and escapes the Atlantean island.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "underworld",
+      "title": "Tomb Raider: Underworld",
+      "year": 2008,
+      "branch": "Legend era",
+      "chronology": 203,
+      "era": "Norse myth and family answers",
+      "premise": "A search through ancient underworlds brings the Legend and Anniversary threads together.",
+      "why": "Best after Legend and Anniversary; earlier classic or Survivor games are unnecessary. The optional DLC extends this chapter.",
+      "characters": [
+        "lara",
+        "amanda",
+        "natla",
+        "zip",
+        "richard"
+      ],
+      "recap": "Lara discovers that her mother cannot be restored, stops Natla’s world-ending plan and escapes with Amanda’s help.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "guardian",
+      "title": "Lara Croft and the Guardian of Light",
+      "year": 2010,
+      "branch": "Optional detours",
+      "chronology": 301,
+      "era": "The Mirror of Smoke",
+      "premise": "Lara joins Totec to contain a dangerous force released from an ancient artifact.",
+      "why": "Recommended co-op or solo detour. This route is not assigned a definitive position in the main-era chronology.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "Lara and Totec stop Xolotl and restore the artifact’s protective balance.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "survivor",
+      "title": "Tomb Raider (2013)",
+      "year": 2013,
+      "branch": "Survivor era",
+      "chronology": 401,
+      "era": "Yamatai and the Endurance",
+      "premise": "A shipwreck strands a young Lara and her expedition companions on an island with a violent cult.",
+      "why": "Recommended modern beginning. Definitive Edition retells this game rather than following it.",
+      "characters": [
+        "lara",
+        "jonah",
+        "sam",
+        "roth"
+      ],
+      "recap": "Lara ends Himiko’s attempted transfer into Sam, breaks the island’s hold on the survivors and escapes. Roth dies protecting her.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "osiris",
+      "title": "Lara Croft and the Temple of Osiris",
+      "year": 2014,
+      "branch": "Optional detours",
+      "chronology": 302,
+      "era": "An Egyptian co-op expedition",
+      "premise": "Lara and Carter Bell join Isis and Horus against Set.",
+      "why": "Optional successor to Guardian of Light with a larger co-op cast; no mainline story required.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "The group restores Osiris and defeats Set.",
+      "optional": true,
+      "status": "Released"
+    },
+    {
+      "id": "rise",
+      "title": "Rise of the Tomb Raider",
+      "year": 2015,
+      "branch": "Survivor era",
+      "chronology": 402,
+      "era": "Kitezh and the Divine Source",
+      "premise": "Lara follows her father’s research into immortality while Trinity pursues the same discovery.",
+      "why": "The next Survivor chapter. Read Blood Ties for optional family and manor context; Baba Yaga is an optional local mystery.",
+      "characters": [
+        "lara",
+        "jonah",
+        "richard"
+      ],
+      "recap": "Lara destroys the Divine Source to deny it to Trinity. Jacob dies when its immortality ends; Ana reveals that Trinity was responsible for Richard’s death.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "shadow",
+      "title": "Shadow of the Tomb Raider",
+      "year": 2018,
+      "branch": "Survivor era",
+      "chronology": 403,
+      "era": "Paititi and the cost of obsession",
+      "premise": "Lara and Jonah pursue Trinity into the Americas as a search for relics endangers living communities.",
+      "why": "The Survivor trilogy’s conclusion; best after 2013 and Rise. DLC tomb adventures are optional.",
+      "characters": [
+        "lara",
+        "jonah",
+        "richard"
+      ],
+      "recap": "Lara defeats Dominguez and gives up the power to remake the world, accepting her losses rather than restoring her parents.",
+      "optional": false,
+      "status": "Released"
+    },
+    {
+      "id": "atlantis",
+      "title": "Tomb Raider: Legacy of Atlantis",
+      "year": null,
+      "branch": "Announced adventures",
+      "chronology": 501,
+      "era": "A new telling of the first adventure",
+      "premise": "An announced reimagining returns to Lara’s original Scion expedition.",
+      "why": "Future orientation only. Its final story details are not treated as identical to 1996 or Anniversary; choose a released game to start now.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Announced; outcome not covered"
+    },
+    {
+      "id": "catalyst",
+      "title": "Tomb Raider: Catalyst",
+      "year": null,
+      "branch": "Announced adventures",
+      "chronology": 502,
+      "era": "A forthcoming chapter",
+      "premise": "A new Tomb Raider adventure has been announced.",
+      "why": "An orientation marker, not a required sequel in any route here. Release timing and final continuity details are not fixed by this guide.",
+      "characters": [
+        "lara"
+      ],
+      "recap": "",
+      "optional": true,
+      "status": "Announced; outcome not covered"
+    }
+  ],
+  "characters": [
+    {
+      "id": "lara",
+      "name": "Lara Croft",
+      "role": "Archaeologist / every era",
+      "motivation": "Lara’s curiosity is the constant. In the classic games, she is already a capable explorer. Legend gives that drive a family mystery; Survivor begins before her confidence has formed and asks how far she should take the search. Watch what she chooses to protect when knowledge and people compete.",
+      "relationships": "The supporting relationships belong to their era: Von Croy in the classics, Amanda and Zip in Legend, and Jonah, Sam and Roth in Survivor. Revised histories should not be read as missing chapters you have to fill in.",
+      "route": [
+        "original",
+        "legend",
+        "anniversary",
+        "underworld",
+        "survivor",
+        "rise",
+        "shadow"
+      ],
+      "updates": [
+        {
+          "event": "shadow",
+          "text": "She rejects the chance to undo her personal losses, making responsibility more important than control over the past."
+        }
+      ]
+    },
+    {
+      "id": "jonah",
+      "name": "Jonah Maiava",
+      "role": "Friend and expedition companion / Survivor",
+      "motivation": "Jonah supports Lara’s courage while noticing when her pursuit puts people at risk. Their friendship makes the question of responsibility personal: helping her does not mean agreeing with every decision.",
+      "relationships": "An Endurance crewmate who becomes Lara’s closest continuing expedition companion.",
+      "route": [
+        "survivor",
+        "rise",
+        "shadow"
+      ],
+      "updates": [
+        {
+          "event": "rise",
+          "text": "His capture redirects Lara’s attention from an artifact toward her friend."
+        },
+        {
+          "event": "shadow",
+          "text": "His concern for people helps Lara confront the cost of her fixation."
+        }
+      ]
+    },
+    {
+      "id": "sam",
+      "name": "Samantha “Sam” Nishimura",
+      "role": "Filmmaker and friend / Survivor",
+      "motivation": "Sam brings a personal connection to the search for Yamatai and a friendship that existed before Lara became a famous adventurer. Knowing that bond makes the first game’s rescue stakes clearer.",
+      "relationships": "Lara’s university friend and a member of the Endurance expedition. Her importance is concentrated in the 2013 game; a missing sequel appearance is not a game you forgot to play.",
+      "route": [
+        "survivor"
+      ],
+      "updates": [
+        {
+          "event": "survivor",
+          "text": "Lara stops the ritual threatening Sam’s identity and gets her off Yamatai."
+        }
+      ]
+    },
+    {
+      "id": "roth",
+      "name": "Conrad Roth",
+      "role": "Captain and mentor / Survivor",
+      "motivation": "Roth believes Lara can act decisively before she believes it herself. His experience gives the young expedition an anchor when its plans collapse.",
+      "relationships": "Captain of the Endurance and an old associate of Lara’s father. His mentorship is central to this version of her beginnings.",
+      "route": [
+        "survivor"
+      ],
+      "updates": [
+        {
+          "event": "survivor",
+          "text": "Roth dies protecting Lara; his faith in her survives as part of her resolve."
+        }
+      ]
+    },
+    {
+      "id": "richard",
+      "name": "Richard Croft",
+      "role": "Father and disputed legacy / Legend and Survivor",
+      "motivation": "Richard’s investigations leave Lara questions about both ancient history and the family she has lost. His influence is strongest when she must decide whether proving him right is worth the danger to other people.",
+      "relationships": "Lara’s father. Legend and Survivor revise the family’s history, so details from one era should not be assumed to explain every scene in another.",
+      "route": [
+        "anniversary",
+        "legend",
+        "underworld",
+        "rise",
+        "shadow"
+      ],
+      "updates": [
+        {
+          "event": "rise",
+          "text": "Trinity’s involvement changes Lara’s understanding of his death."
+        },
+        {
+          "event": "shadow",
+          "text": "Lara accepts that honoring her parents does not require remaking the world to recover them."
+        }
+      ]
+    },
+    {
+      "id": "amanda",
+      "name": "Amanda Evert",
+      "role": "Former friend and rival / Legend",
+      "motivation": "Amanda is driven by an expedition that divided her from Lara and by the power she now pursues. Their conflict mixes competing interpretations of the past with a damaged friendship.",
+      "relationships": "An old colleague of Lara; central to Legend and Underworld, with no prerequisite classic appearance.",
+      "route": [
+        "legend",
+        "underworld"
+      ],
+      "updates": [
+        {
+          "event": "underworld",
+          "text": "Their uneasy cooperation lets both escape after Lara confronts the truth about her mother."
+        }
+      ]
+    },
+    {
+      "id": "natla",
+      "name": "Jacqueline Natla",
+      "role": "Employer with competing aims / Classic and Legend",
+      "motivation": "Natla commissions the Scion hunt. Read her offer as a question about patronage: Lara can make the discovery, but the person paying for it may want something else. Her deeper identity belongs in the game’s revelations.",
+      "relationships": "Her 1996 and Anniversary appearances are different tellings of a similar role. Underworld continues the Anniversary version.",
+      "route": [
+        "original",
+        "anniversary",
+        "underworld"
+      ],
+      "updates": [
+        {
+          "event": "original",
+          "text": "The employer is revealed as an Atlantean ruler seeking renewed power."
+        },
+        {
+          "event": "anniversary",
+          "text": "She tries to recruit Lara into her ambitions, which Lara refuses."
+        },
+        {
+          "event": "underworld",
+          "text": "Her plan connects the Atlantean thread to Lara’s search through Norse myth."
+        }
+      ]
+    },
+    {
+      "id": "zip",
+      "name": "Zip",
+      "role": "Technical support / Classic and Legend",
+      "motivation": "Zip makes the expedition feel like a team effort, interpreting information and solving practical problems from a distance. His banter also gives the confident Lara someone to play against.",
+      "relationships": "Appears in a Chronicles adventure and in the Legend-era support team; the era change revises the surrounding history.",
+      "route": [
+        "chronicles",
+        "legend",
+        "underworld"
+      ],
+      "updates": []
+    },
+    {
+      "id": "werner",
+      "name": "Werner Von Croy",
+      "role": "Mentor and rival / Classic",
+      "motivation": "Von Croy helps introduce a young Lara to archaeology, but their relationship becomes entangled with ambition and distrust. He is the link worth following if the last three classic games interest you.",
+      "relationships": "Connected to Lara’s youth and the Egyptian expedition; his relationship with her matters again in The Angel of Darkness.",
+      "route": [
+        "revelation",
+        "chronicles",
+        "angel"
+      ],
+      "updates": [
+        {
+          "event": "revelation",
+          "text": "Possession turns the mentor into an immediate threat before Lara is trapped."
+        },
+        {
+          "event": "chronicles",
+          "text": "His search for Lara leaves the anthology with an unresolved possibility of survival."
+        }
+      ]
+    },
+    {
+      "id": "kurtis",
+      "name": "Kurtis Trent",
+      "role": "Occult fighter / Classic",
+      "motivation": "Kurtis pursues a conflict of his own within the conspiracy Lara investigates. He offers a second perspective on the final classic game rather than a new protagonist you need to follow through a trilogy.",
+      "relationships": "An uneasy ally in The Angel of Darkness. His story has unresolved threads; later reboot games are not their conclusion.",
+      "route": [
+        "angel"
+      ],
+      "updates": [
+        {
+          "event": "angel",
+          "text": "His confrontation with Boaz leaves his fate uncertain, with an ending hint rather than a released follow-up."
+        }
+      ]
+    }
+  ],
+  "factions": [
+    [
+      "Croft Manor and the family legacy",
+      "The manor is a home, a practice space in some games, and a place where Lara’s discoveries accumulate. Different eras give it different emotional weight. Rise’s optional Blood Ties explores the Survivor family history more closely."
+    ],
+    [
+      "Relic hunters and their patrons",
+      "Natla’s commission, rival collectors and competing archaeologists turn discovery into a struggle over ownership and use. Ask who funded the expedition and what they expect to gain; it is often more revealing than the relic’s name."
+    ],
+    [
+      "Trinity / Survivor era",
+      "A secretive organization seeks ancient power. It becomes the continuing human adversary in Rise and Shadow. You do not need to know its whole history before the 2013 game; the trilogy develops its role."
+    ],
+    [
+      "Yamatai and Kitezh / Survivor era",
+      "These lost places connect archaeology with survival and belief. Their histories explain what people protect and what outsiders pursue. Read local accounts as you encounter them rather than needing a lore glossary first."
+    ],
+    [
+      "Paititi and living communities / Survivor era",
+      "Shadow places living people alongside the relic hunt. Jonah’s concern and the communities Lara meets make the consequences of an outsider’s search harder to ignore. Their interests matter independently of her mission."
+    ],
+    [
+      "Atlantis, Avalon and Norse myth / Legend era",
+      "The Legend trilogy connects relics and mythic places to Lara’s family search. Anniversary supplies the earlier Scion thread; Underworld brings the threads together. The games’ mythological connections are fictional, not a guide to ancient religion."
+    ]
+  ],
+  "related": [],
+  "sources": [
+    [
+      "Official Lara Croft overview (contains outcomes)",
+      "https://www.tombraider.com/lara-croft"
+    ],
+    [
+      "Official Legend-era introduction and order",
+      "https://www.tombraider.com/news/video-games/10-things-you-need-to-know-before-playing-legend-anniversary-and-underworld"
+    ],
+    [
+      "Legend-era background",
+      "https://www.tombraider.com/news/community/tomb-raider-what-is-the-legend-anniversary-and-underworld-lau-era"
+    ],
+    [
+      "I–III Remastered contents",
+      "https://www.tombraider.com/news/video-games/everything-you-need-to-know-about-tomb-raider-i-iii-remastered"
+    ],
+    [
+      "IV–VI Remastered release and scope",
+      "https://www.tombraider.com/news/video-games/tomb-raider-iv-vi-remastered-available-now"
+    ],
+    [
+      "Endurance crew lore",
+      "https://www.tombraider.com/news/video-games/tomb-raider-lore-meet-the-crew-of-the-endurance"
+    ],
+    [
+      "Roth lore",
+      "https://www.tombraider.com/news/video-games/tomb-raider-survivor-trilogy-lore-conrad-roth"
+    ],
+    [
+      "Sam lore",
+      "https://www.tombraider.com/news/video-games/tomb-raider-survivor-trilogy-lore-sam-nishimura"
+    ],
+    [
+      "Jonah and Lara",
+      "https://www.tombraider.com/news/video-games/5-times-jonah-and-lara-were-absolute-besties"
+    ],
+    [
+      "The Divine Source",
+      "https://www.tombraider.com/news/video-games/tomb-raider-survivor-trilogy-lore-the-miracle-of-the-divine-source"
+    ],
+    [
+      "Zip’s appearances",
+      "https://www.tombraider.com/news/video-games/zips-evolution-through-the-games"
+    ],
+    [
+      "Guardian of Light",
+      "https://www.tombraider.com/products/games/lara-croft-and-the-guardian-of-light"
+    ],
+    [
+      "Announced adventures",
+      "https://www.playtombraider.com/en-us/announce"
+    ],
+    [
+      "Angel of Darkness outcomes",
+      "https://www.tombraider.com/news/video-games/tomb-raider-the-angel-of-darkness-anniversary-top-5-moments"
+    ],
+    [
+      "Underworld’s doppelgänger and DLC",
+      "https://www.tombraider.com/news/video-games/tomb-raider-underworld-doppelgaenger"
+    ]
+  ],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "original",
+      "label": "Finished Tomb Raider (1996) only",
+      "unlocks": [
+        "original"
+      ]
+    },
+    {
+      "value": "ii",
+      "label": "Finished Tomb Raider II only",
+      "unlocks": [
+        "ii"
+      ]
+    },
+    {
+      "value": "iii",
+      "label": "Finished Tomb Raider III: Adventures of Lara Croft only",
+      "unlocks": [
+        "iii"
+      ]
+    },
+    {
+      "value": "revelation",
+      "label": "Finished Tomb Raider: The Last Revelation only",
+      "unlocks": [
+        "revelation"
+      ]
+    },
+    {
+      "value": "chronicles",
+      "label": "Finished Tomb Raider: Chronicles only",
+      "unlocks": [
+        "chronicles"
+      ]
+    },
+    {
+      "value": "angel",
+      "label": "Finished Tomb Raider: The Angel of Darkness only",
+      "unlocks": [
+        "angel"
+      ]
+    },
+    {
+      "value": "legend",
+      "label": "Finished Tomb Raider: Legend only",
+      "unlocks": [
+        "legend"
+      ]
+    },
+    {
+      "value": "anniversary",
+      "label": "Finished Tomb Raider: Anniversary only",
+      "unlocks": [
+        "anniversary"
+      ]
+    },
+    {
+      "value": "underworld",
+      "label": "Finished Tomb Raider: Underworld only",
+      "unlocks": [
+        "underworld"
+      ]
+    },
+    {
+      "value": "guardian",
+      "label": "Finished Lara Croft and the Guardian of Light only",
+      "unlocks": [
+        "guardian"
+      ]
+    },
+    {
+      "value": "survivor",
+      "label": "Finished Tomb Raider (2013) only",
+      "unlocks": [
+        "survivor"
+      ]
+    },
+    {
+      "value": "osiris",
+      "label": "Finished Lara Croft and the Temple of Osiris only",
+      "unlocks": [
+        "osiris"
+      ]
+    },
+    {
+      "value": "rise",
+      "label": "Finished Rise of the Tomb Raider only",
+      "unlocks": [
+        "rise"
+      ]
+    },
+    {
+      "value": "shadow",
+      "label": "Finished Shadow of the Tomb Raider only",
+      "unlocks": [
+        "shadow"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal all published outcomes in this guide",
+      "unlocks": [
+        "original",
+        "ii",
+        "iii",
+        "revelation",
+        "chronicles",
+        "angel",
+        "legend",
+        "anniversary",
+        "underworld",
+        "guardian",
+        "survivor",
+        "osiris",
+        "rise",
+        "shadow"
+      ]
+    }
+  ],
+  "timeline_help": "Release years refer to original games; the remasters retell those entries rather than add sequels. Story order groups eras: Anniversary precedes Legend, while Chronicles contains flashbacks and stays after The Last Revelation as a framing story. This is not one merged chronology. The starting-route filter highlights alternative ways in and the two modern trilogy routes; it is not a single checklist.",
+  "scope": "Covers the twelve main adventures from 1996 to Shadow of the Tomb Raider, two optional co-op spin-offs, and announced Legacy of Atlantis and Catalyst as orientation only. I–III Remastered and IV–VI Remastered are access routes, not extra story requirements. Unfinished Business, Golden Mask and The Lost Artifact are optional classic expansions; Rise’s Blood Ties and Baba Yaga, Shadow’s DLC tombs, and Underworld’s Beneath the Ashes and Lara’s Shadow are optional deeper dives. Availability of DLC varies by edition and platform; this guide does not require it. Lara Croft GO and other mobile or handheld games, comics, the films and the animated series are optional and not exhaustively indexed. The animated series follows the Survivor trilogy; the live-action films are separate adaptations. Announced games have no outcome recaps, fixed release dates or assigned place in the older era timelines."
+}

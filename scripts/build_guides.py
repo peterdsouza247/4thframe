@@ -4,6 +4,8 @@ from pathlib import Path
 import html
 import json
 import re
+from build_screen_guides import route_id
+from build_game_guides import game_world_tiles
 
 ROOT = Path(__file__).resolve().parents[1]
 SCREEN = ROOT / 'content/guides/screen.md'
@@ -13,8 +15,9 @@ DATA = ROOT / 'content/guides.json'
 
 
 def plain(value):
+    value = value.replace(r'\*', '\ue000')
     value = re.sub(r'\[([^]]+)\]\([^)]+\)', r'\1', value)
-    return value.replace('**', '').replace('*', '').replace('`', '').strip()
+    return value.replace('**', '').replace('*', '').replace('`', '').replace('\ue000', '*').strip()
 
 
 def parse(path, medium):
@@ -55,16 +58,22 @@ def card(route, idx):
     core = ''.join(f'<li>{esc(item)}</li>' for item in route['core'])
     extras = ''.join(f'<li>{esc(item)}</li>' for item in route['extras'])
     search = ' '.join((route['name'], route['universe'], route['core_text'], route['extras_text'])).casefold()
+    timeline_link=f'<a class="screen-timeline-link" href="screen/#{route_id(route)}">Explore the interactive timeline ↗</a>' if route['medium']=='screen' else ''
     return f'''<article class="guide-card" data-universe="{esc(route['universe'])}" data-medium="{route['medium']}" data-name="{esc(route['name'].casefold())}" data-core-count="{len(route['core'])}" data-search="{esc(search)}">
       <div class="guide-card-top"><span class="guide-index">{idx:03d}</span><span class="guide-universe">{esc(route['universe'])} / {'Watch' if route['medium']=='screen' else 'Read'}</span></div>
       <h3>{esc(route['name'])}</h3><p class="guide-card-summary">{len(route['core'])} core steps · {len(route['extras'])} optional notes</p>
       <details><summary>Open the route <span aria-hidden="true">↗</span></summary>
         <div class="guide-card-body"><h4>Core route <span>in order</span></h4><ol>{core}</ol>
         <div class="optional-route"><h4>Optional <span>and why</span></h4><ul>{extras}</ul></div></div>
-      </details>
+      </details>{timeline_link}
     </article>'''
 
 cards = '\n'.join(card(route, i) for i, route in enumerate(routes, 1))
+game_slugs=json.loads((ROOT/'content/guides/game-series.json').read_text())
+world_tiles='<!-- game-worlds:start -->'+game_world_tiles([json.loads((ROOT/'content/guides'/f'{slug}.json').read_text()) for slug in game_slugs])+'<!-- game-worlds:end -->'
+screen_tiles='''<article class="world-tile world-featured" data-world="MCU" data-medium="screen"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Screen / New lore pilot</p><h3>Marvel Cinematic Universe</h3><p>Understand the people, institutions, and connections behind the shared world.</p><a class="world-primary" href="mcu/">Explore the lore <span aria-hidden="true">↗</span></a><button type="button" class="world-start" data-browse-world="MCU" data-browse-medium="screen">Choose a character route</button></article><article class="world-tile" data-world="Star Wars" data-medium="screen"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Screen / Character timelines</p><h3>Star Wars</h3><p>Follow a character across films, series, and selected animated arcs.</p><a class="world-primary" href="screen/#star-wars-cassian-andor">Explore a viewing timeline <span aria-hidden="true">↗</span></a><button type="button" class="world-start" data-browse-world="Star Wars" data-browse-medium="screen">Choose a character route</button></article>'''
+comic_tiles=''.join(f'<article class="world-tile" data-world="{world}" data-medium="comics"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Comics / Character routes</p><h3>{world}</h3><p>Find the core reading path and optional stories for your favourite characters.</p><button type="button" class="world-primary" data-browse-world="{world}" data-browse-medium="comics">Choose a character <span aria-hidden="true">↗</span></button></article>' for world in ['X-Men','Justice League','Avengers'])
+world_nav='<section class="world-grid" id="world-grid" aria-label="Choose a world">'+screen_tiles+world_tiles+comic_tiles+'</section>'
 page = '''<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#171c28">
@@ -72,19 +81,22 @@ page = '''<!doctype html>
 <meta name="description" content="Follow Marvel, Star Wars, X-Men, Justice League and Avengers characters through curated core and optional screen and comics routes.">
 <link rel="canonical" href="https://peterdsouza247.github.io/4thframe/guides/">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Fourth Frame"><meta property="og:title" content="Character watch and reading guides | Fourth Frame"><meta property="og:description" content="Pick a character. See the core story and the optional detours worth taking."><meta property="og:url" content="https://peterdsouza247.github.io/4thframe/guides/">
-<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="../assets/style.css">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="../assets/style.css"><link rel="stylesheet" href="../assets/screen-guides.css">
 <script defer src="../assets/search-utils.js"></script><script defer src="../assets/guides.js"></script><script defer src="../assets/analytics.js"></script>
 </head><body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="mast"><div class="shell"><div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div><div class="mast-row"><a class="wordmark" href="../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div><nav class="nav" aria-label="Sections"><a href="../#long-reads">Long reads</a><a href="../#screen">Screen</a><a href="../#lists">Lists</a><a href="../#journal">Journal</a><a href="./" aria-current="page">Guides</a><a href="../search/">Search</a><a href="../#about">About</a><span>Go deeper ↗</span></nav></div></header>
 <main id="main" class="shell guides-page">
-  <header class="guides-heading"><span class="eyebrow">III / The routes</span><h1>Follow the character.</h1><p>Choose whose story you want to follow. Core steps carry the major turns; optional entries add context, alternate takes or a worthwhile detour. Read each route from top to bottom.</p><div class="guide-line" aria-hidden="true"><span></span><span></span><span></span><span></span></div></header>
+  <header class="guides-heading gateway-heading"><span class="eyebrow">III / Find your way in</span><h1>Choose your next story.</h1><p>Explore the lore of a world, find a welcoming starting point, or follow one character. Take the connections that interest you; leave the checklist behind.</p><div class="guide-line" aria-hidden="true"><span></span><span></span><span></span><span></span></div></header>
+  <aside class="screen-timeline-promo"><p><strong>Your next watch, in context.</strong> Explore character timelines, compare viewing orders, and keep track of what you’ve watched.</p><a href="screen/">Explore TV &amp; movie timelines ↗</a></aside>
+  <div class="guide-view" role="group" aria-label="How would you like to explore?"><button type="button" data-guide-view="worlds" aria-pressed="true">Explore worlds &amp; lore</button><button type="button" data-guide-view="routes" aria-pressed="false">Find a character or title</button></div>
   <section class="guide-controls" aria-label="Find a route">
     <div class="guide-kind" role="group" aria-label="Medium"><button type="button" class="kind-button" data-medium="all" aria-pressed="true">All</button><button type="button" class="kind-button" data-medium="screen" aria-pressed="false">Watch</button><button type="button" class="kind-button" data-medium="comics" aria-pressed="false">Read</button></div>
     <div class="guide-filters" role="group" aria-label="Universe"><button type="button" data-universe="all" aria-pressed="true">All worlds</button><button type="button" data-universe="MCU" aria-pressed="false">MCU</button><button type="button" data-universe="Star Wars" aria-pressed="false">Star Wars</button><button type="button" data-universe="X-Men" aria-pressed="false">X-Men</button><button type="button" data-universe="Justice League" aria-pressed="false">Justice League</button><button type="button" data-universe="Avengers" aria-pressed="false">Avengers</button></div>
     <div class="guide-tools"><div class="guide-search"><label for="guide-search">Character or title</label><input id="guide-search" type="search" placeholder="Try Ahsoka, Jean Grey, Thor…" autocomplete="off"><div class="suggestions" id="guide-suggestions" hidden></div></div><label class="guide-sort">Sort by<select id="guide-sort"><option value="editorial">Guide order</option><option value="name">Character A–Z</option><option value="shortest">Shortest core first</option><option value="longest">Longest core first</option></select></label><label class="guide-toggle"><input id="core-only" type="checkbox"><span>Core steps only</span></label></div>
   </section>
   <p class="guide-status" id="guide-status" role="status" aria-live="polite">__COUNT__ routes. Select a card to read its path.</p>
+  __WORLD_NAV__
   <section class="guide-grid" id="guide-grid" aria-label="Character routes">__CARDS__</section>
   <p class="guide-empty" id="guide-empty" hidden>No routes match those choices. Try another character or clear a filter.</p>
   <section class="guide-notes" aria-labelledby="guide-notes-title"><div class="section-head"><span class="section-id">The context</span><h2 id="guide-notes-title">Before you begin</h2></div>
@@ -93,7 +105,7 @@ page = '''<!doctype html>
   </section>
 </main><footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
 </body></html>'''
-OUT.write_text(page.replace('__COUNT__', str(len(routes))).replace('__CARDS__', cards), encoding='utf-8')
+OUT.write_text(page.replace('__COUNT__', str(len(routes))).replace('__CARDS__', cards).replace('__WORLD_NAV__',world_nav), encoding='utf-8')
 print(f'Built {len(routes)} character routes ({sum(r["medium"]=="screen" for r in routes)} screen, {sum(r["medium"]=="comics" for r in routes)} comics)')
 
 # Reapply the game catalogue after regenerating the watch/read routes.
