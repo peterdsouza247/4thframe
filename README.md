@@ -38,6 +38,8 @@ Article files (updated by `scripts/add_article.py`):
 - who-is-a-football-club-for: `stories/who-is-a-football-club-for/index.html`
 - platforming-gems-worth-revisiting: `stories/platforming-gems-worth-revisiting/index.html`
 - best-nes-famicom-shooters: `stories/best-nes-famicom-shooters/index.html`
+- retro-game-collections-worth-playing: `stories/retro-game-collections-worth-playing/index.html`
+- best-vr-games-ever: `stories/best-vr-games-ever/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`

@@ -336,5 +336,45 @@
       "platforming-gems-worth-revisiting",
       "underrated-nes-games"
     ]
+  },
+  {
+    "slug": "retro-game-collections-worth-playing",
+    "type": "List",
+    "tags": [
+      "Retro games",
+      "Game preservation",
+      "Arcade games",
+      "Platformers",
+      "TMNT",
+      "Marvel",
+      "Disney",
+      "SNK",
+      "Lists"
+    ],
+    "related": [
+      "platforming-gems-worth-revisiting",
+      "best-nes-famicom-shooters",
+      "underrated-nes-games"
+    ]
+  },
+  {
+    "slug": "best-vr-games-ever",
+    "type": "List",
+    "tags": [
+      "VR",
+      "PlayStation VR",
+      "PSVR2",
+      "Meta Quest",
+      "PC VR",
+      "Half-Life",
+      "Batman",
+      "Game preservation",
+      "Lists"
+    ],
+    "related": [
+      "consoles-deserved-better",
+      "telltales-batman-reinvention",
+      "halo-starting-over"
+    ]
   }
 ]
