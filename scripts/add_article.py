@@ -90,7 +90,7 @@ def parse_markdown(source):
     return fields, body
 
 
-def inline(text):
+def inline(text, note_link=None):
     """A deliberately small, safe Markdown subset for editorial copy."""
     tokens = []
 
@@ -106,6 +106,8 @@ def inline(text):
 
     text = re.sub(r"\[([^\]\n]+)\]\(([^\s)]+)\)", link, text)
     text = re.sub(r"`([^`\n]+)`", lambda m: reserve(f"<code>{escape(m.group(1))}</code>"), text)
+    if note_link is not None:
+        text = re.sub(r"\[\^(\d+)\]", lambda m: reserve(note_link(m.group(1))), text)
     text = escape(text)
     text = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", text)
@@ -113,13 +115,58 @@ def inline(text):
 
 
 def render_body(body):
+    definitions = {}
+    for match in re.finditer(r"^\[\^(\d+)\]: (.+)$", body, flags=re.M):
+        number, text = match.groups()
+        if number in definitions:
+            fail(f"Duplicate source note: {number}")
+        definitions[number] = text
+    body = re.sub(r"^\[\^\d+\]: .+\n?", "", body, flags=re.M).strip()
+    references = {}
+
+    def note_link(number):
+        if number not in definitions:
+            fail(f"Missing source note: {number}")
+        count = references.get(number, 0) + 1
+        references[number] = count
+        return (f'<sup class="source-ref"><a id="source-ref-{number}-{count}" '
+                f'href="#source-note-{number}" role="doc-noteref" '
+                f'aria-label="Source note {number}">{number}</a></sup>')
+
+    def formatted(text):
+        return inline(text, note_link)
+
+    has_contents = "[TOC]" in body.splitlines()
+    headings = []
+    heading_ids = set()
+
+    def heading(level, title):
+        anchor = ""
+        if has_contents:
+            label = re.sub(r"[*`]", "", title)
+            base = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-") or "section"
+            slug = base
+            suffix = 2
+            while slug in heading_ids:
+                slug = f"{base}-{suffix}"
+                suffix += 1
+            heading_ids.add(slug)
+            anchor = f' id="{slug}" tabindex="-1"'
+            if level == 2:
+                headings.append((slug, label))
+        return f"<h{level}{anchor}>{formatted(title)}</h{level}>"
+
     blocks = re.split(r"\n\s*\n", body)
     result = []
     for block in blocks:
         lines = block.strip().splitlines()
         if len(lines) == 1 and re.fullmatch(r"#{2,3} .+", lines[0]):
             level, title = lines[0].split(" ", 1)
-            result.append(f"<h{len(level)}>{inline(title)}</h{len(level)}>")
+            result.append(heading(len(level), title))
+        elif lines == ["[TOC]"]:
+            result.append("<!-- article-contents -->")
+        elif lines == ["---"]:
+            result.append("<hr>")
         elif len(lines) == 1 and lines[0].startswith("!["):
             image = re.fullmatch(r'!\[([^\]]+)\]\(([^\s)]+) "([^"]+)"\)', lines[0])
             if not image or not LOCAL_IMAGE.fullmatch(image.group(2)) or ".." in Path(image.group(2)).parts:
@@ -128,16 +175,35 @@ def render_body(body):
             assert alt and credit
             result.append(f'<figure class="article-figure"><img src="{escape(path, quote=True)}" alt="{escape(alt, quote=True)}" loading="lazy"><figcaption>{escape(credit)}</figcaption></figure>')
         elif all(re.match(r"^\d+\.\s", x) for x in lines):
-            items = "".join(f"<li>{inline(re.sub(r'^\d+\.\s+', '', x))}</li>" for x in lines)
+            items = "".join(f"<li>{formatted(re.sub(r'^\d+\.\s+', '', x))}</li>" for x in lines)
             result.append(f"<ol>{items}</ol>")
         elif all(x.startswith("- ") for x in lines):
-            result.append("<ul>" + "".join(f"<li>{inline(x[2:])}</li>" for x in lines) + "</ul>")
+            result.append("<ul>" + "".join(f"<li>{formatted(x[2:])}</li>" for x in lines) + "</ul>")
         elif all(x.startswith("> ") for x in lines):
-            result.append("<blockquote><p>" + inline(" ".join(x[2:] for x in lines)) + "</p></blockquote>")
+            result.append("<blockquote><p>" + formatted(" ".join(x[2:] for x in lines)) + "</p></blockquote>")
         else:
             if any(x.startswith(("## ", "### ", "![", "- ", "> ")) for x in lines):
                 fail("Separate headings, images and lists from paragraphs with a blank line")
-            result.append("<p>" + inline(" ".join(lines)) + "</p>")
+            result.append("<p>" + formatted(" ".join(lines)) + "</p>")
+    unused = set(definitions) - set(references)
+    if unused:
+        fail("Unreferenced source notes: " + ", ".join(sorted(unused, key=int)))
+    if has_contents:
+        links = "".join(f'<li><a href="#{slug}">{escape(label)}</a></li>' for slug, label in headings)
+        contents = ('<nav class="article-contents" aria-label="In this article">'
+                    '<details open><summary>In this article</summary><ol>' + links + '</ol></details></nav>')
+        result = [block.replace("<!-- article-contents -->", contents) for block in result]
+    if definitions:
+        notes = []
+        for number, text in definitions.items():
+            backlinks = " ".join(
+                f'<a href="#source-ref-{number}-{i}" role="doc-backlink" '
+                f'aria-label="Return to reference {i} for source note {number}">↩{i if references[number] > 1 else ""}</a>'
+                for i in range(1, references[number] + 1))
+            notes.append(f'<li id="source-note-{number}" value="{number}" tabindex="-1">'
+                         f'<p>{inline(text)} <span class="source-returns">{backlinks}</span></p></li>')
+        result.append('<section class="article-footnotes" role="doc-endnotes" aria-label="Source notes"><ol>'
+                      + "".join(notes) + '</ol></section>')
     return "\n".join(result)
 
 
@@ -147,6 +213,8 @@ def article_html(meta, body_html, minutes):
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
     band = (meta.get("art", "pantheon") + "-band") if meta.get("section") == "Screen" else ("list-band" if meta["type"] == "List" else "warcraft-band")
+    if meta.get("art") == "gta":
+        band = "gta-band"
     section = "screen" if meta.get("section") == "Screen" else ("lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads"))
     schema = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title,
                          "description": meta["description"], "mainEntityOfPage": canonical}, ensure_ascii=False).replace("<", "\\u003c")
@@ -260,7 +328,10 @@ def main():
     for img in re.findall(r'<img src="([^"]+)"', body_html):
         if not (target.parent / img).exists():
             fail(f"Image does not exist: {img}. Add it and document rights in IMAGE-RIGHTS.md")
-    minutes = max(1, round(len(re.findall(r"\b[\w’'-]+\b", body)) / 220))
+    # Reading time covers prose, excluding source definitions and their URLs.
+    reading_body = re.sub(r"^\[\^\d+\]: .+$", "", body, flags=re.M)
+    reading_body = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", reading_body)
+    minutes = max(1, round(len(re.findall(r"\b[\w’'-]+\b", reading_body)) / 220))
     page = article_html(meta, body_html, minutes)
     home = update_home(HOME.read_text(), meta, minutes)
     entry = {"slug": slug, "type": meta["type"], "tags": meta["tags"], "related": related}

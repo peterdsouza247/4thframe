@@ -51,3 +51,26 @@
 @media(max-width:900px){.journal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:650px){.journal-grid{grid-template-columns:1fr}}
 /* Search suggestions shared by the story archive and character guides */
 .search-input-wrap,.guide-search{position:relative}.search-form .search-input-wrap{flex:1;min-width:0}.search-form .search-input-wrap input{width:100%}.suggestions{position:absolute;left:0;right:0;top:100%;z-index:15;background:var(--paper);border:1px solid var(--ink);box-shadow:0 12px 22px #171c2828;max-height:270px;overflow-y:auto}.suggestions[hidden]{display:none}.suggestions [role="option"]{padding:12px 15px;cursor:pointer;border-bottom:1px solid var(--line);font:500 .9rem/1.35 "DM Sans",sans-serif;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.suggestions [role="option"]:last-child{border-bottom:0}.suggestions [role="option"]:hover,.suggestions [role="option"][aria-selected="true"]{background:var(--ink);color:var(--paper)}
+/* Long-read navigation and source notes; all links work without JavaScript. */
+.article-contents{margin:2rem 0 3rem;padding:1rem 0;border-block:1px solid var(--line);font:400 .98rem/1.5 "DM Sans",sans-serif}
+.article-contents summary{cursor:pointer;padding:.65rem 0;font-weight:600;min-height:44px}
+.article-contents ol{list-style:none;padding:0;margin:.5rem 0 0;columns:2;column-gap:2rem}
+.article-contents li{break-inside:avoid;margin:0}
+.article-contents a{display:block;padding:.55rem 0;text-decoration:none}
+.article-contents a:hover{text-decoration:underline}
+.article-body h2[id],.article-body h3[id],.article-footnotes li[id],.source-ref a[id]{scroll-margin-top:2rem}
+.article-body h2:target,.article-body h3:target{color:#80452f}
+.source-ref{line-height:0;font:600 .72em "DM Sans",sans-serif;vertical-align:super}
+.source-ref a{display:inline-block;min-width:1.4em;text-align:center;text-decoration:none}
+.article-footnotes{font:400 .94rem/1.65 "DM Sans",sans-serif;overflow-wrap:anywhere}
+.article-footnotes ol{padding-left:1.8rem}
+.article-footnotes li{padding:.6rem .3rem .6rem .4rem}
+.article-footnotes li:target{background:#eae4da;outline:2px solid var(--copper);outline-offset:3px}
+.article-footnotes li p{margin:0}
+.source-returns a{display:inline-block;padding:.3rem .45rem;text-decoration:none}
+@media(max-width:650px){.article-contents ol{columns:1}}
+/* Original skyline artwork for the GTA feature. */
+.story-art.gta,.article-band.gta-band{background:radial-gradient(ellipse at 73% 34%,#e9b58b 0 8%,transparent 8.5%),linear-gradient(#332c53,#985775 50%,#df9b86 76%,#324c59);isolation:isolate}
+.story-art.gta:before,.article-band.gta-band:before{content:"";position:absolute;inset:25% 0 0;width:auto;height:auto;aspect-ratio:auto;border:0;border-radius:0;box-shadow:none;transform:none;background:#1b2939;clip-path:polygon(0 78%,8% 78%,8% 32%,14% 32%,14% 69%,22% 69%,22% 46%,29% 46%,29% 81%,38% 81%,38% 12%,44% 12%,44% 62%,51% 62%,51% 38%,58% 38%,58% 72%,68% 72%,68% 23%,74% 23%,74% 64%,83% 64%,83% 44%,91% 44%,91% 76%,100% 76%,100% 100%,0 100%);z-index:-1}
+.article-band.gta-band:after{content:"";position:absolute;inset:77% 0 0;width:auto;height:auto;box-shadow:none;transform:none;background:linear-gradient(165deg,transparent 42%,#dc9e8d 42.5% 43%,transparent 43.5%);z-index:-1}
+.article-band.gta-band span{font-size:clamp(2.6rem,7vw,7rem);padding:0 1rem}
