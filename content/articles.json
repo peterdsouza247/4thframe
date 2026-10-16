@@ -376,5 +376,25 @@
       "telltales-batman-reinvention",
       "halo-starting-over"
     ]
+  },
+  {
+    "slug": "grand-theft-auto-evolution-gta-vi",
+    "type": "Long read",
+    "tags": [
+      "Grand Theft Auto",
+      "GTA VI",
+      "GTA 6",
+      "Rockstar Games",
+      "Open worlds",
+      "Gaming history",
+      "Game design",
+      "Game music",
+      "Retrospectives"
+    ],
+    "related": [
+      "what-made-elden-ring-great",
+      "mass-effect-revisited",
+      "retro-game-collections-worth-playing"
+    ]
   }
 ]
