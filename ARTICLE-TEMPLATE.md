@@ -32,3 +32,7 @@ For a collapsible spoiler section, put `:::spoilers Open the spoiler discussion`
 on its own line, then a blank line and the spoiler text. Close it with a blank
 line followed by `:::` on its own line. Spoiler headings stay out of the contents
 menu, and the section is excluded from site search previews. Sections cannot nest.
+
+Optional `deck: "An introduction beneath the article title"` is supported in the metadata header. For literal Markdown punctuation, escape `*`, `[`, `]`, backticks or a backslash with a backslash. Formatting inside a link label is supported.
+
+The bulk article exporter preserves older styled paragraphs using `:::spoiler-note` or `:::list-intro`, followed by one paragraph, and `:::end-note`. Existing reporting-source asides use `:::reporting-sources` and `:::end-reporting-sources`. Put each marker on its own line with blank lines around its contents. These retain the original HTML classes and are supported by the article publisher too.
