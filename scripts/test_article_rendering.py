@@ -42,6 +42,19 @@ class LongReadRendering(unittest.TestCase):
         self.assertEqual(render_body('## Heading\n\nA **bold** word.\n\n- One\n- Two'),
                          '<h2>Heading</h2>\n<p>A <strong>bold</strong> word.</p>\n<ul><li>One</li><li>Two</li></ul>')
 
+    def test_spoilers_are_collapsed_and_absent_from_contents(self):
+        html = render_body('[TOC]\n\n## Verdict\n\n:::spoilers Read the spoilers\n\n## Secret identity\n\n<script>twist</script>\n\n:::')
+        self.assertIn('<details class="article-spoilers"><summary>Read the spoilers</summary>', html)
+        self.assertNotIn('<details class="article-spoilers" open', html)
+        self.assertIn('&lt;script&gt;twist&lt;/script&gt;', html)
+        self.assertNotIn('href="#secret-identity"', html)
+
+    def test_spoiler_markers_must_balance(self):
+        for body in (':::spoilers Warning\n\nSecret', ':::',
+                     ':::spoilers First\n\n:::spoilers Second\n\n:::'):
+            with self.subTest(body=body), self.assertRaises(ValueError):
+                render_body(body)
+
 
 if __name__ == '__main__':
     unittest.main()

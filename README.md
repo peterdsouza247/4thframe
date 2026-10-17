@@ -41,6 +41,7 @@ Article files (updated by `scripts/add_article.py`):
 - retro-game-collections-worth-playing: `stories/retro-game-collections-worth-playing/index.html`
 - best-vr-games-ever: `stories/best-vr-games-ever/index.html`
 - grand-theft-auto-evolution-gta-vi: `stories/grand-theft-auto-evolution-gta-vi/index.html`
+- house-of-x-powers-of-x-review: `stories/house-of-x-powers-of-x-review/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
@@ -103,3 +104,10 @@ The `milestones` list explicitly defines which event outcomes a reader may revea
 Tomb Raider’s guide adds three visual era selectors: Classic, Legend and Survivor. Its four entry points include an optional co-op route. The timeline covers twelve main games, two co-op detours and two announced titles; story sorting groups the eras rather than merging revised histories. Original release years are kept separate from remaster editions. Ten profiles emphasize motives and relationships, with outcomes gated to individual games.
 
 Assassin’s Creed adds five entry points and distinguishes historical setting order from the modern-day framing. Its timeline covers fourteen main historical adventures, Liberation, Freedom Cry and Black Flag Resynced, with sixteen character profiles. Final Fantasy adds six entry points, covers all sixteen numbered entries plus selected sequels, and groups connected stories without suggesting a shared universe. VII’s original and remake paths remain separate; Revelation is marked announced. Both guides use visual route selectors and individually gated story outcomes.
+
+### Comics reading guides
+
+- `guides/dark-knights-of-steel/`: original saga, editions, Allwinter and the sequel.
+- `guides/absolute-universe/`: original six titles, expansions and crossover dependencies.
+- Edit `content/guides/comic-series.json` and the matching Markdown files, then run `python3 scripts/build_comic_guides.py`. Full catalogue and article rebuilds also preserve these guides.
+- The HoX/PoX review source is `content/drafts/house-of-x-powers-of-x-review.md`. Its spoiler block uses the syntax in `ARTICLE-TEMPLATE.md`; site search excludes that block.

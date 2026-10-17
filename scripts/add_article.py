@@ -137,6 +137,7 @@ def render_body(body):
         return inline(text, note_link)
 
     has_contents = "[TOC]" in body.splitlines()
+    in_spoilers = False
     headings = []
     heading_ids = set()
 
@@ -152,7 +153,7 @@ def render_body(body):
                 suffix += 1
             heading_ids.add(slug)
             anchor = f' id="{slug}" tabindex="-1"'
-            if level == 2:
+            if level == 2 and not in_spoilers:
                 headings.append((slug, label))
         return f"<h{level}{anchor}>{formatted(title)}</h{level}>"
 
@@ -160,7 +161,17 @@ def render_body(body):
     result = []
     for block in blocks:
         lines = block.strip().splitlines()
-        if len(lines) == 1 and re.fullmatch(r"#{2,3} .+", lines[0]):
+        if len(lines) == 1 and lines[0].startswith(':::spoilers '):
+            if in_spoilers:
+                fail('Spoiler sections cannot be nested')
+            in_spoilers = True
+            result.append('<details class="article-spoilers"><summary>' + inline(lines[0][12:]) + '</summary><div class="spoiler-body">')
+        elif lines == [':::']:
+            if not in_spoilers:
+                fail('Unexpected spoiler section closing marker')
+            in_spoilers = False
+            result.append('</div></details>')
+        elif len(lines) == 1 and re.fullmatch(r"#{2,3} .+", lines[0]):
             level, title = lines[0].split(" ", 1)
             result.append(heading(len(level), title))
         elif lines == ["[TOC]"]:
@@ -185,6 +196,8 @@ def render_body(body):
             if any(x.startswith(("## ", "### ", "![", "- ", "> ")) for x in lines):
                 fail("Separate headings, images and lists from paragraphs with a blank line")
             result.append("<p>" + formatted(" ".join(lines)) + "</p>")
+    if in_spoilers:
+        fail('Close the spoiler section with ::: on its own line')
     unused = set(definitions) - set(references)
     if unused:
         fail("Unreferenced source notes: " + ", ".join(sorted(unused, key=int)))
@@ -213,8 +226,8 @@ def article_html(meta, body_html, minutes):
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
     band = (meta.get("art", "pantheon") + "-band") if meta.get("section") == "Screen" else ("list-band" if meta["type"] == "List" else "warcraft-band")
-    if meta.get("art") == "gta":
-        band = "gta-band"
+    if meta.get("art") in {"gta", "krakoa"}:
+        band = meta['art'] + '-band'
     section = "screen" if meta.get("section") == "Screen" else ("lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads"))
     schema = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title,
                          "description": meta["description"], "mainEntityOfPage": canonical}, ensure_ascii=False).replace("<", "\\u003c")

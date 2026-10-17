@@ -27,3 +27,8 @@ Use *italics* for game titles and **bold** sparingly. Split paragraphs with a bl
 2. Second point.
 
 End with a conclusion that adds something to the argument.
+
+For a collapsible spoiler section, put `:::spoilers Open the spoiler discussion`
+on its own line, then a blank line and the spoiler text. Close it with a blank
+line followed by `:::` on its own line. Spoiler headings stay out of the contents
+menu, and the section is excluded from site search previews. Sections cannot nest.

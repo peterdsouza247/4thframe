@@ -116,6 +116,7 @@ for entry in CONFIG:
     body_markup = re.sub(r'<nav class="article-contents".*?</nav>', '', body_markup, flags=re.S)
     body_markup = re.sub(r'<section class="article-footnotes".*?</section>', '', body_markup, flags=re.S)
     body_markup = re.sub(r'<sup class="source-ref">.*?</sup>', '', body_markup, flags=re.S)
+    body_markup = re.sub(r'<details class="article-spoilers">.*?</details>', '', body_markup, flags=re.S)
     search_index.append({
         "title": title,
         "url": f"stories/{slug}/",

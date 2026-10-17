@@ -74,3 +74,25 @@
 .story-art.gta:before,.article-band.gta-band:before{content:"";position:absolute;inset:25% 0 0;width:auto;height:auto;aspect-ratio:auto;border:0;border-radius:0;box-shadow:none;transform:none;background:#1b2939;clip-path:polygon(0 78%,8% 78%,8% 32%,14% 32%,14% 69%,22% 69%,22% 46%,29% 46%,29% 81%,38% 81%,38% 12%,44% 12%,44% 62%,51% 62%,51% 38%,58% 38%,58% 72%,68% 72%,68% 23%,74% 23%,74% 64%,83% 64%,83% 44%,91% 44%,91% 76%,100% 76%,100% 100%,0 100%);z-index:-1}
 .article-band.gta-band:after{content:"";position:absolute;inset:77% 0 0;width:auto;height:auto;box-shadow:none;transform:none;background:linear-gradient(165deg,transparent 42%,#dc9e8d 42.5% 43%,transparent 43.5%);z-index:-1}
 .article-band.gta-band span{font-size:clamp(2.6rem,7vw,7rem);padding:0 1rem}
+
+/* Comics guides and review: readable comparisons and opt-in plot analysis. */
+.comic-table-scroll{max-width:100%;overflow-x:auto;margin:1.5em 0 2em}
+.comic-table{width:100%;border-collapse:collapse;font:400 1rem/1.55 Georgia,serif}
+.comic-table caption{text-align:left;font-weight:700;margin-bottom:.8em}
+.comic-table th,.comic-table td{padding:.8em .65em;text-align:left;vertical-align:top;border-bottom:1px solid #c5beb2}
+.comic-table th{font-weight:700;background:#e8e3d8}
+.comic-table td:first-child{font-weight:700;min-width:10rem}
+.article-spoilers{border-block:1px solid #ac7255;margin:2.5em 0;padding:1em 0}
+.article-spoilers>summary{cursor:pointer;font:600 1.15rem/1.5 Georgia,serif;color:#80452f;padding:.4em .2em}
+.article-spoilers>summary:focus-visible,.comic-table-scroll:focus-visible{outline:2px solid #80452f;outline-offset:5px}
+.spoiler-body{padding-top:1em}
+.article-spoilers .spoiler-body h2:first-child{margin-top:.5em}
+.guide-back{display:inline-block;margin-bottom:1.5em;color:#80452f;font-size:.95rem}
+.article-band.steel-band{background:linear-gradient(130deg,#1d2a30,#485c61 50%,#a18c67)}
+.article-band.steel-band:before{border-color:#c8c7ba;border-radius:8%;transform:rotate(45deg)}
+.article-band.absolute-band{background:radial-gradient(ellipse at 65% 35%,#a04330,#352c38 45%,#101b27)}
+.article-band.absolute-band:before{border-color:#e4ba72;border-radius:0;transform:rotate(-15deg)}
+.story-art.krakoa,.article-band.krakoa-band{background:radial-gradient(ellipse at 65% 30%,#a7ad73,#496a53 35%,#173c38 70%,#14262b)}
+.story-art.krakoa:before,.article-band.krakoa-band:before{border-color:#c8d4a1;border-radius:48% 15% 48% 15%;transform:rotate(32deg);box-shadow:0 0 0 18px #c8d4a119,0 0 0 40px #c8d4a10d}
+.article-band.krakoa-band span{font-size:clamp(2rem,6vw,5rem);max-width:90%;line-height:1.1}
+@media(max-width:650px){.comic-table{font-size:.9rem}.comic-table th,.comic-table td{padding:.6em .4em}.comic-table td:first-child{min-width:8rem}.article-spoilers>summary{font-size:1.05rem}}
