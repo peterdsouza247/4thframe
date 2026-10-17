@@ -396,5 +396,23 @@
       "mass-effect-revisited",
       "retro-game-collections-worth-playing"
     ]
+  },
+  {
+    "slug": "house-of-x-powers-of-x-review",
+    "type": "Long read",
+    "tags": [
+      "X-Men",
+      "Marvel Comics",
+      "Jonathan Hickman",
+      "House of X",
+      "Powers of X",
+      "Krakoa",
+      "Comics reviews"
+    ],
+    "related": [
+      "wolverine-storylines",
+      "telltales-batman-reinvention"
+    ],
+    "published": "2026-10-17"
   }
 ]

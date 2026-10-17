@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "dark-knights-of-steel",
+    "name": "Dark Knights of Steel",
+    "title": "Dark Knights of Steel: Reading Order, Collections and Where to Start",
+    "description": "Find the Dark Knights of Steel reading order, compare collected editions, and place Allwinter, Heir to the Sea and the sequel without duplicate purchases.",
+    "summary": "A complete first saga, a northern detour and a sequel: find the route through DC's fantasy kingdoms.",
+    "cover_label": "DARK KNIGHTS OF STEEL",
+    "theme": "steel",
+    "reviewed": "2026-10-17",
+    "steps": 2,
+    "tags": ["DC Comics", "Elseworlds", "Dark Knights of Steel", "Fantasy", "Batman", "Superman", "Wonder Woman"],
+    "search_terms": "Tom Taylor Yasmine Putri Allwinter Deathstroke Aquaman Heir to the Sea Tales from the Three Kingdoms Dark Knights of Steel II reading order collections",
+    "columns": ["Edition", "Story contents", "What it is for"],
+    "books": [
+      ["Volume 1", "Dark Knights of Steel #1–6", "Try the opening half of the original saga."],
+      ["Volume 2", "Dark Knights of Steel #7–12 and Tales from the Three Kingdoms #1", "Finish the saga and get its background special."],
+      ["The Deluxe Edition", "Dark Knights of Steel #1–12 and Tales from the Three Kingdoms #1", "The original story in one book; overlaps both standard volumes."],
+      ["Allwinter", "Allwinter #1–6, including the Aquaman companion story", "Deathstroke's northern adventure and the Aquaman bridge."],
+      ["Heir to the Sea #1", "Aquaman's origin reprinted from Allwinter", "Choose this if you need the Aquaman story without buying Allwinter."],
+      ["Dark Knights of Steel II", "A new twelve-issue sequel, still in progress", "Continue after the original saga; not part of its Deluxe Edition."]
+    ]
+  },
+  {
+    "slug": "absolute-universe",
+    "name": "Absolute Universe",
+    "title": "DC Absolute Universe: Where to Start and What to Read Next",
+    "description": "Choose your first DC Absolute comic, compare all six original titles, and place Catwoman, Green Arrow, crossovers and the announced Absolute Justice event.",
+    "summary": "Choose a hero, compare the genres and find the crossover chapters that actually matter.",
+    "cover_label": "ABSOLUTE UNIVERSE",
+    "theme": "absolute",
+    "reviewed": "2026-10-17",
+    "steps": 1,
+    "tags": ["DC Comics", "Absolute Universe", "Absolute Batman", "Absolute Wonder Woman", "Absolute Superman", "Comics"],
+    "search_terms": "Absolute Flash Green Lantern Martian Manhunter Catwoman Green Arrow Cassandra Cain Absolute Evil DC All In Absolute Justice Scott Snyder reading order collections",
+    "columns": ["Series and original team", "Best fit", "Start here"],
+    "books": [
+      ["Absolute Batman: Scott Snyder / Nick Dragotta", "Gotham action and horror", "Vol. 1: The Zoo (#1–6)"],
+      ["Absolute Wonder Woman: Kelly Thompson / Hayden Sherman", "Mythic fantasy and monsters", "Vol. 1: The Last Amazon (#1–7)"],
+      ["Absolute Superman: Jason Aaron / Rafa Sandoval", "Science fiction and social conflict", "Vol. 1: Last Dust of Krypton (#1–6)"],
+      ["Absolute Flash: Jeff Lemire / Nick Robles", "A teenage hero and pursuit", "Vol. 1: Of Two Worlds (#1–6)"],
+      ["Absolute Green Lantern: Al Ewing / Jahnoy Lindsay", "Cosmic dread and mystery", "Vol. 1: Without Fear (#1–6)"],
+      ["Absolute Martian Manhunter: Deniz Camp / Javier Rodríguez", "Psychological science fiction", "Vol. 1: Martian Vision (#1–6); Vol. 2 completes #7–12"],
+      ["Absolute Catwoman: Che Grayson, Scott Snyder / Bengal", "A thief's past and a global mystery", "#1, with Batman #14 as useful lead-in"],
+      ["Absolute Green Arrow: Pornsak Pichetshote / Rafael Albuquerque", "An urban horror murder mystery", "Absolute Evil #1, then Green Arrow #1"]
+    ]
+  }
+]

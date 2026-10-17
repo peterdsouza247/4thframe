@@ -160,6 +160,8 @@ def main():
     # Both catalogue and article regeneration also preserve the screen timeline hub.
     from build_screen_guides import main as build_screens
     build_screens()
+    from build_comic_guides import main as build_comics
+    build_comics()
 
 
 if __name__=='__main__':
