@@ -45,8 +45,9 @@ def main():
         out.write_text(page)
         name, slug, description = escape(g['name']), g['slug'], escape(g['summary'])
         terms = escape(' '.join([g['name'], g['search_terms'], *g['tags']]).lower(), quote=True)
-        cards.append(f'<article class="guide-card comic-route" data-universe="{name}" data-medium="comics" data-name="{name.lower()}" data-core-count="{g["steps"]}" data-search="{terms}"><div class="guide-card-top"><span class="guide-universe">Comics / Reading guide</span></div><h3><a href="{slug}/">{name}</a></h3><p>{description}</p><p class="guide-card-summary">Reading routes · collections · optional stories</p><a class="game-guide-link" href="{slug}/">Explore the guide ↗</a></article>')
-        worlds.append(f'<article class="world-tile" data-world="{name}" data-medium="comics"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">Comics / Reading guide</p><h3>{name}</h3><p>{description}</p><a class="world-primary" href="{slug}/">Explore the guide ↗</a></article>')
+        label = 'Comics / Author guide' if g.get('kind') == 'Writer' else 'Comics / Reading guide'
+        cards.append(f'<article class="guide-card comic-route" data-universe="{name}" data-medium="comics" data-name="{name.lower()}" data-core-count="{g["steps"]}" data-search="{terms}"><div class="guide-card-top"><span class="guide-universe">{label}</span></div><h3><a href="{slug}/">{name}</a></h3><p>{description}</p><p class="guide-card-summary">Reading routes · collections · optional stories</p><a class="game-guide-link" href="{slug}/">Explore the guide ↗</a></article>')
+        worlds.append(f'<article class="world-tile" data-world="{name}" data-medium="comics"><span class="world-orbit" aria-hidden="true"></span><p class="eyebrow">{label}</p><h3>{name}</h3><p>{description}</p><a class="world-primary" href="{slug}/">Explore the guide ↗</a></article>')
         options.append(f'<option value="{name}">{name}</option>')
         # Curated introductory terms only: future guide edits cannot leak twists.
         search_rows.append(dict(title=g['title'], url=f'guides/{slug}/', type='Guide', description=g['description'], tags=['Guides', *g['tags']], body=g['summary'] + ' ' + g['search_terms']))
@@ -59,7 +60,7 @@ def main():
     page, count = re.subn(r'(<select id="guide-universe">.*?)(</select>)', lambda m: m[1] + '<!-- comic-options:start -->' + ''.join(options) + '<!-- comic-options:end -->' + m[2], page, count=1, flags=re.S)
     assert count == 1
     count = len(re.findall(r'class="guide-card(?:\s|\")', page))
-    page = re.sub(r'(<p class="guide-status"[^>]*>).*?(</p>)', lambda m: m[1] + f'{count} guides. Choose a series or character to begin.' + m[2], page, flags=re.S)
+    page = re.sub(r'(<p class="guide-status"[^>]*>).*?(</p>)', lambda m: m[1] + f'{count} guides. Choose a series, writer or character to begin.' + m[2], page, flags=re.S)
     catalogue.write_text(page)
 
     index = ROOT / 'search-index.json'

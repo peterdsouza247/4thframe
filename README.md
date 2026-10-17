@@ -42,6 +42,12 @@ Article files (updated by `scripts/add_article.py`):
 - best-vr-games-ever: `stories/best-vr-games-ever/index.html`
 - grand-theft-auto-evolution-gta-vi: `stories/grand-theft-auto-evolution-gta-vi/index.html`
 - house-of-x-powers-of-x-review: `stories/house-of-x-powers-of-x-review/index.html`
+- best-jonathan-hickman-comics: `stories/best-jonathan-hickman-comics/index.html`
+- best-grant-morrison-comics: `stories/best-grant-morrison-comics/index.html`
+- best-alan-moore-comics: `stories/best-alan-moore-comics/index.html`
+- best-ed-brubaker-comics: `stories/best-ed-brubaker-comics/index.html`
+- best-brian-k-vaughan-comics: `stories/best-brian-k-vaughan-comics/index.html`
+- comic-book-writers-worth-following: `stories/comic-book-writers-worth-following/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
@@ -111,3 +117,9 @@ Assassin’s Creed adds five entry points and distinguishes historical setting o
 - `guides/absolute-universe/`: original six titles, expansions and crossover dependencies.
 - Edit `content/guides/comic-series.json` and the matching Markdown files, then run `python3 scripts/build_comic_guides.py`. Full catalogue and article rebuilds also preserve these guides.
 - The HoX/PoX review source is `content/drafts/house-of-x-powers-of-x-review.md`. Its spoiler block uses the syntax in `ARTICLE-TEMPLATE.md`; site search excludes that block.
+
+### Comics author series
+
+Five author spotlights (Jonathan Hickman, Grant Morrison, Alan Moore, Ed Brubaker and Brian K. Vaughan) and the linking listicle have editable Markdown in `content/drafts/`. Their matching reading guides are in `content/guides/`, registered in `comic-series.json` with `kind: "Writer"`. The comics builder renders author labels, book comparisons, guide catalogue cards, search entries and sitemap URLs.
+
+To edit an existing spotlight, update its Markdown source, regenerate its body with `parse_markdown`, `render_body` and `article_html` from `scripts/add_article.py`, then run `python3 scripts/build_content.py`. The add command itself is for new slugs. Keep the Markdown `related` array and `content/articles.json` in sync. Review completion notes and edition contents when updating a guide; do not give a future release an assumed ending. The existing HoX/PoX review links back into this series.

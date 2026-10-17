@@ -226,7 +226,7 @@ def article_html(meta, body_html, minutes):
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
     band = (meta.get("art", "pantheon") + "-band") if meta.get("section") == "Screen" else ("list-band" if meta["type"] == "List" else "warcraft-band")
-    if meta.get("art") in {"gta", "krakoa"}:
+    if meta.get("art") in {"gta", "krakoa", "morrison", "moore", "brubaker", "vaughan"}:
         band = meta['art'] + '-band'
     section = "screen" if meta.get("section") == "Screen" else ("lists" if meta["type"] == "List" else ("journal" if meta["type"] == "Journal" else "long-reads"))
     schema = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": title,

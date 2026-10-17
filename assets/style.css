@@ -95,4 +95,15 @@
 .story-art.krakoa,.article-band.krakoa-band{background:radial-gradient(ellipse at 65% 30%,#a7ad73,#496a53 35%,#173c38 70%,#14262b)}
 .story-art.krakoa:before,.article-band.krakoa-band:before{border-color:#c8d4a1;border-radius:48% 15% 48% 15%;transform:rotate(32deg);box-shadow:0 0 0 18px #c8d4a119,0 0 0 40px #c8d4a10d}
 .article-band.krakoa-band span{font-size:clamp(2rem,6vw,5rem);max-width:90%;line-height:1.1}
+
+/* Original geometric covers for the comics author series. */
+.story-art.morrison,.article-band.morrison-band{background:radial-gradient(circle at 65% 35%,#bfa4b8,#615477 48%,#26354c)}
+.story-art.morrison:before,.article-band.morrison-band:before{border-color:#eed9a6;border-radius:50%;box-shadow:0 0 0 18px #eed9a61a,0 0 0 42px #eed9a60d}
+.story-art.moore,.article-band.moore-band{background:linear-gradient(145deg,#183c39,#537060 55%,#b69b5b)}
+.story-art.moore:before,.article-band.moore-band:before{border-color:#dfcf8e;border-radius:0;transform:rotate(45deg);box-shadow:0 0 0 20px #dfcf8e19}
+.story-art.brubaker,.article-band.brubaker-band{background:linear-gradient(135deg,#18242d,#413946 55%,#9c5948)}
+.story-art.brubaker:before,.article-band.brubaker-band:before{border-color:#d4b0a0;border-radius:0;transform:rotate(-17deg);box-shadow:25px 25px 0 #d4b0a01a}
+.story-art.vaughan,.article-band.vaughan-band{background:radial-gradient(ellipse at 65% 30%,#dfae88,#9b6869 45%,#413c58)}
+.story-art.vaughan:before,.article-band.vaughan-band:before{border-color:#f2d8a5;border-radius:45% 45% 6% 6%;transform:rotate(12deg)}
+.article-band.morrison-band span,.article-band.moore-band span,.article-band.brubaker-band span,.article-band.vaughan-band span{font-size:clamp(1.8rem,6vw,5rem);max-width:90%;line-height:1.1;text-align:center}
 @media(max-width:650px){.comic-table{font-size:.9rem}.comic-table th,.comic-table td{padding:.6em .4em}.comic-table td:first-child{min-width:8rem}.article-spoilers>summary{font-size:1.05rem}}

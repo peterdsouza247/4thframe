@@ -6,7 +6,7 @@ description: "A review of Hickman's X-Men reinvention: Krakoa, Xavier's grey mor
 summary: "I loved the ambition of Krakoa, and the uneasy question of who gets to decide what a better future looks like."
 category: "Comics / Review"
 tags: ["X-Men", "Marvel Comics", "Jonathan Hickman", "House of X", "Powers of X", "Krakoa", "Comics reviews"]
-related: ["wolverine-storylines", "telltales-batman-reinvention"]
+related: ["best-jonathan-hickman-comics", "comic-book-writers-worth-following", "wolverine-storylines"]
 cover_label: "HOUSE OF X / POWERS OF X"
 art: krakoa
 published: 2026-10-17
@@ -157,7 +157,7 @@ The standard combined collection interleaves the two titles. For single issues, 
 
 Notice the consecutive *Powers* #2–3 and *House* #3–4. Simply alternating matching issue numbers changes the intended order. Marvel's later *Chronological Edition* is a different arrangement; save that experiment for a reread. The X in *Powers of X* is pronounced “ten”.
 
-For more fresh approaches to familiar heroes, explore our [Absolute Universe](../../guides/absolute-universe/) and [Dark Knights of Steel](../../guides/dark-knights-of-steel/) reading guides.
+For the next author route, read [our Jonathan Hickman feature](../../stories/best-jonathan-hickman-comics/) and [Hickman reading guide](../../guides/jonathan-hickman/). For more fresh approaches to familiar heroes, explore our [Absolute Universe](../../guides/absolute-universe/) and [Dark Knights of Steel](../../guides/dark-knights-of-steel/) reading guides.
 
 [^1]: [Marvel's House of X/Powers of X reading guide](https://www.marvel.com/comics/guides/1556/house-of-x-powers-of-x) and [official introduction to the paired series](https://www.marvel.com/articles/comics/your-biggest-questions-about-house-of-x-and-powers-of-x-answered). Review covers House of X #1–6 and Powers of X #1–6 (2019); later-era recommendations are identified separately. Publication details reviewed 17 October 2026.
 [^2]: [Marvel's contemporary discussion of House of X #2](https://www.marvel.com/amp/articles/comics/how-house-of-x-2-is-changing-the-marvel-universe). This source contains major spoilers.
