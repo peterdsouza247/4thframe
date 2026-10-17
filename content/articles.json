@@ -410,9 +410,124 @@
       "Comics reviews"
     ],
     "related": [
-      "wolverine-storylines",
-      "telltales-batman-reinvention"
+      "best-jonathan-hickman-comics",
+      "comic-book-writers-worth-following",
+      "wolverine-storylines"
     ],
     "published": "2026-10-17"
+  },
+  {
+    "slug": "best-jonathan-hickman-comics",
+    "type": "Long read",
+    "tags": [
+      "Jonathan Hickman",
+      "Marvel Comics",
+      "Image Comics",
+      "Fantastic Four",
+      "Secret Wars",
+      "X-Men",
+      "East of West",
+      "Comics writers"
+    ],
+    "related": [
+      "comic-book-writers-worth-following",
+      "best-grant-morrison-comics",
+      "house-of-x-powers-of-x-review"
+    ]
+  },
+  {
+    "slug": "best-grant-morrison-comics",
+    "type": "Long read",
+    "tags": [
+      "Grant Morrison",
+      "DC Comics",
+      "Marvel Comics",
+      "Superman",
+      "Batman",
+      "New X-Men",
+      "Doom Patrol",
+      "Comics writers"
+    ],
+    "related": [
+      "comic-book-writers-worth-following",
+      "best-jonathan-hickman-comics",
+      "telltales-batman-reinvention"
+    ]
+  },
+  {
+    "slug": "best-alan-moore-comics",
+    "type": "Long read",
+    "tags": [
+      "Alan Moore",
+      "Watchmen",
+      "Swamp Thing",
+      "V for Vendetta",
+      "From Hell",
+      "Promethea",
+      "Comics writers"
+    ],
+    "related": [
+      "comic-book-writers-worth-following",
+      "best-grant-morrison-comics",
+      "best-jonathan-hickman-comics"
+    ]
+  },
+  {
+    "slug": "best-ed-brubaker-comics",
+    "type": "Long read",
+    "tags": [
+      "Ed Brubaker",
+      "Sean Phillips",
+      "Criminal",
+      "The Fade Out",
+      "Captain America",
+      "Gotham Central",
+      "Crime comics",
+      "Comics writers"
+    ],
+    "related": [
+      "comic-book-writers-worth-following",
+      "best-alan-moore-comics",
+      "best-jonathan-hickman-comics"
+    ]
+  },
+  {
+    "slug": "best-brian-k-vaughan-comics",
+    "type": "Long read",
+    "tags": [
+      "Brian K. Vaughan",
+      "Saga",
+      "Paper Girls",
+      "Y: The Last Man",
+      "Runaways",
+      "Fiona Staples",
+      "Comics writers"
+    ],
+    "related": [
+      "comic-book-writers-worth-following",
+      "best-ed-brubaker-comics",
+      "best-grant-morrison-comics"
+    ]
+  },
+  {
+    "slug": "comic-book-writers-worth-following",
+    "type": "List",
+    "tags": [
+      "Comics writers",
+      "Jonathan Hickman",
+      "Grant Morrison",
+      "Alan Moore",
+      "Ed Brubaker",
+      "Brian K. Vaughan",
+      "Comics",
+      "Lists"
+    ],
+    "related": [
+      "best-jonathan-hickman-comics",
+      "best-grant-morrison-comics",
+      "best-alan-moore-comics",
+      "best-ed-brubaker-comics",
+      "best-brian-k-vaughan-comics"
+    ]
   }
 ]

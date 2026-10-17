@@ -54,7 +54,7 @@
     document.querySelector('.guide-sort').hidden = view === 'worlds';
     document.querySelector('.guide-toggle').hidden = view === 'worlds';
     empty.hidden = view === 'worlds' ? worlds > 0 : visible > 0;
-    status.textContent = view === 'worlds' ? `${worlds} worlds. Explore the lore or choose a starting point.` : `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only in watch/read routes' : ''}. Choose a series or character to begin.`;
+    status.textContent = view === 'worlds' ? `${worlds} guide collections. Explore the lore or choose a starting point.` : `${visible} ${visible === 1 ? 'route' : 'routes'} shown${coreOnly.checked ? ' · core steps only in watch/read routes' : ''}. Choose a series, writer or character to begin.`;
   }
 
   document.querySelector('.guide-kind').addEventListener('click', event => {

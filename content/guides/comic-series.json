@@ -9,16 +9,52 @@
     "theme": "steel",
     "reviewed": "2026-10-17",
     "steps": 2,
-    "tags": ["DC Comics", "Elseworlds", "Dark Knights of Steel", "Fantasy", "Batman", "Superman", "Wonder Woman"],
+    "tags": [
+      "DC Comics",
+      "Elseworlds",
+      "Dark Knights of Steel",
+      "Fantasy",
+      "Batman",
+      "Superman",
+      "Wonder Woman"
+    ],
     "search_terms": "Tom Taylor Yasmine Putri Allwinter Deathstroke Aquaman Heir to the Sea Tales from the Three Kingdoms Dark Knights of Steel II reading order collections",
-    "columns": ["Edition", "Story contents", "What it is for"],
+    "columns": [
+      "Edition",
+      "Story contents",
+      "What it is for"
+    ],
     "books": [
-      ["Volume 1", "Dark Knights of Steel #1–6", "Try the opening half of the original saga."],
-      ["Volume 2", "Dark Knights of Steel #7–12 and Tales from the Three Kingdoms #1", "Finish the saga and get its background special."],
-      ["The Deluxe Edition", "Dark Knights of Steel #1–12 and Tales from the Three Kingdoms #1", "The original story in one book; overlaps both standard volumes."],
-      ["Allwinter", "Allwinter #1–6, including the Aquaman companion story", "Deathstroke's northern adventure and the Aquaman bridge."],
-      ["Heir to the Sea #1", "Aquaman's origin reprinted from Allwinter", "Choose this if you need the Aquaman story without buying Allwinter."],
-      ["Dark Knights of Steel II", "A new twelve-issue sequel, still in progress", "Continue after the original saga; not part of its Deluxe Edition."]
+      [
+        "Volume 1",
+        "Dark Knights of Steel #1–6",
+        "Try the opening half of the original saga."
+      ],
+      [
+        "Volume 2",
+        "Dark Knights of Steel #7–12 and Tales from the Three Kingdoms #1",
+        "Finish the saga and get its background special."
+      ],
+      [
+        "The Deluxe Edition",
+        "Dark Knights of Steel #1–12 and Tales from the Three Kingdoms #1",
+        "The original story in one book; overlaps both standard volumes."
+      ],
+      [
+        "Allwinter",
+        "Allwinter #1–6, including the Aquaman companion story",
+        "Deathstroke's northern adventure and the Aquaman bridge."
+      ],
+      [
+        "Heir to the Sea #1",
+        "Aquaman's origin reprinted from Allwinter",
+        "Choose this if you need the Aquaman story without buying Allwinter."
+      ],
+      [
+        "Dark Knights of Steel II",
+        "A new twelve-issue sequel, still in progress",
+        "Continue after the original saga; not part of its Deluxe Edition."
+      ]
     ]
   },
   {
@@ -31,18 +67,406 @@
     "theme": "absolute",
     "reviewed": "2026-10-17",
     "steps": 1,
-    "tags": ["DC Comics", "Absolute Universe", "Absolute Batman", "Absolute Wonder Woman", "Absolute Superman", "Comics"],
+    "tags": [
+      "DC Comics",
+      "Absolute Universe",
+      "Absolute Batman",
+      "Absolute Wonder Woman",
+      "Absolute Superman",
+      "Comics"
+    ],
     "search_terms": "Absolute Flash Green Lantern Martian Manhunter Catwoman Green Arrow Cassandra Cain Absolute Evil DC All In Absolute Justice Scott Snyder reading order collections",
-    "columns": ["Series and original team", "Best fit", "Start here"],
+    "columns": [
+      "Series and original team",
+      "Best fit",
+      "Start here"
+    ],
     "books": [
-      ["Absolute Batman: Scott Snyder / Nick Dragotta", "Gotham action and horror", "Vol. 1: The Zoo (#1–6)"],
-      ["Absolute Wonder Woman: Kelly Thompson / Hayden Sherman", "Mythic fantasy and monsters", "Vol. 1: The Last Amazon (#1–7)"],
-      ["Absolute Superman: Jason Aaron / Rafa Sandoval", "Science fiction and social conflict", "Vol. 1: Last Dust of Krypton (#1–6)"],
-      ["Absolute Flash: Jeff Lemire / Nick Robles", "A teenage hero and pursuit", "Vol. 1: Of Two Worlds (#1–6)"],
-      ["Absolute Green Lantern: Al Ewing / Jahnoy Lindsay", "Cosmic dread and mystery", "Vol. 1: Without Fear (#1–6)"],
-      ["Absolute Martian Manhunter: Deniz Camp / Javier Rodríguez", "Psychological science fiction", "Vol. 1: Martian Vision (#1–6); Vol. 2 completes #7–12"],
-      ["Absolute Catwoman: Che Grayson, Scott Snyder / Bengal", "A thief's past and a global mystery", "#1, with Batman #14 as useful lead-in"],
-      ["Absolute Green Arrow: Pornsak Pichetshote / Rafael Albuquerque", "An urban horror murder mystery", "Absolute Evil #1, then Green Arrow #1"]
+      [
+        "Absolute Batman: Scott Snyder / Nick Dragotta",
+        "Gotham action and horror",
+        "Vol. 1: The Zoo (#1–6)"
+      ],
+      [
+        "Absolute Wonder Woman: Kelly Thompson / Hayden Sherman",
+        "Mythic fantasy and monsters",
+        "Vol. 1: The Last Amazon (#1–7)"
+      ],
+      [
+        "Absolute Superman: Jason Aaron / Rafa Sandoval",
+        "Science fiction and social conflict",
+        "Vol. 1: Last Dust of Krypton (#1–6)"
+      ],
+      [
+        "Absolute Flash: Jeff Lemire / Nick Robles",
+        "A teenage hero and pursuit",
+        "Vol. 1: Of Two Worlds (#1–6)"
+      ],
+      [
+        "Absolute Green Lantern: Al Ewing / Jahnoy Lindsay",
+        "Cosmic dread and mystery",
+        "Vol. 1: Without Fear (#1–6)"
+      ],
+      [
+        "Absolute Martian Manhunter: Deniz Camp / Javier Rodríguez",
+        "Psychological science fiction",
+        "Vol. 1: Martian Vision (#1–6); Vol. 2 completes #7–12"
+      ],
+      [
+        "Absolute Catwoman: Che Grayson, Scott Snyder / Bengal",
+        "A thief's past and a global mystery",
+        "#1, with Batman #14 as useful lead-in"
+      ],
+      [
+        "Absolute Green Arrow: Pornsak Pichetshote / Rafael Albuquerque",
+        "An urban horror murder mystery",
+        "Absolute Evil #1, then Green Arrow #1"
+      ]
+    ]
+  },
+  {
+    "slug": "jonathan-hickman",
+    "name": "Jonathan Hickman",
+    "title": "Jonathan Hickman: Where to Start and What to Read Next",
+    "description": "Choose a Jonathan Hickman starting point and follow Fantastic Four, Avengers, Secret Wars or X-Men with clear collection and crossover advice.",
+    "summary": "Family science fiction, mutant politics or a complete original epic: choose a Hickman route.",
+    "cover_label": "JONATHAN HICKMAN",
+    "theme": "krakoa",
+    "kind": "Writer",
+    "reviewed": "2026-10-17",
+    "steps": 3,
+    "tags": [
+      "Jonathan Hickman",
+      "Comics writers",
+      "Reading order",
+      "Marvel Comics",
+      "Image Comics"
+    ],
+    "search_terms": "Jonathan Hickman Fantastic Four FF Future Foundation Avengers New Avengers Infinity Time Runs Out Secret Wars House of X Powers of X HoX PoX Inferno Krakoa East of West Secret Warriors SHIELD Decorum Ultimate Spider-Man Black Monday Murders",
+    "columns": [
+      "Book or project",
+      "First step",
+      "Commitment and boundary"
+    ],
+    "books": [
+      [
+        "Fantastic Four / FF",
+        "Complete Collection Vol. 1",
+        "Four Complete Collections or two omnibuses; a finished author phase."
+      ],
+      [
+        "Avengers / New Avengers",
+        "Complete Collection Vol. 1",
+        "Five Complete Collections or two omnibuses, then Secret Wars."
+      ],
+      [
+        "Secret Wars (2015)",
+        "Main series #1–9",
+        "The core conclusion; Battleworld tie-ins are optional."
+      ],
+      [
+        "House of X / Powers of X",
+        "Original interleaved collection",
+        "Twelve-part opening; not the complete Krakoan era."
+      ],
+      [
+        "East of West",
+        "Vol. 1 or #1",
+        "Complete at #45; ten trades or alternative larger formats."
+      ],
+      [
+        "Secret Warriors (2009)",
+        "Complete Collection Vol. 1",
+        "Finished #1–28 main run; two Complete Collections."
+      ],
+      [
+        "Decorum",
+        "Complete #1–8 collection",
+        "Finite original science fiction with Mike Huddleston."
+      ],
+      [
+        "Ultimate Spider-Man (2024)",
+        "Vol. 1: Married with Children",
+        "Separate Ultimate continuity; #24 closes this author run."
+      ],
+      [
+        "The Black Monday Murders",
+        "Vol. 1",
+        "Original #1–8 material is unfinished; proposed return is not closure."
+      ]
+    ]
+  },
+  {
+    "slug": "grant-morrison",
+    "name": "Grant Morrison",
+    "title": "Grant Morrison: Where to Start and What to Read Next",
+    "description": "Start Grant Morrison with All-Star Superman, Animal Man or We3, then follow New X-Men, Doom Patrol and the Batman run with context.",
+    "summary": "Warm superheroes, strange outsiders and ambitious experiments, with a manageable route through Batman.",
+    "cover_label": "GRANT MORRISON",
+    "theme": "morrison",
+    "kind": "Writer",
+    "reviewed": "2026-10-17",
+    "steps": 3,
+    "tags": [
+      "Grant Morrison",
+      "Comics writers",
+      "Reading order",
+      "DC Comics",
+      "Marvel Comics"
+    ],
+    "search_terms": "Grant Morrison All-Star Superman Frank Quitely Animal Man Doom Patrol We3 New X-Men Batman Batman Reborn Batman Incorporated Final Crisis Seven Soldiers Invisibles Multiversity",
+    "columns": [
+      "Book or project",
+      "First step",
+      "Commitment and boundary"
+    ],
+    "books": [
+      [
+        "All-Star Superman",
+        "Complete #1–12 collection",
+        "One complete story; no earlier continuity required."
+      ],
+      [
+        "We3",
+        "#1–3 or complete collection",
+        "Short and independent; graphic animal suffering."
+      ],
+      [
+        "Animal Man",
+        "1988 #1 or author collection",
+        "Morrison phase #1–26 plus collected Secret Origins story."
+      ],
+      [
+        "Doom Patrol",
+        "1987 #19 or Crawling from the Wreckage",
+        "Author phase #19–63 plus Doom Force Special #1."
+      ],
+      [
+        "New X-Men",
+        "#114 / E Is for Extinction",
+        "Author phase #114–154 and Annual 2001."
+      ],
+      [
+        "Batman",
+        "Morrison Omnibus Vol. 1",
+        "Three author omnibuses; Final Crisis adds separate context."
+      ],
+      [
+        "Seven Soldiers",
+        "Assembled collection, beginning with #0",
+        "Thirty issues with a closing #1; preserve collection order."
+      ],
+      [
+        "The Invisibles",
+        "Original Volume 1 / first collected book",
+        "Three original series; adult and demanding."
+      ]
+    ]
+  },
+  {
+    "slug": "alan-moore",
+    "name": "Alan Moore",
+    "title": "Alan Moore: Where to Start and What to Read Next",
+    "description": "Choose the right Alan Moore starting point, compare Watchmen and Swamp Thing editions, and explore From Hell, Top 10, Promethea and more.",
+    "summary": "Complete graphic novels, transformative horror and formal experiments, with edition boundaries made clear.",
+    "cover_label": "ALAN MOORE",
+    "theme": "moore",
+    "kind": "Writer",
+    "reviewed": "2026-10-17",
+    "steps": 3,
+    "tags": [
+      "Alan Moore",
+      "Comics writers",
+      "Reading order",
+      "DC Comics",
+      "Graphic novels"
+    ],
+    "search_terms": "Alan Moore Watchmen Dave Gibbons Swamp Thing Saga V for Vendetta From Hell Eddie Campbell Top 10 Promethea Miracleman Halo Jones League Extraordinary Gentlemen Superman",
+    "columns": [
+      "Book or project",
+      "First step",
+      "Commitment and boundary"
+    ],
+    "books": [
+      [
+        "Watchmen",
+        "Complete #1–12 collection",
+        "One complete original work; later franchise books are separate."
+      ],
+      [
+        "Saga of the Swamp Thing",
+        "Book One, opening at #20",
+        "Six standard books or three overlapping Absolute volumes."
+      ],
+      [
+        "V for Vendetta",
+        "Complete collected edition",
+        "One original political dystopia with David Lloyd."
+      ],
+      [
+        "From Hell",
+        "Complete black-and-white or Master Edition",
+        "Same central work in different visual presentations."
+      ],
+      [
+        "Top 10",
+        "Original #1–12 collection",
+        "Begin here; The Forty-Niners and Smax are optional branches."
+      ],
+      [
+        "Promethea",
+        "#1 / first collected book",
+        "Complete original #1–32; increasingly metaphysical."
+      ],
+      [
+        "Miracleman",
+        "Collection identifying the Moore phase",
+        "May credit The Original Writer; Gaiman continuation is separate."
+      ],
+      [
+        "The Ballad of Halo Jones",
+        "Book One",
+        "Three existing books, rather than every originally envisaged part."
+      ]
+    ]
+  },
+  {
+    "slug": "ed-brubaker",
+    "name": "Ed Brubaker",
+    "title": "Ed Brubaker: Where to Start and What to Read Next",
+    "description": "Start Ed Brubaker with Pulp, Criminal or Winter Soldier, and follow sourced routes through Reckless, Gotham Central, The Fade Out and Sleeper.",
+    "summary": "A short noir, an expanding underworld or a superhero thriller: pick a route and avoid overlapping editions.",
+    "cover_label": "ED BRUBAKER",
+    "theme": "brubaker",
+    "kind": "Writer",
+    "reviewed": "2026-10-17",
+    "steps": 3,
+    "tags": [
+      "Ed Brubaker",
+      "Comics writers",
+      "Reading order",
+      "Crime comics",
+      "Sean Phillips"
+    ],
+    "search_terms": "Ed Brubaker Sean Phillips Criminal Coward Lawless Bad Weekend Cruel Summer Pulp Reckless Fade Out Captain America Winter Soldier Gotham Central Greg Rucka Catwoman Sleeper Fatale Kill or Be Killed",
+    "columns": [
+      "Book or project",
+      "First step",
+      "Commitment and boundary"
+    ],
+    "books": [
+      [
+        "Pulp",
+        "Standard graphic novel",
+        "One complete story; Process Edition adds production material."
+      ],
+      [
+        "The Fade Out",
+        "Complete Collection",
+        "Original #1–12; three older Act trades tell the same story."
+      ],
+      [
+        "Criminal",
+        "Coward",
+        "Interconnected stories; publication order recommended."
+      ],
+      [
+        "Reckless",
+        "Reckless",
+        "Original graphic novels with discrete cases and recurring relationships."
+      ],
+      [
+        "Captain America: Winter Soldier",
+        "Ultimate Collection",
+        "2005 #1–9 and #11–14; focused entry into a longer run."
+      ],
+      [
+        "Gotham Central",
+        "#1 / In the Line of Duty",
+        "Complete at #40; shared writing with Greg Rucka."
+      ],
+      [
+        "Catwoman",
+        "Trail of the Catwoman",
+        "Check contents; bundled Selina’s Big Score is by Darwyn Cooke."
+      ],
+      [
+        "Sleeper",
+        "Season One; Point Blank offers a prelude",
+        "Two twelve-issue seasons; separate WildStorm setting."
+      ],
+      [
+        "Fatale / Kill or Be Killed",
+        "Each title’s own first volume",
+        "Separate completed series of 24 and 20 issues."
+      ]
+    ]
+  },
+  {
+    "slug": "brian-k-vaughan",
+    "name": "Brian K. Vaughan",
+    "title": "Brian K. Vaughan: Where to Start and What to Read Next",
+    "description": "Find a Brian K. Vaughan reading route through Saga, Paper Girls, Y: The Last Man, Runaways and shorter books, with completion and edition advice.",
+    "summary": "Page-turning original worlds and short superhero stories, with finished series distinguished from open projects.",
+    "cover_label": "BRIAN K. VAUGHAN",
+    "theme": "vaughan",
+    "kind": "Writer",
+    "reviewed": "2026-10-17",
+    "steps": 3,
+    "tags": [
+      "Brian K. Vaughan",
+      "Comics writers",
+      "Reading order",
+      "Image Comics",
+      "Graphic novels"
+    ],
+    "search_terms": "Brian K Vaughan Brian K. Vaughan BKV Saga Fiona Staples Paper Girls Cliff Chiang Y The Last Man Pia Guerra Runaways Adrian Alphona Private Eye Marcos Martin Muntsa Vicente Doctor Strange The Oath Pride Baghdad Ex Machina",
+    "columns": [
+      "Book or project",
+      "First step",
+      "Commitment and boundary"
+    ],
+    "books": [
+      [
+        "Paper Girls",
+        "Vol. 1 or #1",
+        "Complete at #30; six trades, three deluxe books or Complete Story."
+      ],
+      [
+        "Y: The Last Man",
+        "Unmanned / #1",
+        "Complete at #60; several overlapping collection formats."
+      ],
+      [
+        "Saga",
+        "Vol. 1: #1–6",
+        "Unfinished larger story; Compendium One ends at #54."
+      ],
+      [
+        "Runaways",
+        "2003 #1–18, then 2005 #1–24",
+        "Selected Vaughan phase; later creators continue the characters."
+      ],
+      [
+        "The Private Eye",
+        "First digital part or complete print book",
+        "Ten-part complete original mystery; landscape presentation."
+      ],
+      [
+        "Doctor Strange: The Oath",
+        "#1–5 collection",
+        "One short complete superhero story."
+      ],
+      [
+        "Pride of Baghdad",
+        "Complete graphic novel",
+        "Standalone adult war fable with Niko Henrichon."
+      ],
+      [
+        "Ex Machina",
+        "#1 / first collected book",
+        "Complete #1–50 plus Special #1–4."
+      ]
     ]
   }
 ]
