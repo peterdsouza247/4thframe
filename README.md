@@ -10,6 +10,39 @@ The site assumes GitHub Pages serves the `main` branch from the repository root 
 
 No build step is needed. The committed `.nojekyll` file tells Pages to serve the static files directly. To preview locally, run `python3 -m http.server 8000` in this directory and open `http://localhost:8000`.
 
+## Edit every article in one Markdown file
+
+Open **`content/articles-edit.md`** to edit all registered articles in one place: long reads, lists, screen articles and development journal entries. Each article has a quoted `title`, search `description`, homepage `summary`, optional `deck` (the line under its title), and its full Markdown body. Search for a title to jump to it. Keep the `fourth-frame` comments and article slugs intact.
+
+The two scripts need **Python 3.10 or later**, with no additional packages. Run them from a checkout of the repository:
+
+```bash
+# Optional: refresh the editing file from the current site before you start.
+# This replaces the file, so save or import any edits in it first.
+python3 scripts/export_articles.py --overwrite
+
+# Edit content/articles-edit.md in your preferred text editor.
+
+# Show the differences and validate them without changing the site.
+python3 scripts/import_articles.py --dry-run
+
+# Apply your edits and rebuild search, metadata and related-story titles.
+python3 scripts/import_articles.py
+
+# Inspect the result before committing and pushing as usual.
+git diff
+```
+
+Both commands accept a custom Markdown path, for example `python3 scripts/export_articles.py my-articles.md` and `python3 scripts/import_articles.py my-articles.md --dry-run`. Relative paths are resolved from the repository root, even when you launch the script from another directory. Export refuses to overwrite an existing file unless you pass `--overwrite`.
+
+Export reads the **current HTML**, including older articles without Markdown sources, so it does not replace newer site copy with an old draft. Import updates only articles you edited, synchronises their draft/journal Markdown sources (creating one for older articles), preserves the page shell and artwork, updates applicable homepage copy and reading times, and refreshes search, social metadata, structured data, related-story titles and sitemap modification dates. It refreshes the editing file's snapshots after a successful import, so importing it again writes nothing.
+
+The import validates all changed articles and rebuilds the site in a temporary copy before writing anything. Missing local pages/images, broken source references, damaged section markers or a newer version of an edited article stop the import. If an article changed since export, save your offline changes separately, refresh the export and reapply that article's edits; there is no automatic overwrite of newer copy. An unchanged export also writes nothing.
+
+Keep Markdown headings, links, lists, image credits, `[TOC]`, numbered source notes and spoiler markers in place while editing their wording. The exported `:::spoiler-note`, `:::list-intro` and `:::reporting-sources` blocks preserve existing special formatting; retain their closing markers. URLs and slugs are fixed by this workflow. It updates existing articles; use `add_article.py` for new ones. Guide pages have their own source/build workflow and are not included in the article bundle. Import does not commit, push or deploy changes.
+
+To test the workflow, run `python3 scripts/test_article_exchange.py` and `python3 scripts/test_article_rendering.py`. The exchange tests cover all current articles, no-op round trips, source syncing, metadata edits, dry runs, stale snapshots and rejected imports.
+
 ## Editing articles
 
 Article files (updated by `scripts/add_article.py`):

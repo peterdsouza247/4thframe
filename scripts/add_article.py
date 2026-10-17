@@ -24,7 +24,7 @@ STORIES = ROOT / "stories"
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
 LOCAL_IMAGE = re.compile(r"(?:\.\./\.\./)?assets/images/[a-zA-Z0-9_./-]+\Z")
 REQUIRED = {"title", "slug", "type", "description", "summary", "category", "tags"}
-OPTIONAL = {"related", "cover_label", "art", "published", "section"}
+OPTIONAL = {"related", "cover_label", "art", "published", "section", "deck"}
 
 
 def fail(message):
@@ -102,16 +102,23 @@ def inline(text, note_link=None):
         label, target = match.groups()
         if not (target.startswith("https://") or target.startswith("http://") or target.startswith("../../")):
             fail(f"Use an https:// or ../../ link: {target}")
-        return reserve(f'<a href="{escape(target, quote=True)}">{escape(label)}</a>')
+        return reserve(f'<a href="{escape(target, quote=True)}">{emphasis(escape(label))}</a>')
 
-    text = re.sub(r"\[([^\]\n]+)\]\(([^\s)]+)\)", link, text)
+    def emphasis(value):
+        value = re.sub(r"\*\*\*([^*\n]+)\*\*\*", r"<strong><em>\1</em></strong>", value)
+        value = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", value)
+        return re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", value)
+
+    text = re.sub(r"\\([\\`*\[\]])", lambda m: reserve(escape(m[1])), text)
     text = re.sub(r"`([^`\n]+)`", lambda m: reserve(f"<code>{escape(m.group(1))}</code>"), text)
+    text = re.sub(r"\[([^\]\n]+)\]\(([^\s)]+)\)", link, text)
     if note_link is not None:
         text = re.sub(r"\[\^(\d+)\]", lambda m: reserve(note_link(m.group(1))), text)
     text = escape(text)
-    text = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", text)
-    text = re.sub(r"\*([^*\n]+)\*", r"<em>\1</em>", text)
-    return re.sub(r"\x00(\d+)\x00", lambda m: tokens[int(m.group(1))], text)
+    text = emphasis(text)
+    def restore(match):
+        return re.sub(r"\x00(\d+)\x00", restore, tokens[int(match[1])])
+    return re.sub(r"\x00(\d+)\x00", restore, text)
 
 
 def render_body(body):
@@ -138,6 +145,9 @@ def render_body(body):
 
     has_contents = "[TOC]" in body.splitlines()
     in_spoilers = False
+    paragraph_class = None
+    note_written = False
+    in_sources = False
     headings = []
     heading_ids = set()
 
@@ -161,7 +171,25 @@ def render_body(body):
     result = []
     for block in blocks:
         lines = block.strip().splitlines()
-        if len(lines) == 1 and lines[0].startswith(':::spoilers '):
+        if lines in ([':::spoiler-note'], [':::list-intro']):
+            if paragraph_class:
+                fail('Paragraph notes cannot nest')
+            paragraph_class, note_written = lines[0][3:], False
+        elif lines == [':::end-note']:
+            if paragraph_class is None or not note_written:
+                fail('Unexpected or empty paragraph note')
+            paragraph_class = None
+        elif lines == [':::reporting-sources']:
+            if in_sources:
+                fail('Reporting source sections cannot nest')
+            in_sources = True
+            result.append('<aside class="related-stories" aria-label="Reporting sources">')
+        elif lines == [':::end-reporting-sources']:
+            if not in_sources:
+                fail('Unexpected reporting sources closing marker')
+            in_sources = False
+            result.append('</aside>')
+        elif len(lines) == 1 and lines[0].startswith(':::spoilers '):
             if in_spoilers:
                 fail('Spoiler sections cannot be nested')
             in_spoilers = True
@@ -180,7 +208,7 @@ def render_body(body):
             result.append("<hr>")
         elif len(lines) == 1 and lines[0].startswith("!["):
             image = re.fullmatch(r'!\[([^\]]+)\]\(([^\s)]+) "([^"]+)"\)', lines[0])
-            if not image or not LOCAL_IMAGE.fullmatch(image.group(2)) or ".." in Path(image.group(2)).parts:
+            if not image or not LOCAL_IMAGE.fullmatch(image.group(2)) or ".." in Path(image.group(2).removeprefix('../../')).parts:
                 fail("Images need ![alt](../../assets/images/file.jpg \"Credit and rights note\") on their own line")
             alt, path, credit = image.groups()
             assert alt and credit
@@ -195,9 +223,16 @@ def render_body(body):
         else:
             if any(x.startswith(("## ", "### ", "![", "- ", "> ")) for x in lines):
                 fail("Separate headings, images and lists from paragraphs with a blank line")
-            result.append("<p>" + formatted(" ".join(lines)) + "</p>")
+            if paragraph_class and note_written:
+                fail('A styled paragraph note must contain exactly one paragraph')
+            attrs = f' class="{paragraph_class}"' if paragraph_class else ''
+            result.append("<p" + attrs + ">" + formatted(" ".join(lines)) + "</p>")
+            if paragraph_class:
+                note_written = True
     if in_spoilers:
         fail('Close the spoiler section with ::: on its own line')
+    if paragraph_class or in_sources:
+        fail('Close every paragraph note and reporting sources section')
     unused = set(definitions) - set(references)
     if unused:
         fail("Unreferenced source notes: " + ", ".join(sorted(unused, key=int)))
@@ -225,6 +260,7 @@ def article_html(meta, body_html, minutes):
     h = lambda value: escape(value, quote=True)
     canonical = BASE + f"stories/{slug}/"
     label = meta.get("cover_label") or "FOURTH FRAME"
+    deck = '<p class="article-deck">' + h(meta['deck']) + '</p>' if meta.get('deck') else ''
     band = (meta.get("art", "pantheon") + "-band") if meta.get("section") == "Screen" else ("list-band" if meta["type"] == "List" else "warcraft-band")
     if meta.get("art") in {"gta", "krakoa", "morrison", "moore", "brubaker", "vaughan"}:
         band = meta['art'] + '-band'
@@ -257,7 +293,7 @@ def article_html(meta, body_html, minutes):
     <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#screen">Screen</a><a href="../../#lists">Lists</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
   </div></header>
   <main id="main">
-    <header class="article-header wrap"><span class="kicker">{h(meta['category'])}</span><h1>{h(title)}</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
+    <header class="article-header wrap"><span class="kicker">{h(meta['category'])}</span><h1>{h(title)}</h1>{deck}<div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
     <div class="article-band {band}" aria-hidden="true"><span>{h(label)}</span></div>
     <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>{h(meta['type'])} / {minutes} min</aside><article class="article-body">
 {body_html}
