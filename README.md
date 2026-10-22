@@ -84,6 +84,7 @@ Article files (updated by `scripts/add_article.py`):
 - christy-marx-jem-conan-games: `stories/christy-marx-jem-conan-games/index.html`
 - why-indian-game-studios-struggle: `stories/why-indian-game-studios-struggle/index.html`
 - yoddha-the-warrior-indias-early-pc-game: `stories/yoddha-the-warrior-indias-early-pc-game/index.html`
+- battledust-forgotten-indian-fighting-game: `stories/battledust-forgotten-indian-fighting-game/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
