@@ -1,0 +1,40 @@
+name: Validate article content
+
+on:
+  pull_request:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Rebuild article metadata, search, and guides
+        run: python3 scripts/build_content.py
+      - name: Run article rendering tests
+        run: python3 scripts/test_article_rendering.py
+      - name: Check whitespace
+        run: git diff --check
+      - name: Commit regenerated tracked files to editorial branch
+        if: github.event_name == 'push' && github.ref_name == 'editorial/christy-marx-india-games-2026'
+        shell: bash
+        run: |
+          git add -u
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Regenerate article metadata and search index after validation"
+            git push origin HEAD:editorial/christy-marx-india-games-2026
+          fi
