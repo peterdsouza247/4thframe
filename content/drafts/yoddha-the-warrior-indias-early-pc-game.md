@@ -87,7 +87,7 @@ A [peer-reviewed history by Xenia Zeiler and Souvik Mukherjee](https://journals.
 
 Another milestone arrived in 2009, when Hyderabad-based Aurona Technologies made *Hanuman: Boy Warrior* for PlayStation 2. Sony described it as the first Indian PS2 game made by an Indian team, a narrower and better-supported claim. It was not a one-on-one fighting game, and it was certainly not the beginning of interactive entertainment in India.
 
-If the remembered title was a fighting game from the 2000s or 2010s, it may be a different release altogether. *Yoddha* is the best-documented early PC production story I found, not evidence that all earlier games were nonexistent.
+A very plausible answer to the remembered one-on-one fighter is [*BattleDust: The Championship*](../../stories/battledust-forgotten-indian-fighting-game/), Paradox Studios' mid-2000s 3D fighting game. Its publicity also promoted a claim to India's first 3D PC game, although *Yoddha* predates it. The two games belong to different genres and studios, and neither requires dismissing the other's place in early Indian gaming history.
 
 ## What the mechanics reveal
 
