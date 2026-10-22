@@ -576,7 +576,25 @@
     ],
     "related": [
       "why-indian-game-studios-struggle",
-      "j2me-mobile-gaming-history"
+      "j2me-mobile-gaming-history",
+      "battledust-forgotten-indian-fighting-game"
+    ]
+  },
+  {
+    "slug": "battledust-forgotten-indian-fighting-game",
+    "type": "Long read",
+    "tags": [
+      "BattleDust",
+      "Paradox Studios",
+      "Indian games",
+      "Fighting games",
+      "Game development",
+      "Gaming history",
+      "Reliance"
+    ],
+    "related": [
+      "yoddha-the-warrior-indias-early-pc-game",
+      "why-indian-game-studios-struggle"
     ]
   }
 ]
