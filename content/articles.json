@@ -529,5 +529,72 @@
       "best-ed-brubaker-comics",
       "best-brian-k-vaughan-comics"
     ]
+  },
+  {
+    "slug": "christy-marx-jem-conan-games",
+    "type": "Long read",
+    "tags": [
+      "Christy Marx",
+      "Jem",
+      "Conan",
+      "Game writing",
+      "Animation",
+      "Sierra",
+      "Tao Feng"
+    ],
+    "related": [
+      "best-jonathan-hickman-comics",
+      "mass-effect-revisited"
+    ]
+  },
+  {
+    "slug": "why-indian-game-studios-struggle",
+    "type": "Long read",
+    "tags": [
+      "Indian games",
+      "Game development",
+      "Business",
+      "Original IP",
+      "Funding",
+      "Publishing"
+    ],
+    "related": [
+      "j2me-mobile-gaming-history",
+      "what-made-elden-ring-great"
+    ]
+  },
+  {
+    "slug": "yoddha-the-warrior-indias-early-pc-game",
+    "type": "Long read",
+    "tags": [
+      "Yoddha",
+      "Indiagames",
+      "Indian games",
+      "PC gaming",
+      "Gaming history",
+      "Development"
+    ],
+    "related": [
+      "why-indian-game-studios-struggle",
+      "j2me-mobile-gaming-history",
+      "battledust-forgotten-indian-fighting-game"
+    ]
+  },
+  {
+    "slug": "battledust-forgotten-indian-fighting-game",
+    "type": "Long read",
+    "tags": [
+      "BattleDust",
+      "Paradox Studios",
+      "Indian games",
+      "Fighting games",
+      "Game development",
+      "Gaming history",
+      "Reliance"
+    ],
+    "related": [
+      "yoddha-the-warrior-indias-early-pc-game",
+      "why-indian-game-studios-struggle"
+    ]
   }
 ]
