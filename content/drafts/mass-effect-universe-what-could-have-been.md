@@ -7,7 +7,7 @@ summary: "A spy-thriller protagonist, Liara, krogan unrest and an ambition to ma
 deck: "Six years of carefully rationed clues, one verified pre-production trailer, and a studio that closed before its ambitions could become a game."
 category: "Games / Investigation"
 tags: ["Mass Effect", "Mass Effect 5", "Mass Effect Universe", "BioWare", "Liara", "Andromeda", "Game development", "RPGs"]
-related: ["mass-effect-revisited", "games-to-play-instead-of-mass-effect-5"]
+related: ["mass-effect-revisited", "best-bioware-games-ranked"]
 cover_label: "THE LOST MASS EFFECT"
 art: mass
 ---
