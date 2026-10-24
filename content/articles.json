@@ -596,5 +596,96 @@
       "yoddha-the-warrior-indias-early-pc-game",
       "why-indian-game-studios-struggle"
     ]
+  },
+  {
+    "slug": "why-dragon-age-original-trilogy-mattered",
+    "type": "Long read",
+    "tags": [
+      "Dragon Age",
+      "BioWare",
+      "Origins",
+      "Dragon Age II",
+      "Inquisition",
+      "The Veilguard",
+      "RPGs",
+      "Game design"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "why-indian-game-studios-struggle"
+    ]
+  },
+  {
+    "slug": "best-bioware-games-ranked",
+    "type": "List",
+    "tags": [
+      "BioWare",
+      "Mass Effect",
+      "Dragon Age",
+      "Baldur's Gate",
+      "Knights of the Old Republic",
+      "Jade Empire",
+      "Lists",
+      "RPGs"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "why-dragon-age-original-trilogy-mattered"
+    ]
+  },
+  {
+    "slug": "mass-effect-universe-what-could-have-been",
+    "type": "Long read",
+    "tags": [
+      "Mass Effect",
+      "Mass Effect 5",
+      "Mass Effect Universe",
+      "BioWare",
+      "Liara",
+      "Andromeda",
+      "Game development",
+      "RPGs"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "best-bioware-games-ranked"
+    ]
+  },
+  {
+    "slug": "games-to-play-instead-of-mass-effect-5",
+    "type": "List",
+    "tags": [
+      "Mass Effect",
+      "BioWare",
+      "Science fiction",
+      "The Outer Worlds 2",
+      "Rogue Trader",
+      "KOTOR",
+      "Cyberpunk 2077",
+      "Lists"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "mass-effect-universe-what-could-have-been"
+    ]
+  },
+  {
+    "slug": "best-browser-easter-eggs-hidden-games",
+    "type": "List",
+    "tags": [
+      "Easter eggs",
+      "Browser games",
+      "Apple Music",
+      "iPod",
+      "Google",
+      "Chrome",
+      "Firefox",
+      "Hidden games",
+      "Lists"
+    ],
+    "related": [
+      "retro-game-collections-worth-playing",
+      "platforming-gems-worth-revisiting"
+    ]
   }
 ]
