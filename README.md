@@ -85,6 +85,11 @@ Article files (updated by `scripts/add_article.py`):
 - why-indian-game-studios-struggle: `stories/why-indian-game-studios-struggle/index.html`
 - yoddha-the-warrior-indias-early-pc-game: `stories/yoddha-the-warrior-indias-early-pc-game/index.html`
 - battledust-forgotten-indian-fighting-game: `stories/battledust-forgotten-indian-fighting-game/index.html`
+- why-dragon-age-original-trilogy-mattered: `stories/why-dragon-age-original-trilogy-mattered/index.html`
+- best-bioware-games-ranked: `stories/best-bioware-games-ranked/index.html`
+- mass-effect-universe-what-could-have-been: `stories/mass-effect-universe-what-could-have-been/index.html`
+- games-to-play-instead-of-mass-effect-5: `stories/games-to-play-instead-of-mass-effect-5/index.html`
+- best-browser-easter-eggs-hidden-games: `stories/best-browser-easter-eggs-hidden-games/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
