@@ -6,7 +6,7 @@ description: "Revisiting Game Republic's 2005 PS2 action gem: Kamui counters, Yo
 summary: "An elegant PS2 action game whose Kamui counters made a fight feel like a carefully staged samurai film."
 category: "Games / Retrospective"
 tags: ["Genji","PlayStation 2","Game Republic","Kamui","Samurai games","Combat design","Retro games"]
-related: ["what-made-elden-ring-great","retro-game-collections-worth-playing","why-dragon-age-original-trilogy-mattered"]
+related: ["what-made-elden-ring-great","retro-game-collections-worth-playing","why-dragon-age-original-trilogy-mattered","short-satisfying-games-between-gta-vi-sessions"]
 cover_label: "SAMURAI / 2005"
 art: warcraft
 ---
