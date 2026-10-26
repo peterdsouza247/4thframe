@@ -92,6 +92,7 @@ Article files (updated by `scripts/add_article.py`):
 - best-browser-easter-eggs-hidden-games: `stories/best-browser-easter-eggs-hidden-games/index.html`
 - genji-dawn-of-the-samurai-retrospective: `stories/genji-dawn-of-the-samurai-retrospective/index.html`
 - short-satisfying-games-between-gta-vi-sessions: `stories/short-satisfying-games-between-gta-vi-sessions/index.html`
+- best-platformer-games-to-play-2026: `stories/best-platformer-games-to-play-2026/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
