@@ -687,5 +687,44 @@
       "retro-game-collections-worth-playing",
       "platforming-gems-worth-revisiting"
     ]
+  },
+  {
+    "slug": "genji-dawn-of-the-samurai-retrospective",
+    "type": "Long read",
+    "tags": [
+      "Genji",
+      "PlayStation 2",
+      "Game Republic",
+      "Kamui",
+      "Samurai games",
+      "Combat design",
+      "Retro games"
+    ],
+    "related": [
+      "what-made-elden-ring-great",
+      "retro-game-collections-worth-playing",
+      "why-dragon-age-original-trilogy-mattered",
+      "short-satisfying-games-between-gta-vi-sessions"
+    ]
+  },
+  {
+    "slug": "short-satisfying-games-between-gta-vi-sessions",
+    "type": "List",
+    "tags": [
+      "Short games",
+      "Action games",
+      "GTA VI",
+      "Onimusha",
+      "Vanquish",
+      "Sifu",
+      "Beat 'em ups",
+      "Retro games",
+      "Game recommendations"
+    ],
+    "related": [
+      "genji-dawn-of-the-samurai-retrospective",
+      "retro-game-collections-worth-playing",
+      "platforming-gems-worth-revisiting"
+    ]
   }
 ]

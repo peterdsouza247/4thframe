@@ -90,6 +90,8 @@ Article files (updated by `scripts/add_article.py`):
 - mass-effect-universe-what-could-have-been: `stories/mass-effect-universe-what-could-have-been/index.html`
 - games-to-play-instead-of-mass-effect-5: `stories/games-to-play-instead-of-mass-effect-5/index.html`
 - best-browser-easter-eggs-hidden-games: `stories/best-browser-easter-eggs-hidden-games/index.html`
+- genji-dawn-of-the-samurai-retrospective: `stories/genji-dawn-of-the-samurai-retrospective/index.html`
+- short-satisfying-games-between-gta-vi-sessions: `stories/short-satisfying-games-between-gta-vi-sessions/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
