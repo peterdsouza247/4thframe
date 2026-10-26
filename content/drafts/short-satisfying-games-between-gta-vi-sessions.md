@@ -3,7 +3,7 @@ title: "15 Short Games That Feel Great to Play Between GTA VI Sessions"
 slug: short-satisfying-games-between-gta-vi-sessions
 type: "List"
 description: "Fifteen finishable action games with irresistible combat and movement, from Onimusha and Vanquish to Sifu, Hi-Fi Rush, and Ninja Gaiden: Ragebound."
-summary: "A samurai duel, a two-hour brawler, a rocket-powered slide and fourteen other good reasons to leave the open world for a night."
+summary: "A samurai duel, a two-hour brawler, a rocket-powered slide and a dozen more reasons to leave the open world for a night."
 category: "Games / Short finishes"
 tags: ["Short games","Action games","GTA VI","Onimusha","Vanquish","Sifu","Beat 'em ups","Retro games","Game recommendations"]
 related: ["genji-dawn-of-the-samurai-retrospective","retro-game-collections-worth-playing","platforming-gems-worth-revisiting"]
