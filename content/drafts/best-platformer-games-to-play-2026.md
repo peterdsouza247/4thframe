@@ -6,7 +6,7 @@ description: "The best platformer games to play now, ranked for movement and lev
 summary: "Twenty games that remind you why a good jump, a clever level and the next checkpoint can still be irresistible."
 category: "Games / Platformers"
 tags: ["Platformers","Prince of Persia","Astro Bot","Super Mario","Celeste","Hollow Knight","Rayman","Donkey Kong","Game recommendations","2026"]
-related: ["genji-dawn-of-the-samurai-retrospective","short-satisfying-games-between-gta-vi-sessions","platforming-gems-worth-revisiting"]
+related: ["retro-game-collections-worth-playing","short-satisfying-games-between-gta-vi-sessions","platforming-gems-worth-revisiting"]
 cover_label: "THE BEST PLATFORMERS"
 art: warcraft
 ---
@@ -135,7 +135,7 @@ Joe Musashi's return in *Shinobi: Art of Vengeance* is less a retro revival than
 
 The hand-drawn look is gorgeous, but the action is what earns the animation. The game makes it enjoyable to enter a room, read the positions of several enemies and leave them regretting their decision to stand in a straight line. Some stages ask for serious platforming precision as well; others invite exploration and later revisits. Sega [confirmed the August 2025 release and available platforms](https://www.sega.co.jp/en/release/250829_1.html).
 
-*Shinobi* has more combat emphasis than Mario or Celeste, and its busier fights can obscure the elegance of its traversal. For someone who enjoyed the fighting in [*Genji: Dawn of the Samurai*](../../stories/genji-dawn-of-the-samurai-retrospective/), though, this may be the most immediately satisfying recommendation after *The Lost Crown*.
+*Shinobi* has more combat emphasis than Mario or Celeste, and its busier fights can obscure the elegance of its traversal. If you enjoy acrobatic swordplay as much as demanding jumps, though, this is one of the most satisfying picks here after *The Lost Crown*.
 
 ## 12. Neon White — the best shortcut is the one you invent
 
