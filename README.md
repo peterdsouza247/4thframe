@@ -93,6 +93,11 @@ Article files (updated by `scripts/add_article.py`):
 - genji-dawn-of-the-samurai-retrospective: `stories/genji-dawn-of-the-samurai-retrospective/index.html`
 - short-satisfying-games-between-gta-vi-sessions: `stories/short-satisfying-games-between-gta-vi-sessions/index.html`
 - best-platformer-games-to-play-2026: `stories/best-platformer-games-to-play-2026/index.html`
+- jojo-bizarre-adventure-watch-guide-spoiler-recaps: `stories/jojo-bizarre-adventure-watch-guide-spoiler-recaps/index.html`
+- samurai-x-rurouni-kenshin-1996-retrospective: `stories/samurai-x-rurouni-kenshin-1996-retrospective/index.html`
+- saber-rider-star-sheriffs-retrospective: `stories/saber-rider-star-sheriffs-retrospective/index.html`
+- conan-the-adventurer-cartoon-retrospective: `stories/conan-the-adventurer-cartoon-retrospective/index.html`
+- double-dragon-1993-cartoon-retrospective: `stories/double-dragon-1993-cartoon-retrospective/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`

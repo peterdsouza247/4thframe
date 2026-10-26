@@ -747,5 +747,85 @@
       "short-satisfying-games-between-gta-vi-sessions",
       "platforming-gems-worth-revisiting"
     ]
+  },
+  {
+    "slug": "jojo-bizarre-adventure-watch-guide-spoiler-recaps",
+    "type": "Long read",
+    "tags": [
+      "JoJo's Bizarre Adventure",
+      "Anime guides",
+      "Watch order",
+      "Spoiler-free",
+      "Steel Ball Run",
+      "Hirohiko Araki"
+    ],
+    "related": [
+      "why-heroes-is-still-worth-watching",
+      "why-pantheons-ai-story-feels-so-personal"
+    ]
+  },
+  {
+    "slug": "samurai-x-rurouni-kenshin-1996-retrospective",
+    "type": "Long read",
+    "tags": [
+      "Samurai X",
+      "Rurouni Kenshin",
+      "Kenshin Himura",
+      "Kyoto Arc",
+      "1990s Anime",
+      "Anime retrospectives"
+    ],
+    "related": [
+      "jojo-bizarre-adventure-watch-guide-spoiler-recaps",
+      "why-heroes-is-still-worth-watching"
+    ]
+  },
+  {
+    "slug": "saber-rider-star-sheriffs-retrospective",
+    "type": "Long read",
+    "tags": [
+      "Saber Rider",
+      "Star Musketeer Bismarck",
+      "1980s Cartoons",
+      "Mecha",
+      "Space western",
+      "Animated TV"
+    ],
+    "related": [
+      "samurai-x-rurouni-kenshin-1996-retrospective",
+      "why-heroes-is-still-worth-watching"
+    ]
+  },
+  {
+    "slug": "conan-the-adventurer-cartoon-retrospective",
+    "type": "Long read",
+    "tags": [
+      "Conan the Adventurer",
+      "Conan",
+      "Christy Marx",
+      "1990s Cartoons",
+      "Sword and sorcery",
+      "Animation"
+    ],
+    "related": [
+      "christy-marx-jem-conan-games",
+      "saber-rider-star-sheriffs-retrospective"
+    ]
+  },
+  {
+    "slug": "double-dragon-1993-cartoon-retrospective",
+    "type": "Long read",
+    "tags": [
+      "Double Dragon",
+      "Billy Lee",
+      "Jimmy Lee",
+      "1990s Cartoons",
+      "Video game adaptations",
+      "Animation"
+    ],
+    "related": [
+      "conan-the-adventurer-cartoon-retrospective",
+      "retro-game-collections-worth-playing"
+    ]
   }
 ]
