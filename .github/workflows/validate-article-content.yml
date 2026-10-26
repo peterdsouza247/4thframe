@@ -30,15 +30,6 @@ jobs:
           python3 scripts/add_article.py content/drafts/mass-effect-universe-what-could-have-been.md
           python3 scripts/add_article.py content/drafts/games-to-play-instead-of-mass-effect-5.md
           python3 scripts/add_article.py content/drafts/best-browser-easter-eggs-hidden-games.md
-      - name: Publish TV and anime batch using native script
-        if: github.event_name == 'push' && github.ref_name == 'editorial/jojo-samurai-x-classic-animation-2026' && github.actor != 'github-actions[bot]'
-        run: |
-          python3 scripts/add_article.py content/drafts/jojo-bizarre-adventure-watch-guide-spoiler-recaps.md --dry-run
-          python3 scripts/add_article.py content/drafts/jojo-bizarre-adventure-watch-guide-spoiler-recaps.md
-          python3 scripts/add_article.py content/drafts/samurai-x-rurouni-kenshin-1996-retrospective.md
-          python3 scripts/add_article.py content/drafts/saber-rider-star-sheriffs-retrospective.md
-          python3 scripts/add_article.py content/drafts/conan-the-adventurer-cartoon-retrospective.md
-          python3 scripts/add_article.py content/drafts/double-dragon-1993-cartoon-retrospective.md
       - name: Rebuild article metadata, search, and guides
         run: python3 scripts/build_content.py
       - name: Run article rendering tests
@@ -46,7 +37,7 @@ jobs:
       - name: Check whitespace
         run: git diff --check
       - name: Commit regenerated tracked files to editorial branch
-        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026' || (github.ref_name == 'editorial/jojo-samurai-x-classic-animation-2026' && github.actor != 'github-actions[bot]'))
+        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026')
         shell: bash
         run: |
           git add -A
