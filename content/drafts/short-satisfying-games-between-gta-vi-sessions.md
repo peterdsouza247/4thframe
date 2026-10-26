@@ -6,7 +6,7 @@ description: "Fifteen finishable action games with irresistible combat and movem
 summary: "A samurai duel, a two-hour brawler, a rocket-powered slide and a dozen more reasons to leave the open world for a night."
 category: "Games / Short finishes"
 tags: ["Short games","Action games","GTA VI","Onimusha","Vanquish","Sifu","Beat 'em ups","Retro games","Game recommendations"]
-related: ["genji-dawn-of-the-samurai-retrospective","retro-game-collections-worth-playing","platforming-gems-worth-revisiting"]
+related: ["best-platformer-games-to-play-2026","retro-game-collections-worth-playing","platforming-gems-worth-revisiting"]
 cover_label: "THE SHORT LIST"
 art: warcraft
 ---
@@ -15,7 +15,7 @@ The trouble with a vast open-world game is that, after a while, everything start
 
 *Grand Theft Auto VI* is due on November 19, 2026, with Rockstar promising a return to Vice City and the surrounding state of Leonida. We don't yet know how its moment-to-moment play will hold up over dozens of hours. But we know the sort of effect a huge Rockstar release can have on a calendar. Sometimes the sensible response is to play something with a beginning, a middle, an ending and a combat system that makes the next half-hour worth having.
 
-This list grew out of [revisiting *Genji: Dawn of the Samurai*](../../stories/genji-dawn-of-the-samurai-retrospective/), the 2005 PlayStation 2 game that made something as simple as timing a counterattack feel like participating in a sword-fighting scene. *Genji* was a modest, imperfect adventure that was unusually good at making its player look and feel graceful. There are plenty of games that pursue a similar pleasure without taking fifty hours to explain themselves.
+These aren't games to clear off an ever-growing backlog. They're games that make one particular action feel irresistible: a perfectly judged counter, a rocket-powered slide, a flying kick into a table, an entire room solved in four seconds. Most can be finished over a weekend, several in a single sitting. None needs a hundred-hour commitment before its central pleasure becomes clear.
 
 The selection is deliberately varied. Some are sword-fighting games. Others are shooters, brawlers and even a playable pop record. All have a finish line; none demands an endless daily login to see its central ideas. A few are difficult enough to take much longer than their nominal story length, so the warnings matter as much as the estimates.
 
@@ -25,13 +25,13 @@ The selection is deliberately varied. Some are sword-fighting games. Others are 
 
 ## 1. Onimusha: Warlords — four to five hours
 
-**Best starting point if you loved Genji.**
+**Best for old-school swordplay and perfectly timed counters.**
 
 You arrive at a castle as Samanosuke Akechi, with a sword, a gauntlet capable of absorbing souls and a great many demons making a nuisance of themselves. *Onimusha* is *Resident Evil*'s exploration structure made considerably more aggressive. The corridors and fixed camera angles will be familiar to anyone who remembers survival horror of the period, but an encounter ends with someone swinging a blade rather than counting scarce bullets.
 
 The genius of the combat lies in **Issen**, a precisely timed counterstrike that can end a fight with almost insulting efficiency. It shares some of Kamui's underlying appeal: waiting for danger to arrive is sometimes more satisfying than attacking first. Outside battle there are light puzzles, keys, weapon upgrades and a wonderfully specific atmosphere of haunted feudal Japan. Capcom's [2019 remaster](https://blog.playstation.com/2018/08/28/ps2-classic-onimusha-warlords-comes-to-ps4-january-15-2019/) offers modern analog movement and an accessible difficulty option alongside the original fixed-camera design.
 
-It is not as immediately fluid as *Genji*. Backtracking and old-fashioned navigation can irritate, and Issen asks for more precise timing than the casual player may expect. But if you want another PS2-era samurai adventure that knows when to end, it is the closest match on this list. [A contemporary assessment of the remaster](https://www.pushsquare.com/reviews/ps4/onimusha_warlords) makes much the same case for its brevity.
+It is not as immediately fluid as a modern character-action game. Backtracking and old-fashioned navigation can irritate, and Issen demands exact timing. But the castle's mix of sharp swordplay, light puzzles and supernatural atmosphere remains immensely satisfying, particularly when a successful counter clears the path in an instant. [A contemporary assessment of the remaster](https://www.pushsquare.com/reviews/ps4/onimusha_warlords) makes much the same case for its brevity.
 
 ## 2. En Garde! — three to four hours
 
@@ -41,7 +41,7 @@ There is a chair near a guard. Throw it. There is a table between you and a swor
 
 *En Garde!* understands that the best swashbuckling fights are rarely about two immaculate duelists politely fencing until one wins. They involve props, evasions, insults, interruptions and somebody finding a deeply undignified way to fall over. As Adalia de Volador, you parry attacks, kick enemies into obstacles and exploit the furniture of delightfully bright Spanish-inspired spaces. Once it clicks, an ordinary arena becomes a miniature stage on which you improvise your own fencing comedy.
 
-The game has four episodes and very little interest in pretending they need to last twenty hours. The [PC Gamer review](https://www.pcgamer.com/en-garde-review/) found its jokes uneven and finished it in under four hours. Those are fair caveats. When the combat and environmental mischief work together, though, this is arguably the purest modern expression of the same playable-choreography instinct that made *Genji* special.
+The game has four episodes and very little interest in pretending they need to last twenty hours. The [PC Gamer review](https://www.pcgamer.com/en-garde-review/) found its jokes uneven and finished it in under four hours. Those are fair caveats. When combat and environmental mischief work together, though, the result is a rare feeling of directing your own swashbuckling scene.
 
 ## 3. Vanquish — five to seven hours
 
@@ -87,7 +87,7 @@ A samurai enters a cramped nightclub full of guards, flies through a door and cu
 
 That is the peculiar brilliance of *Katana ZERO*. The game lets you manipulate time and plan moves, but almost every successful encounter looks like an impossible improvisation. You work out where a bullet will travel, which guard must die first and how a thrown object can create the fraction of a second you need. Each stage is a small, violent puzzle that becomes cinema when solved.
 
-Unlike *Genji*, it is a side-scroller built around instant death and retries. Success feels good because you remember exactly how many times it went wrong. Its neo-noir story is also unusually absorbing, though the [GameSpot review](https://www.gamespot.com/reviews/katana-zero-review-slow-motion-for-me/1900-6417126/) rightly warned that the roughly four-hour original campaign ends on an unresolved note.
+This side-scroller is built around instant death and quick retries. Success feels good because you remember exactly how many times it went wrong. Its neo-noir story is also unusually absorbing, though the [GameSpot review](https://www.gamespot.com/reviews/katana-zero-review-slow-motion-for-me/1900-6417126/) rightly warned that the roughly four-hour original campaign ends on an unresolved note.
 
 If you enjoy mastery without an hour-long penalty for every mistake, *Katana ZERO* respects your time even when it sends you back to the beginning of a room.
 
@@ -119,7 +119,7 @@ Its obstacle is the same thing that makes it excellent: everything depends on le
 
 **Best for players who want to earn their kung fu.**
 
-*Genji* allowed a modestly skilled player to perform astonishing sword techniques. *Sifu* is more demanding. It wants you to learn how a fighting scene works, and it will happily knock you down until you do.
+In *Sifu*, learning to fight is the adventure. It wants you to learn how a fighting scene works, and it will happily knock you down until you do.
 
 You fight through five compact levels, countering, dodging, throwing opponents, using furniture and turning enemy weapons against their owners. The ageing mechanic changes what each death costs you, but the real progression takes place in your hands. Eventually a crowded corridor that felt impossible becomes a sequence of deliberate movements. The player has changed even though the room has not.
 
@@ -147,7 +147,7 @@ The Game Kitchen, the Spanish studio behind *Blasphemous*, brought *Ninja Gaiden
 
 Kenji slices through most ordinary enemies with a single well-timed strike. His Guillotine Boost turns enemies and projectiles into platforms, while the later partnership with Kumori expands the ways he can attack at range. Hypercharge lets you chain a specially empowered blow into tougher foes. A good run feels like the entire level has become one long, uninterrupted sword movement.
 
-This is why the game belongs beside *Genji*. A manageable number of actions, used in lively combinations, can feel more expressive than a moves list the size of an instruction manual. [Push Square praised its responsiveness and encounter design](https://www.pushsquare.com/reviews/ps5/ninja-gaiden-ragebound), while reviewers differed on length: [PC Gamer described a seven-hour campaign](https://www.pcgamer.com/games/action/ninja-gaiden-ragebound-review/) and [Game Informer spent roughly twelve](https://gameinformer.com/review/ninja-gaiden-ragebound/a-retro-revelation).
+*Ragebound* proves that a manageable number of actions, used in lively combinations, can feel more expressive than a moves list the size of an instruction manual. [Push Square praised its responsiveness and encounter design](https://www.pushsquare.com/reviews/ps5/ninja-gaiden-ragebound), while reviewers differed on length: [PC Gamer described a seven-hour campaign](https://www.pcgamer.com/games/action/ninja-gaiden-ragebound-review/) and [Game Informer spent roughly twelve](https://gameinformer.com/review/ninja-gaiden-ragebound/a-retro-revelation).
 
 It becomes challenging, especially near the end. But the stages are finite, the controls are excellent and there's no need to embark on a giant action RPG just to enjoy a thrilling sword fight.
 
@@ -183,7 +183,7 @@ The original *Devil May Cry* is twenty-five years old, and you can feel it. Its 
 
 Yet the underlying combat remains gloriously readable. Launch an enemy with your sword, keep it suspended with gunfire, change position and bring the sword down. It was the beginning of a style of action design in which the *way* you defeated an enemy mattered as much as the victory itself.
 
-That makes the first game a useful historical companion to *Genji*. One emphasises performative combinations and player expression; the other makes a timed cinematic counter the dramatic focus. Both find remarkable satisfaction in simple inputs interacting with animation.
+That makes the first game a useful starting point for the history of stylish combat. It prizes combinations and player expression, with simple inputs interacting with precise animation. Those ideas would eventually evolve into the elaborate systems of later *Devil May Cry* games.
 
 The [HD Collection review at GameSpot](https://www.gamespot.com/reviews/devil-may-cry-hd-collection-review/1900-6370301/) found the original's action still crisp, while acknowledging the awkwardness of older cameras and systems. Expect a compact but not entirely forgiving adventure. The first game is available in modern re-releases; you do not need to complete the whole series or its sequels to appreciate how the idea started.
 
@@ -201,7 +201,7 @@ The controls occasionally lack the exactness of a truly great rhythm game, and s
 
 ## Which one should you play first?
 
-If you only want the **closest thing to Genji**, start with *Onimusha: Warlords*. Its swordplay, historical-fantasy atmosphere and brief campaign belong to the same lineage. Choose *En Garde!* when you want the physical pleasure of combat without old-console stiffness; it is probably the most immediately playful game here.
+If you want **cinematic swordplay in a compact adventure**, start with *Onimusha: Warlords*. Its historical-fantasy atmosphere, precise counters and brief campaign make it the closest thing here to an old-school samurai film. Choose *En Garde!* when you want the physical pleasure of combat without old-console stiffness; it is probably the most immediately playful game here.
 
 For an extraordinary sense of control, pick *Vanquish*, *Rollerdrome* or *Katana ZERO*: each makes movement and violence part of one flowing action. If you want a bigger performance, *Metal Gear Rising* is the loudest and *Hi-Fi Rush* the happiest. If you're craving a test of skill, try *Furi*, *Sifu* or *Ninja Gaiden: Ragebound*, with the understanding that getting good may take longer than the campaign itself.
 
