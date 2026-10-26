@@ -37,7 +37,7 @@ jobs:
       - name: Check whitespace
         run: git diff --check
       - name: Commit regenerated tracked files to editorial branch
-        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026')
+        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026' || (github.ref_name == 'editorial/standalone-short-games-platformers' && github.actor != 'github-actions[bot]'))
         shell: bash
         run: |
           git add -A
