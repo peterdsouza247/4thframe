@@ -6,7 +6,7 @@ description: "A spoiler-safe Gundam watch guide: best starting series, Universal
 summary: "Pick a Gundam by the story you want, not by the number of decades you've missed."
 category: "Anime / Viewing guide"
 tags: ["Gundam","Anime guides","Watch order","Universal Century","Mecha","Spoiler-free","The Witch from Mercury"]
-related: ["jojo-bizarre-adventure-watch-guide-spoiler-recaps","naruto-anime-watch-guide-filler-recaps"]
+related: ["jojo-bizarre-adventure-watch-guide-spoiler-recaps","samurai-x-rurouni-kenshin-1996-retrospective"]
 cover_label: "THE GUNDAM FIELD GUIDE"
 art: pantheon
 section: "Screen"
