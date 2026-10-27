@@ -861,5 +861,142 @@
       "jojo-bizarre-adventure-watch-guide-spoiler-recaps",
       "gundam-anime-watch-order-beginners-guide"
     ]
+  },
+  {
+    "slug": "dragon-age-veilguard-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Dragon Age",
+      "BioWare",
+      "RPGs"
+    ],
+    "related": [
+      "why-dragon-age-original-trilogy-mattered",
+      "best-bioware-games-ranked"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "jedi-survivor-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Star Wars",
+      "Jedi Survivor",
+      "Action adventure"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "telltales-batman-reinvention"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "mass-effect-legendary-edition-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Mass Effect",
+      "BioWare",
+      "RPGs"
+    ],
+    "related": [
+      "mass-effect-revisited",
+      "games-to-play-instead-of-mass-effect-5"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "elden-ring-personal-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Elden Ring",
+      "FromSoftware",
+      "Open worlds",
+      "RPGs"
+    ],
+    "related": [
+      "what-made-elden-ring-great",
+      "mass-effect-revisited"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "batman-arkham-asylum-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Batman",
+      "Arkham",
+      "Action adventure"
+    ],
+    "related": [
+      "telltales-batman-reinvention",
+      "house-of-x-powers-of-x-review"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "tomb-raider-2013-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Tomb Raider",
+      "Action adventure",
+      "Exploration"
+    ],
+    "related": [
+      "jedi-survivor-review",
+      "genji-dawn-of-the-samurai-retrospective"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "halo-reach-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Halo",
+      "Xbox",
+      "Shooter"
+    ],
+    "related": [
+      "halo-starting-over",
+      "replay-warcraft-iii-campaigns"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "mortal-kombat-11-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "Mortal Kombat",
+      "Fighting games",
+      "NetherRealm"
+    ],
+    "related": [
+      "warcraft-iii-heroes",
+      "best-bioware-games-ranked"
+    ],
+    "published": "2026-10-27"
+  },
+  {
+    "slug": "god-of-war-2018-review",
+    "type": "Long read",
+    "tags": [
+      "Reviews",
+      "God of War",
+      "PlayStation",
+      "Norse mythology",
+      "Action adventure"
+    ],
+    "related": [
+      "elden-ring-personal-review",
+      "jedi-survivor-review"
+    ],
+    "published": "2026-10-27"
   }
 ]
