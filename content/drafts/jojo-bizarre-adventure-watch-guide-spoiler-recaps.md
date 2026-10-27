@@ -1,0 +1,163 @@
+---
+title: "How to Watch JoJo's Bizarre Adventure Without Losing Your Mind"
+slug: jojo-bizarre-adventure-watch-guide-spoiler-recaps
+type: "Long read"
+description: "A spoiler-safe JoJo anime guide with episode counts, watch order, starting points and closed recap panels for each animated Part through Steel Ball Run."
+summary: "Seven very different adventures, one family name, and recaps you can open only when you're ready."
+category: "Anime / Viewing guide"
+tags: ["JoJo's Bizarre Adventure","Anime guides","Watch order","Spoiler-free","Steel Ball Run","Hirohiko Araki"]
+related: ["why-heroes-is-still-worth-watching","why-pantheons-ai-story-feels-so-personal"]
+cover_label: "THE JOJO FIELD GUIDE"
+art: pantheon
+section: "Screen"
+---
+
+There are two ways to frighten somebody away from *JoJo's Bizarre Adventure*. The first is to show them a picture of a heavily muscled man posing as though he has just heard the best bass line in history. The second is to announce that catching up requires nearly two hundred episodes.
+
+Both approaches miss the point. *JoJo* is not one plot that needs almost two hundred episodes to finish a sentence. It is a family saga told in **Parts**, each with a different leading JoJo, a new setting, fresh supporting characters and, increasingly, its own set of rules for supernatural combat. One part plays like Gothic horror; another is a road movie; another resembles a murder mystery in a deceptively ordinary town. You can take a break between them without abandoning a cliffhanger every week.
+
+This guide is designed for viewers who want the story without the homework. First comes **what you need to know without spoilers**: where to begin, which episodes to watch and what sort of series each Part becomes. Beneath each description is a **closed recap** intended for people who have actually finished that Part and want a reminder before starting the next one. The recaps deliberately reveal major outcomes and relationships. Do not open them early.
+
+It is also a living guide. **As of October 26, 2026, the *Steel Ball Run* anime is still airing weekly.** Its recap therefore stops at its introductory stage rather than pretending the full manga story has already appeared on television. The [official anime site](https://jojo-portal.com/en/anime/sbr/streaming/) lists the first 47-minute episode and the weekly 11-episode block that began September 25, 2026.
+
+[TOC]
+
+## Before you start: what is a JoJo?
+
+JoJo is a nickname applied to different protagonists whose names generally contain the syllable *Jo*. Hirohiko Araki began the manga in 1986, but the modern televised adaptations most newcomers want start in **2012**. The simplest route is to follow Parts 1 through 6 in numerical order and then approach Part 7, *Steel Ball Run*, as the beginning of a different continuity.
+
+There are two major kinds of powers. Parts 1 and 2 use **Hamon**, an energy technique produced through controlled breathing; Part 3 introduces **Stands**, supernatural manifestations with rules and abilities that can be anything from straightforward brute strength to a nearly abstract conceptual trick. The pleasure of later *JoJo* is often watching characters solve a lethal puzzle by interpreting the rules better than an opponent. The enemy's strength is almost less important than finding what they can and cannot do.
+
+For a first viewing, ignore the old **1993 and 2000 OVAs**, which adapt pieces of Part 3, and the rarely seen **2007 *Phantom Blood* film**. They are historical curiosities, not required homework. The four *Thus Spoke Kishibe Rohan* episodes are a worthwhile but optional Part 4 spinoff and belong *after* meeting Rohan.
+
+You do not need a spreadsheet. You need the next Part and permission to stop after it.
+
+## Part 1: Phantom Blood — 9 episodes
+
+**Start with:** *JoJo's Bizarre Adventure* (2012), episodes 1–9. **Setting:** Victorian England. **The JoJo:** Jonathan Joestar. **Mood:** Gothic revenge melodrama.
+
+This is the foundation. Jonathan is principled almost to a fault; Dio Brando, brought into the Joestar home, treats another person's decency as something to exploit. The series establishes the family conflict and a supernatural threat in just nine episodes. Its characters shout, weep, swear oaths and fight like figures in an operatic stage play. That's a feature, not a mistake.
+
+It can also feel blunt beside the later Parts. Araki's world has not yet developed the wild ingenuity of Stands, and the plot is less subtle than the show's reputation might suggest. But nine episodes is an unusually reasonable price for understanding where this strange saga began.
+
+:::spoilers Completed Part 1? Open the full recap
+
+Dio's abuse of Jonathan begins as an attempt to steal his place in the family and evolves into murder and supernatural transformation. The mysterious stone mask turns Dio into a vampire. Jonathan learns the breathing technique Hamon from Will A. Zeppeli and, with Robert E. O. Speedwagon's support, confronts Dio and his undead followers. Zeppeli dies helping Jonathan; Dio apparently falls after their climactic battle, but survives as a severed head.
+
+Jonathan marries Erina Pendleton. Dio returns aboard the ship carrying the newlyweds and tries to steal Jonathan's body. Jonathan dies holding Dio as the ship is destroyed, while Erina escapes with an infant she rescued. Jonathan's victory is moral rather than personal: he protects the next generation, but the Joestar family's feud survives him.
+
+:::
+
+## Part 2: Battle Tendency — 17 episodes
+
+**Continue with:** the same 2012 series, episodes 10–26. **Setting:** the 1930s, across several countries. **The JoJo:** Joseph Joestar. **Mood:** globetrotting adventure and outrageous trickery.
+
+Joseph is an excellent reward for completing Jonathan's solemn story. Where his grandfather favoured honourable confrontation, Joseph lies, bluffs, taunts and turns every fight into a game of misdirection. The antagonists, the Pillar Men, expand the mythology of the stone masks into something older and more dangerous.
+
+This is the first Part I'd recommend to someone unconvinced by the tone of the opening. It remains sequentially important, yet suddenly discovers a taste for inventive reversals. Watch Joseph's eyes: victory often begins with him noticing a detail everyone else missed.
+
+:::spoilers Completed Part 2? Open the full recap
+
+Joseph and Caesar Zeppeli train their Hamon abilities under Lisa Lisa as the Pillar Men—Wamuu, Esidisi and Kars—attempt to gain a perfect power through the Red Stone of Aja. Caesar dies fighting Wamuu, leaving Joseph the determination to finish their contest. Joseph later defeats Wamuu and survives Kars, who becomes an Ultimate Life Form immune to conventional harm.
+
+Through an extravagant chain of luck, invention and a volcanic eruption, Joseph sends Kars into space, where he drifts helplessly and eventually stops thinking. Lisa Lisa is revealed to be Joseph's mother. Joseph survives and eventually marries Suzi Q. The supernatural threats seem dealt with, but the family's connection to Dio remains unfinished.
+
+:::
+
+## Part 3: Stardust Crusaders — 48 episodes
+
+**Watch:** *Stardust Crusaders* (24 episodes, 2014), followed by *Battle in Egypt* (24 episodes, 2015). **Setting:** an international journey from Japan towards Egypt. **The JoJo:** Jotaro Kujo. **Mood:** road trip, monster-of-the-week and friendship under pressure.
+
+Here is the biggest change in the early franchise. **Stands replace Hamon as the main battle language.** Jotaro travels with a group whose powers and personalities clash almost as often as they cooperate. The episodic structure lets the series try dozens of strange ideas, with battles determined by observation and teamwork rather than merely punching harder.
+
+Forty-eight episodes is a substantial jump, and this is where some viewers feel the repetition. If the journey becomes tiring, watching two or three episodes at a time is sensible. The camaraderie steadily earns its weight, especially once the travellers realise how much they have come to depend on one another.
+
+:::spoilers Completed Part 3? Open the full recap
+
+Dio, now occupying Jonathan's body, has returned. The link to him awakens Stands within the Joestar family and endangers Holly, Jotaro's mother. Jotaro joins Joseph, Avdol, Kakyoin, Polnareff and later Iggy on a journey to Egypt to end Dio's threat before Holly dies.
+
+They confront a succession of Stand users whose attacks conceal strange rules. Avdol and Iggy die during the final assault, and Kakyoin sacrifices himself to uncover the most dangerous fact about Dio's Stand, The World: it can stop time. Jotaro discovers that Star Platinum can also act during stopped time and defeats Dio. Holly recovers, and the surviving travellers part after a journey that has made their friendship more important than any single victory.
+
+:::
+
+## Part 4: Diamond Is Unbreakable — 39 episodes
+
+**Watch:** *Diamond Is Unbreakable* (2016). **Setting:** Morioh, a fictional Japanese town in 1999. **The JoJo:** Josuke Higashikata. **Mood:** small-town mystery, eccentric comedy and creeping horror.
+
+If the endless travel of Part 3 exhausted you, Morioh is a refreshing reversal. Characters have homes, classmates, shops and petty disputes. Strange Stand abilities turn ordinary places into traps. The cast's relationships deepen because everyone keeps running into one another.
+
+Part 4 is where the franchise's interest in *people* becomes especially convincing. Josuke is a warmer protagonist than Jotaro; Koichi gradually gains confidence; Okuyasu provides comic loyalty; Rohan Kishibe is both insufferable and irresistible to watch. Beneath the humour lies a mystery that turns familiar streets into frightening territory.
+
+:::spoilers Completed Part 4? Open the full recap
+
+Josuke and his friends discover that Morioh contains numerous Stand users, some created by a mysterious arrow. Koichi learns to command his developing Stand; Okuyasu becomes a loyal ally after losing his brother; Rohan, initially an antagonist, becomes an abrasive member of the wider group.
+
+The central threat is Yoshikage Kira, a serial killer who wants a quiet life and murders women while collecting their hands. Kira steals another man's identity and tries to evade discovery using Killer Queen and its extraordinary abilities, including Bites the Dust. Hayato, the son of the man Kira impersonates, helps expose him. The townspeople's combined efforts finally bring Kira down, while Morioh remains a place where ordinary life and supernatural danger will always overlap.
+
+:::
+
+## Part 5: Golden Wind — 39 episodes
+
+**Watch:** *Golden Wind* (2018–19). **Setting:** Italy. **The JoJo:** Giorno Giovanna. **Mood:** crime thriller, loyalty and betrayal.
+
+*Golden Wind* is a story about a criminal organisation in which almost everybody looks as though they walked out of a high-fashion magazine during a power outage. Giorno wants to change the gang from within, and his companions are some of the best in the franchise: Bucciarati's makeshift family has rules, quarrels and an almost desperate affection for one another.
+
+The Stand fights now become genuinely elaborate puzzles. Not every solution is elegant, and the explanations sometimes flirt with absurdity, but the dramatic stakes are sharper because an organisation can punish anyone who breaks its code. Where Part 4 made you care about a town, Part 5 makes you care about a team.
+
+:::spoilers Completed Part 5? Open the full recap
+
+Giorno joins Bucciarati's team in the organisation Passione with the intention of overturning its corrupt leadership. Ordered to protect the boss's daughter Trish, the team discovers that the boss intends to kill her to erase evidence of his identity. Bucciarati rebels; the team becomes fugitives hunted by powerful Stand users.
+
+The boss is Diavolo, whose King Crimson can erase spans of perceived time. The struggle becomes a race for a Stand-enhancing Arrow. Several members die, and Bucciarati's survival after an earlier fatal wound is revealed to be temporary. Giorno's Gold Experience evolves into Gold Experience Requiem, whose power prevents Diavolo from reaching the consequences of his actions. Giorno replaces him as the head of Passione, inheriting a criminal empire he hopes to reform.
+
+:::
+
+## Part 6: Stone Ocean — 38 episodes
+
+**Watch:** *Stone Ocean* (Netflix, released in three batches during 2021–22). **Setting:** a Florida prison and beyond. **The JoJo:** Jolyne Cujoh. **Mood:** prison thriller, desperation and questions about fate.
+
+Jolyne begins as a young woman trapped in a system that is difficult to understand and harder to escape. Her Stand, Stone Free, can unravel her body into string, producing fights that reward ingenuity and a keen eye for physical space. The prison setting initially gives *JoJo* a tighter sense of confinement than usual.
+
+It is also the Part that asks most directly what generations of sacrifice have meant. Do not read explanations of how it ends before you watch it. The ending matters far beyond the immediate battle, and searching for the answer will spoil something the show has worked towards for decades.
+
+:::spoilers Completed Part 6? Open the full recap
+
+Jolyne is framed and imprisoned. She discovers that the prison chaplain Enrico Pucci is working towards a plan inherited from Dio: a transformed universe in which people's fates are known in advance. Pucci steals the Stand and memory discs of Jotaro, forcing Jolyne and her companions to recover them.
+
+With allies including Ermes, Emporio, Weather Report and Anasui, Jolyne fights increasingly bizarre opponents. Pucci evolves his Stand into Made in Heaven, accelerating time to bring about a new universe. The conflict kills Jotaro, Jolyne and several companions. Emporio survives, uses Weather Report's Stand to defeat Pucci and encounters counterparts of his friends in a world freed from Pucci's design. This is a decisive ending to the original sequence of Joestar generations, not a conventional cliffhanger for the next season.
+
+:::
+
+## Part 7: Steel Ball Run — airing in 2026
+
+**Watch:** *Steel Ball Run* on Netflix. **Status on October 26, 2026:** the 47-minute *1st STAGE* premiered March 19; a further **11 episodes** have been scheduled weekly from September 25. **Setting:** nineteenth-century America. **Leads:** Johnny Joestar and Gyro Zeppeli. **Mood:** western, sports adventure and a dangerous contest with hidden rules.
+
+This is both a Part 7 and a remarkably approachable fresh start. It unfolds in a **different continuity**, with new versions of certain ideas and names. Johnny is a former star jockey whose life has unravelled; Gyro is a mysterious competitor with an unusual technique. The premise is a transcontinental horse race. As with the best *JoJo*, the bizarre becomes convincing because the characters take the rules very seriously.
+
+There is no need to wait until you've completed all 190 previous episodes merely to sample the premise, though you'll appreciate the wider franchise more if you follow the earlier route. Be careful with manga discussions: the complete *Steel Ball Run* story exists on the page, and manga spoilers travel much farther than this still-airing adaptation.
+
+:::spoilers Watched the 1st STAGE? Open the introductory recap only
+
+The story begins with the extraordinary Steel Ball Run horse race across America. Johnny Joestar, a former jockey who can no longer walk, encounters Gyro Zeppeli and discovers that the strange Spin technique he uses has an effect on Johnny's body. The possibility of regaining agency makes the race far more personal to Johnny than a contest for prize money. The riders gather, rival competitors emerge, and the opening stage establishes the rules and ambitions that will drive their hazardous journey.
+
+This deliberately stops at the **premiere's setup**. It is not a summary of the entire manga, the 11-episode release block, or the outcome of the race. We'll expand it once the currently airing adaptation has finished its announced episodes.
+
+:::
+
+## What about Parts 8 and 9?
+
+*JoJolion* (Part 8) is a completed manga arc, and *The JOJOLands* (Part 9) remains a manga series. Neither has an announced completed TV anime adaptation as of this guide's date. Resist anyone who insists you need to read ahead to enjoy the televised material.
+
+Similarly, the *Thus Spoke Kishibe Rohan* animated stories are an optional detour after Part 4, not a missing bridge between Parts 4 and 5. *JoJo* is already strange enough without turning every adjacent project into mandatory viewing.
+
+## The sensible viewing plan
+
+If you're curious rather than committed, watch **the first nine episodes** and decide whether Araki's extravagant idea of family tragedy appeals to you. Finish **Part 2** if you want to see how quickly his approach changes. Then watch one Part at a time and treat each ending as a legitimate stopping point.
+
+If the question is **"which Part sounds most like my kind of show?"**, the answer is easy: Gothic tragedy (1), clever globe-trotting adventure (2), team road movie (3), small-town mystery (4), gangster drama (5), prison and fate thriller (6), or American western race (7). Starting with Part 4 or Part 7 is possible; the recommended route still makes the family history richer.
+
+Keep this page bookmarked. The recap panels are there to remind you who survived, how an ability worked, or why the next story matters—not to make a sprawling and eccentric series feel like an exam you are already failing.
+
+## Research notes
+
+The numerical route follows the [official JoJo anime portal](https://jojo-portal.com/) and the [official Steel Ball Run streaming schedule](https://jojo-portal.com/en/anime/sbr/streaming/). [Netflix's December 2025 announcement](https://about.netflix.com/en/news/global-anime-hits-and-new-releases-take-center-stage-at-jump-festa-2026) gives the March 19 first-stage launch; its [July 2026 update](https://about.netflix.com/en/news/anime-expo-2026) confirms eleven weekly episodes from September 25. An [independent episode-order cross-check](https://orderofanime.com/guide/jojo) verifies the 26/48/39/39/38 counts for Parts 1–6 and the optional Rohan OVAs. Recaps summarise animated material, not hypothetical future episodes; all major reveals are inside closed spoiler panels. Availability outside Netflix varies by territory, so check regional catalogues rather than relying on subscription assumptions.
