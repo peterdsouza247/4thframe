@@ -41,7 +41,7 @@ jobs:
       - name: Check whitespace
         run: git diff --check
       - name: Commit regenerated tracked files to editorial branch
-        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026')
+        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026' || github.ref_name == 'editorial/steam-reviews-voice-guide-2026')
         shell: bash
         run: |
           git add -A
@@ -50,6 +50,6 @@ jobs:
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git commit -m "Publish BioWare articles and regenerate site discovery files"
+            git commit -m "Regenerate Fourth Frame article discovery files"
             git push origin HEAD:${GITHUB_REF_NAME}
           fi
