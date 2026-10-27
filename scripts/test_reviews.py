@@ -40,6 +40,8 @@ def main():
     home = (ROOT/"index.html").read_text()
     assert "reviews/" in home
     assert BASE+"reviews/" in urls
+    assert sum(1 for slug in REVIEWS if f"stories/{slug}/" in home) == len(REVIEWS)
+    assert sum(1 for slug in REVIEWS if f"../stories/{slug}/" in hub) == len(REVIEWS)
     assert len({entry["slug"] for entry in entries}) == len(entries)
     assert len({entry["url"] for entry in search}) == len(search)
     for slug in REVIEWS:

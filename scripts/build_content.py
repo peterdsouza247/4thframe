@@ -132,3 +132,7 @@ print(f"Updated {len(search_index)} article pages and search-index.json")
 # Restore spoiler-safe game-guide entries when regenerating site search.
 from build_game_guides import main as build_games
 build_games()
+
+# Reviews archive shares the homepage's review-card source of truth.
+from sync_reviews_hub import sync_reviews
+sync_reviews()
