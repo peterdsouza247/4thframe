@@ -43,6 +43,16 @@ Keep Markdown headings, links, lists, image credits, `[TOC]`, numbered source no
 
 To test the workflow, run `python3 scripts/test_article_exchange.py` and `python3 scripts/test_article_rendering.py`. The exchange tests cover all current articles, no-op round trips, source syncing, metadata edits, dry runs, stale snapshots and rejected imports.
 
+## Reviews and editorial voice
+
+The [Fourth Frame editorial voice guide](EDITORIAL-VOICE.md) is the starting point for review writing and wider copy edits. The new [Reviews archive](reviews/index.html) collects nine articles adapted from the author's original game reviews and God of War notes.
+
+Review Markdown lives in `content/drafts/`, with `Games / Review` as the visible category and `Reviews` as a topic tag. Review entries currently retain `type: Long read` for compatibility with the existing static publisher; this is intentional.
+
+**Editing existing reviews:** first run `python3 scripts/export_articles.py --overwrite` to refresh the bulk editable snapshot, then use `python3 scripts/import_articles.py --dry-run` and `python3 scripts/import_articles.py`. Keep source drafts as editorial references. Run `python3 scripts/voice_audit.py` to flag possible boilerplate phrases without modifying any content.
+
+The new `scripts/test_reviews.py` validates article registry entries, local review pages, review navigation, sitemap and search metadata.
+
 ## Editing articles
 
 Article files (updated by `scripts/add_article.py`):
@@ -100,6 +110,15 @@ Article files (updated by `scripts/add_article.py`):
 - double-dragon-1993-cartoon-retrospective: `stories/double-dragon-1993-cartoon-retrospective/index.html`
 - gundam-anime-watch-order-beginners-guide: `stories/gundam-anime-watch-order-beginners-guide/index.html`
 - naruto-anime-watch-guide-filler-recaps: `stories/naruto-anime-watch-guide-filler-recaps/index.html`
+- dragon-age-veilguard-review: `stories/dragon-age-veilguard-review/index.html`
+- jedi-survivor-review: `stories/jedi-survivor-review/index.html`
+- mass-effect-legendary-edition-review: `stories/mass-effect-legendary-edition-review/index.html`
+- elden-ring-personal-review: `stories/elden-ring-personal-review/index.html`
+- batman-arkham-asylum-review: `stories/batman-arkham-asylum-review/index.html`
+- tomb-raider-2013-review: `stories/tomb-raider-2013-review/index.html`
+- halo-reach-review: `stories/halo-reach-review/index.html`
+- mortal-kombat-11-review: `stories/mortal-kombat-11-review/index.html`
+- god-of-war-2018-review: `stories/god-of-war-2018-review/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
