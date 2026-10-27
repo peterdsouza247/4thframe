@@ -34,6 +34,10 @@ jobs:
         run: python3 scripts/build_content.py
       - name: Run article rendering tests
         run: python3 scripts/test_article_rendering.py
+      - name: Check review registry and discovery
+        run: python3 scripts/test_reviews.py
+      - name: Run article exchange regression tests
+        run: python3 scripts/test_article_exchange.py
       - name: Check whitespace
         run: git diff --check
       - name: Commit regenerated tracked files to editorial branch
