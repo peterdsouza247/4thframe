@@ -98,6 +98,8 @@ Article files (updated by `scripts/add_article.py`):
 - saber-rider-star-sheriffs-retrospective: `stories/saber-rider-star-sheriffs-retrospective/index.html`
 - conan-the-adventurer-cartoon-retrospective: `stories/conan-the-adventurer-cartoon-retrospective/index.html`
 - double-dragon-1993-cartoon-retrospective: `stories/double-dragon-1993-cartoon-retrospective/index.html`
+- gundam-anime-watch-order-beginners-guide: `stories/gundam-anime-watch-order-beginners-guide/index.html`
+- naruto-anime-watch-guide-filler-recaps: `stories/naruto-anime-watch-guide-filler-recaps/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`

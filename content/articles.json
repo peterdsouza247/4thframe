@@ -827,5 +827,39 @@
       "conan-the-adventurer-cartoon-retrospective",
       "retro-game-collections-worth-playing"
     ]
+  },
+  {
+    "slug": "gundam-anime-watch-order-beginners-guide",
+    "type": "Long read",
+    "tags": [
+      "Gundam",
+      "Anime guides",
+      "Watch order",
+      "Universal Century",
+      "Mecha",
+      "Spoiler-free",
+      "The Witch from Mercury"
+    ],
+    "related": [
+      "jojo-bizarre-adventure-watch-guide-spoiler-recaps",
+      "samurai-x-rurouni-kenshin-1996-retrospective"
+    ]
+  },
+  {
+    "slug": "naruto-anime-watch-guide-filler-recaps",
+    "type": "Long read",
+    "tags": [
+      "Naruto",
+      "Naruto Shippuden",
+      "Anime guides",
+      "Filler episodes",
+      "Watch order",
+      "Boruto",
+      "Spoiler-free"
+    ],
+    "related": [
+      "jojo-bizarre-adventure-watch-guide-spoiler-recaps",
+      "gundam-anime-watch-order-beginners-guide"
+    ]
   }
 ]
