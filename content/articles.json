@@ -998,5 +998,25 @@
       "jedi-survivor-review"
     ],
     "published": "2026-10-27"
+  },
+  {
+    "slug": "best-games-2026-ranked",
+    "type": "List",
+    "tags": [
+      "Games",
+      "Game of the Year",
+      "2026",
+      "Star Wars",
+      "Fire Emblem",
+      "Racing",
+      "RPGs",
+      "Lists"
+    ],
+    "related": [
+      "best-bioware-games-ranked",
+      "what-made-elden-ring-great",
+      "grand-theft-auto-evolution-gta-vi"
+    ],
+    "published": "2026-10-28"
   }
 ]
