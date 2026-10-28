@@ -119,6 +119,8 @@ Article files (updated by `scripts/add_article.py`):
 - halo-reach-review: `stories/halo-reach-review/index.html`
 - mortal-kombat-11-review: `stories/mortal-kombat-11-review/index.html`
 - god-of-war-2018-review: `stories/god-of-war-2018-review/index.html`
+- best-games-2026-ranked: `stories/best-games-2026-ranked/index.html`
+- every-game-of-the-year-winner-reconsidered: `stories/every-game-of-the-year-winner-reconsidered/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
