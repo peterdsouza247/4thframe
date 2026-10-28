@@ -7,7 +7,7 @@ summary: "Ten 2026 favourites, from tactical Star Wars to arcade racing, before 
 deck: "Rockstar's return to Vice City is almost here. These are the ten games I would put forward before it arrives."
 category: "Games / Rankings"
 tags: ["Games", "Game of the Year", "2026", "Star Wars", "Fire Emblem", "Racing", "RPGs", "Lists"]
-related: ["best-bioware-games-ranked", "what-made-elden-ring-great", "grand-theft-auto-evolution-gta-vi"]
+related: ["best-bioware-games-ranked","what-made-elden-ring-great","grand-theft-auto-evolution-gta-vi","every-game-of-the-year-winner-reconsidered"]
 cover_label: "2026 / THE TOP TEN"
 art: gta
 published: 2026-10-28
