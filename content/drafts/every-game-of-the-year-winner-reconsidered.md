@@ -287,13 +287,13 @@ The official winner was *Skyrim*, a 2011 release. I'm not going to argue that it
 
 *Also considered: *The Last of Us*, *BioShock Infinite*, *Super Mario 3D World*. Fourth Frame verdict: Our alternative.*
 
-### 2014 — Dragon Age: Inquisition
+### 2014 — Middle-earth: Shadow of Mordor
 
 **Historical Golden Joystick:** *Dark Souls II*.
 
-*Dark Souls II* has a large, dangerous world and plenty of scope for experimenting with builds. *Shadow of Mordor* deserves credit for the Nemesis system, and *Bayonetta 2* excels at expressive combat. I'd choose *Dragon Age: Inquisition*. Some of its open areas contain far too much filler, but I enjoyed the companions, the lore and the way its conflicts ask you to think about competing interests in Thedas.
+*Dark Souls II* deserves recognition for its demanding combat and the freedom to experiment with different builds. *Dragon Age: Inquisition* has excellent companions and a wonderfully detailed world, even if far too many quests feel like filler. But I'd give 2014 to *Middle-earth: Shadow of Mordor*. Its Nemesis system made the Orc captains feel like individuals rather than another collection of enemies to kill. A captain who defeated you could rise through the ranks, remember your last encounter and become an increasingly troublesome rival. Even losing a fight could create a story you wanted to see through. The stealth, sword fighting and freedom to choose your approach were good fun, but the evolving rivalries made this one stand apart.
 
-*Also considered: *Dragon Age: Inquisition*, *Middle-earth: Shadow of Mordor*, *Bayonetta 2*. Fourth Frame verdict: Our alternative.*
+*Also considered:* *Dragon Age: Inquisition*, *Bayonetta 2*. *Fourth Frame verdict:* Our alternative.
 
 ### 2015 — The Witcher 3: Wild Hunt
 
