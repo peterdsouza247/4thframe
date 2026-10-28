@@ -30,6 +30,13 @@ jobs:
           python3 scripts/add_article.py content/drafts/mass-effect-universe-what-could-have-been.md
           python3 scripts/add_article.py content/drafts/games-to-play-instead-of-mass-effect-5.md
           python3 scripts/add_article.py content/drafts/best-browser-easter-eggs-hidden-games.md
+      - name: Publish the historical GOTY retrospective on this editorial branch
+        if: github.event_name == 'push' && github.ref_name == 'editorial/goty-2026-and-historical-ballot'
+        run: |
+          if [ ! -f stories/every-game-of-the-year-winner-reconsidered/index.html ]; then
+            python3 scripts/add_article.py content/drafts/every-game-of-the-year-winner-reconsidered.md --dry-run
+            python3 scripts/add_article.py content/drafts/every-game-of-the-year-winner-reconsidered.md
+          fi
       - name: Rebuild article metadata, search, and guides
         run: python3 scripts/build_content.py
       - name: Run article rendering tests
@@ -41,7 +48,7 @@ jobs:
       - name: Check whitespace
         run: git diff --check
       - name: Commit regenerated tracked files to editorial branch
-        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026' || github.ref_name == 'editorial/steam-reviews-voice-guide-2026')
+        if: github.event_name == 'push' && (github.ref_name == 'editorial/christy-marx-india-games-2026' || github.ref_name == 'editorial/bioware-dragon-age-legacy-2026' || github.ref_name == 'editorial/steam-reviews-voice-guide-2026' || github.ref_name == 'editorial/goty-2026-and-historical-ballot')
         shell: bash
         run: |
           git add -A
