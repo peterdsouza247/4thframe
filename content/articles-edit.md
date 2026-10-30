@@ -6656,473 +6656,417 @@ The historical winner record was checked against the [Golden Joystick award hist
 
 <!-- fourth-frame:end -->
 
-<!-- fourth-frame:article {"slug": "greatest-game-developers-and-teams", "sha256": "79341f0f02e170fe50e877f230663806ecdb2ee0a99cfadc159167dc8a6e56d6", "edit_sha256": "7f67f420514ebf7e8370a4dcf5744e90b3f7fa8c3f1265c400554c0a878b0dfe"} -->
+<!-- fourth-frame:article {"slug": "greatest-game-developers-and-teams", "sha256": "99db9f011ad1d174e9886126ec8228c96f17ce59e78d24192072ac9e0a6993b8", "edit_sha256": "7d6acd4e628a3ebfee29df07070cd95fbd6a24d045aa0e145f32b21226292186"} -->
 ---
 title: "15 of the Greatest Game Developers and Teams"
-description: "From Mario and Doom to Mass Effect and Stardew Valley, the people whose work changed how games feel, think and tell stories."
-summary: "Fifteen selections, from the makers of Mario and Doom to the designers who made an item drop worth caring about."
+description: "Fifteen developers and teams whose work made movement, combat, exploration and storytelling more rewarding, from Mario to Mass Effect."
+summary: "Fifteen selections built around the decisions that made their games rewarding to play."
 deck: ""
 ---
 
+A developer earns my attention when a game does something well enough that I start wondering who was responsible. *Halo* makes a familiar encounter worth playing again. *Mass Effect* makes returning to the ship feel like part of the adventure. Those are achievements worth understanding beyond the studio logo.
+
+These fifteen selections cover individual developers, creative partnerships and particular teams at particular times. The numbers organise the list; they are not a ranking. The reasons for inclusion range from establishing a genre’s pleasures to recognising why an existing game had stopped delivering them.
+
+For a closer look at several of these development stories, read [The People Who Made Our Favourite Games Work](../../stories/the-people-who-made-our-favourite-games-work/).
+
 [TOC]
-
-I tend to remember developers because of something their games let me do. Explore somewhere I wasn’t expecting to find. Talk to a companion who gradually became my favourite character. Get through a fight using a plan that was probably more complicated than necessary, but was mine.
-
-That seems a better place to start a list like this than sales figures. Commercial success matters, but it doesn’t explain why *Halo*’s combat is still satisfying, why people keep going back to *Diablo II*, or why *Mass Effect*’s crew has stayed with me for so long.
-
-These are fifteen selections I would put in the conversation about the greatest game developers. Some are individuals, some are partnerships, and some are particular teams at a particular time. The numbers are for navigation; I’m not pretending there is a sensible equation that places a farming simulator three positions above *Doom*. I’m looking at the quality of the work, the decisions behind it, and how much those decisions gave players.
-
-For the development stories behind several of these choices, read the companion feature, [The People Who Made Our Favourite Games Work](https://peterdsouza247.github.io/4thframe/stories/the-people-who-made-our-favourite-games-work/).
 
 ## 1. Shigeru Miyamoto, Takashi Tezuka and Toshihiko Nakago
 
-**The work: Super Mario Bros. and the foundations of Zelda.**
+The work: *Super Mario Bros.* and early *Zelda*.
 
-Miyamoto belongs here, obviously, but Nintendo’s own interviews make the partnership much more interesting than the familiar story of one man inventing everyone’s childhood. Tezuka and Nakago recall ideas moving between Mario and Zelda while the games were taking shape. Mario itself began with experiments involving a moving rectangle.[^1]
+Nintendo’s own interviews make this partnership more interesting than the familiar account of Miyamoto creating everyone’s childhood on his own. Tezuka and Nakago recall *Mario* and *Zelda* developing together, with ideas moving between them. The spinning fire bars in *Mario*, for example, began in *Zelda*.[^1]
 
-The achievement was making movement interesting enough to build a whole game around, then giving that movement places worth exploring. A block could hide a reward. An awkward jump could become manageable with a run-up. The player learned through doing, and the next obstacle gave that lesson a purpose.
+Their achievement starts with the pleasure of movement. Running changes a jump. A block invites investigation. A short stretch of ground can teach you something, then give you a reason to use it. *Mario* makes those basic interactions satisfying before it needs an elaborate story to keep you moving.
 
-I admire how much pleasure there is in those basic interactions. Mario can make crossing a small stretch of ground satisfying before it has shown you a spectacular boss, a skill tree or a reason to save the kingdom.
+That is why the partnership belongs here. The design gives simple actions enough responsiveness and variety to sustain an adventure. The player learns by taking part, with the next obstacle making the lesson useful.
 
 ## 2. John Carmack, John Romero and the early id Software team
 
-**The work: Wolfenstein 3D, Doom and Quake.**
+The work: *Wolfenstein 3D*, *Doom* and *Quake*.
 
-Carmack’s technology and Romero’s design are an extraordinary combination, but *Doom* also needs its artists, level designers and the rest of the team in the picture. A contemporary account documents both the technical work and the development tools behind the game; Romero and Tom Hall later revisited its creation in their own postmortem.[^2][^3]
+Carmack’s technology and Romero’s design are the obvious starting points, but the achievement includes the level designers, artists and other contributors who made those spaces worth inhabiting. Contemporary reporting on *Doom*, and Romero and Tom Hall’s later postmortem, help make that work visible.[^2][^3]
 
-What earns id its place for me is the relationship between speed, space and combat. Enemies force you to move differently. Weapons have recognisable jobs. A room changes when you realise where the danger is coming from, and changes again when you reach the ammunition you were trying to get to.
+*Doom* is the clearest reason to include them. Its enemies make different demands on your movement, while the weapons give you distinct ways to respond. Finding ammunition can change your plan for a room. Reaching it can be a small adventure of its own.
 
-The technology made those spaces possible. The design made you want to stay in them. *Doom*’s lasting appeal is a useful reminder that impressive graphics and satisfying action are separate achievements, even when the same game manages both.
+The lasting appeal comes from how well the speed and layout support combat. Technical progress gave id new possibilities; the team used them to make action whose basic rhythm remains enjoyable long after the graphics have become familiar.
 
 ## 3. Sid Meier and Bruce Shelley
 
-**The work: Railroad Tycoon and the original Civilization.**
+The work: *Railroad Tycoon* and the original *Civilization*.
 
-There is a wonderfully practical detail in Shelley’s account of making Civilization: he and Meier played and discussed the game, Meier revised it, and another version would be waiting the next morning. Shelley also wrote the manual and contributed historical material.[^4]
+Shelley’s account of making *Civilization* contains a wonderfully practical routine. He and Meier played and discussed a version, Meier revised it, and another would be waiting the next morning. Shelley also contributed historical material and wrote the manual.[^4]
 
-Civilization turns an enormous subject into decisions you can understand. Expanding gives you opportunities and responsibilities. Research promises something useful a few turns away. A neighbour’s presence complicates the settlement you were about to build.
+That process produced a game capable of turning an enormous subject into decisions with understandable immediate effects. Research promises a useful advance. A new settlement creates opportunities, then responsibilities. A neighbour complicates what looked like an obvious place to expand.
 
-I like that its ambition survives this simplification. You can see the immediate purpose of a decision while having very little certainty about where the next hundred decisions will take you. That gives the game its momentum. The historical model deserves scrutiny, particularly its assumptions about progress and empire, but the design remains an exceptional way of getting players to think about interconnected consequences.
+The design’s strength is how readily those decisions connect. You can understand the purpose of the current turn without knowing where the next hundred will take you. Its simplified view of history deserves scrutiny, particularly around progress and empire, but the interdependence of its systems makes planning a pleasure in itself.
 
 ## 4. Roberta Williams and Sierra’s King’s Quest teams
 
-**The work: Mystery House and King’s Quest.**
+The work: *Mystery House* and *King’s Quest*.
 
-Williams helped establish an approach to adventure games in which exploring a visible world became central to the experience. Describing *King’s Quest*, she recalled wanting a third-person character and using the IBM PCjr’s capabilities to do more than had been possible in her earlier work.[^5]
+Williams helped make the visible world central to the adventure game. Discussing *King’s Quest*, she recalled wanting a third-person character and using the IBM PCjr’s capabilities to go beyond what had been possible in her earlier work.[^5]
 
-That ambition matters. A place becomes more tangible when a character can move through it, pass behind things and interact with its inhabitants. It changes how a player imagines being inside the story.
+A character who walks through a scene, passes behind objects and encounters its inhabitants changes how the player imagines being inside a story. The place becomes something to explore through movement as well as commands. That ambition gives Williams and the Sierra teams a place in this selection.
 
-The games also deserve honest criticism. Sudden deaths, obscure solutions and the possibility of making progress impossible can turn curiosity into suspicion. I wouldn’t hand-wave that away because something is a classic. Williams belongs here because the work expanded what an adventure could look and feel like, with enough imagination to survive the parts that now require patience or a walkthrough.
+The criticism is straightforward too. Sudden deaths and obscure solutions can punish the curiosity these adventures invite. Making progress impossible because of an earlier missed object is difficult to defend. Their imaginative worlds remain worth recognising without pretending that every design habit deserves preservation.
 
 ## 5. Warren Spector, Harvey Smith and Ion Storm Austin
 
-**The work: Deus Ex.**
+The work: *Deus Ex*.
 
-*Deus Ex* is one of the clearest examples of a game being built around the player’s ability to solve problems. Spector’s postmortem records the design rules, including Smith’s insistence on multiple solutions and his revisions to skills and augmentations.[^6]
+*Deus Ex* earns its place by giving a player’s chosen approach practical support. Spector’s postmortem records the design principles, including Smith’s emphasis on multiple solutions and his contribution to revising skills and augmentations.[^6]
 
-The important part is that your chosen approach has support. A stealth route needs somewhere to hide. Hacking needs something worth accessing. Combat needs consequences that make it a decision. Putting three buttons on a dialogue wheel wouldn’t achieve the same thing.
+The important part is what that means inside a level. A hacking ability needs something worth accessing. A quieter route needs to let the player understand and avoid danger. Equipment and character development become useful because the environment gives them problems to solve.
 
-Its shooting and presentation have rough edges, but I find the underlying respect for the player much more impressive than a smoother sequence that only works one way. Spector and Smith deserve recognition for giving that principle practical form, alongside the designers, artists and programmers who made the alternatives function.
+The shooting and presentation have rough edges. The underlying freedom is more durable: a decision about how to build your character can affect how you approach the next obstacle. Spector, Smith and the wider team made room for the player to have a plan of their own, then did the substantial work of allowing it to function.
 
 ## 6. David Brevik, Erich and Max Schaefer, and Blizzard North
 
-**The work: Diablo and Diablo II.**
+The work: *Diablo* and *Diablo II*.
 
-Blizzard North understood the appeal of gradually building a character through discoveries. Brevik has described the roguelike influences behind *Diablo*’s random items, while Erich Schaefer’s *Diablo II* postmortem explains the attention given to rewards, accessibility and the pleasure of individual actions.[^7][^8]
+Blizzard North made the gradual development of a character depend on discoveries worth pursuing. Brevik has discussed the roguelike influences behind *Diablo*’s random items; Erich Schaefer’s *Diablo II* postmortem describes the attention given to rewards and the satisfaction of individual actions.[^7][^8]
 
-The result gives even an ordinary fight a little uncertainty. Something useful might drop. It might improve your existing build or tempt you towards another one. A familiar area can remain interesting because your character and your expectations have changed.
+The result gives an ordinary fight a little uncertainty. Something useful might drop. It could strengthen an existing build or suggest another direction. A familiar area can remain appealing because the character returning to it has different capabilities and ambitions.
 
-That balance is easy to reduce to the word “addictive”, which doesn’t quite explain its appeal. I’m more interested in the moments when an item opens a possibility. A reward that makes you reconsider how you play is considerably more exciting than another object waiting to be sold.
+Calling that merely addictive gives too little attention to the design. The best discoveries invite a decision about what to do with them. Blizzard North connected the immediate pleasure of fighting with longer plans for a character, giving repeated visits to a dungeon a purpose beyond seeing it again.
 
-## 7. Travis Day and Diablo III’s itemization team
+## 7. Travis Day and Diablo III’s itemisation team
 
-**The work: helping rebuild Diablo III’s rewards.**
+The work: helping rebuild *Diablo III*’s rewards.
 
-Day deserves a place alongside the more familiar names because his public writing identifies a problem players could immediately recognise. Legendary items needed power and properties that justified their rarity. The best equipment should offer interesting effects, with alternatives to stacking the same desirable damage statistics.[^9]
+Building an appealing system and repairing one that has disappointed players are different achievements. Day’s 2013 itemisation journal deserves attention for identifying what the rewards needed to offer: legendary equipment powerful enough to justify its rarity, with effects that could make new builds attractive.[^9]
 
-That is an important design contribution. A legendary drop should be capable of changing your plans. Otherwise, the game has gone to considerable trouble to announce another disappointment.
+An item that changes a plan gives the next fight a reason to happen. An item that fails to justify its elaborate arrival leaves the game looking slightly embarrassed by its own announcement.
 
-*Diablo III*’s recovery involved the wider team, including Josh Mosqueira’s direction and changes beyond itemization. Loot 2.0 and the auction house’s removal were connected parts of that recovery.[^10][^11] Day earns individual attention for the reward-design thinking visible in his work. There is room on a greatest-developers list for someone whose achievement becomes apparent when the game finally starts giving you compelling reasons to keep playing.
+The recovery involved the wider team, including Josh Mosqueira’s direction, Loot 2.0 and the removal of the auction houses.[^10][^11] Day’s place here rests on the reward-design thinking visible in his published work. It is a specific contribution within that broader effort, and a useful reminder that fixing the reason players keep returning can be as important as creating it.
 
 ## 8. Bungie’s original Halo team
 
-**The work: Halo: Combat Evolved and the original trilogy.**
+The work: *Halo: Combat Evolved* and the original trilogy.
 
-*Halo* is one of the games I return to when thinking about satisfying combat. The weapons, grenades, melee attacks, vehicles and enemy behaviours give a relatively small encounter plenty of ways to unfold.
+*Halo* remains one of my favourite examples of satisfying combat. Weapons, grenades and melee attacks work together well enough that a small encounter can develop in several directions. A change in position can make an action worthwhile that would have been a terrible idea a moment earlier.
 
-Jaime Griesemer and Chris Butcher are particularly worth knowing for their design and AI work. In interviews about the first game, they describe developing the Covenant’s behaviour and personality together. Bungie’s published talks also make clear how closely combat design and implementation overlapped.[^12][^13]
+Jaime Griesemer and Chris Butcher are especially worth knowing for the design and AI work behind those fights. Their recollections describe the Covenant’s personalities and encounter requirements developing together.[^12]
 
-You can feel that relationship when an Elite holds your attention while Grunts complicate the fight around it. Enemy behaviour gives you information and opportunities. It also gives the Covenant character before the story has explained much about them.
-
-The repeated interiors can wear thin. The combat survives them remarkably well. That is a substantial compliment to the people who made it.
+An Elite draws your attention while Grunts make the surrounding space awkward. Enemy reactions then give you opportunities to change the arrangement. Those behaviours supply character as well as tactical information. Even when the original game repeats its interiors too often, the combat gives you something interesting to do inside them. That is a considerable achievement for the team responsible.
 
 ## 9. BioWare’s original Mass Effect teams
 
-**The work: the Mass Effect trilogy, especially its first two games.**
+The work: the *Mass Effect* trilogy, especially its first two games.
 
-*Mass Effect* is my favourite game series, and *Mass Effect 2* is my favourite entry. BioWare made the people aboard a spaceship matter enough that assembling a squad could feel as important as finding out what was happening to the galaxy.
+*Mass Effect* is my favourite series, and *Mass Effect 2* is my favourite entry. The crew is a large part of the reason. Learning about the people aboard the Normandy makes taking them into danger matter, and gives the time between missions a purpose.
 
-The credit spans disciplines: Casey Hudson, Preston Watamaniuk, Derek Watts, Drew Karpyshyn, Mac Walters, and the wider writing, design, art, audio and cinematic teams. Karpyshyn identifies himself as the first game’s lead writer and *Mass Effect 2*’s co-lead with Walters. The original team also discussed developing the conversation system early in production.[^14][^15]
+The development work extended through writing, design and the presentation of conversations. The original team discussed building the conversation system early in production. Drew Karpyshyn was the first game’s lead writer and shared the sequel’s lead-writing duties with Mac Walters.[^13][^14]
 
-The series has uneven combat, awkward morality mechanics and decisions whose eventual consequences can disappoint. Its great achievement is that the companions give you reasons to care about those consequences. Garrus, Tali, Wrex and Jack are a fairly persuasive argument for giving characters more than a supporting role in an RPG’s appeal.
+The results are uneven in places: combat changes substantially, the morality mechanics can feel restrictive, and some decisions lead to disappointing consequences. Yet Garrus, Tali, Wrex and Jack give those consequences emotional weight. The teams made companions central to an RPG’s appeal, with relationships worth following across games.
 
 ## 10. Hidetaka Miyazaki and FromSoftware’s Souls teams
 
-**The work: Dark Souls, Bloodborne and Elden Ring.**
+The work: *Dark Souls*, *Bloodborne* and *Elden Ring*.
 
-*Elden Ring* is a masterpiece. The thing that most impresses me is the exploration: you keep going because you honestly don’t know what you might stumble across.
+*Elden Ring* is a masterpiece, particularly in the way it makes exploration rewarding. I keep going because I honestly don’t know what I might stumble across. Leaving a difficult encounter can lead to a discovery that changes how I approach it later.
 
-Miyazaki’s discussion of its development places freedom, discovery and the accumulated experience of the team at the centre of that world. He also credits the expanded staff and production work required to realise it.[^16]
+Miyazaki’s discussion of development places freedom and exploration at the centre of the world, while crediting the team’s accumulated experience and the production work needed to realise its scale.[^15]
 
-FromSoftware earns its reputation through the relationship between combat and place. A dangerous journey gives a refuge value. A shortcut changes your understanding of an area. A new weapon can make an old obstacle worth attempting again.
-
-Some quests are unnecessarily obscure, and repetition becomes more apparent across *Elden Ring*’s enormous map. Those criticisms belong alongside the praise. The team’s ability to make learning, exploration and perseverance so rewarding is still exceptional.
+Across these games, combat and place give each other significance. A dangerous journey makes a refuge valuable. A shortcut changes how an area fits together. The obscure quest requirements and *Elden Ring*’s repeated encounters deserve criticism, but they sit alongside an exceptional ability to make learning a world feel worthwhile. The reward is often understanding where you are and what you can now do.
 
 ## 11. Hideo Kojima, Yoji Shinkawa and the Metal Gear teams
 
-**The work: Metal Gear Solid and its sequels.**
+The work: *Metal Gear Solid* and its sequels.
 
-Kojima’s games have a personality you can recognise almost immediately. So do Shinkawa’s designs. Their collaboration deserves attention because the art could influence the story itself: in a 1998 interview, Kojima and Shinkawa describe how a cyborg ninja design grew into a central character.[^17]
+The personality of *Metal Gear* is recognisable almost immediately, through Shinkawa’s designs as well as Kojima’s direction. Their 1998 interview supplies a revealing example: a cyborg ninja design developed by Shinkawa became a character Kojima had not originally planned, then an important part of the story.[^16]
 
-That is a much more interesting creative relationship than one person writing instructions and everyone else supplying the illustrations.
+The art helped decide what the game would become. That is a more revealing account of authorship than treating the illustrations as the final stage of somebody else’s complete idea.
 
-*Metal Gear* can also test the limits of your patience with exposition. Its best moments justify the indulgence through imaginative situations, expressive characters and a willingness to do something strange with the player’s expectations. The games are confident enough to be sincere, ridiculous and unsettling within the same stretch of play. That confidence works because an enormous amount of craft sits underneath it.
+The wider games earn their place through the imaginative situations they build around stealth and their willingness to make the player reconsider familiar rules. Their exposition can be exhausting, and the tonal shifts ask a great deal of the audience. The craft is substantial enough to make the indulgence worth arguing about, with a creative partnership that reaches well beyond a signature on the box.
 
 ## 12. Kim Swift and Valve’s Portal team
 
-**The work: Portal.**
+The work: *Portal*.
 
-*Portal* begins with a mechanic that is easy to demonstrate and surprisingly difficult to exhaust. The team’s achievement was teaching it well enough that players could enjoy thinking with it.
+*Portal* makes an unfamiliar way of moving through space understandable, then trusts the player to do something interesting with it. That teaching is one of its greatest achievements.
 
-Swift’s account traces the game back to the student project *Narbacular Drop* and describes frequent playtesting at Valve. Watching people become confused helped the team break complex ideas into more manageable steps. Erik Wolpaw’s writing and Ellen McLain’s performance then gave the chambers a memorable personality.[^18][^19]
+Swift’s account follows the project from *Narbacular Drop* into Valve, where early, frequent playtesting exposed the ideas that needed simpler introductions. The team could then revise the progression while there was time to act on what it had learned.[^17] Erik Wolpaw’s writing and Ellen McLain’s performance gave the chambers their increasingly uncomfortable personality.[^18]
 
-I admire how much *Portal* accomplishes within its running time. Its puzzles give the player space to work something out, and its story gives that work a different emotional context as it develops. The result feels unusually complete. It has a good idea, understands why the idea is enjoyable, and knows how long to keep building on it.
+The result accomplishes a great deal within its running time. Solving a puzzle feels like your achievement, while the voice accompanying it changes the meaning of following instructions. The team understood when an idea needed more room to develop and when the game had done enough. Its restraint is part of why it feels so complete.
 
 ## 13. Eric Barone
 
-**The work: Stardew Valley’s original release.**
+The work: the original release of *Stardew Valley*.
 
-The scope of Barone’s contribution is extraordinary. He created the original *Stardew Valley*’s programming, art, writing, music and other creative work, developing the game over roughly four years. In an early interview, he described repeatedly revisiting material as his skills improved.[^20]
+Barone created the original game’s programming, art, writing and music over roughly four years. He also repeatedly revised material as his skills improved.[^19] The scale of the work is extraordinary; recognising which parts deserved another attempt was essential to its quality.
 
-The game itself is what makes that story worth telling. Farming, fishing, exploring and getting to know the town offer different kinds of progress, with enough overlap to make choosing between them interesting. The small goals give a day purpose; the longer ones give the seasons shape.
+*Stardew Valley* gives different ambitions room to coexist. Farming, fishing and exploring connect to life in the town, so a day can feel worthwhile in several ways. Small tasks provide an immediate purpose while the changing seasons give longer plans a rhythm.
 
-His affection for *Harvest Moon* is openly acknowledged.[^21] I like that as part of the achievement. Understanding a game you love well enough to build a worthy successor requires taste and persistence. Originality can come from knowing exactly which pleasures deserve more attention.
+His affection for *Harvest Moon* is openly acknowledged.[^20] That influence is part of the achievement: understanding a particular pleasure well enough to develop it into a substantial game of your own. The story of how much he did deserves attention because the finished work makes such good use of it.
 
 ## 14. Lucas Pope
 
-**The work: Papers, Please and Return of the Obra Dinn.**
+The work: *Papers, Please* and *Return of the Obra Dinn*.
 
-Pope is remarkable at finding a game inside an activity that sounds unpromising on paper. Checking documents becomes an exercise in pressure and compromised decisions. Identifying people aboard a ship becomes a mystery that asks the player to observe and reason.[^22][^23]
+Checking documents sounds like a difficult activity to make compelling. Pope turned it into a game in which routine work puts the player under pressure and gives human encounters uncomfortable consequences.[^21]
 
-Both games depend on what the player actually does. *Papers, Please*’s demands give its human encounters weight. Obra Dinn makes a face, an arrangement of people or a small contextual detail worth remembering.
+*Return of the Obra Dinn* asks for a different sort of attention: observe people, compare details and reconstruct events aboard a ship.[^22] Information that might serve as scenery elsewhere becomes something worth remembering because the player needs to draw a conclusion from it.
 
-I find that more impressive than announcing a serious theme and surrounding it with unrelated tasks. Pope’s systems make the subject tangible. The presentation also serves the work: the cramped desk and the stark ship each direct attention towards the information that matters. These are distinctive games whose identity extends all the way into their mechanics.
+Both games make their subjects depend on what the player actually does. The cramped desk and stark ship direct attention towards the relevant evidence, while the mechanics give that evidence significance. Pope’s place here rests on how completely an activity, a visual style and a subject can belong to the same game.
 
 ## 15. Supergiant Games
 
-**The work: Bastion, Transistor, Pyre and Hades.**
+The work: *Bastion*, *Transistor*, *Pyre* and *Hades*.
 
-Supergiant deserves recognition as a team because the parts of its games work together so well. In *Hades*, repeated attempts give you reasons to experiment with combat and return to its characters. Failure can still move a relationship forward.[^24]
+Supergiant belongs here as a team because the different disciplines in its games support one another so well. *Hades* makes repeated attempts at escape a reason to experiment with combat and return to its cast. Failure can still move a relationship forwards.[^23]
 
-Amir Rao and Gavin Simon belong in that picture alongside Greg Kasavin’s writing and design, Jen Zee’s art direction, Darren Korb’s audio work and the wider staff. The studio’s own biographies help make those contributions visible.[^25]
+That cohesion gives individual contributions more force. Greg Kasavin’s writing and design, Jen Zee’s art direction and Darren Korb’s audio work belong alongside the work of founders Amir Rao and Gavin Simon and the wider staff.[^24] The player encounters their contributions together, as the character of a place worth returning to.
 
-*Hades* also used Early Access deliberately, with the structure of the game designed to accommodate development alongside player feedback.[^26] The finished result has a clear identity despite that ongoing revision. I admire a team that can listen closely and still make something so recognisably its own.
-
-## The work I keep coming back to
-
-These selections leave plenty of room for argument. Will Wright, Alexey Pajitnov, Yu Suzuki, Hironobu Sakaguchi and the teams behind many other favourites could support an article of their own. A list this size has to choose its ground.
-
-For me, these developers stand out because their decisions remain visible when you play. You understand a space differently, find another use for a tool, become attached to a companion or feel the possibilities in an item that has just dropped. Knowing who helped make those moments happen gives me more appreciation for the games themselves.
+The studio also designed *Hades* for Early Access, with a structure that could accommodate development alongside player feedback.[^25] The finished game retains a clear identity. It is an excellent example of a team making room for revision while keeping hold of the reasons the game was worth building.
 
 ---
 
 ## Sources and attribution
 
-This is an editorial selection, not a ranking derived from sales or awards. Development claims draw primarily on participant interviews, developer-written postmortems and official material. Judgments about the games are criticism. Team names refer to the work discussed, rather than every later release bearing the same studio name.
+These are editorial selections. Development history draws on participant interviews, developer-written postmortems and official material. Team entries concern the particular games discussed, rather than every release bearing the same studio name.
 
-[^1]: Nintendo, [Iwata Asks: “It Started With A Square Object Moving”](https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-New-Super-Mario-Bros-Wii/Volume-2/3-It-Started-With-A-Square-Object-Moving/3-It-Started-With-A-Square-Object-Moving-232967.html). Participant recollections by Tezuka and Nakago, including uncertainty about individual ideas.
+[^1]: Nintendo, [Iwata Asks: “It Started With A Square Object Moving”](https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-New-Super-Mario-Bros-Wii/Volume-2/3-It-Started-With-A-Square-Object-Moving/3-It-Started-With-A-Square-Object-Moving-232967.html).
 
-[^2]: Alexander Antoniades, [“Monsters From the Id: The Making of Doom”](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-), originally published in January 1994; reprinted in 2009. Contemporary reporting with Carmack and development-tool details.
+[^2]: Alexander Antoniades, [“Monsters From the Id: The Making of Doom”](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-), 1994.
 
-[^3]: John Romero and Tom Hall, [Classic Game Postmortem: DOOM](https://www.gdcvault.com/play/1014627/Classic-Game-Postmortem), GDC 2011. Participant retrospective.
+[^3]: John Romero and Tom Hall, [Classic Game Postmortem: DOOM](https://www.gdcvault.com/play/1014627/Classic-Game-Postmortem), 2011.
 
-[^4]: Bruce Shelley, [Civilization Chronicles interview](https://civfanatics.com/misc/interview-with-bruce-shelley/), 2006. Firsthand account of the prototype, daily revision and manual.
+[^4]: Bruce Shelley, [Civilization Chronicles interview](https://civfanatics.com/misc/interview-with-bruce-shelley/), 2006.
 
-[^5]: Time Extension, [interview with Roberta and Ken Williams](https://www.timeextension.com/features/interview-roberta-and-ken-williams-on-how-colossal-cave-led-to-a-life-of-adventure), 2023. Roberta describes the ambitions and hardware opportunity behind King’s Quest.
+[^5]: Time Extension, [interview with Roberta and Ken Williams](https://www.timeextension.com/features/interview-roberta-and-ken-williams-on-how-colossal-cave-led-to-a-life-of-adventure), 2023.
 
-[^6]: Warren Spector, [Postmortem: Ion Storm’s Deus Ex](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-), 2000. Includes Harvey Smith’s design amendments and contribution to skills and augmentations.
+[^6]: Warren Spector, [Postmortem: Ion Storm’s Deus Ex](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-), 2000.
 
-[^7]: David Brevik, [Ars Technica’s Diablo War Stories interview](https://arstechnica.com/video/watch/war-stories-how-one-gameplay-decision-changed-diablo-forever/), 2020. His recollection of the original game’s influences and random-item appeal.
+[^7]: David Brevik, [Ars Technica’s Diablo War Stories interview](https://arstechnica.com/video/watch/war-stories-how-one-gameplay-decision-changed-diablo-forever/), 2020.
 
-[^8]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), 2000. A firsthand description of collaborative design, rewards and production.
+[^8]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), 2000.
 
-[^9]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013. A proposal for changes at that time, not a claim that every suggestion shipped unchanged.
+[^9]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013.
 
-[^10]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), GDC 2015.
+[^10]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), 2015.
 
-[^11]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013. Official explanation of the removal decision and its relationship to Loot 2.0.
+[^11]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013.
 
-[^12]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015. Direct interviews with Griesemer, Butcher and other participants.
+[^12]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015.
 
-[^13]: [Bungie Publications, archived](https://bnetarchive.haloman30.com/inside/publications.html), including Griesemer and Butcher’s “The Illusion of Intelligence” and Damian Isla’s Halo AI retrospective. Used to identify authorship and the subjects of the talks.
+[^13]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007.
 
-[^14]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007. Contemporary discussion of conversation design and the game’s conception.
+[^14]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57).
 
-[^15]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57). His own description of his writing credits on Mass Effect and Mass Effect 2.
+[^15]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022.
 
-[^16]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022. Development priorities, accumulated team experience and production scope.
+[^16]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/).
 
-[^17]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/), translated by Shmuplations from The PlayStation magazine. Joint interview with Kojima and Shinkawa.
+[^17]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008.
 
-[^18]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008. Developer-written account.
+[^18]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), 2008.
 
-[^19]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), 2008. Direct interview, including discussion of writing for McLain’s performance.
+[^19]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), 2016.
 
-[^20]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), March 2016. Barone confirms his original solo creative work and describes repeated revision.
+[^20]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), 2017.
 
-[^21]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), 2017. Direct interview about influences and development.
+[^21]: Leigh Alexander, [Road to the IGF: Lucas Pope’s Papers, Please](https://www.gamedeveloper.com/design/road-to-the-igf-lucas-pope-s-i-papers-please-i-), 2014.
 
-[^22]: Leigh Alexander, [Road to the IGF: Lucas Pope’s Papers, Please](https://www.gamedeveloper.com/design/road-to-the-igf-lucas-pope-s-i-papers-please-i-), 2014.
+[^22]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), 2019.
 
-[^23]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), 2019. Direct interview.
+[^23]: Supergiant, [Hades](https://www.supergiantgames.com/games/hades/).
 
-[^24]: Supergiant, [Hades](https://www.supergiantgames.com/games/hades/), official game description.
+[^24]: Supergiant, [Team](https://www.supergiantgames.com/team/).
 
-[^25]: Supergiant, [Team](https://www.supergiantgames.com/team/). Used for the named contributors’ disciplines; the current roster is not treated as the original Hades roster.
-
-[^26]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/), including the studio’s explanation of designing for Early Access.
+[^25]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/).
 
 <!-- fourth-frame:end -->
 
-<!-- fourth-frame:article {"slug": "the-people-who-made-our-favourite-games-work", "sha256": "c56c0a8dd9c223a3908d3c0b36973c2617b421cfc936e33fe2d268ef48a2351e", "edit_sha256": "791dcfb26d43ddbb549285ada48f1e18df5ed5898564270c6c8106fc063a0c75"} -->
+<!-- fourth-frame:article {"slug": "the-people-who-made-our-favourite-games-work", "sha256": "6096327fb78e693f1d015508f39950444c7e649bffca8cd3b7f6766719436a45", "edit_sha256": "4e579d189fa833c83c8a08a4aff63afed9cffb904f1dccad3b364863950bc4c8"} -->
 ---
 title: "The People Who Made Our Favourite Games Work"
-description: "Diablo’s loot, Thief’s AI, Halo’s encounters and Mass Effect’s companions reveal what greatness in game development actually involves."
-summary: "Diablo’s loot, Thief’s guards and Portal’s teaching reveal the people and decisions behind memorable games."
+description: "The designers, programmers and artists behind Diablo’s loot, Halo’s fights and Mass Effect’s crew, and the decisions that made their work matter."
+summary: "The people behind Diablo’s loot, Halo’s enemies and Mass Effect’s crew, and the judgement that made their work matter."
 deck: ""
 ---
 
+A legendary item drops. It gets a special colour, a grand name and enough ceremony to suggest that the last twenty minutes have been building towards this moment. You check its properties. Your existing weapon is better. Off it goes to the vendor.
+
+In a game built around finding equipment, that disappointment matters. Better combat can carry you through another fight, but something has gone wrong when the reward is the least interesting part of winning it.
+
+Travis Day understood the problem. In his 2013 itemisation journal for *Diablo III*, he argued that legendary equipment needed to justify its rarity. He also wanted items capable of opening up builds, giving players something more interesting to pursue than the same desirable damage statistics.[^1]
+
+That is a useful contribution to put beside the more familiar achievements of a director or studio founder. A designer reconsidering an item’s properties can change what the player wants to do next. An AI programmer can make a room worth studying. A writer can give you a reason to return to a ship after the shooting has stopped.
+
+The [accompanying list of fifteen great developers and teams](../../stories/greatest-game-developers-and-teams/) makes the broader selection. Here, the question is what the work actually involved. The most revealing accounts often concern a fairly specific problem, followed by the uncomfortable discovery that solving it means changing something the team has already spent months building.
+
 [TOC]
 
-A legendary item drops. The game gives it a special colour, a name and enough ceremony to suggest that something important has happened. You check the properties. Your existing weapon is better. Off it goes to be sold with the rest.
+## Diablo’s rewards had to become worth finding
 
-That is a fairly small disappointment. Repeat it often enough in a game built around finding equipment, though, and it becomes a problem with the whole experience. The fighting might be excellent. The monsters might die wonderfully. You still need a reason to be interested in what they leave behind.
+The auction houses in *Diablo III* addressed a reasonable concern. Players wanted to trade, and Blizzard wanted that trading to be convenient and secure. The trouble was what happened to the rest of the game when buying equipment became a more reliable route to an upgrade than finding it.
 
-In his 2013 itemization journal for *Diablo III*, Travis Day addressed this directly. Legendary equipment needed to justify its rarity, and desirable items needed more interesting possibilities than another combination of the same powerful damage statistics.[^1]
+John Hight’s announcement of their removal acknowledged that conflict. The auction houses were undermining the central activity of killing monsters for desirable loot. Their removal was tied to the developing Loot 2.0 changes.[^2] A useful service had become a problem for the game it served.
 
-I find that a useful place to start thinking about the greatest game developers. Day’s work concerns something a player can recognise immediately, even if they have never thought about the person making it. The difference becomes apparent when a reward gives you an idea for your character and you want to try it out.
+Day’s itemisation journal approached the reward itself. Critical chance, critical damage and attack speed could improve a character without giving the player an interesting new plan. He wanted equipment whose effects made alternative builds appealing. The distinction is easy to recognise: one item improves what you already do; another makes you want to try a different skill.[^1]
 
-There are plenty of famous names worth celebrating. I also want to know who made an enemy behave convincingly, who changed the way a level taught its rules, or who recognised that the game’s most elaborate feature was getting in the way. Those contributions often explain more about why a game is special than the name above its title.
+That second kind of reward can renew a familiar area. The monsters have not changed, but the character going back to fight them has. There is a new interaction to test, perhaps a weakness to work around, and a reason to pay attention to something that had become routine. The item has given the player an ambition.
 
-The accompanying [list of fifteen great developers and teams](https://peterdsouza247.github.io/4thframe/stories/greatest-game-developers-and-teams/) gives the wider selection. Here, I want to spend some time with the work itself.
+The eventual changes were a team achievement. Loot 2.0 arrived in patch 2.0.1, before *Reaper of Souls*, and included Smart Loot rolls that could produce statistics suited to the character finding an item. The auction houses closed on 18 March 2014.[^3][^2] Josh Mosqueira’s GDC retrospective places itemisation and rewards within the wider change of direction behind the game’s recovery.[^4]
 
-## The difference between finding loot and wanting it
+Those details deserve to remain separate. Day’s journal explained a design direction; it was not a list of everything he personally implemented. Mosqueira’s leadership mattered, as did the work of the people building and testing the changes. Giving Day proper attention means being precise about his contribution.
 
-*Diablo III*’s turnaround is a particularly good example because it required the developers to reconsider systems that already existed. Improving a disappointing game takes its own kind of judgment. You have to identify what is worth preserving while admitting that something else has gone wrong.
+The underlying judgement is the interesting part. An RPG can hand out hundreds of objects while offering very few worthwhile discoveries. Increasing the quantity would make the inventory busier without solving the disappointment. Improving the rewards meant reconsidering what players should be excited to find.
 
-Blizzard’s official explanation for removing the auction houses was unusually clear. They had been intended to make trading convenient and secure, but had ended up undermining the central activity of killing monsters to find desirable equipment. John Hight’s announcement connected their removal with the developing Loot 2.0 changes.[^2]
+## Thief needed guards worth listening to
 
-I can see why the auction house would have appeared useful. Trading was already something players wanted to do. Giving it a convenient home solved a real problem. But a system can be useful on its own and still weaken the game around it. When shopping becomes the sensible route to an upgrade, finding equipment has a harder time providing the pleasure the rest of the game depends on.
+*Thief: The Dark Project* had a more fundamental problem: the behaviour of its guards was not ready to support its stealth design.
 
-Loot 2.0 made several changes to itemization, including a chance for drops to roll as Smart Loot with statistics suited to the character finding them. Those changes arrived in patch 2.0.1, ahead of the *Reaper of Souls* expansion.[^3] The auction houses shut down on 18 March 2014.[^2]
+Lead programmer Tom Leonard’s postmortem is unusually candid. The existing AI had been developed around requirements closer to an action fighting game. Leonard underestimated how much was wrong, despite concerns from Doug Church. Eventually, the team threw away four-fifths of the AI code and rebuilt it with the scheduled release only six months away.[^5]
 
-The distinction matters because the familiar account of an expansion rescuing a game can blur several decisions into one event. Josh Mosqueira’s retrospective describes a wider change in direction, encompassing rewards, randomness and the game’s underlying priorities.[^4] Day’s item work belongs inside that collective effort.
+The distinction between an enemy who fights and an enemy who supports stealth is enormous. A guard needs to notice enough to create danger, while communicating enough for the player to understand that danger. Suspicion gives you something to respond to. Instant, inexplicable detection mostly gives you a reason to reload.
 
-What interests me is the judgment behind it. A drop has to sit somewhere between predictable wages and meaningless noise. If rewards arrive with complete certainty, discovery loses some excitement. If practically everything is useless, uncertainty stops feeling generous. A game can keep asking for another hour long after it has stopped giving the player a good reason to offer one.
+In *Thief*, the room has to be understood through those behaviours. A strip of light matters because somebody might see you cross it. A floor surface matters because of the sound it makes beneath your feet. Listening for a patrol can be more useful than looking at the corridor ahead. The level’s shape is only part of the information you need.
 
-Day later presented his reward-design lessons at GDC. His framework included balancing deterministic and random rewards, maintaining rewards players had come to expect, and being generous.[^5] Those principles acknowledge that players form a relationship with a game’s rules. Changing the rules changes that relationship.
+This is where the programming becomes inseparable from the design. Change what a guard can perceive and you change which routes are plausible. Change how he responds and you change whether a mistake offers an opportunity to recover or simply ends the attempt. The player encounters all of that as the experience of sneaking through a building.
 
-This is why I would put a systems designer like Day in the same discussion as celebrated directors. Equipment affects the character you can build, the skills you want to use and the ambitions you set for yourself. That is a substantial part of an RPG’s personality.
+Leonard’s account also makes the late rescue less comfortable to celebrate. He believed an earlier decision would have spared months of trouble.[^5] The rewrite was an achievement, but his willingness to explain the delay is part of what makes the postmortem worth reading. It records both the judgement that saved the game and the mistake that made saving it harder.
 
-## A guard who can support the game around him
+## Halo’s enemies make a fight worth repeating
 
-Tom Leonard’s account of *Thief: The Dark Project* is a less comfortable development story. The game’s AI had become a major obstacle, and Leonard says he underestimated the severity of the problem despite concerns raised by Doug Church. Eventually, the team discarded most of the existing AI code and rebuilt it under severe time pressure.[^6]
+*Halo* is one of my favourites because its basic combat gives you so much to work with. Even when *Combat Evolved* repeats an interior beyond the point of novelty, the combination of weapons, grenades and enemy behaviour can keep the next fight enjoyable.
 
-The important detail is that the behaviour being built had to serve stealth. A system suited to a fighting game wasn’t enough. *Thief* needed enemies that could support a player’s attempts to remain unseen, make mistakes, recover and try another approach.
+Jaime Griesemer and Chris Butcher’s recollections help explain why. Discussing the first game, Griesemer described the personalities of Elites and Grunts, while Butcher explained how encounter design influenced the AI. The enemies’ behaviour developed alongside the situations in which players would meet them.[^6]
 
-That gives an AI programmer an unusually direct role in determining the experience. In a stealth game, the guard is part of the level’s structure. The distance he can see, the sounds he notices and the stages of his suspicion help define which routes are possible. Change those behaviours and you have effectively changed the room.
+The differences are useful to the player. An Elite can command attention while Grunts complicate the ground around him. Breaking up that arrangement creates opportunities. A grenade might remove a threat, but it can also force movement that makes the next shot easier or gives you a route out of trouble.
 
-I like stealth most when I can understand what went wrong. A noisy floor, a badly timed movement or an exposed crossing gives failure a cause. The next attempt has somewhere to begin. A guard who detects the player for reasons they cannot reasonably infer teaches very little beyond the value of quickloading.
+The satisfying part is how quickly a plan can change. A weapon you meant to save becomes the answer to an immediate problem. Closing the distance makes a melee attack worthwhile. A retreat gives your shields time to recover, provided you have left yourself somewhere to go. The game’s relatively small set of actions supports a lot of decisions.
 
-The same goes for sound. Footsteps are useful information about a place and its inhabitants. A surface can be beautiful to look at and troublesome to cross. The player starts evaluating a room through several senses at once, and an ordinary corridor becomes something worth considering carefully.
+Those decisions depend on being able to read the fight. Animation and sound help explain what an enemy is doing, so the AI’s work reaches the player through other disciplines. A behaviour that makes sense in code still needs to be legible amid gunfire.
 
-Leonard’s postmortem also describes the production difficulties behind making those systems cohere.[^6] The finished game can make a convincing world feel natural. Reading about its development reveals how contingent that naturalness was.
+This is also why crediting the combat to one person would miss the achievement. Butcher’s AI needs the spaces and situations the designers build. Those situations need enemies whose reactions are useful and expressive. The result can feel spontaneous because the team has done so much work on the conditions around it.
 
-It makes me appreciate the work of getting an idea to function. “You are a thief” is an appealing premise. A game that gives hiding, listening and moving carefully enough depth to sustain that premise is a much larger achievement.
+## Shinkawa’s drawing gave Metal Gear a character
 
-## Halo’s enemies give the combat its character
+Collaboration sometimes changes a game much earlier than that. In a 1998 interview, Hideo Kojima recalled that he had not originally planned a character like *Metal Gear Solid*’s cyborg ninja. Yoji Shinkawa described developing a soldier design into the cyborg figure and adding the sword. The character then became important to the plot.[^7]
 
-*Halo* is one of my favourite examples of a game whose fundamentals are strong enough to survive repetition. Some of *Combat Evolved*’s interiors repeat far more than I would like. Its encounters can still be enjoyable because the things happening inside those spaces remain interesting.
+The sequence matters: the drawing helped create a possibility for the story. An artist had room to influence what the game would become.
 
-In an interview about the original game, Jaime Griesemer described different personalities for the Covenant’s Elites and Grunts, while Chris Butcher discussed how encounter requirements helped shape the AI. Their accounts show the behaviour and the design developing together.[^7]
+Shinkawa’s contribution is visible throughout *Metal Gear* in the silhouettes and physical character of its people and machines. The designs make this particular mixture of military hardware and extravagance feel convincing enough to accept. A man can be carrying an absurd amount of equipment and still look as though somebody has thought about how he stands.
 
-An Elite and a Grunt don’t just offer different amounts of resistance. They make different demands on your attention. The more dangerous enemy can hold you in place while smaller threats become troublesome around it. A change in the fight can scatter those threats and give you an opening. You are reading behaviour as well as counting enemies.
+Kojima deserves credit for recognising what the ninja could offer and developing the story around it. Shinkawa deserves credit for an idea that the story did not already contain. Their account is more interesting than the familiar picture of a director arriving with a complete vision for everyone else to execute.
 
-I think that explains a lot of *Halo*’s appeal. The combat lets you establish a plan and then gives you reasons to improvise. You might intend to save a weapon for later, find yourself in a worse position than expected, and decide that later has arrived. A grenade can clear an area, move an enemy or create just enough confusion to cross exposed ground.
+The games’ long explanations and tonal excesses remain open to criticism. So does any other part of a celebrated developer’s work. Following a creative partnership becomes more rewarding when there is room to discuss both the imaginative decisions and the indulgences.
 
-The enemy has to communicate enough for these decisions to feel informed. If every reaction happens too quickly or invisibly, you lose the pleasure of understanding the fight. If everything is completely predictable, the encounter becomes a sequence to execute. *Halo* is often excellent at leaving room between those extremes.
+## Portal improved by watching people get stuck
 
-Bungie’s published development material gives names to some of that work, including Griesemer and Butcher’s presentation on the relationship between AI and level design, and Damian Isla’s later retrospective on the trilogy’s AI.[^8] That helps move the discussion beyond the studio logo.
+*Portal* needed players to understand an unfamiliar mechanic well enough to enjoy experimenting with it. Kim Swift’s development account shows how much of that teaching came from observing confusion.
 
-The broader experience also owes a great deal to its art, animation, audio and level design. An enemy’s personality is communicated through what it does, how it moves and what you hear. The player experiences those things together. Good collaboration can make the boundaries between departments disappear.
+The team had carried the portal idea from its student project, *Narbacular Drop*, into Valve. On *Portal*, playtesting began almost immediately, rather than near the end of development. That gave the team time to respond to what it saw.[^8]
 
-## Shinkawa’s ninja changed the story
+One early puzzle asked players to redirect an energy ball through portals twice. It was too much for an introduction. The team added two simpler sections involving a single redirection before asking players to handle the more complicated version. Subsequent testers understood it more readily.[^8]
 
-One of my favourite details from the research is in a 1998 interview with Hideo Kojima and Yoji Shinkawa. Discussing *Metal Gear Solid*, Kojima says he hadn’t originally planned a character like the cyborg ninja. Shinkawa describes experimenting with a soldier design, developing the cyborg appearance and adding the sword. The character became important to the plot.[^9]
+It sounds obvious once the solution is written down. During development, the people watching already know which surfaces matter and what the energy ball is supposed to do. They have to recognise which part of that knowledge the player has never been given. Telling someone to think harder would be considerably easier than rebuilding the lesson.
 
-That is a lovely example of an artist influencing more than the appearance of a finished idea. The drawing created an opportunity. The story changed to accommodate it.
+The resulting progression preserves the pleasure of working something out. A good chamber gives you enough information to form an idea, then lets you test it. The satisfaction belongs to the player, even though the team has carefully arranged the conditions that make understanding possible.
 
-It also makes the collaboration easier to appreciate. Kojima’s imagination is an enormous part of *Metal Gear*’s identity, but Shinkawa’s contribution has creative force of its own. Characters and machines have silhouettes, textures and physical attitudes that suggest the kind of world they inhabit. The art can make an idea compelling before anyone has explained it.
+Erik Wolpaw’s writing and Ellen McLain’s performance give those same chambers a different emotional character. Wolpaw discussed writing to McLain’s strengths as GLaDOS developed, while he and Swift described the effort to bring the story and gameplay together.[^9] The voice responds to the activity, gradually changing what it feels like to follow instructions in an otherwise empty room.
 
-I don’t think acknowledging that makes Kojima’s authorship less interesting. Being willing to recognise the value of someone else’s contribution is part of creative direction. A project can have a strong identity while allowing the people working on it to affect its course.
+That is a substantial achievement within a short game. More chambers would have been easy to advertise. Knowing which ideas needed another step, and when the existing ones had done enough, required a more exacting kind of judgement.
 
-There are obvious practical limits. A production cannot absorb every interesting suggestion. Work has to connect, deadlines exist, and someone needs to decide which ideas belong. But there is a large difference between providing direction and having already decided everything worth doing.
+## BioWare made the crew part of the adventure
 
-*Metal Gear*’s excesses are part of the picture too. The long explanations can be tiring. The tonal shifts sometimes demand a generous audience. What makes the series worth discussing is how much specific imagination reaches the player, including the imagination of collaborators whose contributions are easy to place beneath a director’s reputation.
+*Mass Effect* is my favourite series, and *Mass Effect 2* is the entry I like most. A large part of the appeal is the crew. The games make getting to know people aboard the Normandy feel like a worthwhile part of exploring the galaxy.
 
-I would rather learn the history of that ninja than hear another vague description of a visionary making a masterpiece.
+That depended on treating conversation as an interaction that needed design attention. In a contemporary interview, the original team discussed developing the conversation system early and trying to improve the flow of dialogue.[^10] Drew Karpyshyn was the first game’s lead writer and shared the sequel’s lead-writing duties with Mac Walters.[^11] Their words also had to work through performances, cinematic staging and the choices presented to the player.
 
-## Watching someone fail to understand your clever idea
+The Normandy benefits from repetition in a quieter way than a combat arena does. You return after a mission and have another reason to talk to someone. A different concern emerges, or an earlier conversation gains context. Familiarity accumulates around the ship, making it somewhere you want to return to rather than simply the menu between assignments.
 
-*Portal* offers a different view of greatness: the ability to make an unusual mechanic understandable without draining the pleasure from it.
+*Mass Effect 2* builds much of its structure around recruiting and preparing the team. Its final mission then asks you to make decisions involving the people whose abilities and histories you have spent the game learning about. Without spelling out the outcomes, that is an effective use of the time devoted to companions. The preparation matters because the people matter.
 
-Kim Swift’s development account describes the move from *Narbacular Drop* to Valve and the importance of observing playtests early and frequently. One puzzle involving redirecting an energy ball proved too difficult as an introduction. The team added simpler steps before asking players to deal with the more complicated version.[^10]
+There are weaknesses in how those relationships become systems. A personal conflict can resolve a little too neatly into a completed mission. The morality mechanics can encourage a consistent category of answer when the conversation would be more interesting if you responded to the particular person. Those limitations are worth discussing alongside the ambition.
 
-That seems straightforward when someone explains it afterwards. During development, it requires the people who already understand the puzzle to take the confusion of someone else seriously. They know where to look, which surface matters and what the mechanic permits. Their knowledge can hide the problem.
+Jack, Garrus, Wrex and Tali stay with me because there is enough room for their attitudes and histories to develop. That is the quality I most want another *Mass Effect* to preserve. A larger galaxy would mean less without people worth travelling through it with.
 
-A good puzzle needs the player to participate in the discovery. Too much explanation removes the satisfying part. Too little can leave them testing possibilities without a useful basis for choosing between them. *Portal*’s teaching generally gives the player enough evidence to form an idea, try it and see what follows.
+## FromSoftware leaves room for your curiosity
 
-That is something I admire in games beyond the puzzle genre. Learning an enemy’s attack, recognising a route through a level or finding a useful combination of abilities can all provide the same pleasure. You understand something you didn’t understand before, and the game gives you a chance to use it.
+*Elden Ring* gives exploration a different source of momentum. You can leave a difficult fight, find something unexpected elsewhere and return with another approach. A distant landmark can become your next objective before anybody has assigned you a quest.
 
-*Portal* also benefits from the way its writing responds to the experience. In their joint interview, Swift and Erik Wolpaw describe playtesting and the effort to bring the gameplay and narrative closer together. Wolpaw also discusses writing to Ellen McLain’s strengths as GLaDOS developed.[^11]
+That freedom is a big part of what I love about it. Exploring feels rewarding because I honestly don’t know what I might stumble across. The world leaves enough unanswered for curiosity to carry me forwards.
 
-The chambers give you problems to solve while the voice gives those problems an increasingly unpleasant context. The experience stays coherent because the writing understands what you are doing. It doesn’t have to interrupt the activity to become relevant.
+Miyazaki’s pre-release interview identifies freedom and exploration as priorities, while crediting the team’s accumulated experience with making a world of this scale possible.[^12] That credit is worth taking seriously. Routes, encounters and rewards have to work together for leaving one place to produce a worthwhile discovery somewhere else. The player needs alternatives that can support the decision to walk away.
 
-That is a lot of craft hidden inside a short game. The mechanic, teaching, performance and tone all need to support one another. Adding more chambers would have been much easier to describe as extra value than finding the right shape for the ones already there.
+The balance is uneven. Some quest requirements are obscure enough to obstruct a reasonable attempt to follow them, and repeated encounters become more noticeable across such an enormous map. Keeping a world mysterious does not excuse every missing piece of guidance.
 
-## BioWare made companions part of the reason to play
+Still, *Elden Ring* trusts exploration to provide much of its appeal. There is a useful connection with *Portal* here: both depend on what the player gets to work out. One carefully introduces the tools inside a chamber; the other gives you a world in which to decide where those tools might take you.
 
-*Mass Effect* is my favourite series, so I am hardly neutral about BioWare’s achievement here. I do think the reasons hold up to examination. The games made exploring a science-fiction universe and getting to know a group of people feel like parts of the same adventure.
+## Barone and Pope make revision visible
 
-The original team discussed the conversation system as one of the early elements of development. They wanted dialogue to flow more naturally, responding to weaknesses they saw in the delivery of earlier games.[^12] That is a useful detail because it places conversation among the game’s basic interactions. It needed design attention just as movement or shooting did.
+Eric Barone’s original *Stardew Valley* is a clearer case of individual authorship. He created its programming, art, writing and music, and described repeatedly revising work as his skills improved.[^13]
 
-The result gives time aboard the Normandy a purpose. Conversations develop your understanding of people who then accompany you into danger. What you learn about them changes the significance of having them there. The ship becomes familiar through those repeated interactions.
+The breadth of that effort is extraordinary. The revisions are equally revealing. Making an entire game means spending years looking at work that once represented the best you could do, then deciding which parts deserve another attempt. There is no guarantee that persistence will produce good judgement, but Barone’s account shows the two developing together.
 
-*Mass Effect 2* takes this especially far by making much of its structure about assembling and preparing the team. Mac Walters has discussed the creation of its cast, loyalty missions and final mission in a retrospective using development documents.[^13] Drew Karpyshyn’s own account identifies him and Walters as the sequel’s co-lead writers.[^14]
+His admiration for *Harvest Moon* gave the project a direction. He wanted to recover the qualities he loved and expand on them.[^14] The finished game gives farming, fishing, exploring and relationships enough connections that a day can be useful in several ways. A small task has an immediate purpose, while the seasons give longer ambitions a shape.
 
-The final mission’s broad design is worth considering without spelling out its outcomes. The game asks you to make decisions about people you have spent hours getting to know. Their capabilities and your preparation become things you have reasons to care about. That is a satisfying use of a companion cast.
+Lucas Pope’s account of *Return of the Obra Dinn* begins somewhere quite different: the wish to make a modern 3D game with a one-bit visual style. The game itself developed over years of experimentation.[^15] Its unusual appearance was an initial attraction, with the work of finding the right activity still ahead.
 
-There are mechanical weaknesses. A relationship can sometimes feel too easily translated into a task completed or a requirement fulfilled. The morality systems can encourage choosing a consistent type of answer instead of responding naturally. But the characters give those systems something substantial to work with.
+The eventual deduction asks the player to observe people and reconstruct events. In *Papers, Please*, checking documents similarly becomes the activity through which pressure and human consequences enter the game. Pope is especially good at making the subject depend on what the player pays attention to. A detail matters because you need to use it.
 
-Jack, Garrus, Wrex and Tali matter to me because of their histories, attitudes, conflicts and the way those things develop. Turning that material into a game involves writers, quest designers, cinematic artists, performers and many others. The people who make the conversation playable deserve to stand alongside the people who write it.
+Barone and Pope deserve individual recognition. Their examples also show why the number of developers is a poor measure of greatness. A single author can revise several parts of a game around the same idea. A team can bring different kinds of expertise into a relationship that no one contributor could have produced alone. The useful question is how the finished game benefits.
 
-When I think about what I want from another *Mass Effect*, this is where my mind goes first: a crew worth knowing, with enough space in the game for those relationships to become meaningful.
+## The cost belongs in the story too
 
-## The value of leaving something for the player to discover
+Development histories are particularly revealing when their authors resist a flattering account of what happened.
 
-*Elden Ring* gives me a different kind of pleasure. Its world keeps making me wonder what is further along a route, below a ledge or beyond a place that seems too dangerous to enter yet. You explore because you honestly don’t know what you might stumble across.
+Erich Schaefer’s *Diablo II* postmortem celebrates the game while describing a twelve-month crunch and the damage it did to relationships and quality of life.[^16] That belongs beside the account of what the team achieved. A successful release does not make those costs necessary, or turn them into advice for the next project.
 
-Miyazaki’s pre-release interview about the game describes freedom and exploration as priorities, and credits the team’s accumulated experience with making its scale possible.[^15] The phrase “accumulated experience” is useful here. It gives some context to a game that can otherwise seem like the expression of one director’s taste.
+Leonard’s admission about *Thief* deserves the same attention. The late rewrite helped the game, but he also explained why the crisis had been worse than it needed to be. Those admissions make it possible to learn something from the history beyond “talented people worked very hard”.
 
-My interest is in what the finished world permits. Leaving a difficult fight gives you somewhere else to go. An unexpected weapon can suggest a different character. Seeing something in the distance creates an ambition before the game has assigned you a task. Those possibilities give exploration its own momentum.
+Supergiant’s approach to *Hades* offers a different production story. The studio says it designed the game for Early Access from the beginning, including a modular structure and a narrative that could develop alongside player feedback.[^17] Revision had a place in the plan.
 
-The obscurity can go too far, especially around quests. A world can preserve mystery while giving the player enough information to make sensible decisions, and FromSoftware doesn’t always find the balance I would prefer. I also think the repeated encounters are more noticeable as the hours add up.
+The finished game makes unusually good use of repeated attempts. Combat gives you reasons to experiment, while returning home offers further conversations and developments. A failed escape can leave you wanting to know what somebody will say. The writing, art and audio help the repetition feel like the life of a place.
 
-Still, its greatest discoveries feel like discoveries. That requires restraint as well as content. If the game explains the significance of everything before you reach it, there is less left for you to do when you arrive.
+There is still a strong creative identity. Listening to players has not made every decision interchangeable. The achievement is choosing which feedback helps the game become more fully what its developers want it to be.
 
-There is a connection here with a good RPG conversation or puzzle. The developer has done enough work to support your participation and has left enough unresolved for that participation to matter. That is difficult to capture in a feature list. It is very easy to feel while playing.
-
-## A solo developer’s work still needs judgment
-
-Eric Barone is an unusually clear case of individual authorship. In an interview shortly after *Stardew Valley*’s release, he confirmed creating its art, music, code and other work himself. He also described revising material repeatedly as he became more capable.[^16]
-
-The scale is impressive. What I find more interesting is that the production story includes learning to recognise work that could be better. Finishing an enormous quantity of material and deciding some of it needs to be redone are different demands on a person.
-
-The finished game also has to justify that effort. Players encounter the farm, the town and its daily choices before they encounter a story about how hard someone worked. *Stardew Valley*’s range of activities gives different goals room to coexist. A day can feel useful in several ways, and longer ambitions make the changing seasons matter.
-
-Barone’s account of his influences is refreshingly direct: he wanted to recapture what he loved about *Harvest Moon* and expand on its formula.[^17] There is taste involved in deciding what deserves preservation. A successor can be valuable because it understands an existing pleasure deeply enough to develop it.
-
-Lucas Pope offers another form of individual authorship. Discussing *Return of the Obra Dinn*, he describes beginning with the wish to make a modern 3D game with a one-bit visual presentation, then working out the game over years of development.[^18] It is a useful corrective to the assumption that every great work begins with a complete design waiting to be implemented.
-
-What makes Pope’s games remarkable to me is how directly the activity carries the subject. *Papers, Please* asks you to perform the work around which its pressures are organised. Obra Dinn asks you to do the observing and deduction that make its mystery satisfying. The player’s attention is doing meaningful work.
-
-Solo development also shouldn’t become an excuse for dismissing teams. These are particular people making particular projects under particular circumstances. Their achievements show what concentrated authorship can accomplish. They don’t establish a sensible staffing plan for every other game.
-
-## The hours are part of the history
-
-There is a danger in collecting these stories: almost any difficult production can be turned into a tale of heroic endurance once the finished game is loved enough.
-
-Erich Schaefer’s *Diablo II* postmortem resists that reading. He celebrates the team’s achievement while explicitly identifying the year-long crunch as a serious cost to relationships and quality of life. Avoiding burnout was a problem he wanted future development to solve.[^19]
-
-I think that deserves to remain in the account. Admiring the game doesn’t require treating its working conditions as the recipe. A project can succeed while leaving its developers with good reasons to change how they work.
-
-It is also possible for the celebrated person to have made mistakes. In his *Deus Ex* postmortem, Warren Spector describes an unsuccessful attempt to organise two design teams with competing philosophies. He eventually merged them under one lead.[^20] The willingness to explain that failure tells us more about leadership than a version of the story in which every decision was correct from the beginning.
-
-For a positive example of revision built into the process, Supergiant’s explanation of *Hades* is useful. The studio says it designed the game for Early Access, including its modular structure and approach to narrative, so it could develop alongside player feedback.[^21]
-
-That doesn’t guarantee a great result. It does describe an intention to learn while making the game. *Hades* then provides an excellent finished example of combat, character writing, art and audio working towards a shared experience. Repeated attempts make sense within the story, and returning home can give a failed escape its own small rewards.
-
-I admire that kind of cohesion. It makes several people’s contributions easier to appreciate, even when the game itself feels seamless.
-
-## Remembering the contribution
-
-I still enjoy following the work of a particular developer. A name can give you a reason to be interested in a game you know very little about. So can a studio whose previous work has earned your trust.
-
-I just find the admiration more rewarding when it becomes specific. Travis Day’s thinking about items. Tom Leonard’s work making stealth possible. Shinkawa’s drawing giving the story a character it hadn’t planned for. The *Portal* team watching players struggle and changing the game accordingly.
-
-Those stories make the finished games more interesting. They reveal judgment, disagreement, revision and the contributions of people I might otherwise have missed in the credits.
-
-The next time a reward makes me rethink a build, or a fight gives me an opening I hadn’t noticed before, I would like to know who helped make it happen. There is often a very good story there.
+That is the judgement worth following in these accounts: recognising why a reward disappoints, accepting that a puzzle has taught its rules badly, or making room for a collaborator’s unexpected idea. A famous name can make a new game interesting. Hearing how its developers handle a problem gives me a much better reason to stay interested.
 
 ---
 
 ## Sources and reporting notes
 
-This feature combines published development accounts with criticism of the released games. I have not conducted original interviews for it. Participant recollections are attributed as recollections; an individual’s account does not establish sole credit for a team’s work. The *Mass Effect* discussion avoids specific final-mission outcomes; *Metal Gear Solid* character-design material includes a minor premise-level reveal.
+The development history draws on published participant interviews, developer-written postmortems and official material. Recollections are attributed to their speakers; the discussion of the released games is criticism. Individual examples identify a contribution within the wider production, rather than establish sole credit.
 
-Jason Schreier’s reporting prompted the angle, particularly the idea of looking beyond a familiar director or studio name. The publicly available itemization material supports Travis Day as a likely match for the *Diablo* example behind this article, but that identification remains an inference without the original book passage. No quotation or page-specific claim from that passage is reproduced here. Josh Mosqueira’s GDC retrospective provides direct participant context for the wider *Diablo III* recovery.
+[^1]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013. Proposed improvements to legendary items and build variety.
 
-[^1]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013. The journal describes proposed directions at publication, including stronger legendaries and alternatives to dominant damage statistics.
+[^2]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013. Rationale for removal and the 18 March 2014 closure.
 
-[^2]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013. Official statement of the original trading rationale, why it conflicted with the core game, and the 18 March 2014 shutdown date.
+[^3]: Blizzard, [Patch 2.0.1 Now Live](https://news.blizzard.com/en-us/article/12671560/patch-2-0-1-now-live), February 2014. Loot 2.0 and Smart Loot implementation.
 
-[^3]: Blizzard, [Patch 2.0.1 Now Live](https://news.blizzard.com/en-us/article/12671560/patch-2-0-1-now-live), February 2014. Official implementation details for Loot 2.0 and Smart Loot. Not every item was guaranteed to be a Smart Loot drop.
+[^4]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), GDC 2015. Participant retrospective on the game’s change of direction.
 
-[^4]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), GDC 2015. The session’s published overview identifies its discussion of core philosophy, itemization, rewards and the auction house.
+[^5]: Tom Leonard, [Postmortem: Thief: The Dark Project](https://www.gamedeveloper.com/design/postmortem-i-thief-the-dark-project-i-), July 1999. AI requirements, the delayed rewrite and Leonard’s assessment of his decisions.
 
-[^5]: Travis Day, [Rewards in Video Games: presentation slides](https://media.gdcvault.com/gdc2017/Presentations/Day_Rewards_Video_Games.pdf), GDC 2017. Principles are paraphrased from the slides; no claim is made to a full transcript of the talk.
+[^6]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015. Interviews with participants including Jaime Griesemer and Chris Butcher.
 
-[^6]: Tom Leonard, [Postmortem: Thief: The Dark Project](https://www.gamedeveloper.com/design/postmortem-i-thief-the-dark-project-i-), July 1999. Primary account of the AI’s mismatch with the revised design, Church’s warnings and the late rewrite. The ensuing evaluation of stealth feedback is criticism of the game.
+[^7]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/), translated from The PlayStation magazine by Shmuplations. Kojima and Shinkawa’s recollection of the ninja’s design.
 
-[^7]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015. Direct participant interviews, including Griesemer and Butcher. Their descriptions of enemy personality and encounter work inform the historical account; the combat evaluation is editorial analysis.
+[^8]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008. Early playtesting and the energy-ball puzzle progression.
 
-[^8]: [Bungie Publications, archived](https://bnetarchive.haloman30.com/inside/publications.html). Used to verify the authors and stated subjects of the published AI/design presentations, rather than as a substitute for watching unavailable recordings.
+[^9]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), March 2008. Story integration and McLain’s influence on the writing.
 
-[^9]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/), English translation by Shmuplations from The PlayStation magazine. Kojima and Shinkawa’s account of the ninja design and collaborative development.
+[^10]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007. Early conversation-system development.
 
-[^10]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008. Developer account, including early testing and the energy-ball puzzle example.
+[^11]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57). His lead-writing credits on the first two games.
 
-[^11]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), March 2008. Direct interview about story/gameplay integration, playtests and McLain’s influence on the writing.
+[^12]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022. Exploration, freedom and the team’s development experience.
 
-[^12]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007. Contemporary team discussion of the conversation system’s early development and intended delivery.
+[^13]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), March 2016. Barone’s work on the original release and revisions during development; this does not imply sole authorship of later ports and updates.
 
-[^13]: GameSpot, [Mass Effect 2 Dev Talks Cut Characters and Designing the Suicide Mission](https://www.gamespot.com/articles/mass-effect-2-dev-talks-cut-characters-and-designing-the-suicide-mission/1100-6487001/), February 2021. Mac Walters retrospective using development documents. The article’s public description establishes the subjects discussed; it is not cited as a full transcript.
+[^14]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), February 2017. His Harvest Moon influences and goals.
 
-[^14]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57). Firsthand identification of his lead-writing work on Mass Effect and co-lead credit with Walters on Mass Effect 2.
+[^15]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), March 2019; Pope’s [development-log archive](https://dukope.com/devlogs/obra-dinn/). Visual origins and the evolving design.
 
-[^15]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022. Development intentions and team experience. The exploration and quest evaluations are criticism, rather than additional claims about internal production.
+[^16]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), October 2000. The production’s crunch and personal costs.
 
-[^16]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), March 2016. Barone’s confirmation of his original creative work and explanation of revisions as his skills improved. This refers to the original game, not sole authorship of every subsequent port and update.
-
-[^17]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), February 2017. Direct interview on his Harvest Moon influences and goals.
-
-[^18]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), March 2019. Primary account of the visual starting point and evolving design. Also see Pope’s [development-log archive](https://dukope.com/devlogs/obra-dinn/).
-
-[^19]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), October 2000. His closing evaluation explicitly discusses the personal cost of the crunch period.
-
-[^20]: Warren Spector, [Postmortem: Ion Storm’s Deus Ex](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-), December 2000. Primary account of the two-team structure and subsequent merger.
-
-[^21]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/), on designing the structure and narrative for Early Access; [official Hades overview](https://www.supergiantgames.com/games/hades/), on its systems and premise.
+[^17]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/) and [Hades overview](https://www.supergiantgames.com/games/hades/). Early Access design, structure and premise.
 
 <!-- fourth-frame:end -->
 
