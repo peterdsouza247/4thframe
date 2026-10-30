@@ -121,6 +121,11 @@ Article files (updated by `scripts/add_article.py`):
 - god-of-war-2018-review: `stories/god-of-war-2018-review/index.html`
 - best-games-2026-ranked: `stories/best-games-2026-ranked/index.html`
 - every-game-of-the-year-winner-reconsidered: `stories/every-game-of-the-year-winner-reconsidered/index.html`
+- greatest-game-developers-and-teams: `stories/greatest-game-developers-and-teams/index.html`
+- the-people-who-made-our-favourite-games-work: `stories/the-people-who-made-our-favourite-games-work/index.html`
+- dragonlance-reading-guide: `stories/dragonlance-reading-guide/index.html`
+- hearthstone-stories-expansions-adventures-guide: `stories/hearthstone-stories-expansions-adventures-guide/index.html`
+- world-of-warcraft-stories-expansions-raids-guide: `stories/world-of-warcraft-stories-expansions-raids-guide/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
