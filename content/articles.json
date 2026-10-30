@@ -1038,5 +1038,75 @@
       "what-made-elden-ring-great"
     ],
     "published": "2026-10-28"
+  },
+  {
+    "slug": "greatest-game-developers-and-teams",
+    "type": "List",
+    "tags": [
+      "Game design",
+      "Developers",
+      "Lists",
+      "Diablo"
+    ],
+    "related": [
+      "the-people-who-made-our-favourite-games-work",
+      "mass-effect-revisited",
+      "halo-starting-over"
+    ]
+  },
+  {
+    "slug": "the-people-who-made-our-favourite-games-work",
+    "type": "Long read",
+    "tags": [
+      "Game design",
+      "Developers",
+      "Diablo",
+      "BioWare"
+    ],
+    "related": [
+      "greatest-game-developers-and-teams",
+      "mass-effect-revisited"
+    ]
+  },
+  {
+    "slug": "dragonlance-reading-guide",
+    "type": "Long read",
+    "tags": [
+      "Dragonlance",
+      "Fantasy",
+      "Books",
+      "Guides"
+    ],
+    "related": [
+      "world-of-warcraft-stories-expansions-raids-guide"
+    ]
+  },
+  {
+    "slug": "hearthstone-stories-expansions-adventures-guide",
+    "type": "Long read",
+    "tags": [
+      "Hearthstone",
+      "Warcraft",
+      "Blizzard",
+      "Guides"
+    ],
+    "related": [
+      "world-of-warcraft-stories-expansions-raids-guide",
+      "warcraft-iii-heroes"
+    ]
+  },
+  {
+    "slug": "world-of-warcraft-stories-expansions-raids-guide",
+    "type": "Long read",
+    "tags": [
+      "World of Warcraft",
+      "Warcraft",
+      "Blizzard",
+      "Guides"
+    ],
+    "related": [
+      "hearthstone-stories-expansions-adventures-guide",
+      "warcraft-iii-heroes"
+    ]
   }
 ]

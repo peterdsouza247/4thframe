@@ -5,7 +5,7 @@ Refresh from the site (replaces this file): `python3 scripts/export_articles.py 
 Preview: `python3 scripts/import_articles.py --dry-run`
 Apply: `python3 scripts/import_articles.py`
 
-<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following"]} -->
+<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide"]} -->
 
 <!-- fourth-frame:article {"slug": "telltales-batman-reinvention", "sha256": "100f9ea78c5d6fa7ca7a1d580d3d07af36b03e9c3b2c49c0a90bcae5f0610bea", "edit_sha256": "be9a193e68c0b9ae2ca1d82566d78325b805aaa8d3b2215603628d84f634d787"} -->
 ---
@@ -2973,5 +2973,4890 @@ The selection and comparisons are editorial judgments. The linked features conta
 [^4]: Image's [Pulp listing](https://imagecomics.com/comics/releases/pulp-tp) and [Fade Out Complete Collection](https://imagecomics.com/comics/releases/the-fade-out-complete-collection-tp) identify the standalone and twelve-issue options.
 
 [^5]: Image's [Paper Girls complete edition](https://imagecomics.com/comics/releases/paper-girls-the-complete-story-tp) and DC's [Y: The Last Man Omnibus](https://www.dc.com/graphic-novels/y-the-last-man-2002/y-the-last-man-omnibus) confirm the finished series ranges.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "christy-marx-jem-conan-games", "sha256": "5a95310442c4227431c37970251801927c8029fe22085ca620aeeac67188955c", "edit_sha256": "64bf5326a8960fb6cc164607cb39243462b063c99f7549e69acb706a947b4c55"} -->
+---
+title: "Christy Marx: From Jem and Conan to the Games That Let You Choose"
+description: "A researched portrait of Christy Marx's work on Jem, Conan, Red Sonja, Beast Wars, Sierra adventures and Tao Feng, with credits checked."
+summary: "The writer who made a toy commercial dramatic, Conan approachable and Robin Hood answer for your choices."
+deck: ""
+---
+
+The first clue to Christy Marx's career is that her best-known creation is often reduced to a pink-haired singer. In *Jem and the Holograms*, the concerts were spectacular, the clothes were louder than the songs, and an improbably sophisticated computer could project an entire second identity. Yet the machinery that kept the show going was less glamorous: an orphanage, a record company, an estranged sister, an unscrupulous executive and a heroine whose two lives demanded incompatible things.
+
+Follow Marx from *Jem* to Conan, Robin Hood, Red Sonja and a long-forgotten Xbox fighter, and a pattern emerges. She has spent decades taking franchises, legends and marketing concepts that arrive with their shapes already decided, then looking for the people who might plausibly live inside them.
+
+That makes her a fascinating figure in popular culture, and a difficult one to file under a single heading. She wrote television episodes, developed animated series, built Sierra adventures, created comics, contributed to role-playing games and worked on social games. The through-line is not a genre. It is a way of thinking about character, agency and the limitations imposed by the job.
+
+## Before Jem: a woman with a sword
+
+[TOC]
+
+Marx's route into professional writing began with a conversation with Marvel editor Roy Thomas. In a [2024 interview](https://retrofied.substack.com/p/the-story-behind-jem-an-interview), she remembered Thomas asking for a Conan-world story told from a woman's point of view. She went home and wrote it. That sale opened the door to *Red Sonja* stories and, eventually, television animation. Her early comics work included "Child of Sorcery" in *The Savage Sword of Conan the Barbarian*.
+
+There is something fitting about that assignment. Sword-and-sorcery fiction often gives its heroes enormous physical freedom while granting its women precious little narrative control. Writing from another person's perspective changes what the story considers important. The quest is no longer simply about defeating the monster. It is also about who decides which monster deserves to be fought.
+
+Marx later became openly critical of the sexual-violence-based origin given to Red Sonja in Marvel's comics. Rather than accept that as the unavoidable price of a female warrior's strength, she created *The Sisterhood of Steel*. In a [2015 conversation with The Mary Sue](https://www.themarysue.com/christy-marx-interview-4-parts/4/), she described wanting warrior women with rivalries, politics, desires, mistakes and convictions. The comic began appearing through Marvel's Epic imprint in the 1980s, with the independent graphic novel *Boronwë: Daughter of Death* following at Eclipse.
+
+The distinction matters. An invincible heroine can be as lifeless as an invincible hero. Marx was interested in why women would fight, disagree and organise, and what their victories might cost. That interest would reappear in a wildly different setting.
+
+## Jem: the toy commercial that refused to stay a toy commercial
+
+The usual shorthand calls Marx the creator of *Jem*. She has repeatedly corrected it. Toy designer Bill Sanders originated central toy-line elements; Hasbro developed the dolls; Sunbow hired Marx to build the television series around the approved framework. The competing bands, holographic computer and double identity were among the ingredients already on the table. The complete dramatic arrangement was her assignment.
+
+That is a more revealing credit than the mythology of one author having a flash of inspiration. According to Marx's [account of the production](https://retrofied.substack.com/p/the-story-behind-jem-an-interview), she devised the characters' fuller identities, relationships and backgrounds, the Starlight Foundation and Starlight Music, Eric Raymond, and much of the supporting cast. She developed the show across its 65 episodes, became its head writer and later shared story-editing duties. The exact episode count she personally wrote varies slightly in interviews, so treating an approximate 22 or 23 as a neat audited total would mislead.
+
+*Jem* is easy to caricature because its pitch sounds manufactured: a glamorous alter ego generated by holograms, famous rock groups, rival singers and tie-in dolls. Watch how its stakes operate, however, and the selling mechanism becomes the setting for a particularly odd domestic drama. Jerrica Benton inherits responsibilities that Jem can escape. The famous performer gets applause; the woman running Starlight has bills, family obligations and people relying on her. Synergy grants an extraordinary disguise but cannot decide which promise Jerrica should keep.
+
+The Misfits are useful antagonists precisely because their quarrels extend beyond who performs the better song. Their rivalry is mediated by contracts, managers, publicity, envy and ego. The stories are frequently extravagant. Their emotional engine is stubbornly ordinary.
+
+Sunbow originally presented *Jem* in short segments inside a programme also containing boy-oriented properties. Marx explained that executives worried boys would change the channel during the middle slot. When the material expanded into a half-hour series, the writers needed enough relationships and conflicts to sustain dozens of episodes. The solution was not simply another chase scene or more merchandise. It was a network of people capable of hurting one another.
+
+This may be the most impressive thing about *Jem*. Its premise was assembled by corporate necessity, yet its central problems do not dissolve when the lights come on. A lie told to protect a secret identity remains a lie after the concert.
+
+## G.I. Joe, Spider-Man and the skill of writing inside someone else's sandbox
+
+Before and around *Jem*, Marx was writing for *G.I. Joe* and Marvel animated series. Her [published credits list](https://christymarx.com/writing.htm) includes the *G.I. Joe* stories "Countdown for Zartan", "Captives of Cobra" and "The Synthoid Conspiracy", as well as episodes of *Spider-Man and His Amazing Friends*, including "A Firestar Is Born".
+
+Licensed animation invites a particular sort of professional craft. You inherit a cast with commercial obligations and a tone that may already be fixed. The character cannot be rewritten from scratch to solve the episode. Instead, the writer must find a useful collision between established identities: what this hero wants, what the other hero fears, and the one decision each would dislike making.
+
+Not every assignment becomes a career-defining masterpiece. That is beside the point. Working writers contribute to the texture of a cultural era through deadlines, revisions and seemingly minor episodes. Marx's career makes more sense when those jobs are treated as work rather than trivia between the famous projects.
+
+One 1980s title also illuminates what a credit check must not do. *Double Dragon* belongs in the same broad universe of action cartoons and videogame adaptations, but I could find no reliable writer or developer credit connecting Marx to that franchise. Her own credits do not list it, and the [1991 Marvel *Double Dragon* comic records](https://www.comics.org/series/4241/) name other writers. The connection often worth making instead is to a different fighting game she genuinely helped shape: *Tao Feng: Fist of the Lotus*.
+
+## Conan the Adventurer: making a barbarian work at Saturday-morning speed
+
+*Conan the Adventurer* posed a sharper adaptation problem. Robert E. Howard's Hyborian world was built for savage violence, danger and moral ambiguity. A syndicated children's cartoon could borrow its geography and hero but not straightforwardly reproduce its adult sensibility.
+
+Marx served as story editor across the animated show's 65 episodes and wrote episodes including "The Night of Fiery Tears", "Blood Brother", "The Star of Shadizar" and "Return to Tarantia". These are documented in her [personal credit archive](https://christymarx.com/writing.htm).
+
+The cartoon gave its Conan a recognisable continuing mission and made the series more suitable for children through recurring allies, fantasy threats and an enemy whose servants could often be defeated without the consequences of Howard's bloody battles. That is a substantial transformation. A sword-and-sorcery protagonist who was once defined by surviving dangerous, often self-contained adventures becomes the centre of a serial quest.
+
+The interesting measure is not whether the cartoon is faithful to every adult detail. It is whether the adaptation retains the sensation that Conan is a man out of place in a dangerous world, confronting forces that exceed him. An adaptation can strip away brutality and still preserve an appetite for peril. It can also lose the original's sharp edges. Both things are true of many children's action versions of mature material.
+
+Marx understood the balancing act from both sides: she had written in Conan's comics orbit before becoming responsible for material pitched at a very different audience. It is useful to compare her two Conan associations instead of treating them as identical work.
+
+## Sierra's Conquests: the player becomes the storyteller's problem
+
+For game historians, Marx's most exciting credits may be *Conquests of Camelot: The Search for the Grail* and *Conquests of the Longbow: The Legend of Robin Hood*. At Sierra On-Line she served as designer, writer and director, which meant her storytelling responsibilities extended into the player's actions rather than stopping at a script.
+
+She did not arrive with a lifetime's experience playing adventures. In [a detailed interview with The Adventurers' Guild](https://advgamer.blogspot.com/2016/05/conquests-of-pop-culture-interview-with.html), Marx recalled how a headhunter's interest in artist Peter Ledger led her to ask whether Sierra needed writers. A visit with Ken and Roberta Williams produced a job and, eventually, a game about Arthur.
+
+*Camelot* asked players to navigate a myth assembled from several different traditions. Marx researched Welsh and Arthurian lore, places associated with the legends, medieval symbolism and the gradual accumulation of details that turned a possible historical war leader into King Arthur. The appeal was not trivia for its own sake. A place, a ritual or a mistaken answer could matter to the adventure because the world had a texture of rules beyond its puzzles.
+
+*Longbow* went further. Robin Hood's legend invites a simple fantasy of being righteous and accurate with a bow. Marx built an adventure in which conduct matters as much as competence. There are different ways to resolve encounters, and the game tracks how Robin behaves. In that interview she described working with programmers on a weighted points system that allowed choices to accumulate toward different endings.
+
+That may sound routine to an audience raised on BioWare and branching visual novels. In 1991, it was a demanding design problem. If a player can negotiate, deceive, rescue or refuse, the script must account for consequences; if Robin's ethics influence the outcome, the mechanics have to recognise something beyond success at clicking the correct object.
+
+The games share an interest with *Jem*: identity is a set of obligations. Robin's name promises justice, so what he chooses to do under that name becomes the game's argument. *Longbow* deserves to be remembered as much for this attempt at systemic morality as for its lovingly researched setting.
+
+## Tao Feng: the fighting game you might have meant
+
+Here is the unexpected bridge between the animated writer and the arcade-shaped world of martial-arts games. For Studio Gigante and Microsoft's original Xbox, Marx worked on *Tao Feng: Fist of the Lotus*, the 2003 fighting game associated with John Tobias after his work on *Mortal Kombat*. Her [credit description](https://christymarx.com/writing.htm) is specific: she wrote world history, backstory and character biographies.
+
+That is a narrower role than designing the combat system, and it would be a mistake to credit her with its technical innovations. Still, it captures a recurring tension in fighting games. A player cares about frame timing, damage and the thrill of winning, while the game's fiction must give its combatants a reason to be there. A roster without relationships can feel like a row of action figures. Lore written around rival factions gives the blows a kind of context, even when the player skips every biography.
+
+It is worth separating *Tao Feng* from *Double Dragon*. The latter's brothers are famous for a scrolling beat-'em-up that eventually spawned other adaptations. *Tao Feng* is a one-on-one fighter, and Marx's connection is documented. Substituting the better-known franchise would make her career sound more familiar at the cost of getting it wrong.
+
+Her interactive career also included material for *The Legend of Alon D'ar*, *The Lord of the Rings: War in the North*, *CSI: Hard Evidence*, *Earth & Beyond*, and the unfinished *Babylon 5* space-combat project. Later she worked on games including *CastleVille: Legends* and *FarmVille: Tropic Escape* at Zynga. These assignments span almost every shift the industry made in how it sold stories and games.
+
+## Beast Wars, ReBoot and the unsettling side of children's television
+
+A writer who gave *Jem* enough human trouble for 65 episodes was also capable of producing one of *Beast Wars*' most disquieting stories. Marx wrote "Transmutate", an episode remembered for placing a vulnerable, unusual Transformer at the centre of a conflict between groups who struggle to see beyond their own priorities.
+
+The episode works because the title character is neither a conventional monster nor a standard recruit. Questions about usefulness, innocence and protection drive the action. The fact that these are transforming robots makes the premise strange; it does not reduce the tragedy to a joke.
+
+Her work on *ReBoot*, *Shadow Raiders* and *Bucky O'Hare* similarly occupied animated science-fiction settings that could be colourful, toy-friendly and surprisingly interested in loss or political power. In her *Bucky O'Hare* writing, the conflicts between mammals and the Toad Empire gave her room to work with loyalties and group identities. She also wrote for *Darkstalkers*, *Teenage Mutant Ninja Turtles*, *X-Men: Evolution* and *He-Man*, sometimes with collaborators.
+
+It is tempting to say these shows were secretly written for adults. That underestimates children. A child does not need to know the vocabulary of grief or prejudice to recognise that a character is frightened, mistreated or lonely.
+
+## The underrated accomplishment: moving between mediums without losing the people
+
+What holds Marx's career together is not an uninterrupted streak of hits. Some projects were commercial assignments. Some were constrained by ratings, studio notes or established toys. Some games had awkward systems or never shipped. A work-for-hire writer does not control everything that ends up on screen.
+
+But her strongest work treats genre's familiar promises as questions. The rock star has to answer to her family. The barbarian must function inside a story for children. The outlaw's methods determine whether he deserves the legend. The fighter needs a history before the first punch.
+
+It is also an unusually instructive career for anyone who wants to write games. Dialogue is only one small part of it. A playable story depends on rules, rewards, costs, branches, player habits and the difference between what a protagonist says and what a player is permitted to do. Marx explored those problems before "narrative designer" became a normal credit.
+
+For a starting route, watch the opening *Jem* episodes, revisit "Transmutate", look up her *Conan the Adventurer* stories and play *Conquests of the Longbow* if you can. The most revealing step is to notice which decisions belong to the audience or player and which decisions the fiction still insists a character must face.
+
+## Sources and credit notes
+
+This retrospective draws principally on [Marx's own television, comics and game credits](https://christymarx.com/writing.htm), her [2024 first-person account of developing Jem](https://retrofied.substack.com/p/the-story-behind-jem-an-interview), her [interviews with The Mary Sue](https://www.themarysue.com/christy-marx-interview-4-parts/) and [The Adventurers' Guild](https://advgamer.blogspot.com/2016/05/conquests-of-pop-culture-interview-with.html). The [Strong Museum's finding aid to her papers](https://www.museumofplay.org/app/uploads/2021/11/Finding-Aid-to-the-Christy-Marx-papers_112921.pdf) offers a valuable archival starting point. No new interview was conducted for this article. Where a contribution was to a single episode, character history or narrative editing, it is described at that level rather than inflating it into sole authorship.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "why-indian-game-studios-struggle", "sha256": "a789ec065160ef1d7b40068545118174d8c4649f91beea0c8ed6f76a741fadf8", "edit_sha256": "9cd52bd5fe9604a8d8806efb6b4caad975274562ad4b6f4a2c83b04afab6cfe2"} -->
+---
+title: "India Has Millions of Gamers. Why Is Making Games Here So Hard?"
+description: "A deep look at why Indian game studios struggle to turn technical talent and a huge audience into sustainable original games."
+summary: "A vast player base, skilled developers and a business model that still makes original games a risky bet."
+deck: ""
+---
+
+India does not have a shortage of people who play games. It has a shortage of businesses that can afford to make original games, find an audience for them and survive long enough to make another.
+
+That sounds like a contradiction only if we assume that a player is automatically a customer and a developer automatically belongs to a product studio. India has hundreds of millions of players, a large technology workforce and experienced game artists who help produce some of the world's biggest titles. None of those facts guarantees that an Indian studio can finance three years of development, buy attention in a crowded marketplace and sell enough copies to pay its next payroll.
+
+The industry's problem is less mysterious than its headlines suggest. We have become proficient at doing parts of other people's games, monetising mass-market attention and building services. Owning a game, from prototype to distribution to a sequel, is a different business. The gap between those businesses explains why so many promising Indian games arrive with a celebration and so few studios emerge with durable catalogues.
+
+## First, which gaming industry are we talking about?
+
+[TOC]
+
+The word *gaming* has been asked to do far too much work in Indian business reporting. It can cover mobile puzzle games, real-money contests, esports organisations, outsourced art, casino-adjacent products, console adventures and PC games sold on Steam. Counting all those customers and revenues together produces an impressive market and an almost useless answer to the question of how a small action-game studio survives.
+
+The distinction has become politically consequential, too. The Promotion and Regulation of Online Gaming Act, 2025 drew sharp lines around online money games while promoting esports and other online games. Regulatory pressure on real-money operators is not evidence that a studio making a single-player PC game has suddenly acquired a publishing budget. See the [government's legislative record](https://prsindia.org/billtrack/the-promotion-and-regulation-of-online-gaming-bill-2025) and [GamesBeat's 2025 industry account](https://gamesbeat.com/indias-game-industry-concludes-a-structural-reset-and-market-realignment-in-2025/) for the distinction.
+
+The basic category error matters when someone points to India's enormous gamer population and asks where its *The Witcher* is. A free-to-play mobile audience and the global audience willing to spend premium money on an untested Indian RPG are not the same group. Nor does the first automatically convert into the second when a developer adds more mythology to a trailer.
+
+## The back-office advantage became a business model
+
+India has genuine game-making expertise. Art and support studios work with international clients because their teams can deliver. That is an accomplishment, not an embarrassment. [Outlook Respawn's 2026 report](https://respawn.outlookindia.com/gaming/gaming-originals/the-inr-4-lpa-floor-why-indian-game-dev-salaries-are-stuck) discusses the outsourcing economy through companies such as Lakshya Digital and describes how service rates shape the salary market.
+
+But service work and original intellectual property produce very different incentives. A service business earns money when it delivers contracted labour. An original game can consume money for years before producing its first sale. The contract gives the client much of the upside, but often keeps the studio alive. An unproven IP offers possible ownership of a valuable asset, but also the chance of producing an expensive asset nobody wants.
+
+Picture two modest teams with equally talented programmers and artists. One has a contract to make environments for a publisher. It can hire against a schedule and invoice against milestones. The other has an idea for a combat-heavy adventure. It needs design iteration, user research, audio, localisation, platform compliance, community building, testing and marketing. The second business cannot invoice players for its next month of salaries merely because the prototype looks beautiful.
+
+The difficult part is financing the unbillable months. That is why the sensible advice to start smaller sounds simple until it collides with founders' ambitions and investor expectations.
+
+## A great prototype is not a plan to sell a game
+
+Games fail commercially for reasons that have little to do with the quality of the first ten minutes. A new developer needs to answer who will buy the game, where those people discover it, what existing games they compare it with, how much they will pay, how much it costs to reach them and what the studio can cut if the schedule slips.
+
+A studio may spend its entire budget reaching an attractive vertical slice before realising its promotional plan consists of posting a trailer and waiting for YouTube to notice. Steam wishlists do not guarantee sales, and a viral social-media post is not a durable acquisition strategy. Console distribution can require additional engineering, certification, testing and production support. The available budget is not merely the cost of making a game run.
+
+The [2025 survey of 22 domestic developers by the All India Game Developers Forum](https://www.aigdf.in/post/survey-of-domestic-game-developers) names funding, recruitment, marketing, regulatory uncertainty and specialist technical gaps among the obstacles. That is a qualitative survey, not a census proving every Indian studio has the same problem. Its value is that the problems described fit together. A studio with a tiny marketing budget may have to keep developing because too few players have heard of it; a longer schedule consumes the money meant to market the launch.
+
+In [a 2026 Business Standard report](https://www.business-standard.com/amp/specials/news/after-fy27-budget-the-unfinished-business-of-intellectual-property-126021101817_1.html), the missing link between production capacity and an audience is described as a persistent weakness: more training and production output will not, by themselves, build publishing businesses. Studios need people who know how to position, finance and distribute games, not only people who know how to make assets.
+
+## The cost of talent is not the same as the cost of experience
+
+India's engineering workforce is substantial, but writing enterprise software, building web services and making a responsive third-person action game are not interchangeable skills. Games require specialists in animation pipelines, rendering, physics, combat feel, level design, game economies, technical art and platform performance. Those people often learn by shipping games and being around senior colleagues who have shipped several.
+
+A country can have many computer-science graduates and still have too few experienced console combat designers. It can have a strong animation industry without an equally deep pool of technical artists who can make a character rig work across a particular game's systems.
+
+That produces a frustrating mismatch. Entry-level applicants struggle to find work, while studios report difficulty hiring the precise specialist who would unblock production. The 2026 [Outlook Respawn salary analysis](https://respawn.outlookindia.com/gaming/gaming-originals/the-inr-4-lpa-floor-why-indian-game-dev-salaries-are-stuck) documents this tension and the pull of other creative-technology employers. Its salary estimates should not be mistaken for a complete national payroll dataset.
+
+The answer is not to announce another broad game-development course and assume the problem is solved. Senior mentorship, commercial releases, postmortems and a healthy job market matter more than promotional footage of students learning an engine.
+
+## Mobile scale can conceal a weak premium market
+
+An Indian developer choosing between a mass-market mobile title and a premium narrative game faces two different sets of difficulties. Mobile rewards accessibility and can reach an enormous audience, but advertising rates, retention, user acquisition costs and dependence on platform distribution affect revenue. Free players are not automatically paying players. A premium PC game has a smaller reachable audience, but can generate substantially more revenue per sale if it finds customers internationally.
+
+It would be a mistake to treat the second route as morally superior. Some excellent games are free-to-play; some expensive games are shallow. The economic question is whether the design, price and platform fit a customer the studio can actually reach.
+
+The studios that move into premium games are competing globally. A player in Germany or Brazil does not give an Indian production extra latitude for weak controls or poor performance merely because it was made in India. Meanwhile, local players may be conditioned by years of free mobile releases, low-cost entertainment alternatives and the availability of enormous international back catalogues.
+
+Both markets are viable for the right product. Neither is a substitute for knowing the customer.
+
+## A cultural identity is an advantage, not a genre
+
+Few debates in Indian game development are more tiresome than the suggestion that the solution is to put gods, temples or historical warriors into everything. Indian history, folklore and everyday life contain a vast range of playable settings. So do its cities, trains, languages, food businesses, neighbourhood politics, horror traditions and family stories. The presence of Indian material is not the problem. Assuming that local material is itself a satisfying mechanic is.
+
+*Nodding Heads Games' Raji: An Ancient Epic* offered one answer: a visually distinctive action adventure that used Indian-inspired art and mythology as part of its identity rather than expecting the setting alone to do all the selling. It also demonstrated the enormous challenge of finishing an ambitious premium project. The [developer's account and release history](https://www.noddingheadsgames.com/) are worth approaching as a lesson in perseverance, not as a guarantee that every mythology-themed pitch is commercially sound.
+
+Other teams are exploring different territories. [Business Standard reported in June 2025](https://www.business-standard.com/industry/news/indian-game-studios-develop-homegrown-ip-gaming-growth-2025-125062300814_1.html) on projects including SuperGaming's *Indus Battle Royale*. They illustrate how widely the phrase *Indian game* can stretch.
+
+A game about Mumbai's delivery routes, a Goa fishing village or a fictional court inspired by medieval Deccan politics would be just as Indian as a mythological action game. The better test is whether the setting creates conflicts, systems and experiences that players could not get elsewhere.
+
+## The investment question nobody can dodge
+
+A serious original game may not earn anything until release. Money therefore needs to arrive before anyone knows whether the creative bet worked. Early investors face uncertain timelines, weak historical revenue data and an asset whose value is difficult to estimate. The developer faces an uncomfortable choice: promise a blockbuster, accept expensive financing, or build something smaller than the game they originally wanted.
+
+[Salone Sehgal of Lumikai argued in 2025](https://economictimes.indiatimes.com/tech/technology/indian-gaming-companies-facing-tougher-challenges-compared-to-china-salone-sehgal-of-vc-fund-lumikai/articleshow/120009400.cms) that Indian game companies operate in a demanding competitive environment compared with markets whose domestic companies had more protection. The argument is about structural conditions, not proof that money alone can create a hit.
+
+Investors sometimes want technology-like scalability from a product that behaves more like entertainment: uncertain hits, expensive production and hard-to-repeat cultural timing. Founders sometimes make the reverse mistake, assuming passion excuses a lack of commercial research. Neither side benefits from pretending games are ordinary apps.
+
+A functioning ecosystem needs patient capital, publishers with distribution expertise, transparent production budgets and founders willing to abandon features that make a trailer exciting but make shipping impossible.
+
+## What early pioneers could teach today's studios
+
+There is an instructive historical echo in *Yoddha: The Warrior*, the 2000 Indiagames PC shooter made in the wake of Kargil. Its founders [recalled to Gadgets 360 in 2016](https://www.gadgets360.com/games/features/yoddha-the-warrior-how-kargil-and-bollywood-inspired-indias-first-pc-game-868980) how they could build a game but needed outside finance and distribution. Pepsi funded its production; the team reportedly recouped the investment, but the retail market did not create a convincing future for Indiagames as a PC-game studio. The company pivoted towards mobile.
+
+This was not simply a failure of creative nerve. When the market rewards services or mobile distribution more reliably than premium PC production, rational businesses follow the revenue. The danger is that every studio makes the same decision and the ecosystem loses the accumulated experience needed to build larger games later.
+
+The past is not a perfect template for the present. Steam, global digital stores, engines and communities have changed what small teams can do. What survives is the central issue: the best route to keep paying employees may not be the route that builds original franchises.
+
+## What would improvement actually look like?
+
+It would look less like a single patriotic blockbuster and more like a patient succession of small, profitable releases. A studio makes a focused game that costs little enough to fail without destroying the company. It learns where players came from and why they left. It ships updates. It builds a catalogue, a mailing list, a reputation and a team that knows how to finish. Then it can attempt something larger.
+
+It would also mean recognising outsourced work as a potential training and financing engine instead of a stain on national prestige. The issue is whether studios can retain some expertise, capital and relationships for their own products. A carefully scoped game partly financed by service contracts can be a wiser step than a vast game financed by hopes of virality.
+
+Public policy can help through better training, access to financing, predictable regulation and support for distribution, but a subsidy cannot determine what players enjoy. The genuine measure of success is not how many games are announced at conferences. It is how many survive launch, repay the people who made them and enable their studios to make the next one.
+
+India has players. It has programmers. It has stories. The scarce resource is the repeatable business that connects all three without bankrupting the storyteller.
+
+## Sources and reporting scope
+
+This analysis draws on the [AIGDF's qualitative developer survey](https://www.aigdf.in/post/survey-of-domestic-game-developers), [academic research on Indian games history](https://journals.sagepub.com/doi/10.1177/15554120211045143), [GamesBeat's 2025 overview](https://gamesbeat.com/indias-game-industry-concludes-a-structural-reset-and-market-realignment-in-2025/), reporting by [Outlook Respawn](https://respawn.outlookindia.com/gaming/gaming-originals/why-making-a-game-in-india-costs-more-than-you-think), [Business Standard](https://www.business-standard.com/amp/specials/news/after-fy27-budget-the-unfinished-business-of-intellectual-property-126021101817_1.html) and [The Economic Times](https://economictimes.indiatimes.com/tech/technology/indian-gaming-companies-facing-tougher-challenges-compared-to-china-salone-sehgal-of-vc-fund-lumikai/articleshow/120009400.cms), plus historical interviews with Indiagames' founders. It is an analysis of publicly reported evidence, not an independently conducted industry survey. Market-size estimates from different sources are intentionally not treated as interchangeable.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "yoddha-the-warrior-indias-early-pc-game", "sha256": "0060d82633ae39f8aaab3a7135763439fedb3d490781123bb79734cca264d517", "edit_sha256": "3709e11d9f84107f51402882ffc6b80b48b853e6a6b6d75518c8608e3a6c693e"} -->
+---
+title: "The Indian Shooter That Put Pepsi Where the Health Packs Should Be"
+description: "The extraordinary documented development of Yoddha: The Warrior, Indiagames' Kargil-inspired PC shooter, and the limits of India's early games market."
+summary: "A Sholay-inspired prototype became a Kargil shooter. A cola brand paid the bills. The market changed its future."
+deck: ""
+---
+
+Somewhere in a computer game about defending India from infiltrators, a soldier needs medical attention. He finds a floating Pepsi logo, collects it, and is rewarded with the familiar jingle, *Yeh dil maange more*.
+
+That sounds like a joke written years later about the absurdity of video-game advertising. It happened in *Yoddha: The Warrior*, a first-person shooter that Indiagames sold on Indian PC shelves in 2000. It was one of the earliest commercially released 3D PC games made in India. The branding was not an afterthought. It helped make the game possible.
+
+For a country with a celebrated software industry, this ought to have been the beginning of a thriving PC-game business. Instead, *Yoddha* became a strange milestone: proof that a small Indian team could create and distribute a shooter, and an early lesson in why being able to build a game does not mean a studio can build a sustainable business around it.
+
+The most detailed account survives because journalist Rishi Alwani interviewed Indiagames founders Vishal Gondal and Ninad Chhaya for [Gadgets 360 in 2016](https://www.gadgets360.com/games/features/yoddha-the-warrior-how-kargil-and-bollywood-inspired-indias-first-pc-game-868980). Their recollections give us a rare production story. It is also a retrospective told sixteen years after release, so precise sales numbers and some memories should be treated as estimates rather than audited records. No surviving internal design document or new developer interview was used for this reconstruction.
+
+[TOC]
+
+## The shooter before the shooter
+
+In the summer of 1999, the Kargil conflict had made headlines and national television. Gondal was already writing software and experimenting with games. His team had created *I Love India*, a Shockwave browser shooting game built around the contemporary military crisis. Chhaya remembered helping design the game's flow. A basic shooting mechanic had been given recognisably Indian subjects and immediacy.
+
+There was no revolutionary technology in that early experiment. Its significance was the reaction. The founders remembered people paying attention because the imagery belonged to their world. The lesson they took was direct: the same appeal might work in a full commercial game.
+
+But the project that became *Yoddha* did not begin with soldiers on a Himalayan frontier. It began, according to the founders, with Bollywood.
+
+The team considered a shooter inspired by *Sholay*. Imagine a version of the 1975 film's climactic confrontation, with the player pushing into bandit territory and facing a villain recognisable as Gabbar Singh. It was a marketable pitch for an Indian audience that already knew the film's people and places.
+
+There was a problem: they could not afford the rights.
+
+So the fictional enemy was changed. Gabbar became **Gaddar Singh**, a pun on the Hindi word for traitor. The premise shifted towards infiltration and the mood of the Kargil period. In effect, an unlicensed film-inspired prototype had evolved into a nationalist military shooter. The change was not only creative. It arose from the price of intellectual property.
+
+A modern pitch deck might praise this as a sharp pivot. To the developers, it was a practical way to make a commercial game with the resources they had.
+
+## A soldier, a villain and an era
+
+The released game put players in the role of an Indian soldier, the titular *Yoddha*, fighting militants and infiltrators in enemy-held areas. Gaddar Singh supplied the hostile face and a reason to push through the campaign. The premise drew its atmosphere from the Kargil War but should not be mistaken for a careful simulation of the actual conflict.
+
+We should also resist improving the historical record with imagined lore. The surviving contemporary and retrospective coverage gives us a soldier, an enemy commander and a military setup, but not a well-documented cast of named supporting characters or a richly explained personal arc. There is no reliable basis here for inventing biographies, cutscenes or motivations for each opponent.
+
+The interesting story is how the team imagined making the game recognisable as Indian when most imported shooters presented foreign soldiers, space marines or fantasy protagonists. The national backdrop distinguished the project in a crowded genre even if its combat systems could not rival international releases.
+
+## The game they could afford to build
+
+The developers built *Yoddha* using A4, an engine they considered appropriate for their capabilities. They understood that the technology lagged behind the best international shooters. They were playing games such as *Half-Life* at the time, and they understood the gap between their production and *Doom*, *Quake* and the new generation of first-person games.
+
+That gap shaped the actual design. The team could not assume that every Indian consumer had a powerful graphics card. The game had to run on local machines whose capabilities were uneven and often below the specifications expected by Western PC publishers. Lower visual complexity was not merely artistic conservatism. It reflected the hardware of the customers they hoped to reach.
+
+From the accounts available, this was an older-style first-person shooting experience: move through enemy spaces, confront hostile characters, collect supplies and advance. There is no substantiated record of a novel combo system, competitive multiplayer scene or intricately branching missions. Claims about those features would be embellishments.
+
+It is possible to appreciate the ambition without pretending *Yoddha* was technically competitive with the world's leading shooters. One of its founders made essentially that point in the 2016 interview: quality could not be its unique selling proposition against the giants, but being an Indian game for Indian players might be.
+
+The team was also learning production as it went. Chhaya said he had not been formally trained in design and did not know how to write a game design document. Gondal could code, and the company's normal business was services. The shooter began as an enthusiasm that expanded until it consumed more attention than expected.
+
+This is one reason early game-development histories so often sound less orderly than corporate retrospectives. The modern vocabulary of milestones, vertical slices and production pipelines was not necessarily available to a tiny studio making something few of its neighbours had attempted.
+
+## Then the money ran out
+
+The team had a working idea and an engine, but making a commercial product still needed funding. In the founders' telling, Indiagames approached Pepsi with a sponsorship proposal. Pepsi was interested, on one condition: the health collectible would carry its logo.
+
+So the soldier in a Kargil-inspired shooter healed by picking up Pepsi. The campaign slogan played when he did so. It is comical, but its commercial function was serious. The brand paid for the game's production, according to Chhaya and Gondal.
+
+This arrangement says a great deal about the Indian PC-game market of the time. A conventional publisher might have advanced money based on expected software sales and taken a cut later. Indiagames found a company willing to pay because a game could promote a drink. In that arrangement, players were not the only customers. An advertiser was buying their attention before the retail market had proven itself.
+
+The health pack is thus more than a charming oddity. It is the most visible trace of the game's financing.
+
+A [2005 Economic Times report](https://economictimes.indiatimes.com/all-in-the-game/articleshow/1037320.cms?from=mdr), published much closer to the release than the founders' 2016 reflections, also described the Pepsi health pickup and called *Yodha* an early Indian PC shooter. That earlier corroboration matters when an extraordinary detail threatens to sound too good to be true.
+
+## Getting onto a shelf
+
+In 2000, *Yoddha* arrived in Indian retail. The reported price was ₹499, an amount chosen for a market where the cost of imported software and limited purchasing power constrained demand. The team knew a shop such as Planet M was unlikely to position their modest home-grown shooter as an equal to *Doom*. They instead sold the Indian identity of the project.
+
+Gondal later recalled sales of roughly 10,000 copies but made clear he was speaking from memory. This is not a verified accounting total. He also remembered the title recouping its production costs because Pepsi had funded creation. That distinction is crucial: commercial viability from sponsorship does not establish that the game had a sustainable audience at full development cost.
+
+The launch was a milestone, not the birth of a permanent PC-shooter franchise. The team did not follow it with a line of increasingly ambitious retail shooters. Indiagames moved towards the kinds of mobile projects that offered a more convincing business opportunity.
+
+From today's perspective, that can seem like an unhappy ending. For a company responsible for paying people, pursuing a stronger market may have been the only reasonable choice.
+
+## Was it really India's first video game?
+
+The phrase *India's first video game* is seductive and almost certainly too broad. Indians had created software, electronic games, arcade-style experiments and smaller interactive projects before *Yoddha*. Early Indian PC gaming also included *Bhagat Singh*, another patriotic shooter whose chronology is not consistently described in later accounts.
+
+A [peer-reviewed history by Xenia Zeiler and Souvik Mukherjee](https://journals.sagepub.com/doi/10.1177/15554120211045143) places *Bhagat Singh* and *Yoddha* among early locally produced first-person shooters. The authors' account makes it unsafe to crown a single unqualified first. The 2016 Gadgets 360 story calls *Yoddha* India's first 3D game and suggests it may have been the first commercially sold PC game or first FPS. The wording *may have been* deserves to survive retelling.
+
+Another milestone arrived in 2009, when Hyderabad-based Aurona Technologies made *Hanuman: Boy Warrior* for PlayStation 2. Sony described it as the first Indian PS2 game made by an Indian team, a narrower and better-supported claim. It was not a one-on-one fighting game, and it was certainly not the beginning of interactive entertainment in India.
+
+A very plausible answer to the remembered one-on-one fighter is [*BattleDust: The Championship*](../../stories/battledust-forgotten-indian-fighting-game/), Paradox Studios' mid-2000s 3D fighting game. Its publicity also promoted a claim to India's first 3D PC game, although *Yoddha* predates it. The two games belong to different genres and studios, and neither requires dismissing the other's place in early Indian gaming history.
+
+## What the mechanics reveal
+
+The game's formula can sound unimpressive: an Indian soldier, hostile intruders, basic first-person shooting and pickups. Yet the choices underneath are unusually revealing.
+
+First, the creators prioritised local recognisability over technological superiority. The Kargil setting was not an abstract exotic backdrop: it was recent enough to carry powerful feelings. Second, the engine and target hardware put a ceiling on visual ambition. Third, the proposed *Sholay* tie-in could not survive its rights cost. Fourth, funding reached directly into game design when Pepsi became a health item.
+
+All four forces are still familiar to independent developers. Marketing determines subject matter. Licensing determines which characters exist. Hardware determines what is possible. Money determines which apparently ridiculous detail becomes mandatory.
+
+A videogame is not merely a story the creators decided to tell. It is a negotiated object, shaped by the machines that must run it and the people who can afford to finance it. *Yoddha* happens to show those negotiations unusually clearly.
+
+## The game after the game
+
+There is a temptation to make the ending more heroic by imagining an ignored masterpiece that would have transformed India's game industry if consumers had only recognised it. That is not what the evidence supports. The founders knew their technology was behind the leading shooters. They found a clever sponsor, finished the game, and sold a modest number of copies in a difficult market.
+
+What makes the production worth revisiting is not that *Yoddha* was secretly *Half-Life*. It is that a small software team confronted almost every difficulty that later Indian game studios would recognise: scarce financing, expensive licences, hardware limitations, unproven retail demand, a shortage of established production practices and the lure of a safer business model.
+
+The image that remains is still that Pepsi pickup. It is funny because a military shooter pauses the war to advertise a soft drink. It is important because, without that intrusion, the game might not have been finished at all.
+
+For a country still trying to turn its talent and gaming audience into lasting original studios, that is a far more useful origin story than the invention of an undisputed first.
+
+## Sources and reconstruction notes
+
+The backbone of this reconstruction is [Rishi Alwani's 2016 interview with Vishal Gondal and Ninad Chhaya](https://www.gadgets360.com/games/features/yoddha-the-warrior-how-kargil-and-bollywood-inspired-indias-first-pc-game-868980). The branded health packs are independently described in [The Economic Times in 2005](https://economictimes.indiatimes.com/all-in-the-game/articleshow/1037320.cms?from=mdr). Historical context comes from [Zeiler and Mukherjee's scholarly history](https://journals.sagepub.com/doi/10.1177/15554120211045143) and [contemporary reporting on *Hanuman: Boy Warrior*](https://economictimes.indiatimes.com/industry/media/entertainment/sony-computer-launches-hanuman-boy-warrior-game-on-ps2/articleshow/4315833.cms?from=mdr). The account does not claim access to unpublished archives, firsthand play of a preserved copy, or new interviews. Distinctive dialogue and scene-setting are paraphrased from documented recollections, not invented eyewitness scenes.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "battledust-forgotten-indian-fighting-game", "sha256": "1f84ec23b368f6e360fc8125c432b7e1562b353de76f3dbd46a60ef22c3d8472", "edit_sha256": "74e6a23b3c79db1a827f4b6c7ba32ff9dd684ffbdae03a39a60795f46f2f547e"} -->
+---
+title: "The Indian Fighting Game That Came With a 44-Page Comic"
+description: "How Reliance-backed Paradox Studios built BattleDust: The Championship, an ambitious early Indian 3D fighter whose history deserves preserving."
+summary: "Seven fighters, an adaptive opponent, a rock video and a 44-page comic: the strange ambition of BattleDust."
+deck: ""
+---
+
+At the launch of an Indian fighting game, Bobby Deol was present, the cast of a new Vikram Bhatt film joined the proceedings, and executives talked about taking the country's computer games to an international audience. The product was a one-on-one fighter with seven warriors, a final boss called Lord Moksha and a 44-page comic explaining why everybody wanted to hit everybody else.
+
+That game was *BattleDust: The Championship*. The studio behind it was not Dhruva Interactive, the pioneering Bangalore company often mentioned in the same accounts of early Indian games. It was **Paradox Studios**, a Reliance-owned company making mobile and online games. The retail release was published by Cyber Multimedia, and a contemporary launch report listed a price of ₹399.
+
+If this sounds like a project that ought to have left a substantial footprint, the opposite is true. Even the game's basic history is difficult to find without trawling through magazine archives, launch coverage and articles about people who went on to more famous jobs. For a production that involved years of work and the ambition to create a home-grown franchise, that thin record feels particularly unfair.
+
+[TOC]
+
+The story worth telling is not another breathless proclamation that somebody built *India's first video game*. By the time *BattleDust* reached shops, other Indian teams had already produced games. It is the story of a studio taking the fighting-game genre seriously enough to build its own world, characters and marketing campaign, then launching into a market much better at selling mobile minutes than collecting original PC franchises.
+
+## A launch with all the trimmings
+
+The [contemporary AnimationXpress launch report](https://www.animationxpress.com/games/paradox-studios-launches-battledust-the-championship/?amp=1) reads like an artefact from an age of considerable optimism. Paradox's chief executive Anurag Khurana appeared alongside Bobby Deol and other members of the cast of *Jurm*. Pradeep Gupta of publisher Cyber Multimedia spoke about the opportunity for entertainment software as Asian consumers acquired more spending power. His sales expectation was around 10,000 copies in a year.
+
+An expectation is not a result. No independently verified sell-through figure appears in the contemporary sources located for this account, so it would be a mistake to repeat 10,000 as the number the game actually sold. For a young company making its first full PC release, the target nevertheless tells us what sort of business the publisher imagined: a boxed game for an Indian retail audience, not just a promotional Java app disappearing into a phone operator's catalogue.
+
+At a time when PC releases from Indian teams were unusual enough to generate specialist trade coverage, the event did the work of a cultural announcement. Here was a game with its own characters and setting. It had been built locally. It even had a paper comic in the box. Those touches were deliberate answers to an important question: how do you convince players accustomed to major international franchises that a local production is worth money?
+
+The marketing answer included a music video. Paradox had produced a fully animated film called *Fight* with music by the Indian rock band Pentagram, screened on MTV. The launch report describes hand-keyframed high-resolution characters, with some models reaching around 20,000 polygons, acting through a promotional sequence with visual effects. That figure concerns the film's models, not a verified polygon budget for the playable fighters. The distinction is important: a promotional film and a game running in real time have different technical constraints.
+
+This was considerable extra work for a debut PC game. It was also an acknowledgement that making software is only half the battle when nobody knows your title.
+
+## The Reliance studio behind the fighter
+
+Paradox Studios began operating in 2001 and had already built more than a hundred Java and WAP titles by the time of the *BattleDust* launch, according to AnimationXpress. That background helps explain how a studio with an apparently audacious PC project also had a practical business to attend to. It was working in mobile content, a space where telecoms could distribute small games to paying subscribers.
+
+In the early 2000s, an Indian studio could not assume that customers would simply visit Steam, watch a trailer, add the game to a wishlist and purchase it on launch day. There was no such established pipeline for local premium titles. Publishers, internet cafés, boxed retail, mobile networks and branded promotions were competing answers to the distribution problem.
+
+Paradox was connected to Reliance, which was building a network of telecom services and Web World locations. In [a February 2006 Rediff report](https://www.rediff.com/business/special/spec/20060206.htm), *BattleDust* appears in a section about games offered to Reliance Infocomm subscribers. It describes play through mobile phones or computers using Reliance broadband and a charge of ₹2 a session. These services should not be confused with the earlier ₹399 boxed PC edition; the reporting describes different ways of reaching customers, not necessarily identical builds with identical features.
+
+That later availability is intriguing. Paradox was trying more than one route to an audience: the traditional PC box and the telecom-distributed session. Neither is a natural fit for cultivating a community of dedicated fighting-game players over a decade. But both were understandable experiments in a country where internet access, computer ownership and payment habits were changing quickly.
+
+There is another wrinkle in the corporate history. Reporting from 2006 names Salil Bhargava as Paradox CEO, whereas the launch account names Anurag Khurana. These are snapshots from different dates and should not be flattened into a claim that one man ran every phase of the company. Khurana's association with the project is further supported by [later reporting on his career](https://www.gadgets360.com/games/news/league-of-legends-creator-riot-games-to-set-up-shop-in-india-1659928).
+
+## Seven fighters and one very Indian final boss
+
+The reported roster contained seven warriors, fighting across eight selectable levels in locations around the world. Some were deliberately Indian, including a character called **Major Veer**. The final opponent was **Lord Moksha**, a name with far more local flavour than the standard English-language villains of the arcade era.
+
+There is a practical limit to what can now be said about the other fighters. The launch reports do not preserve a reliable complete roster or the individual stories from the boxed comic. I have not inspected a physical copy of that comic. Supplying descriptions for five unnamed warriors would be invention masquerading as preservation.
+
+The existence of the comic itself is one of the project's most revealing details. Forty-four colour pages are a lot of material for a fighting game whose bouts, by their nature, can be won without reading a single paragraph. Paradox evidently wanted the fights to have stakes beyond a health bar and wanted its characters to be remembered as individuals. The comic is also an appealing piece of packaging in an era when buying a PC game meant opening a box, looking at the manual and sometimes finding a small universe inside it.
+
+The design choice makes sense if you look at the fighters available to Indian PC owners at the time. *Mortal Kombat*, *Street Fighter*, *Tekken* and *Virtua Fighter* had already trained audiences to expect distinctive rosters, recognizable moves, competitive rivalries and secretive bosses. A new fighter had to provide immediate mechanical satisfaction, but it also needed an identity strong enough to survive comparison.
+
+Names such as Major Veer and Lord Moksha suggest an attempt to find that identity without making every fighter local. A [February 2004 preview reference in *Digit*](https://electronicsandbooks.com/edt/manual/Magazine/D/Digit%20IN%20www.thinkdigit.com/2004/200402_Digit.pdf) indicates that Paradox talked about international characters as a way of reaching players beyond India. It was not simply making a patriotic roster; it was trying to be recognisably Indian and exportable at the same time.
+
+The result is an interesting cultural negotiation. A locally made game needed a character who looked and sounded as if he belonged here, but its creators also thought that global variety would help it compete outside its home country. That tension has never entirely gone away.
+
+## The promised opponent that learned your habits
+
+The clearest contemporary claim about actual play concerns enemy behaviour. The studio said *BattleDust* used an AI system that responded to repetitive tactics. Keep throwing the same attack and the computer opponent would begin evading it, according to the launch account.
+
+Anyone who has played fighting games recognises the problem this is trying to solve. An opponent that repeatedly walks into the same kick is not much of an opponent. On the other hand, a computer fighter that knows exactly what the player is about to press can feel like it is cheating. Good fighting-game AI must create the impression of a contest, allow recognisable patterns and punish bad habits without seeming supernatural.
+
+The clever part of the marketing claim is that it turns a programming feature into an opponent with memory. You cannot rely on one trick because the other fighter supposedly catches on.
+
+We should be careful about the next step. I have not found a technical breakdown or surviving playable build sufficient to verify how sophisticated the behaviour really was. The developers may have used counters, move-frequency thresholds, state machines or some other rule system. The promotional phrase *adaptive AI* cannot settle the implementation. Calling it machine learning would be particularly misleading.
+
+Even treated strictly as a claim, however, it tells us what Paradox believed would make the game sound competitive. The developers did not merely advertise seven models exchanging blows. They wanted the fights to reward variation and discourage repetition.
+
+The game also offered selectable stages and localised settings. Contemporary sources document those broad features, but not a dependable complete list of special attacks, frame properties, button commands, throws or arcade-mode endings. These are the details a fighting-game historian would want from a manual and a preserved build. Their absence is a reason to look for those artefacts, not permission to fill the space with familiar genre conventions.
+
+## Two years, ten thousand frames and the strange comfort of production numbers
+
+Paradox's promotional material provided an unusually precise-sounding breakdown of its labour: about two years of development, close to 4,800 person-hours of preproduction, 52,687 lines of code across 600 files, and 10,000 animation frames.
+
+All those figures come from the [launch report's summary of the studio's press release](https://www.animationxpress.com/games/paradox-studios-launches-battledust-the-championship/?amp=1). They should be read as figures supplied by the company, not independently audited counts. But their specificity is revealing. A studio making one of its first original PC products wanted the public to understand the scale of the undertaking. It had written software, built assets, animated characters and spent a long time figuring things out.
+
+The numbers were a way to make an invisible creative process legible. When a film is made, its sets and actors and locations are visible to reporters. When a fighting game is made, much of the difficulty is hidden inside tools, pipelines, timing rules and a thousand revisions to animation and collision. Quoting code files or animation frames offered a way to say: people made this, and it took real work.
+
+There is little reason to treat more code as a guarantee of a better game. The leanest solution may be the best one, and ten thousand frames mean little if a strike feels sluggish. Yet the figures matter historically because Indian game production was young enough for its labour to require explanation.
+
+The surviving account also raises questions worth further reporting. How large was the core production team? Which tools were used for combat animation? Were the characters motion-captured, hand animated, or a combination? How many revisions did the AI receive? Without the team or its original materials, these questions remain unanswered.
+
+One developer's [public professional project history](https://in.linkedin.com/in/saurabh-gupta-814b4725) identifies work on *BattleDust* from late 2001 to April 2005, consistent with a lengthy development cycle. A CV establishes association and dates as supplied by the individual; it does not, on its own, settle the release date or every personnel credit.
+
+## Did the fight find its audience?
+
+The publisher expected around 10,000 retail copies in its first year. The company also explored service distribution. Beyond that, the accessible public record is frustratingly sparse. I found no reliable figures showing how many boxed copies were sold or how much revenue the ₹2 session model produced.
+
+This is where the common retrospective temptation becomes dangerous. A game that vanished from public discussion feels like a flop, so writers supply a dramatic commercial failure and move on. Obscurity is not proof of a particular sales result. Paradox may have generated revenue through other channels even if the PC fighting brand did not become a lasting franchise.
+
+What we can say is that the company kept appearing in reporting about mobile content and branded games. Rediff's 2006 account described a business creating new games frequently and trying promotional projects such as the Thums Up Everest Challenge. Paradox's activities illustrate the commercial pull of games that could be distributed quickly through telecommunications or used to promote an existing brand.
+
+That does not make *BattleDust* a foolish detour. Original IP offers a studio something hired production cannot: the possibility of owning characters, sequels, adaptations and a recognizable name. A full-colour comic, a music video and a carefully introduced final boss make more sense when understood as an effort to start a franchise rather than sell a one-off toy.
+
+The industry simply made the other business more immediately measurable.
+
+## So was BattleDust India's first game?
+
+The distinction is important because the phrase *first Indian game* gets attached to several projects that cannot all hold the same title.
+
+Dhruva Interactive was a pioneering professional game studio, founded by Rajesh Rao in the 1990s. In a [2012 interview with MCV](https://mcvuk.com/business-news/interview-rajesh-rao-dhruva-interactive/), Rao described building an engine and pursuing international work after recognising how early it was for India's domestic market. That is part of India's game-development story, but it is not the production history of *BattleDust*.
+
+*Yoddha: The Warrior*, from Indiagames, reached retail in 2000. Its founders described the process and its Kargil-inspired subject in a [2016 Gadgets 360 interview](https://www.gadgets360.com/games/features/yoddha-the-warrior-how-kargil-and-bollywood-inspired-indias-first-pc-game-868980). It has a stronger claim to being an early domestically sold Indian 3D PC game than a later fighter whose launch publicity also called it the first 3D PC game. Such superlatives were part of the industry's promotional vocabulary, not necessarily the result of an exhaustive historical census.
+
+*BattleDust* belongs in a narrower and still significant category: one of the country's earliest commercial locally developed 3D fighting games, launched with a remarkable amount of multimedia support. A one-on-one fighter is mechanically different from *Yoddha*'s first-person shooting, and Paradox was making an original cast rather than adapting an internationally licensed franchise.
+
+Readers may remember the fighter as "the first Indian game" because publicity compressed a complex history into an easily repeated claim. The more interesting comparison is how two separate studios approached the same problem. Indiagames used a topical shooter and outside sponsorship. Paradox built a character-driven fighter and tried retail, cross-media promotion and telecom distribution. Both faced a domestic market whose appetite for commercially priced original PC games was still unproven.
+
+## The cultural loss of a game nobody can easily find
+
+The unusual thing about early digital entertainment is how readily its evidence disappears. A comic can remain readable decades after its publisher shuts down. A film can be transferred to another format. A computer game may depend on an obsolete operating system, a disc, a hardware feature, a registration service or files nobody thought to archive.
+
+*BattleDust* sits in that awkward territory. People involved in it continued their careers; Khurana later appeared in coverage of Riot Games and Reliance Jio. The studio's broader industry context remains traceable. Yet original documentation of the playable game is harder to locate than its press campaign.
+
+That 44-page comic could contain the definitive character names and motives that a retrospective ought to document. A boxed PC copy could settle the precise button layout, character roster and difficulty modes. The *Fight* promotional video could show what the marketing team thought the project might become. Recovering any of these would materially improve the historical record.
+
+There is something poignant about a project that worked so hard to give its characters histories and now needs somebody to recover those histories. The team named a final boss Lord Moksha, built seven warriors and made the music video that announced them. They could hardly have expected that two decades later the best-preserved details might be their polygon counts and code-file totals.
+
+The way to remember *BattleDust* is not by forcing it into the top spot of an imaginary national ranking of firsts. It is by taking its ambition seriously enough to demand proper credits, playable preservation and the chance for its characters to stand on a screen again.
+
+## Sources, uncertainties and what remains to be found
+
+The main account comes from the [contemporary AnimationXpress launch report](https://www.animationxpress.com/games/paradox-studios-launches-battledust-the-championship/?amp=1), which quotes launch speakers and relays figures supplied by the studio. The [February 2004 *Digit* magazine](https://electronicsandbooks.com/edt/manual/Magazine/D/Digit%20IN%20www.thinkdigit.com/2004/200402_Digit.pdf) places *BattleDust* in development before launch. The [2006 Rediff account](https://www.rediff.com/business/special/spec/20060206.htm) documents Reliance subscriber distribution and broader market conditions. Later [Gadgets 360 reporting](https://www.gadgets360.com/games/news/league-of-legends-creator-riot-games-to-set-up-shop-in-india-1659928) corroborates Khurana's involvement. For the industry comparison, see [Rajesh Rao's MCV interview](https://mcvuk.com/business-news/interview-rajesh-rao-dhruva-interactive/) and [the developer history of *Yoddha*](https://www.gadgets360.com/games/features/yoddha-the-warrior-how-kargil-and-bollywood-inspired-indias-first-pc-game-868980).
+
+No firsthand developer interview, physical copy of the game or playable build was available for this article. The exact launch day, complete roster, design of the combat system and verified commercial results remain open questions. The narrative does not invent missing scenes, dialogue, game mechanics or character biographies.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "why-dragon-age-original-trilogy-mattered", "sha256": "55ebc86264b3c8579e78f2eafadba545f4f9e834a9899f6c9a8db284d0ac5955", "edit_sha256": "ac88878f2211475db6093ac84bf32c8a6e73629789647daef68981086ed3f8de"} -->
+---
+title: "Dragon Age Was Never One Game. That Was Its Greatest Strength."
+description: "Why Origins, Dragon Age II and Inquisition made Thedas unforgettable through tactics, politics, hard choices and the courage to change."
+summary: "Three very different RPGs, one remarkably consistent faith in difficult choices, messy politics and thinking before fighting."
+deck: "Origins let us inherit a broken world. Dragon Age II trapped us in a city. Inquisition asked what happened when the world made us a symbol."
+---
+
+There is a particular sort of disappointment reserved for sequels that cannot decide what made their predecessors special. The odd thing about *Dragon Age* is that its first three games could barely agree on what sort of game they were. One played like a lavish, blood-soaked successor to *Baldur's Gate*. The second cut the map down to a single city and turned a heroic saga into a decade-long argument. The third gave you a continent's worth of problems and asked you to build an institution capable of solving them.
+
+They were not equally successful. You can draw a line through them from measured tactical combat towards faster action, and from intricate branching quests towards increasingly expensive cinematic presentation. Some compromises were real. So were the triumphs. What connected the three was not the camera angle, the size of the wilderness, or even the identity of the protagonist. It was a belief that fantasy becomes interesting when everyone involved has a defensible reason for doing something terrible.
+
+On [21 October 2026, BioWare announced its closure](https://blog.bioware.com/2026/10/21/bioware-update/). The news makes this less a complaint about where the franchise went than a chance to remember where it had been. The great *Dragon Age* experiment lasted three remarkably different games, and the differences were part of the achievement.
+
+[TOC]
+
+## Thedas was a setting built to disagree with itself
+
+Thedas looked familiar enough to get us through the door. Grey Wardens, elves, dwarves, dragons, apostate mages, a church with political power. But once inside, the fantasy furniture concealed an unusually argumentative world.
+
+The Chantry provided a shared religious history without a shared account of that history. The Circle of Magi made the fear of dangerous magic understandable without making indefinite confinement humane. Templars had genuine work to do and a structure prone to abuse. The dwarven caste system produced architectural grandeur and social cruelty in the same breath. Dalish elves cherished fragments of a history they did not completely understand. Ferelden's politics were shaped by a recent occupation; Orlais turned political calculation into etiquette.
+
+Most games give an empire a flag and a capital. *Dragon Age* gave its countries competing memories. The Codex did useful work because its texts could be partial, prejudiced or plainly self-serving. The lore did not live in an authoritative encyclopedia above the action: it belonged to priests, scholars, liars and people trying to make sense of inherited disasters.
+
+That was essential to the choices. When the player confronted the Circle, the question was never merely whether magic is good or bad. It was whether the people entrusted to contain a genuine danger could be trusted with unchecked power. When a noble made a compelling speech, the game invited us to inspect what that noble stood to gain.
+
+## Origins: six ways to learn why the world is broken
+
+*Dragon Age: Origins* (2009) began with a beautifully extravagant production decision: six playable origin stories across race and class combinations. A human noble fleeing a ruined household, a city elf facing racial violence, a dwarf caught in caste politics, a mage inside the Circle, and other starting positions did not simply exchange one introductory cutscene for another. They changed the player's knowledge of the world.
+
+A dwarven noble entering Orzammar knew its treacherous courts personally. A city elf had a different reason to distrust Ferelden's social order. A mage did not need a lengthy lecture explaining why the Circle mattered. By the time the paths converged at Ostagar, each Warden carried a private history into the same catastrophe.
+
+It was an expensive way to begin an RPG. It was also one of the best demonstrations of role-playing as *perspective* rather than a slider labelled good or evil.
+
+The Grey Wardens supplied the story's spine: a terrible Blight, a desperate mobilisation, and the simple promise that someone must stop it. The sequence of treaties and regional quests supplied the complications. Saving the world is easy to agree to in the abstract. Choosing who gets rescued, empowered, forgiven or sacrificed along the way is another matter.
+
+Then there was the Landsmeet, a climax that was effectively an exercise in statecraft. Who should rule Ferelden? What does justice demand of Loghain? Which friendships can survive a political bargain? Some outcomes depend on earlier conversations and the Warden's background. The game understands that a decision is more interesting when there are persuasive reasons to want incompatible outcomes.
+
+## Origins made you earn your victories in combat
+
+The fights had the same interest in difficult trade-offs. On PC, *Origins* offered a tactical overhead perspective and pausable real-time combat. You could position a tank at a doorway, put a rogue where a backstab mattered, conserve healing resources and try not to catch half the party in your own fireball. You could set companion tactics rather than babysit every ability.
+
+Ray Muzyka, speaking about the game before release, described a deliberate attempt to preserve pauses and tactical perspectives while accommodating different ways to play. The controls did not arrive by accident. [His 2009 interview](https://www.gamebanshee.com/news/91513-dragon-age-origins-interview-v15-91513.html) sets out the tension between PC traditions and a wider console audience.
+
+Some encounters were ugly. Difficulty spikes and cumbersome inventory management were familiar friends to anyone raised on older computer RPGs. Yet winning could feel like solving a little battlefield puzzle. The pause button was not an admission that the combat had failed to become exciting. It was permission to think.
+
+The companion roster reinforced that design. Alistair could protect the line, Morrigan could turn an encounter sideways with magic, Leliana could disable threats, and Wynne could save the party from your last disastrous idea. They were also people with beliefs about what you were doing. The same woman who had kept everyone alive might disagree vehemently with your solution to a crisis.
+
+The combat party and the moral party were the same group. That is harder to replace than a camera angle.
+
+## Dragon Age II: the wonderfully reckless decision to stay in Kirkwall
+
+In 2011, BioWare did the last thing anyone expected from a sequel to an epic journey across Ferelden: it largely stayed put.
+
+*Dragon Age II* follows Hawke, a refugee of the Blight, and their family through roughly a decade in Kirkwall. Its city is crowded with rival interests: templars and mages, merchants and smugglers, noble families, an uneasy Qunari delegation. Instead of making a new saviour of civilisation, the game asks what it feels like to spend years becoming someone of consequence in a place that is slowly losing control of itself.
+
+This was a bold change of dramatic scale. More time passes than in *Origins*, but much of it is spent on familiar streets. A companion's romance can deteriorate. A friend's obsession can harden. The argument about the Circle can worsen by increments so small that nobody notices a moment when reconciliation became impossible.
+
+The unreliable frame, with Varric recounting Hawke's story to Cassandra, adds another pleasure. Is this precisely how events occurred? Is Hawke's legend inflated in the telling? The game enjoys the distance between history and the stories people tell about it.
+
+It also made a significant structural experiment with relationships. Friendship and rivalry were not simply approval and disapproval renamed. A companion could respect Hawke enough to remain central to their life while strongly disagreeing with them. Disagreement could sustain a relationship rather than erase it.
+
+## What Dragon Age II got wrong
+
+The achievement does not make the shortcuts disappear. Repeated caves and warehouses were difficult to ignore. Enemy reinforcements often appeared in waves that undermined careful preparation. The more responsive combat could create spectacle without restoring the same sense that the party had been arranged intelligently. Quest lines sometimes moved along rails until a catastrophic event allowed them to collide.
+
+The interface and encounter design were distinctly more action-focused; that evolution began long before *The Veilguard*. But *Dragon Age II* still let you switch directly between party members, pause and issue orders. Tactical control had diminished in importance, not vanished.
+
+The small-scale story mattered more than its economy of assets. Hawke's position was unusually helpless for an RPG protagonist: money and prestige did not grant the power to prevent every tragedy. Kirkwall's institutions kept making decisions that no single champion could simply undo.
+
+The strongest choice was sometimes how to respond when the crisis had already gone beyond your control. That made the game a messy, angry middle chapter with a personality all its own.
+
+## Inquisition: you are not the Chosen One, you are a political problem
+
+*Dragon Age: Inquisition* (2014) swung the pendulum again. A vast world opened up, and the protagonist became the public face of a growing religious and military organisation. Here the conflict was about legitimacy: why should anyone trust this person, the mark on their hand, and the armed movement growing around them?
+
+The Inquisition had soldiers, diplomats, spies, resources and a headquarters. Your companions were not simply travelling friends. Cassandra believed in institutions badly enough to want them reformed. Leliana understood the cost of clandestine power. Josephine could make a seemingly bloodless diplomatic solution possible. Cullen carried a past the player had seen from several angles in earlier games.
+
+The story turned previous worldbuilding into machinery. The mage-templar conflict was no longer a local argument but a catastrophe with international consequences. Orlesian court intrigue became a playable minefield in Wicked Eyes and Wicked Hearts, where the truth and the politically useful truth were rarely the same. The Grey Wardens, too, had to be judged as an institution rather than merely saluted as heroes.
+
+What made the game work was the embarrassment of power. Your decisions were no longer only personal or martial; they shaped the reputation and direction of an organisation. You could mean well and still look like a frightening new church with an army.
+
+## The tactical camera survived, if the maps sometimes fought it
+
+*Inquisition* attempted a compromise between *Origins* and the faster combat of *Dragon Age II*. It offered real-time attacks, companion swapping, party roles and a tactical camera that could pause time and queue commands. Terrain, camera friction and certain encounter designs could make that camera awkward. Nevertheless, the option mattered: a difficult fight could be studied, not merely dodged through.
+
+The open areas gave Thedas physical breadth. Storm Coast, Emprise du Lion, the Western Approach and the Emerald Graves differed in geography, atmosphere and the conflicts beneath them. Not every landscape had enough story to justify its size. The Hinterlands in particular could keep a player collecting errands long after the actual dramatic momentum had asked them to leave.
+
+And the War Table was both an inspired expression of organisational power and a source of irritating timers. At its best it suggested the Inquisition operating beyond what one playable mission could show; at its worst it made the running of a continent-sized organisation resemble checking an appointment book.
+
+Yet this was not an experiment the series needed to apologise for. The game took [Game of the Year at the 2015 D.I.C.E. Awards](https://www.interactive.org/news/18th_dice_awards_winners_.asp). More importantly, it gave players another definition of a fantasy RPG: not a questing party or a city's troubled household, but a political movement whose members were as fascinating as its enemies.
+
+## The companions were a parliament that travelled with you
+
+Across all three games, the strongest conversations were rarely the ones where everybody approved. Morrigan and Alistair did not come from compatible philosophies. Anders did not ask Hawke to treat his convictions as a charming quirk. Solas could talk about history as if the dead had been witnesses for the prosecution. Vivienne was not a villain for having a different view of what mage freedom should look like.
+
+The party camp, Hawke's home and Skyhold served different versions of the same purpose: places to return, ask questions, find out what had changed, and realise that your allies had lives outside your main quest. Banter in the field turned a group of combat units into people capable of embarrassing, challenging or surprising one another.
+
+That is the kind of writing where role-playing choices acquire a pulse. Romance mattered because affection existed alongside politics, identity and dangerous convictions. A companion's objection was not necessarily a request for the player to find the correct dialogue option.
+
+## The Veilguard and the argument over what counts as progress
+
+*Dragon Age: The Veilguard* (2024) is not devoid of craft or affection for Thedas. Its character art, spectacle, companions and approachable action have admirers. Its more immediate combat was a deliberate attempt to make the moment-to-moment experience more engaging. Former producer Mark Darrah praised that direction, and game director Corinne Busche explained the [decision to remove direct companion control](https://www.gamespot.com/articles/bioware-explains-why-dragon-age-the-veilguard-wont-give-you-much-control-over-companions-in-combat/1100-6525670/) as a response to the game's higher action demands.
+
+There is a coherent argument behind the change. Controlling one hero fluently while ordering companion abilities can be an excellent action-RPG system. A game is not less intelligent because it lacks pause-and-play.
+
+But there is a loss, too. *The Veilguard* shrinks the active party, disallows switching into companions, and largely turns them into ability synergies and relationship partners rather than alternate viewpoints on a battlefield. Earlier games let you become someone else for a few seconds because the fight required their expertise. That texture is hard to preserve when Rook is the only character under your direct control.
+
+The writing's tonal shift can be more divisive still. Its bright, conversational, sometimes camp sensibility frequently relieves tension quickly. There is nothing wrong with camp in fantasy: *Dragon Age II* had Varric, Isabela and a plentiful supply of extremely questionable jokes. The issue is not whether characters are allowed to be funny or reassuring. It is whether their conversations let uncomfortable ideas stay uncomfortable long enough to matter.
+
+The earlier games could be blunt, awkward or melodramatic. They also left space for people to be deeply wrong, to hurt one another, and to disagree without a tidy group-therapy resolution. Their politics were not simply problems awaiting sensible heroes. They were structures that shaped what even decent people believed was possible.
+
+BioWare's own [2024 account of The Veilguard's development](https://blog.bioware.com/2024/06/06/theveilguard/) described years of gameplay experiments, including a multiplayer concept, before the return to single-player. It would be too simple to pretend that the game emerged from contempt for its predecessors. It was another attempt to change *Dragon Age*. To some players, the particular things it changed were the things they came for.
+
+## What we lost was the willingness to take different risks
+
+The comforting version of this history imagines three perfect games followed by one inexplicable mistake. The actual story is richer. *Origins* could be punishing and fiddly. *Dragon Age II* had recycled rooms and a relentless final stretch. *Inquisition* was capable of giving you an urgent world crisis and then asking you to gather crafting ingredients. None was the definitive *Dragon Age* that rendered every other approach obsolete.
+
+What they shared was an unusual seriousness about the world beneath the fantasy. A temple, family, revolution, nation or companion could have a history that complicated the player's immediate desire. Combat involved building a party and making decisions about it, even as the precise form of control changed. Their protagonists came to Thedas from different social positions and discovered that victory did not erase the cost of choosing.
+
+The same studio could spend one game saving Ferelden, another living through Kirkwall's collapse, and a third trying to make a movement powerful enough to heal the breach in the sky. That is worth celebrating. *Dragon Age* at its best was not one immortal formula. It was a world sturdy enough to survive three different ideas about what a role-playing game ought to be.
+
+For BioWare's larger legacy, see our [ranking of its ten best games](../../stories/best-bioware-games-ranked/). For what never reached the finish line, read [the Mass Effect sequel we almost got](../../stories/mass-effect-universe-what-could-have-been/).
+
+## Sources and further reading
+
+This is a critical retrospective, not a reconstruction of BioWare's internal decision-making. Development and factual claims are grounded in [BioWare's 2026 closure notice](https://blog.bioware.com/2026/10/21/bioware-update/), [Ray Muzyka's 2009 interview on Origins](https://www.gamebanshee.com/news/91513-dragon-age-origins-interview-v15-91513.html), [BioWare's account of The Veilguard's development](https://blog.bioware.com/2024/06/06/theveilguard/), [Corinne Busche's combat explanation](https://www.gamespot.com/articles/bioware-explains-why-dragon-age-the-veilguard-wont-give-you-much-control-over-companions-in-combat/1100-6525670/) and the [D.I.C.E. awards record](https://www.interactive.org/news/18th_dice_awards_winners_.asp). Judgements of tone, tactics and quality are editorial criticism.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "best-bioware-games-ranked", "sha256": "22fc829aaf6e8c374c673517fedda9c864d4759671ae6fbd3531da47121c7057", "edit_sha256": "3e09e4a426ab4b0b2761a66dd8d928c9a83a77cd45d1a4fd14ce17a2da50417e"} -->
+---
+title: "The 10 Best BioWare Games: A Studio That Taught RPGs to Remember"
+description: "From Baldur's Gate II and Knights of the Old Republic to Dragon Age and Mass Effect, our ranked ten greatest BioWare games."
+summary: "Ten games, thirty years of companions, difficult choices, unforgettable settings and brilliant experiments."
+deck: ""
+---
+
+BioWare is closing. [Its 21 October 2026 announcement](https://blog.bioware.com/2026/10/21/bioware-update/) ended a thirty-one-year studio history and development of the next *Mass Effect*. The easiest tribute would be to treat the good years as one long uninterrupted masterpiece. They were more interesting than that.
+
+This studio made games about two kinds of people: heroes who had to decide, and companions who would remember the decision. It also took unlikely swings, from building a fantasy world out of Dungeons & Dragons rules to turning an ambitious space opera into a third-person shooter, then handing a fantasy RPG a new protagonist and genre emphasis in almost every sequel.
+
+These ten are ranked by the quality of the full experience today, ambition, influence and how much their best ideas still matter. They are **editorial picks**, not a Metacritic table. Expansion packs and remastered compilations are not separate entries. We are judging BioWare-developed releases, which means the excellent *Knights of the Old Republic II* and *Baldur's Gate 3* do not qualify: Obsidian made the former; Larian made the latter.
+
+## 10. Dragon Age II (2011) — the best flawed experiment
+
+A single city, a refugee protagonist and ten years of mounting political tension: this was not the *Origins* sequel anyone expected. Kirkwall's reused environments are impossible to defend, and enemy waves cheapened fights that should have rewarded planning. But Hawke's story turns the fantasy RPG into a tragedy about what influence cannot fix. Friendship and rivalry made disagreement a viable kind of intimacy. It deserves the last place in the ten more than many technically smoother games.
+
+**Play it for:** Varric, Hawke's evolving relationships, and a city that becomes more dangerous the longer you know it. **Know before starting:** the recycled locations are genuinely exhausting.
+
+## 9. Neverwinter Nights (2002) — the adventure factory
+
+The official campaign can feel thin beside BioWare's finest stories. The toolset and dungeon-master-friendly multiplayer changed the proposition entirely. *Neverwinter Nights* did not only ask you to finish a fantasy RPG; it gave communities the means to make adventures of their own. Persistent worlds, custom modules and player-driven storytelling extended far beyond the box.
+
+**Play it for:** building and exploring community adventures, ideally with friends. **Know before starting:** the celebrated toolset legacy is more distinctive than the launch campaign.
+
+## 8. Jade Empire (2005) — the world BioWare never revisited
+
+A wuxia-inspired martial-arts fantasy with a philosophical morality system, fighting styles and a cast who fit the studio's emerging companion formula. *Jade Empire* is mechanically uneven, and its morality can simplify an intriguing philosophy into conventional virtue and villainy. Still, a standalone BioWare world so confidently unlike medieval Europe or galactic militarism remains intoxicating.
+
+**Play it for:** its setting, martial-arts flavour, memorable supporting cast and wonderfully strange detours. **Know before starting:** combat has aged more than the atmosphere.
+
+## 7. Dragon Age: Inquisition (2014) — build an institution, not just a party
+
+*Inquisition* took the instability accumulated by two games and made you responsible for an organisation claiming the authority to fix it. Skyhold, the advisors, the Winter Palace and its companion roster gave unprecedented political scale to *Dragon Age*. Some enormous maps were padded, the War Table could feel like paperwork, and the tactical camera was imperfect. But it is rare to play an RPG that so seriously examines the public consequences of becoming a saviour. It [won the D.I.C.E. Game of the Year award](https://www.interactive.org/news/18th_dice_awards_winners_.asp).
+
+**Play it for:** companion conversations, party-building, factional diplomacy and gorgeous environments. **Know before starting:** leave the Hinterlands before you start resenting them.
+
+## 6. Mass Effect 3 (2012) — the impossible final chapter
+
+No third game could have honoured every saved life, doomed friendship and political promise from two enormous predecessors. *Mass Effect 3* nevertheless delivered one of gaming's most affecting experiences of wartime companionship. Its moment-to-moment combat was arguably the trilogy's strongest; its strongest arcs tied battles to entire species' futures. The ending controversy is real, and the Extended Cut did not make every structural concern disappear. It also cannot erase the hundred moments before it.
+
+**Play it for:** the military urgency, the Normandy at its most emotionally crowded, and resolutions to long-running conflicts. **Know before starting:** the final choice is less reactive than the rest of the saga taught us to expect.
+
+## 5. Mass Effect (2007) — when the galaxy was still strange
+
+The original *Mass Effect* was a little clumsy with its guns and inventory. Its reward was an astonishing feeling of discovery. The Citadel offered a political structure to explore. The Normandy gave the player a home between missions. The geth, krogan and quarians were introduced as cultures shaped by history rather than interchangeable aliens. Virmire forced a decision that never felt safe. The sequel would be sleeker, but nothing replaced the sensation of encountering this universe for the first time.
+
+**Play it for:** worldbuilding, investigation and the scale of the mystery. **Know before starting:** the Legendary Edition smooths several mechanical edges, not all of them.
+
+## 4. Star Wars: Knights of the Old Republic (2003) — the BioWare blueprint in space
+
+Before Shepard commanded a ship full of people who disagreed with them, this game put the player aboard the Ebon Hawk. You travelled between distinct planets, recruited complicated allies, took sides, and discovered a story twist whose force depended on your role in it. The alignment system could be reductive. The party structure was revelatory: the action stopped so your companions could talk about what kind of person you were becoming.
+
+**Play it for:** a sweeping Star Wars story, the crew and one of the great RPG revelations. **Know before starting:** its underlying tabletop-like combat is deliberate and old-fashioned.
+
+## 3. Dragon Age: Origins (2009) — fantasy with teeth
+
+Six origins, tactical pause-and-play combat, a party whose ethics refused to align and a political climax that made earlier relationships matter. *Origins* dared to be grim and silly, strategic and intimate, almost in the same scene. It made players learn the history of Thedas by inhabiting different social positions. Its difficulty spikes and fiddly interfaces do not make it effortless to revisit, but the role-playing core is unusually complete.
+
+**Play it for:** meaningful backgrounds, full party control, difficult bargains and a brilliantly quarrelsome team. **Know before starting:** this is the most traditional tactical RPG in the Dragon Age series.
+
+## 2. Baldur's Gate II: Shadows of Amn (2000) — the great party-driven adventure
+
+The city of Athkatla felt crowded with schemes, contradictions, wealth and desperation. Its quests sent players down rabbit holes that could begin as an errand and end as a moral problem. The companion writing was unusually ambitious for its time, the Dungeons & Dragons rules demanded thought, and the villain gave the campaign an unnerving personal grievance. It set standards BioWare would continue chasing for two decades.
+
+**Play it for:** intricate side quests, real-time-with-pause strategy, and an adventure that allows curiosity to take over. **Know before starting:** it expects the patience of a classic computer RPG.
+
+## 1. Mass Effect 2 (2010) — the crew became the story
+
+The central plot of *Mass Effect 2* is surprisingly simple: recruit specialists, earn their trust, and lead them into something frightening. What matters is how fully the game commits to that structure. Each recruitment introduces a different corner of the galaxy; each loyalty mission asks what a person owes their past; every conversation on the Normandy makes the final assignment harder. The suicide mission turns your memory of people and their strengths into game mechanics.
+
+The second game is less mechanically expansive than the first. It is a much better argument for the dramatic power of design focused around characters. When you make the final calls, nobody else can take responsibility for them.
+
+**Play it for:** Jack, Garrus, Mordin, Tali, the loyalty missions and that finale. **Know before starting:** play *Mass Effect* first if you want the decisions to hurt properly.
+
+## The names missing from the list
+
+The first *Baldur's Gate* deserves immense credit for creating the foundation *Shadows of Amn* perfected. *Star Wars: The Old Republic* deserves recognition for attempting BioWare's conversation-led storytelling at MMO scale, even if its live-service nature makes it a different sort of recommendation. *Mass Effect: Andromeda* found a wonderfully fluid combat system but could not match the original trilogy's dramatic precision. *Anthem* demonstrated striking movement and combat ideas inside a structure that did not give the studio's writing its usual importance.
+
+The rankings are debatable by design. There is no definitive ordering when the same studio spent decades asking whether a game should be a tactical puzzle, a companion drama, a cinematic adventure or a tool for other people to make worlds. Its gift was doing more than one of those things extremely well.
+
+Read our full [Dragon Age retrospective](../../stories/why-dragon-age-original-trilogy-mattered/) and the research-led feature on [the cancelled Mass Effect sequel](../../stories/mass-effect-universe-what-could-have-been/). Or find [ten alternatives to the lost Mass Effect 5](../../stories/games-to-play-instead-of-mass-effect-5/).
+
+## Sources and selection notes
+
+The [official BioWare games catalogue](https://www.bioware.com/games/) and [studio history](https://www.bioware.com/about/) informed developer-credit checks; the [21 October 2026 closure statement](https://blog.bioware.com/2026/10/21/bioware-update/) informs the news context. *Inquisition* award details come from the [Academy of Interactive Arts & Sciences](https://www.interactive.org/news/18th_dice_awards_winners_.asp). Ranking and qualitative assessments are Fourth Frame editorial opinions, not aggregated review scores.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "mass-effect-universe-what-could-have-been", "sha256": "a9c64960d4632cd33f25e375532186a97b388bc545378ff650b4f90e16ccc6a8", "edit_sha256": "6d17ac5df3bcdeb89d54235cff148f872507c76fdc0522f332d5006d6adcb777"} -->
+---
+title: "The Mass Effect 5 We Almost Got: Inside the Lost Universe"
+description: "Tracing Mass Effect 5 through BioWare's N7 updates, original teasers, developer accounts and the verified 2026 Universe pre-production trailer."
+summary: "A spy-thriller protagonist, Liara, krogan unrest and an ambition to make choice matter again: what the evidence actually shows."
+deck: "Six years of carefully rationed clues, one verified pre-production trailer, and a studio that closed before its ambitions could become a game."
+---
+
+The most revealing glimpse of the next *Mass Effect* arrived the day after the project died.
+
+On 21 October 2026, BioWare announced its closure and said that early work on its next *Mass Effect* was ending. On 22 October, a roughly two-minute trailer appeared online. It began by acknowledging that it was in-engine footage assembled with pre-production assets. A man in a long N7-style coat talked to an asari in a bar. We glimpsed his military past, his new work preventing conflicts before they ignited, a burst of biotic violence, and the return of Liara T'Soni. The title card read *Mass Effect Universe*.
+
+The video's authenticity was not merely inferred from its polish. Bloomberg journalist Jason Schreier confirmed it was a genuine trailer for the game BioWare had been developing; [Video Games Chronicle reported that confirmation](https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/). [Game Informer's account](https://gameinformer.com/report/2026/10/22/a-mass-effect-5-trailer-featuring-liara-appears-to-have-leaked-following-biowares) describes the footage and its conspicuous lack of gameplay.
+
+This matters because the video supports a much more specific picture than five years of promotional riddles did. It does not tell us the final story, character creator, release plan or combat system. Those never became publicly established. What follows separates official statements, demonstrated footage, developer recollections and the directions the franchise's history made plausible.
+
+[TOC]
+
+## 2020: the promise that Mass Effect would continue
+
+At The Game Awards in December 2020, BioWare screened a teaser that moved through images and sounds of spaceflight, war and aftermath. A hooded asari figure, widely understood to be Liara, recovered a piece of N7 armour from a snowy landscape. A ruined Reaper could be glimpsed. The final message was simple: *Mass Effect will continue*.
+
+It was enough to raise difficult questions. Was the trilogy's galaxy still fractured after the Reaper War? Was Shepard alive? Would the story undo an ending, choose one, or find a way around their differences? Was the return of a centuries-long-lived asari a way of bridging an enormous time jump?
+
+The [BioWare announcement](https://blog.bioware.com/2020/12/10/bioware-double-feature-at-the-game-awards/) said pre-production had begun, that the teaser contained hints, and that there was a long road ahead. It did not announce Shepard as protagonist or confirm a particular ending. The N7 badge was an image, not a contract.
+
+That distinction matters. The original trilogy had ended with decisions that fundamentally changed the balance of power among organic and synthetic life. A continuation that inherited those decisions faithfully would be an enormous narrative engineering challenge. A continuation that simply selected one would disappoint some players. In 2020, BioWare had not explained its solution.
+
+## 2021–2023: geth, relays and messages in the noise
+
+The public trail remained tantalisingly small. A 2021 N7 Day image showed a ground formation reminiscent of a geth silhouette; it inspired theories about the synthetic species' return without confirming a plot. In 2022, an image and footage associated with what resembled a mass relay included audio that fans decoded. BioWare subsequently shared a cleaner version. A voice associated with Liara referred to a council's anger and human defiance; the signal also contained geth-like sounds. [Game Informer covered the decoding](https://gameinformer.com/2022/11/07/update-bioware-teases-next-mass-effect-with-clue-filled-video-clip-for-n7-day).
+
+At the same time BioWare's [2022 N7 developer update](https://blog.bioware.com/2022/11/07/n7-day-2022/) described a growing pre-production team mixing veterans with new talent. The studio said it was creating new characters and places while revisiting familiar ones. That is more meaningful than most fan theories: it is a stated intention to connect a new story to an existing universe.
+
+The 2023 N7 Day campaign became a scavenger hunt. Snippets labelled *Epsilon*, *Defiance* and *Nebula* culminated in the image of an armoured, trench-coated figure. Transmission text referred to Alliance communications and an Andromeda distress signal. The number 2819 appeared amid the clues, inviting interpretation alongside the timeline of the Andromeda Initiative. [Shacknews documented the staggered teasers](https://www.shacknews.com/article/137708/mass-effect-epsilon-defiance-teaser); [Game Informer reported on their apparent links to both settings](https://gameinformer.com/news/2023/11/08/new-mass-effect-5-trailer-teases-original-trilogy-andromeda-and-maybe-a-new).
+
+A distress signal is not proof that two galaxies would be explorable. The word Andromeda is not confirmation that Ryder would return. But neither detail makes much sense as mere nostalgia. BioWare appeared unwilling to abandon the other half of its franchise's contemporary history.
+
+## Why bridging the galaxies would be a formidable story problem
+
+*Mass Effect: Andromeda* had sent its ark travellers away from the Milky Way before the Reaper War, then made them endure a 600-year journey in cryosleep. This was a clever way to avoid answering Shepard's ending directly while keeping familiar species, ships and institutions.
+
+It also left unresolved questions. The quarian ark's fate became an off-screen thread addressed in tie-in fiction rather than playable resolution. The kett were a continuing threat. The Remnant and their technology were larger mysteries than the first game could solve. Ryder's team had only begun to understand the Heleus Cluster.
+
+A sequel that brought the Milky Way and Andromeda into the same conversation would need to grapple with differences in time, communications and political evolution. The older galaxy might no longer resemble the one Shepard left behind. Liara, long-lived but not immortal, could provide a human-scale link to that history. Relays and synthetic technology could become both connective tissue and sources of danger.
+
+Those are plausible storytelling opportunities, not disclosed features. The old *Mass Effect* magic was to make a scientific device into a political fact: a relay meant trade routes, borders and wars. The most interesting use of a new relay would have been to ask who controlled it, who had been excluded from it, and what reopening contact cost.
+
+## 2024–2025: a smaller studio, larger promises
+
+By November 2024, BioWare was absorbed in the launch of *Dragon Age: The Veilguard* and offered [little new Mass Effect material](https://blog.bioware.com/2024/11/07/n7-day-2024/). In January 2025, the studio announced a reorganisation and a small core team working on the sequel. BioWare specifically named Mike Gamble, Preston Watamaniuk, Derek Watts and Parrish Ley among the original-trilogy veterans. See its [January 2025 studio update](https://blog.bioware.com/2025/01/29/bioware-studio-update/).
+
+On N7 Day in November 2025, Gamble told fans that the next game remained in development, that BioWare was focused exclusively on it and that the team was working on features and romances. He also described Amazon's separate television series as a new story set after the original trilogy, not a retelling of Shepard's. [His message survives in BioWare's blog](https://blog.bioware.com/2025/11/07/n7-day-2025/).
+
+The year's hidden-message puzzle also led to official concept art captioned *Krogan Civil War*. [The story of the solved cipher](https://www.gamesradar.com/games/mass-effect/fans-find-mass-effect-5-art-of-a-krogan-civil-war-hidden-in-biowares-n7-day-post-studio-lead-says-i-want-you-to-see-stuff-but-its-not-the-time-yet/) is a nice little picture of the franchise's relationship with its audience: fans had become intelligence analysts.
+
+More importantly, the art suggested the writers were considering what happened after the genophage question, not merely replaying it. Depending on the trilogy's choices, the krogan could inherit very different political futures. A civil war would be a credible consequence of changing the demographic balance and the distribution of power. It was an unusually fertile story hook because neither curing nor maintaining the genophage could ever settle every argument among krogan clans.
+
+Yet a concept art caption cannot establish the playable quest line, let alone how the game would reconcile imported choices. That remains unknown.
+
+## October 2026: Universe suggests an espionage story, not Shepard 2.0
+
+Then came the leaked reel. The clearest direct evidence suggests a new human lead who had left Alliance service and taken to clandestine work. He seems to describe an effort to stop conflicts before they explode. A threatening asari approaches him in a bar, and Liara intervenes. A fight follows. The presentation evokes political thriller as much as military space opera.
+
+[Ars Technica's account](https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/) and [Game Informer's description](https://gameinformer.com/report/2026/10/22/a-mass-effect-5-trailer-featuring-liara-appears-to-have-leaked-following-biowares) independently describe its core moments. The footage showcases cinematics and pre-production images, not a shipped level or gameplay demonstration.
+
+The suggestion is fascinating precisely because it changes the scale. Shepard was a military figure trying to persuade a galaxy to recognise an existential threat. A covert operative tries to influence events before people know a threat exists. If the premise survived development, that would create wonderfully uncomfortable missions: plant evidence, make a compromise, sabotage a secret weapons project, prevent a conflict without receiving public credit.
+
+Liara's presence would fit that story. She understood information networks and political leverage long before the Reapers fell. A new protagonist could work alongside her without reviving Shepard, and a smaller conflict could eventually expose a larger fracture in the postwar galaxy.
+
+We do not know whether the hero was fixed, customisable, gender-selectable or one of several concepts. The trailer shows *a character*, not a character-creation menu. Nor can we conclude the final title would have been *Mass Effect Universe*: the title on an internal reel can change.
+
+## The developers wanted choices with teeth again
+
+The most substantial evidence of design ambition emerged after the cancellation. Former BioWare cinematic supervisor Tony de Waal described the small team as pursuing unusually deep player autonomy and choice. He said they had looked at the work of Larian and CD Projekt Red while trying to honour the original trilogy. [PC Gamer reported his post on 22 October 2026](https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/).
+
+This is a developer's informed recollection, not a feature list or evidence the systems were finished. It also reveals something important about the problem BioWare understood itself to be solving.
+
+*Mass Effect* had made promises about choice on an unusual scale. Virmire removed a loved companion permanently; *Mass Effect 2* made loyalty and role assignment the difference between life and death; *Mass Effect 3* brought some long political stories to powerful conclusions. The final ending, however, funnelled an enormous network of decisions into a limited final choice. *Andromeda* offered excellent movement and combat but often felt more constrained in how dramatically choices could reshape its broader narrative.
+
+Since then, *Baldur's Gate 3* had raised expectations for reactive quests and companion consequences, while CD Projekt Red's recent RPGs proved that cinematic immersion and difficult choices could coexist. The tantalising possibility is not that BioWare would have copied those games' structures. It is that it might have rebuilt its own signature around consequences that altered an ongoing operation rather than supplying a different final slideshow.
+
+## What the next Mass Effect should have learned from each predecessor
+
+From *Mass Effect* (2007): the courage to make alien societies feel politically foreign. The Citadel worked because humanity was not the unquestioned centre of the universe. The best sequel would make us earn the right to understand a transformed galaxy.
+
+From *Mass Effect 2* (2010): that preparation can be character development. Loyalty missions were not optional biographies you read before the important mission; they *were* the preparation. A covert-operations game could make knowledge of a companion's loyalties, contacts and weaknesses strategically essential.
+
+From *Mass Effect 3* (2012): the value of following political conflicts all the way to difficult resolutions. Not every choice needs a happy middle path. A species-wide decision must carry consequences among individuals.
+
+From *Andromeda* (2017): the sheer pleasure of movement, flexible builds and charting unfamiliar ground. The jetpack and combat mobility were a genuine step forward. The next game could have married that fluidity to a firmer narrative structure rather than rejecting it.
+
+And from BioWare's oldest games: the right to think. Party members are most compelling when their skills and convictions both affect what happens. A spy thriller would be richer if an engineer, diplomat, biotic and infiltrator could open genuinely different solutions, not just apply differently coloured damage.
+
+These are editorial design proposals, not claims about BioWare's cancelled feature set.
+
+## The story that was hiding in plain sight
+
+Consider the combined trail. Liara returns. Someone with Alliance experience undertakes discreet interventions. Old Mass Effect imagery persists. The geth and mass relays feature in earlier teases. Andromeda receives a signal. A krogan civil war is shown in official concept art. The developers speak of unusually ambitious agency.
+
+There is a plausible outline here: a galaxy repairing itself badly, where the peace after the Reapers has created new struggles over technology, borders, memory and authority. Someone begins putting out fires and discovers a pattern connecting them. The conflict does not need another giant machine race to justify the adventure. The galaxy already contains enough rival ambitions to destroy itself.
+
+That outline is ours, not a recovered script. The difference matters, particularly now that many of the people who could clarify it have lost their jobs.
+
+The painful part is not that *Mass Effect Universe* can be declared the masterpiece we never got. It cannot. A promising pitch is not a great released game. It is that the evidence points to a team wrestling with exactly the questions fans hoped it would ask: how to continue a story without erasing its consequences, how to let a new protagonist inherit the weight of a familiar world, and how to make choosing dangerous again.
+
+On 21 October 2026 the [official announcement](https://blog.bioware.com/2026/10/21/bioware-update/) ended that work. The following day's reel let us see a small piece of it. The rest remains a genuine unknown.
+
+If you're looking for something to play now, our companion piece identifies [ten worthwhile alternatives to Mass Effect 5](../../stories/games-to-play-instead-of-mass-effect-5/). And our [BioWare top ten](../../stories/best-bioware-games-ranked/) revisits what the studio actually finished.
+
+## Reporting trail and limitations
+
+The reporting rests on [BioWare's 2020 reveal](https://blog.bioware.com/2020/12/10/bioware-double-feature-at-the-game-awards/), [2022 team update](https://blog.bioware.com/2022/11/07/n7-day-2022/), [2025 reorganisation](https://blog.bioware.com/2025/01/29/bioware-studio-update/), [2025 N7 statement](https://blog.bioware.com/2025/11/07/n7-day-2025/), and [2026 closure announcement](https://blog.bioware.com/2026/10/21/bioware-update/). The [trailer authenticity report](https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/) and [developer's account of choice ambitions](https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/) are distinct kinds of evidence. There is no published complete design document, playable build or confirmed final script in these sources. This article was researched on 24 October 2026.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "games-to-play-instead-of-mass-effect-5", "sha256": "c0aebb3eb0a348cbd83a787a67442798b81cb51ac9deb0ea68696ca998ee871a", "edit_sha256": "cb68d63273087b5c613baf58378880bf5617a0e7c31f0cf7880c47ad52895637"} -->
+---
+title: "No Mass Effect 5? Ten Games That Might Fill the Void"
+description: "Ten playable Mass Effect alternatives for memorable crews, hard choices, sci-fi exploration, tactical RPG combat and cinematic stories."
+summary: "From The Outer Worlds 2 to Rogue Trader and Citizen Sleeper 2, a guide to the specific things you miss about Mass Effect."
+deck: ""
+---
+
+The bad news is no longer a rumour. [BioWare has closed](https://blog.bioware.com/2026/10/21/bioware-update/), and development on the next *Mass Effect* has ended. The silver lining, if there is one, is that other teams have spent years pursuing parts of the same intoxicating formula.
+
+There is no perfect replacement. *Mass Effect* was simultaneously an action game, a political science-fiction series, a squad RPG, a romance simulator and a very elaborate excuse to visit your friends aboard a spaceship. Some alternatives have the crew but not the combat. Others have the ships but not the conversation. One or two deliver choices more consequential than anything Shepard ever made, but ask you to trade a pistol for a dice roll.
+
+These picks are **released and playable as of October 2026**. The ranking prioritises how effectively each game answers a particular *Mass Effect* craving, not how famous or expensive it is. There is one unreleased contender to watch at the end.
+
+## 10. Star Trek: Resurgence — for the diplomatic dilemmas
+
+A choice-driven adventure made by veterans of Telltale, *Resurgence* places two officers aboard the USS Resolute as a conflict between alien civilisations threatens to become something worse. It swaps combat systems and loot for dialogue, judgment and competing duties. The [official Star Trek announcement](https://www.startrek.com/news/enter-the-world-of-star-trek-with-new-game-star-trek-resurgence) makes its lineage clear.
+
+**What it scratches:** Paragon-or-Renegade-type decisions, alien diplomacy, and the hope that conversation can avert a disaster. **What it cannot replace:** an RPG's character builds, party tactics and big galaxy to explore. It's closer to one especially tense Normandy assignment than a complete Shepard campaign.
+
+## 9. Citizen Sleeper 2: Starward Vector — for a ship that feels like home
+
+You are an escaped synthetic person trying to survive in the Starward Belt. Your ship is battered, your crew is cobbled together from people who need a second chance, and contracts demand calculations about scarce resources and trust. Battles are replaced by dice-based risk, which turns seemingly modest decisions into crises. [The 2025 release is listed on Steam](https://store.steampowered.com/app/2442460/Citizen_Sleeper_2_Starward_Vector/).
+
+**What it scratches:** living aboard a ship with people you care about, science-fiction questions about personhood, and choices that make survival emotional. **What it cannot replace:** spectacle and shooting. The writing does much of the heavy lifting.
+
+## 8. Marvel's Guardians of the Galaxy (2021) — for squad banter
+
+A crew of mismatched personalities aboard a ship, growing pains, jokes during firefights and sudden heartbreak. Sound familiar? Eidos-Montréal's single-player *Guardians* lets you control Star-Lord while directing the team's abilities in combat. The story is largely authored rather than widely branching, but the cast talks, argues, grieves and gradually begins to function as a family.
+
+**What it scratches:** *Mass Effect 2*'s rhythm of missions, bickering companions and earned emotional payoff. **What it cannot replace:** customising a protagonist, choosing the composition of your party or reshaping galactic politics.
+
+## 7. Starfield (2023) — for the pleasure of going somewhere
+
+Bethesda's sprawling space sandbox is at its best when you are charting worlds, making a ship your own, chasing faction quests or following curiosity away from the main objective. Its scale is something BioWare's deliberately authored levels never attempted. Your personal voyage may become its own story.
+
+**What it scratches:** planets, shipbuilding, factions, exploration and the sheer sensation of a long science-fiction adventure. **What it cannot replace:** the tight ensemble writing and concentrated mission pacing of the Normandy. Big does not automatically mean emotionally close.
+
+## 6. Baldur's Gate 3 (2023) — for companions who remember
+
+Larian's fantasy RPG is the obvious choice if what you actually mourn is a world that reacts to character decisions. Companion loyalties, romances, personal quests and story consequences are all central; there are entire solutions that a player can miss because they chose differently. Turn-based combat offers the kind of tactical involvement that BioWare's earlier RPGs once championed.
+
+**What it scratches:** the loyalty missions, political consequences and party relationships. **What it cannot replace:** space travel, guns and the military science-fiction tone. It is what to play when *Mass Effect*'s soul matters more than its uniform.
+
+## 5. Cyberpunk 2077 + Phantom Liberty — for the grown-up espionage story
+
+Night City offers a different sort of science-fiction RPG: intimate, urban and rarely generous with the outcomes of your decisions. The *Phantom Liberty* expansion adds an espionage plot in which loyalties shift and moral certainty erodes. That makes it an especially apt substitute after footage from BioWare's cancelled *Mass Effect Universe* pointed towards clandestine interventions.
+
+**What it scratches:** consequential conversations, excellent personal performances, espionage and a sophisticated first-person action-RPG build system. **What it cannot replace:** a persistent deployable squad or hopping between different planets. Night City is the galaxy, compressed.
+
+## 4. The Outer Worlds 2 (2025) — for a reactive new sci-fi campaign
+
+Obsidian's sequel casts you as an Earth Directorate agent investigating dangerous rifts across the Arcadia colony. You navigate three competing power blocs, recruit a crew and let skills, flaws and allegiances alter the available paths. The tone is more satirical than Shepard's military drama, but the mission-by-mission sensation of negotiating a strange society is compelling. [Obsidian confirms the 29 October 2025 release](https://www.obsidian.net/games/the-outer-worlds-2/) and [Xbox's launch notes](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/) describe the reactive systems.
+
+**What it scratches:** companion-led science fiction, faction dilemmas, character-building and meaningful dialogue options. **What it cannot replace:** third-person squad shooting and the emotional continuity of a trilogy. The first *Outer Worlds* is also worth a look if you prefer its smaller, tighter colony adventure.
+
+## 3. Warhammer 40,000: Rogue Trader (2023) — for command, politics and tactics
+
+Owlcat's *Rogue Trader* gives you a voidship, a remarkable collection of dangerous companions and the authority to make consequential decisions in the grim expanse of the Imperium. It is the best entry here for someone who misses deciding how a whole party should fight: turn-based encounters reward careful positioning, builds and combinations of skills.
+
+**What it scratches:** commanding a ship, ideological friction within the crew, discovering hostile worlds, and being held responsible for hard choices. **What it cannot replace:** quick cover shooting or an optimistic spacefaring future. *Warhammer 40,000* is emphatically not an upbeat place to live.
+
+## 2. Star Wars: Knights of the Old Republic (2003) — for the original BioWare DNA
+
+The Ebon Hawk might be the Normandy's spiritual ancestor. BioWare built a space adventure around moving from planet to planet, a small crew with opinions, a dramatic protagonist-shaped mystery, and decisions that alter relationships. The combat is older and more rules-driven, but the conversations remain unmistakably *Mass Effect*-like.
+
+**What it scratches:** your personal ship, companions with conflicting loyalties, moral choices and space-opera scale. **What it cannot replace:** a modern presentation or real-time third-person shooting. If the tone appeals but you want an even more morally argumentative story, try Obsidian's *Knights of the Old Republic II* afterwards.
+
+## 1. The Outer Worlds (2019) — for the closest everyday substitute
+
+The original *Outer Worlds* is more compact than its sequel, which is precisely why it takes the top spot for a *Mass Effect* fan wondering what to begin tonight. Visit a distinct hub, meet a faction, recruit a companion, dig into a local injustice, make an uncomfortable decision, go back to your ship, and talk about what happened. Its corporate satire rarely sounds like *Mass Effect*'s earnest military voice, yet the structure is deeply familiar.
+
+**What it scratches:** a manageable space voyage built around a characterful crew and strong local quest decisions. **What it cannot replace:** the emotional power of carrying decisions across three games, or controlling squadmates as a tactician.
+
+## One to watch: Exodus (7 April 2027)
+
+The most obvious future spiritual successor is *Exodus*, an original third-person sci-fi RPG from Archetype Entertainment. It promises a crew, world-changing decisions and an unusual story device: relativistic time dilation means your journeys can leave entire lifetimes behind. The developer has [announced 7 April 2027 as its release date](https://www.exodusgame.com/en-US/news/exodus-launches-april-7-2027-official-release-date-trailer), with PC, PlayStation 5 and Xbox Series X|S versions listed in its [FAQ](https://support.exodusgame.com/hc/en-us/articles/42199597587732-EXODUS-Game-FAQ).
+
+That is a release plan, not a verdict on a game we can play today. Its systems, story choices and companions still need to prove themselves. Keep an eye on it, but do not pre-emptively hand it a crown.
+
+## Pick by what you actually miss
+
+If the Normandy's crew matters most, start with *The Outer Worlds* or *Guardians of the Galaxy*. If your favourite part was a dangerous conversation with political consequences, choose *The Outer Worlds 2*, *Cyberpunk 2077* or *Baldur's Gate 3*. If you miss tactical control over specialists and having an entire ship depend on your judgment, *Rogue Trader* is the stronger fit. If you want the oldest surviving blueprint, *Knights of the Old Republic* is waiting.
+
+No one of these is *Mass Effect 5*. That is the point. They are evidence that the things BioWare taught us to love did not end when its doors closed.
+
+For the background, read [what the cancelled Mass Effect Universe was becoming](../../stories/mass-effect-universe-what-could-have-been/) and our [ranking of BioWare's own greatest games](../../stories/best-bioware-games-ranked/).
+
+## Sources and availability note
+
+Release and premise details were checked against [Obsidian's The Outer Worlds 2 listing](https://www.obsidian.net/games/the-outer-worlds-2), [Xbox's 2025 launch announcement](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/), [Citizen Sleeper 2's Steam listing](https://store.steampowered.com/app/2442460/Citizen_Sleeper_2_Starward_Vector/), [Star Trek's game announcement](https://www.startrek.com/news/enter-the-world-of-star-trek-with-new-game-star-trek-resurgence), and [Exodus' official release schedule](https://www.exodusgame.com/en-US/news/exodus-launches-april-7-2027-official-release-date-trailer). Exact pricing, regional storefront availability and service subscriptions may change. The ranking and the trade-offs are editorial judgements as of 24 October 2026.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "best-browser-easter-eggs-hidden-games", "sha256": "35afefb1c70c345aef68e9441256106b45ccf1d2d69f97e10b26dc517d61a9cf", "edit_sha256": "040ac961e4adf4a5f25a53c7e06c5613c694d62e0db13bc94d681cc0f08dbd79"} -->
+---
+title: "The Best Browser Easter Eggs: An iPod, a Dinosaur and the Internet's Secret Games"
+description: "From Apple's working iPod 404 page to Chrome Dino, Google Pac-Man and Firefox's secret pages, discover playful browser Easter eggs."
+summary: "An iPod in an error page, arcade games in search, a dinosaur without Wi-Fi and a few jokes the internet kept for itself."
+deck: "Twelve secret screens, hidden jokes and playable surprises—with instructions, links and a warning for the ones that come and go."
+---
+
+Error pages are supposed to be dead ends. Apple's latest is an excellent reason to get lost.
+
+On 23 October 2026, the 25th anniversary of the original iPod's announcement, people discovered a tiny marvel behind Apple Music's broken web links: a working recreation of the first-generation music player. You can turn its virtual wheel, browse songs, hear previews and, if you know where to look, play another secret game hidden *inside* the secret device. It's exactly the sort of unnecessary, generous detail that makes the web feel like a place made by human beings.
+
+There are more of these than you might think. Some live on 404 pages, some masquerade as search results, others hide in browser address bars. A few qualify more as interactive Doodles than true secrets; we're including them because they share the same spirit of discovery. This selection favours surprising experiences over an exhaustive catalogue of search queries.
+
+**Availability note (24 October 2026):** These are documented originals, not guaranteed to appear in every country, mobile browser or future version. Where a feature is time-limited, archived or browser-specific, we've said so. Links point to the service or an official archive when available.
+
+## 1. Apple Music's secret first-generation iPod
+
+**Try it:** [music.apple.com/404](https://music.apple.com/404), in a **web browser**, not the Apple Music app.
+
+An error message invites you to give something a spin. Beside it stands the white iPod Steve Jobs introduced in 2001, complete with a monochrome menu screen and circular controls. The wheel can be manipulated to move through playlists, artists and tracks; selecting music starts previews rather than full recordings. The player is a miniature piece of interface history, and unlike many nostalgic mock-ups, the controls do something.
+
+It gets better. Navigate to **Settings → About**, then **hold the centre button for about five seconds**. You unlock *Brick*, the original iPod's Breakout-inspired diversion. An Easter egg containing another Easter egg is a fairly strong contender for the top of any such list.
+
+Apple's timing is no coincidence: the original iPod was announced on 23 October 2001. The revived interface appeared exactly 25 years later. [MacRumors documented the discovery and secret game](https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/), and [Notebookcheck described its controls and playback limits](https://www.notebookcheck.net/Apple-Music-s-404-page-hides-a-playable-first-generation-iPod-with-a-Brick-game.1432111.0.html).
+
+**Why it belongs here:** It transforms the irritation of a broken link into something more entertaining than the page you were originally looking for. **Status:** Live at the time of reporting; longevity unknown. If a mobile link launches the app, copy it into a browser.
+
+## 2. Chrome's offline dinosaur
+
+**Try it:** Enter \`chrome://dino\` in Google Chrome's address bar.
+
+It's difficult to recall a time when seeing a disconnected dinosaur made losing Wi-Fi slightly less infuriating. Tap or press Space to start running; jump over cacti and duck under airborne obstacles. There is no elaborate narrative, no login and no monetisation interrupting the run. Just a pixel dinosaur trying to have a good day.
+
+Google [interviewed the designers](https://blog.google/products-and-platforms/products/chrome/chrome-dino/) about how the game grew out of the browser's offline page in 2014. The prehistoric joke was explicit: no internet meant going back to the age of dinosaurs. When users began playing even while connected, Google supplied the dedicated URL.
+
+**Why it belongs here:** Few error messages have generated quite so many voluntary repeat visits. **Status:** A built-in Chrome feature; \`chrome://dino\` is browser-specific, not an ordinary public website.
+
+## 3. Google Search's Pac-Man
+
+**Try it:** [Search for Pac-Man](https://www.google.com/search?q=pac-man) and look for the playable game card, or visit the [2010 Doodle archive](https://doodles.google/doodle/30th-anniversary-of-pac-man/).
+
+The Google logo becomes a maze full of dots and ghosts. It's hardly a substitute for a dedicated arcade cabinet, but that was always the charm: you were searching for something else and suddenly found yourself chasing Blinky.
+
+Google's [history of interactive Doodles](https://blog.google/company-news/inside-google/doodles/doodle-me-20-notable-doodles-google-history/) identifies the 2010 thirtieth-anniversary Pac-Man tribute as the company's first interactive game Doodle. Its creators took the work seriously, reproducing game logic, sounds and even quirks of the original.
+
+**Why it belongs here:** For a moment, the world's most utilitarian webpage became an arcade cabinet. **Status:** The archived Doodle is the reliable way to revisit it; Search-card presentation varies.
+
+## 4. Google Search's Katamari
+
+**Try it:** [Search Katamari](https://www.google.com/search?q=Katamari) and, if the feature appears, select the little rolling-ball icon in the results.
+
+*Katamari Damacy* is about turning domestic clutter into a growing ball of absurdity. Google's little tribute applies the joke to its own interface: the search page becomes the material you roll up. It's a lovely meeting of theme and technology because a page built to organise information suddenly lets you create disorder.
+
+Google itself discussed the *Katamari* collaboration in a [post about Search in Asia Pacific](https://blog.google/company-news/inside-google/around-the-globe/google-asia/search-in-apac/), alongside its Sonic the Hedgehog and BTS surprises.
+
+**Why it belongs here:** The browser page isn't just hosting the game; the page *is* the toy. **Status:** Search Easter egg documented by Google; icon availability may vary by region and interface.
+
+## 5. Google Search's Sonic the Hedgehog
+
+**Try it:** [Search Sonic the Hedgehog](https://www.google.com/search?q=Sonic+the+Hedgehog) and check the character in the knowledge panel if present.
+
+Sonic has spent decades convincing players that standing still is a personal insult. Google gave its little Sonic graphic an interactive flourish: clicking or tapping can make the hedgehog respond. It's a tiny piece of character animation hiding in a decidedly un-game-like place.
+
+The [Google Search team has acknowledged this partnership](https://blog.google/company-news/inside-google/around-the-globe/google-asia/search-in-apac/). That distinction matters when searching for Easter eggs: countless lists recycle old tricks long after they stop working, whereas this one at least has a documented official history.
+
+**Why it belongs here:** A mascot whose personality fits into an interaction of only a second or two. **Status:** Documented Search Easter egg; not guaranteed on every device.
+
+## 6. Google Search's do-a-barrel-roll trick
+
+**Try it:** [Search do a barrel roll](https://www.google.com/search?q=do+a+barrel+roll).
+
+One moment the search engine is delivering results. The next, the entire page rotates through a full circle, a nod to Peppy's famous instruction in *Star Fox 64*. You haven't solved a puzzle or won anything. The reward is Google's willingness to behave irresponsibly with its own page layout for half a second.
+
+It is arguably the best-known modern search Easter egg. That familiarity works in its favour: show it to someone who hasn't seen it and their reaction is usually faster than any explanation you could write.
+
+**Why it belongs here:** It uses the browser's ordinary content as the punchline. **Status:** Reported active in [2026 guides](https://www.itechguides.com/17-google-easter-eggs-you-can-try-right-now/), though behaviour can vary by search interface.
+
+## 7. Google Search's askew page
+
+**Try it:** [Search askew](https://www.google.com/search?q=askew).
+
+This one earns its place by refusing to call attention to itself. Look carefully at the results page: it tilts. Just a little. Not enough to break the layout, just enough to make you wonder whether you're holding your head straight.
+
+It's also one of the finest examples of a web Easter egg taking the meaning of a search term literally. There is no animation to sit through and no game to master. The joke exists in the alignment.
+
+**Why it belongs here:** One word becomes a visual gag. **Status:** Reported active in [2026 testing](https://www.itechguides.com/17-google-easter-eggs-you-can-try-right-now/).
+
+## 8. The Firefox robot manifesto
+
+**Try it:** Type \`about:robots\` directly into the address bar of **Mozilla Firefox**.
+
+Mozilla's page greets you with a science-fiction-inflected message about robots and humanity. The joke pulls from a long tradition of robot stories rather than trying to be a conventional browser settings page. Poke around and note the unusual page title and other details.
+
+Mozilla's [own Easter egg guide](https://blog.mozilla.org/en/firefox/easter-eggs-come-from-foxes-too/) documents the feature and its reference to the 1951 film *The Day the Earth Stood Still*.
+
+**Why it belongs here:** It is a full secret page made solely because someone at a browser company thought it would be funny. **Status:** Firefox-only internal address, not a normal URL you can open in every browser.
+
+## 9. The Book of Mozilla
+
+**Try it:** Type \`about:mozilla\` in the Firefox address bar.
+
+The screen shows a dramatic passage from the fictional Book of Mozilla. Its mock-biblical language evokes the browser wars and the project's open-source identity. You might think you've found an occult manuscript; in reality you've discovered years of computer-company folklore written with heroic enthusiasm.
+
+Mozilla's [official account](https://blog.mozilla.org/en/firefox/easter-eggs-come-from-foxes-too/) explains its connection to the old Netscape/Mozilla lineage. This is more than a disposable gag: it's a glimpse of the emotional investment once poured into an internet browser.
+
+**Why it belongs here:** A secret whose real subject is the history and identity of the software you're using. **Status:** Firefox-only internal page. The displayed verse may differ among versions.
+
+## 10. Google Doodle's playable Halloween adventures
+
+**Try it:** Browse the [Google Doodles archive](https://doodles.google/search/?topic=games) and look for its Halloween games.
+
+A wonderfully strange category of browser surprise is the playable Google logo. Some Halloween Doodles are complete miniature games with character animation, level design and carefully pitched scares. They aren't always hidden from the public on release day, so technically they're closer to temporary events than Easter eggs. Their discoverability after the event, however, turns an ordinary archive into a treasure chest.
+
+For one concrete example, Google's [2025 Pac-Man Halloween collaboration](https://blog.google/company-news/inside-google/doodles/pac-man-45-years/) offered haunted-house mazes built around the personalities of the four ghosts. It's a reminder that a corporate landing page can host legitimate game design.
+
+**Why it belongs here:** The web occasionally gives away a surprisingly elaborate game for no better reason than that a date arrived. **Status:** Some games are preserved in the Doodle archive; not every old event remains playable.
+
+## 11. Google Search's Snake
+
+**Try it:** [Search play snake](https://www.google.com/search?q=play+snake) and launch the game card if it appears.
+
+You already know the rules. The snake moves. The food appears. The snake grows. You discover that apparently the most advanced browser in the world cannot save you from colliding with your own tail. That economy is the secret: nothing in the game needs explaining, which makes it ideal for a little surprise buried in a search page.
+
+**Why it belongs here:** A few seconds to learn, a lifetime of insisting you can do better on the next attempt. **Status:** A documented [2026 Google Search mini-game](https://www.itechguides.com/17-google-easter-eggs-you-can-try-right-now/); presentation varies.
+
+## 12. Google's answer to life, the universe and everything
+
+**Try it:** [Search the answer to life the universe and everything](https://www.google.com/search?q=the+answer+to+life+the+universe+and+everything).
+
+The answer appears in Google's calculator: 42. That's the famously unhelpful revelation from Douglas Adams's *The Hitchhiker's Guide to the Galaxy*, translated into a joke about a machine that can answer almost anything except the questions that matter.
+
+No secret menus, no animation. Just a world-sized search engine remembering a joke about the absurdity of expecting world-sized computers to give satisfying answers.
+
+**Why it belongs here:** The most economical Easter egg in the list, and the only one whose punchline is precisely two digits. **Status:** Widely documented Search gag; result formatting may change.
+
+## Why do these tiny surprises matter?
+
+The internet has become extraordinarily good at predicting our intentions. A search engine finds an answer. A streaming service serves a song. An error page explains the error and points us back to business as usual.
+
+These Easter eggs offer the opposite experience. The reason to discover one is not efficiency. It's that someone took the time to add a detail a quarterly performance review might have struggled to justify.
+
+The Apple Music iPod is the most beautiful example because it treats a forgotten hardware interface as something you can still *feel*, at least through a mouse or touchscreen. Chrome's dinosaur treats a failure state as an opportunity to play. Firefox's secret pages preserve the mischievous spirit of the web's early browser wars. Google occasionally remembers that a search page is still a canvas.
+
+You can spend five minutes on each and move on. Or you can spend an hour wondering what else has been quietly hiding in plain sight.
+
+For more short games worth discovering, read [retro game collections worth playing](../../stories/retro-game-collections-worth-playing/) and [forgotten platforming gems](../../stories/platforming-gems-worth-revisiting/).
+
+## Research notes
+
+Primary and contemporary sources include [Mozilla's Easter egg history](https://blog.mozilla.org/en/firefox/easter-eggs-come-from-foxes-too/), [Google's account of Chrome Dino](https://blog.google/products-and-platforms/products/chrome/chrome-dino/), [Google's Doodles retrospective](https://blog.google/company-news/inside-google/doodles/doodle-me-20-notable-doodles-google-history/), [Google's Search collaborations](https://blog.google/company-news/inside-google/around-the-globe/google-asia/search-in-apac/), and 23 October 2026 reporting on [Apple Music's interactive iPod](https://www.macrumors.com/2026/10/23/apple-music-has-a-hidden-ipod-you-can-play-with/). The original pages are linked throughout; Search and device behaviour may vary after publication.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "genji-dawn-of-the-samurai-retrospective", "sha256": "3dcfa4f4f6444ab4ce0e6f99d7c8e194ecaebf43aa108ae13052f071f6ed7b53", "edit_sha256": "d08940abd00841069b3845219d134446eda92006abbf78b7c8153080e48a8fea"} -->
+---
+title: "Genji: Dawn of the Samurai Made Sword Fighting Feel Like a Performance"
+description: "Revisiting Game Republic's 2005 PS2 action gem: Kamui counters, Yoshitsune and Benkei, samurai-film choreography and a sequel that lost its way."
+summary: "An elegant PS2 action game whose Kamui counters made a fight feel like a carefully staged samurai film."
+deck: ""
+---
+
+[TOC]
+
+Most action games give you a sword and ask how quickly you can swing it. *Genji: Dawn of the Samurai* gave you a sword and, occasionally, asked you to stop.
+
+An enemy lifted his weapon. Time slowed. His movement became legible: the weight shifting, the strike beginning, the narrow instant when it was possible to turn an incoming blow into a counter of your own. Press at the right moment and the fight changed character. What had been a brawl became a piece of choreography. Several attackers could fall in a sequence of perfectly timed evasions and cuts. The game briefly made you feel less like somebody mashing buttons and more like the star of a samurai film.
+
+That was Kamui, *Genji*'s defining trick. If you remember the original PlayStation 2 game fondly because fighting felt good, you may be remembering the seconds after activating it: the pause, the sudden concentration, the startling satisfaction of getting every counter right.
+
+*Genji* came out in 2005, when there was no shortage of action games demanding your attention. *God of War* had its vast mythological set pieces. *Ninja Gaiden* made an exacting science out of survival. Capcom's *Onimusha* series already offered cinematic swordplay against supernatural enemies. Game Republic's debut looked suspiciously familiar beside all three, and critics were quick to notice.
+
+The unusual part is that its creators were not trying to win a contest for the longest combo list or the cruellest difficulty curve. They were trying to let ordinary players experience sword-fighting choreography. The distinction explains both the game's enduring pleasures and some of its most obvious weaknesses.
+
+## A new studio, an old legend
+
+In 2003, Yoshiki Okamoto left Capcom, where he had become closely associated with the company's arcade successes and major console series. His new studio, Game Republic, made *Genji* its first release. Sony published it for PlayStation 2, first in Japan in June 2005 and then in North America in September. Its arrival hardly happened in obscurity: Sony showcased it extensively and positioned its vividly coloured world as proof that the ageing PS2 could still surprise people.
+
+There was a pedigree worth advertising. The game was directed by Takashi Shono; Toshiya Shibano worked on its scenario; Keita Amemiya provided character design and art supervision; Yasuharu Takanashi composed its music. [The original credits](https://www.mobygames.com/game/20657/genji-dawn-of-the-samurai/credits/ps2/) make clear that this was a substantial collaborative production, not a one-man passion project.
+
+The subject was an enticing one. Minamoto no Yoshitsune and the warrior monk Musashibo Benkei are among the great pairings of Japanese legend, associated with the late twelfth-century conflict between the Minamoto, or Genji, and Taira, or Heishi, clans. Their exploits accumulated myths long after the historical battles were over. Benkei in particular has become the picture of almost superhuman strength and loyalty.
+
+The game's supernatural story loosely borrows this world and the traditions surrounding the Genpei War and *The Tale of the Heike*. It is not a faithful historical account. Nor should it be confused simply because of its title with Murasaki Shikibu's very different *The Tale of Genji*, the courtly novel from the Heian period. Contemporary English-language marketing sometimes encouraged that confusion.
+
+Game Republic imagined that the Heishi had gained power through mysterious stones called Amahagane. The stones granted terrible abilities and allowed warriors to perform Kamui. Yoshitsune, accompanied by Benkei, fights through human opponents and creatures drawn from fantasy in an effort to oppose the Heishi's power. Shizuka Gozen and Kiyomori Taira appear in the story, though nobody should come to this game expecting a political epic with *Romance of the Three Kingdoms*-level intrigue.
+
+What it offers is a mythic excuse to travel through beautiful places and put a blade through the things threatening them.
+
+## Two warriors, two completely different ideas of violence
+
+A lesser game might have included a fast hero and a strong hero whose moves differed only in speed and damage. *Genji* makes their physical differences entertaining.
+
+Yoshitsune is quick and graceful, fighting with two blades and using jumps, aerial manoeuvres and rapid strings of attacks. His movements have an almost dance-like quality. There is a particular appeal to the way a modest input produces a flourish that looks far more difficult than the player actually performed. His combos let him occupy the space between enemies, darting in and back out before an answer arrives.
+
+Benkei is a wonderful contrast. He is built like the gate he is about to knock down. His enormous club and heavy strikes make fights feel blunt and decisive. Where Yoshitsune divides an enemy's attention with motion, Benkei asserts that the enemy and the surrounding furniture ought to get out of his way. His attacks are slower; their weight is the point.
+
+The contrast is not confined to combat. A sealed gate might invite Yoshitsune to find a way up and over it, while Benkei simply breaks through. GameSpot described precisely that distinction in its [April 2005 hands-on preview](https://www.gamespot.com/articles/genji-dawn-of-the-samurai-hands-on/1100-6123045/). Each character has opportunities to reach places or collect items that the other cannot. They also develop independently, making neglecting one of them a small strategic choice.
+
+These sections are not sprawling alternate campaigns, and the need to change characters can feel prescriptive. But the game understands something important about physical power: it should change what the player expects from the world, not merely which attack number appears on screen.
+
+It also produces a lovely joke at Benkei's expense. The enormous monk looks as though he should be incapable of delicacy. Then Kamui activates and the same lumbering giant begins slipping attacks with impeccable timing. Even Benkei can look elegant when the choreography demands it.
+
+## Kamui, or how to make a sword fight involve two people
+
+The ordinary controls are deliberately simple. Square initiates a regular attack that can extend into a combination; triangle delivers a heavier blow. There are jumps, charged techniques with certain weapons, blocking and evasion. You can defeat enemies by attacking relentlessly. The core system is easy to understand, though repeated exposure reveals a few useful variations.
+
+Kamui is where the design starts making its own argument.
+
+As enemies fall, your Amahagane power fills. Pressing L1 with sufficient energy enters a heightened state in which enemies attack and you must time the Square button against the openings they present. A successful counter makes you dodge and retaliate with extraordinary force. On regular enemies the result is often fatal; on bosses it can strip away a large piece of their health. Landing successive counters turns a surrounding crowd into a rapid series of dangerous but readable appointments.
+
+At first it can look like a glorified quick-time event. An icon appears, you press a button, a lovely animation plays. That description misses the rhythm of learning it. The timing window changes with the enemy and the attack. Sometimes watching the icon alone is too late; the clue is in the aggressor's movement. You are being trained to read the shape of a threat.
+
+The origin of that design is unusually well documented. At the game's [May 2005 completion presentation, covered by GAME Watch](https://game.watch.impress.co.jp/docs/20050525/genji.htm), director Takashi Shono explained that games so often represent sword fighting as the hero simply rushing in and cutting. The exchanges seen in films, where the attacker and defender react to one another, were harder to capture. Kamui was intended to turn that relationship into a game system.
+
+Game Republic even brought in the professional action choreographer **Mitsuhiko Seike** to supervise sword-fighting movement. The team considered how an attacker should strike, how the defender should move and how a successful evasion becomes the next attack. In the contemporary report, Seike described the challenge of translating motions normally devised for human performers into animation. This was not an accidental by-product of some clever slow-motion effect. It was a guiding production decision.
+
+The more revealing detail is that Okamoto wanted a game everyone who bought it could finish. In the same presentation he described accessibility as a difficult design goal. Kamui, for all its flash, made cinematic mastery available to players who could not execute the layered command strings of a demanding action game.
+
+There is a subtle difference between watching your character do something impressive and feeling that you made it happen. *Genji* tries to join the two: the moves are already choreographed, but your timing earns them.
+
+## The animation does an enormous amount of the work
+
+Many action games can tell you how much damage a blow dealt. Fewer make you enjoy the blow even when you are not looking at the health bar.
+
+In *Genji*, Yoshitsune's attacks flow from one pose to another with an expressive lightness, and Benkei's wide swings make opponents seem particularly unfortunate. A well-timed Kamui turns the camera, the opponent's momentum and the timing of the impact into a little piece of theatre. The moves have beginnings and endings. You see the anticipation, the point of contact and the aftermath.
+
+The game also understands the value of contrast. Long stretches of ordinary slashing establish a tempo; Kamui breaks it. You go from scrappy crowd management to a moment of exaggerated clarity and back. The reason those counters feel wonderful is partly that the rest of combat is not permanently suspended in slow motion.
+
+This is where *Genji* has more in common with *Onimusha*'s precision kills than with a modern character-action game built around deep move lists and style ratings. And yet the emphasis is different. *Onimusha* often asks the player to master a precise instant inside the live melee. *Genji* deliberately grants a clearer window so that more people can perform something akin to a cinematic flourish.
+
+That does not make the first approach obsolete or the second superior. It makes *Genji* a particularly good example of an action game valuing the player's sense of grace as highly as their technical ability.
+
+## A beautiful country you can mostly only look at
+
+The other reason to remember *Genji* is that it looked astonishing for a PlayStation 2 game.
+
+It still has a recognisable visual identity: vivid autumn leaves, intensely coloured red buildings, clear blue water, weathered stone, lush courtyards, shrines and landscapes in which natural beauty coexists with violence. Its backgrounds feel arranged with a painter's eye rather than built from a shopping list of medieval-Japan assets.
+
+There is a factual reason for that impression. At the completion presentation, background director Satoshi Takamori explained the team's preoccupation with the refined *miyabi* aesthetic of the Heian era: the relationship between the blue of water and the vermilion of buildings, the way colours could strengthen one another. Character director Tsunayoshi Kita discussed the challenge of making figures distinctive enough to hold their own against the backgrounds. Amemiya's elaborate costume designs helped establish the contrast.
+
+Even Yoshitsune's hair was part of the thinking. According to Shono, his flowing design was intended to look particularly effective in motion and during jumps. This sort of detail is easy to miss if you think of character art as something that happens before animation. In *Genji*, a character's silhouette and movement were being designed together.
+
+Takanashi's score supports that world with traditional Japanese instruments alongside the scale of cinematic action music. The theme song, performed by Chitose Hajime, was another sign that Sony regarded this as a polished cultural production rather than a disposable little brawler.
+
+There is, however, a catch to the beautiful scenery. The camera is fixed.
+
+Sometimes that limitation works. A carefully composed shot lets the background artists control precisely what you see. A gateway can dominate the frame; a pool can draw the eye; a flight of steps can become a small stage for combat. And then a fight moves behind a pillar, the angle changes at the wrong moment, or an enemy approaches from somewhere that is difficult to judge.
+
+The same visual control that makes *Genji* attractive can make it awkward to play. GameSpot criticised those camera problems in its [September 2005 review](https://www.gamespot.com/reviews/genji-dawn-of-the-samurai-review/1900-6133869/), alongside performance dips during busy encounters. The complaint matters: precision combat loses some of its pleasure when the game cannot present the action clearly enough to read.
+
+## The pleasure—and the problem—of being powerful
+
+If Kamui is so satisfying, why didn't *Genji* become a touchstone of combat design alongside *Ninja Gaiden* or *Devil May Cry*?
+
+For one thing, the enemies rarely require the full range of what the system can do. Ordinary opponents are often willing participants in their own destruction. Once the counters become familiar, certain battles become spectacular demonstrations of efficiency rather than genuine tests of survival.
+
+The enormous payoff from a successful Kamui also upsets the combat's balance. A boss might be presented as a great test of courage, but the right chain of counters can remove a huge amount of health. A [contemporary WorthPlaying review](https://worthplaying.com/article/2005/10/18/reviews/28286-ps2-review-genji-dawn-of-the-samurai/) pointed out that this could make formidable encounters unexpectedly manageable.
+
+There is an irony here. The system that makes you look like a master swordsman can reduce the need to become one.
+
+Yet accessibility is not automatically a flaw. It is worth remembering what action games looked like in 2005. *Ninja Gaiden Black* demanded formidable consistency. *Devil May Cry 3* rewarded players who could internalise complicated styles and weapon combinations. *God of War* pursued a more approachable kind of brutality with a huge cinematic budget.
+
+*Genji* occupied an interesting corner of that landscape. It did not ask you to memorise a fighting-game command list. It gave you two clearly differentiated heroes and one especially satisfying technique around which the battles could turn. That restraint could make the experience welcoming, even if the overall combat system offered less mastery than its celebrated peers.
+
+The question is not whether *Genji* was the hardest game in the shop. It plainly was not. The question is whether it made a satisfying sequence of choices feel good, and whether you were still smiling at the end of a fight. Often, it did.
+
+## Too short, too interrupted, occasionally too pleased with itself
+
+The game also commits sins that become more noticeable the longer you spend with it.
+
+The campaign is short. GameSpot complained that the adventure ends just as it begins to find momentum. Even the reviewers who liked the fighting noted how quickly the credits arrived. Brief campaigns can be wonderful when they are tightly designed, but here the cutscenes and exploration sometimes consume time that might have been better spent using the combat system.
+
+The story has the broad strokes of a rousing historical fantasy: heroic youths, an oppressive clan, mysterious power, monstrous enemies, ancient obligations. It moves forward through handsome scenes but does not give its supporting cast the depth that might have made the journey linger after the mechanics stopped. There are stretches when the game seems to be borrowing the presentation habits of *Onimusha* without matching that series' more distinctive horror atmosphere.
+
+Progression also amounts to a fairly light layer of upgrades. Experience increases capabilities; equipment affects stats and appearance; some items can be assembled by a blacksmith. These systems create reasons to collect and revisit, but they do not dramatically change the way one thinks about every encounter.
+
+Contemporary criticism was not uniformly hostile. The game's [Metacritic score of 74](https://www.metacritic.com/game/genji-dawn-of-the-samurai/) reflects a mixed-to-positive response, not a disaster. GameSpot rated it 7.1, admiring the presentation and responsive fighting while taking issue with length and camera problems. [PSX Extreme gave it 8/10](https://psxextreme.com/archive/ps2-reviews-415/) and especially praised the controls; Eurogamer was less impressed. The range is useful because the difference often comes down to what a reviewer wanted from the experience.
+
+Someone looking for an enormous adventure with a complicated combat laboratory would be disappointed. Someone looking for a few evenings of gorgeous, fast and legible swordplay could come away delighted.
+
+The game makes a stronger case when judged as a compact action performance than as the beginning of an epic RPG series.
+
+## The strange afterlife of a giant crab
+
+You could argue that *Genji* never received the sequel it needed. Instead, it received the sequel that Sony needed.
+
+*Genji: Days of the Blade* arrived for PlayStation 3 in November 2006, not very long after the original. Game Republic added two playable warriors, larger environments and battles, character changes during combat and a new generation's graphical ambitions. On paper this seemed like a reasonable plan: take a promising PS2 action game and make it grander.
+
+But the series' public reputation was soon swallowed by a spectacle nobody at Game Republic wanted. At Sony's E3 2006 conference, a presenter talked about battles inspired by Japanese history, then showed an enormous enemy crab. The instructions about striking a weak point for massive damage became immortal as an early internet gaming joke.
+
+The joke had its own absurdity: nobody seriously expects supernatural fantasy to reproduce the Genpei War with documentary accuracy. Unfortunately, it was easier to remember the presentation than to think about what the first game's combat had accomplished.
+
+Reviews of *Days of the Blade* raised more substantial concerns than the crab. The camera remained a problem, and larger encounters often made it harder to follow the action. Even [GameSpot's Tokyo Game Show preview](https://www.gamespot.com/articles/tgs-06-genji-days-of-the-blade-hands-on/1100-6158327/) noted how awkward it was to fight enemies beyond the visible frame. More characters and more space did not guarantee that each swing would be easier to understand.
+
+The sequel is a reminder that a clear combat idea can become harder to appreciate when the design around it grows. *Dawn of the Samurai* sometimes felt limited because there was not enough game between its satisfying fights. *Days of the Blade* risked the opposite: giving players more game without solving the problems that obscured those fights.
+
+It is possible to prefer the PS2 original without treating the sequel as a betrayal. One is a compact experiment with a very clear pleasure at its centre; the other is a bigger, less tidy expression of the same ambition.
+
+## A small lesson in the difference between depth and delight
+
+Twenty-one years later, action games have become astonishingly sophisticated. *Sekiro* makes a duel into a conversation conducted through deflections and posture. *Sifu* asks players to internalise combinations, positioning and timing until combat becomes second nature. Modern action RPGs can offer enormous skill trees, intricate builds and hundreds of hours of exploration.
+
+*Genji* offers very little of that.
+
+What it offers instead is a reminder that the sensation of performing an action can be an achievement of its own. The weight of Benkei's club, the elegance of Yoshitsune's movements, the moment before a Kamui counter lands: none of these needs a sprawling system behind it to register.
+
+It is easy to confuse complicated controls with expressive combat. Complexity can create extraordinary possibilities, but expression also comes from timing, animation and the confidence that the game will respond when you act. Game Republic's best decision was to let players participate in the grace of a samurai film rather than demand that they learn every aspect of professional swordplay first.
+
+The compromise made *Genji* easier than some players wanted. Its fixed camera and short campaign prevented it from becoming an unqualified classic. Those weaknesses were real then and would be real now.
+
+But a game does not have to be a masterpiece to deserve a place in memory. Sometimes it is enough that, for a few seconds during a crowded fight, it makes everything happen exactly when it should.
+
+The next attacker raises his sword. You wait. You press the button.
+
+And the whole scene belongs to you.
+
+## Sources and reporting notes
+
+This retrospective draws on [GAME Watch's May 2005 production presentation report](https://game.watch.impress.co.jp/docs/20050525/genji.htm), which records remarks by Okamoto, Shono, the art staff and fight choreographer Mitsuhiko Seike; the [original PS2 credits](https://www.mobygames.com/game/20657/genji-dawn-of-the-samurai/credits/ps2/); [GameSpot's 2005 gameplay preview](https://www.gamespot.com/articles/genji-dawn-of-the-samurai-hands-on/1100-6123045/) and [review](https://www.gamespot.com/reviews/genji-dawn-of-the-samurai-review/1900-6133869/); contemporary assessments from [Kikizo](https://games.kikizo.com/news/200506/166.asp), [WorthPlaying](https://worthplaying.com/article/2005/10/18/reviews/28286-ps2-review-genji-dawn-of-the-samurai/) and [PSX Extreme](https://psxextreme.com/archive/ps2-reviews-415/); and [GameSpot's coverage of the PS3 sequel](https://www.gamespot.com/articles/tgs-06-genji-days-of-the-blade-hands-on/1100-6158327/). The analysis of combat design is editorial interpretation informed by contemporary reporting, not a claim to new interviews or an original modern playtest.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "short-satisfying-games-between-gta-vi-sessions", "sha256": "d79e7156605ca733845808513aa7ff30410bcc8441cadb5b4993f29f6eda9bf3", "edit_sha256": "e5223e19523990002383158816c688d6bfd51a3fe09270b5684105e212ed720c"} -->
+---
+title: "15 Short Games That Feel Great to Play Between GTA VI Sessions"
+description: "Fifteen finishable action games with irresistible combat and movement, from Onimusha and Vanquish to Sifu, Hi-Fi Rush, and Ninja Gaiden: Ragebound."
+summary: "A samurai duel, a two-hour brawler, a rocket-powered slide and a dozen more reasons to leave the open world for a night."
+deck: ""
+---
+
+The trouble with a vast open-world game is that, after a while, everything starts to feel like a commitment. You are halfway across the map. There is a mission marker behind you, a new diversion ahead, somebody waiting for a phone call and an increasing suspicion that you have spent your only free evening driving towards an activity you did not especially want to do.
+
+*Grand Theft Auto VI* is due on November 19, 2026, with Rockstar promising a return to Vice City and the surrounding state of Leonida. We don't yet know how its moment-to-moment play will hold up over dozens of hours. But we know the sort of effect a huge Rockstar release can have on a calendar. Sometimes the sensible response is to play something with a beginning, a middle, an ending and a combat system that makes the next half-hour worth having.
+
+These aren't games to clear off an ever-growing backlog. They're games that make one particular action feel irresistible: a perfectly judged counter, a rocket-powered slide, a flying kick into a table, an entire room solved in four seconds. Most can be finished over a weekend, several in a single sitting. None needs a hundred-hour commitment before its central pleasure becomes clear.
+
+The selection is deliberately varied. Some are sword-fighting games. Others are shooters, brawlers and even a playable pop record. All have a finish line; none demands an endless daily login to see its central ideas. A few are difficult enough to take much longer than their nominal story length, so the warnings matter as much as the estimates.
+
+**About the times:** These are broad first-story estimates rounded from published reviews and player-submitted main-story averages, not promises. Replays, side challenges, difficulty settings and experience can change them considerably. For *Streets of Rage 4* and *TMNT*, the number means one completed campaign, not every character and achievement. For *Sifu* and *Furi*, learning the combat can dwarf the recorded time for an efficient run. Availability varies by platform and region; follow the cited game pages or your console store rather than assuming a particular subscription includes a title.
+
+[TOC]
+
+## 1. Onimusha: Warlords — four to five hours
+
+**Best for old-school swordplay and perfectly timed counters.**
+
+You arrive at a castle as Samanosuke Akechi, with a sword, a gauntlet capable of absorbing souls and a great many demons making a nuisance of themselves. *Onimusha* is *Resident Evil*'s exploration structure made considerably more aggressive. The corridors and fixed camera angles will be familiar to anyone who remembers survival horror of the period, but an encounter ends with someone swinging a blade rather than counting scarce bullets.
+
+The genius of the combat lies in **Issen**, a precisely timed counterstrike that can end a fight with almost insulting efficiency. It shares some of Kamui's underlying appeal: waiting for danger to arrive is sometimes more satisfying than attacking first. Outside battle there are light puzzles, keys, weapon upgrades and a wonderfully specific atmosphere of haunted feudal Japan. Capcom's [2019 remaster](https://blog.playstation.com/2018/08/28/ps2-classic-onimusha-warlords-comes-to-ps4-january-15-2019/) offers modern analog movement and an accessible difficulty option alongside the original fixed-camera design.
+
+It is not as immediately fluid as a modern character-action game. Backtracking and old-fashioned navigation can irritate, and Issen demands exact timing. But the castle's mix of sharp swordplay, light puzzles and supernatural atmosphere remains immensely satisfying, particularly when a successful counter clears the path in an instant. [A contemporary assessment of the remaster](https://www.pushsquare.com/reviews/ps4/onimusha_warlords) makes much the same case for its brevity.
+
+## 2. En Garde! — three to four hours
+
+**Best for the person who wants a duel to turn into slapstick.**
+
+There is a chair near a guard. Throw it. There is a table between you and a swordsman. Vault it. Another enemy is standing beside something breakable, and you can probably guess what your next move ought to be.
+
+*En Garde!* understands that the best swashbuckling fights are rarely about two immaculate duelists politely fencing until one wins. They involve props, evasions, insults, interruptions and somebody finding a deeply undignified way to fall over. As Adalia de Volador, you parry attacks, kick enemies into obstacles and exploit the furniture of delightfully bright Spanish-inspired spaces. Once it clicks, an ordinary arena becomes a miniature stage on which you improvise your own fencing comedy.
+
+The game has four episodes and very little interest in pretending they need to last twenty hours. The [PC Gamer review](https://www.pcgamer.com/en-garde-review/) found its jokes uneven and finished it in under four hours. Those are fair caveats. When combat and environmental mischief work together, though, the result is a rare feeling of directing your own swashbuckling scene.
+
+## 3. Vanquish — five to seven hours
+
+**Best for making movement itself the main event.**
+
+Most third-person shooters ask you to take cover. PlatinumGames handed its hero a powered suit with rocket boosters and encouraged him to leave cover at an inadvisable speed.
+
+*Vanquish* looks like a cover shooter until Sam Gideon slides on his knees through a hail of gunfire, switches targets while almost horizontal and shoots a robot precisely where it hurts. Enemies are aggressive, the arenas funnel you towards danger and slow motion gives your better decisions a spectacular punctuation mark. The pleasure comes from turning a defensive genre into a game of constant forward movement.
+
+Platinum's own [production account of the boost mechanic](https://www.platinumgames.com/official-blog/article/2610) reveals that the feature began because moving around levels was not enjoyable enough. Instead of building a hundred systems around that complaint, the team made crossing a room absurdly entertaining. The [PC Gamer review of the PC release](https://www.pcgamer.com/vanquish-review/) estimated roughly six hours and singled out that same core loop.
+
+Expect melodramatic military nonsense and occasional repeated enemy types. Forget the plot if you like. Few shooters give you a more entertaining commute from one side of an arena to the other.
+
+## 4. Metal Gear Rising: Revengeance — six to eight hours
+
+**Best for an outrageous finishing move you will never get tired of.**
+
+Raiden is a cybernetic swordsman facing private military contractors, enormous machines and villains with the emotional restraint of an industrial shredder. This is *Metal Gear* viewed through PlatinumGames' particular love of gleeful physical excess.
+
+The key is Blade Mode, which lets you angle a cutting attack and carve through weakened enemies. Executing Zandatsu then tears out an enemy's repair unit to replenish Raiden's energy. The first time it happens, it is a terrific spectacle. The fortieth time, it is still satisfying because you earned the opening with a flurry of attacks and parries.
+
+Platinum's designer Takahisa Taura explained the principle in his [development notes on parrying](https://www.platinumgames.com/official-blog/article/4717): in this game, defending is itself an attack. That makes it an especially good recommendation for someone who loved waiting for the right instant in Kamui. The [PC Gamer review](https://www.pcgamer.com/metal-gear-rising-revengeance-review/) praised the clarity of its parry-and-finish rhythm.
+
+The camera can get tangled and the script is gloriously ridiculous. It also expects you to learn its defensive input, which may take a while. Once mastered, Raiden's sword feels less like equipment than an editing tool for reality.
+
+## 5. Hi-Fi Rush — ten to twelve hours
+
+**Best for a cheerful change of colour and tempo.**
+
+Chai's great advantage in *Hi-Fi Rush* is not that he is the toughest action hero. It is that the whole world seems to move to the same beat. Factories bounce, enemies telegraph their attacks rhythmically, and your strikes become much more effective when you time them with the music.
+
+It is possible to button-mash through ordinary exchanges, so this is not a brutally strict rhythm game dressed up as a fighter. But begin matching the soundtrack and an ordinary brawl becomes more coherent. A timed dodge flows into a beat-perfect strike, a partner attack lands on cue and an entire boss fight becomes a production number.
+
+*Tango Gameworks* built something charmingly self-contained here: a Saturday-morning cartoon with expressive animation, an amiable cast and a combat system that brings its visual and musical ideas together. [Game Informer described a ten-to-eleven-hour experience](https://gameinformer.com/review/hi-fi-rush/riff-city); [GameSpot](https://www.gamespot.com/reviews/hi-fi-rush-review-good-vibes-only/1900-6418023/) admired the combat while noting that the platforming stretches sometimes drag.
+
+It is a longer commitment than most games here. Still, after several evenings of criminal conspiracies and urban sprawl, a game where smashing a robot on the beat is a perfectly reasonable ambition sounds rather appealing.
+
+## 6. Katana ZERO — four to six hours
+
+**Best for the person who wants to replay one perfect room.**
+
+A samurai enters a cramped nightclub full of guards, flies through a door and cuts his way out. One mistake kills him. The scene resets almost instantly.
+
+That is the peculiar brilliance of *Katana ZERO*. The game lets you manipulate time and plan moves, but almost every successful encounter looks like an impossible improvisation. You work out where a bullet will travel, which guard must die first and how a thrown object can create the fraction of a second you need. Each stage is a small, violent puzzle that becomes cinema when solved.
+
+This side-scroller is built around instant death and quick retries. Success feels good because you remember exactly how many times it went wrong. Its neo-noir story is also unusually absorbing, though the [GameSpot review](https://www.gamespot.com/reviews/katana-zero-review-slow-motion-for-me/1900-6417126/) rightly warned that the roughly four-hour original campaign ends on an unresolved note.
+
+If you enjoy mastery without an hour-long penalty for every mistake, *Katana ZERO* respects your time even when it sends you back to the beginning of a room.
+
+## 7. Titanfall 2 — five to seven hours
+
+**Best complete weekend shooter.**
+
+Pilot Jack Cooper runs along walls, slides beneath gunfire and leaps between platforms with a confidence that seems improbable for a man carrying so much weaponry. Then he climbs into BT-7274, a giant robot whose earnest personality might be the game's most successful special effect.
+
+*Titanfall 2* is included because its campaign understands pacing better than many much longer shooters. The movement has a wonderful elasticity, and each mission introduces something new before the gimmick grows tiresome. One especially celebrated sequence plays with time in a way best experienced without advance explanation. Even the shifts between fragile pilot and heavily armed Titan keep the combat fresh.
+
+The [GameSpot reviewer finished in about five hours](https://www.gamespot.com/reviews/titanfall-2-review/1900-6416561/), praising its inventive campaign despite finding some writing weak. You may spend a little longer while learning to wall-run under pressure.
+
+It is the opposite of wandering an open world until the evening slips away. You start a mission. You enjoy a clever idea. The game lets you move on.
+
+## 8. Rollerdrome — four to seven hours
+
+**Best for putting a ridiculous grin on your face.**
+
+Imagine a roller-skating competition in which the audience expects you to shoot armed opponents while performing tricks. Then imagine the trick system is not ornamental: **doing tricks reloads your guns**. Killing enemies restores health. Movement, ammunition and survival become parts of a single activity.
+
+*Rollerdrome* uses a bold comic-book look and makes its arenas feel like skating bowls with unusually hostile participants. You move fast, sail above incoming fire and use brief moments of slowed time to line up shots. The real pleasure is discovering that the correct way to defend yourself is often to perform a more elaborate stunt.
+
+Roll7's design is almost a manifesto for compact games built around one strong idea. You can finish its main sequence in roughly five hours, though harder challenges and score chasing last much longer; the [GOG listing](https://www.gog.com/en/game/rollerdrome) includes useful player-submitted runtime figures.
+
+Its obstacle is the same thing that makes it excellent: everything depends on learning to move and shoot simultaneously. If you're willing to look spectacularly clumsy for your first few runs, there are few better payoffs.
+
+## 9. Sifu — perhaps eight to twelve hours, but potentially much longer
+
+**Best for players who want to earn their kung fu.**
+
+In *Sifu*, learning to fight is the adventure. It wants you to learn how a fighting scene works, and it will happily knock you down until you do.
+
+You fight through five compact levels, countering, dodging, throwing opponents, using furniture and turning enemy weapons against their owners. The ageing mechanic changes what each death costs you, but the real progression takes place in your hands. Eventually a crowded corridor that felt impossible becomes a sequence of deliberate movements. The player has changed even though the room has not.
+
+That makes *Sifu* one of the closest spiritual relatives to Kamui's cinematic combat. The difference is that a [typical recorded playtime near ten hours](https://www.videogamebacklog.com/game/sifu) is poor preparation for your first attempt at a difficult boss. [GameSpot's review](https://www.gamespot.com/reviews/sifu-review-i-know-kung-fu/1900-6417823/) emphasised the demanding learning curve; subsequent difficulty options make the game more approachable.
+
+This is **not** the soothing pick for someone who wants a guaranteed easy weekend finish. It is the choice if your idea of relaxation is practising a martial-arts move until the entire room finally cooperates.
+
+## 10. Furi — five to ten hours, depending heavily on skill
+
+**Best for a series of superb duels with no filler between them.**
+
+A mysterious swordsman wakes imprisoned. To escape, he must defeat a sequence of guardians. That is essentially the complete structure of *Furi*: no sprawling world, no inventory busywork, no shops interrupting the action. The bosses *are* the adventure.
+
+Each battle combines sword strikes, parries, dodges and twin-stick shooting. The difficulty is substantial. An opponent may demand that you learn several phases of attacks before the next guard can be challenged. But each encounter feels built around a different lesson, and the electronic soundtrack gives the proceedings the atmosphere of an impossibly intense late-night animated film.
+
+[GameSpot's reviewer took almost ten hours](https://www.gamespot.com/reviews/furi-review/1900-6416472/) on an initial clear and only a couple on the next. The [GOG listing](https://www.gog.com/en/game/furi) gives a much shorter average for the main story, neatly illustrating why a single number is misleading for a boss-rush game.
+
+One proviso: repeated deaths can be exhausting. If you want something that restores your patience, choose *En Garde!* or *Shredder's Revenge* instead. If you want to rediscover what it feels like to truly learn an opponent, book an evening with *Furi*.
+
+## 11. Ninja Gaiden: Ragebound — roughly seven to twelve hours
+
+**Best modern answer to the forgotten action-platformer.**
+
+The Game Kitchen, the Spanish studio behind *Blasphemous*, brought *Ninja Gaiden* back to side-scrolling action in 2025. It could have been a beautifully animated exercise in nostalgia. Instead, *Ragebound* finds a wonderfully active idea of its own.
+
+Kenji slices through most ordinary enemies with a single well-timed strike. His Guillotine Boost turns enemies and projectiles into platforms, while the later partnership with Kumori expands the ways he can attack at range. Hypercharge lets you chain a specially empowered blow into tougher foes. A good run feels like the entire level has become one long, uninterrupted sword movement.
+
+*Ragebound* proves that a manageable number of actions, used in lively combinations, can feel more expressive than a moves list the size of an instruction manual. [Push Square praised its responsiveness and encounter design](https://www.pushsquare.com/reviews/ps5/ninja-gaiden-ragebound), while reviewers differed on length: [PC Gamer described a seven-hour campaign](https://www.pcgamer.com/games/action/ninja-gaiden-ragebound-review/) and [Game Informer spent roughly twelve](https://gameinformer.com/review/ninja-gaiden-ragebound/a-retro-revelation).
+
+It becomes challenging, especially near the end. But the stages are finite, the controls are excellent and there's no need to embark on a giant action RPG just to enjoy a thrilling sword fight.
+
+## 12. Streets of Rage 4 — two to four hours for one campaign
+
+**Best for a whole game in one sitting.**
+
+An arcade-style beat-'em-up is a useful corrective to the idea that every game needs an enormous map. In *Streets of Rage 4*, the objective is gloriously clear. A group of villains approaches from one side of the screen. You send them back.
+
+The pleasure sits in the details. Axel's punches have force, Blaze moves with sharp precision, Floyd can grab opponents and toss them into one another, and your special attacks can become calculated risks rather than free escape buttons. Health spent on certain specials can be recovered by keeping an uninterrupted combo alive. It is a simple rule that rewards bravery without asking the player to memorise a second job's worth of statistics.
+
+[Ars Technica estimated about two hours for a run](https://arstechnica.com/gaming/2020/04/streets-of-rage-4-review-this-beat-em-up-revival-beats-them-all/); other reviewers took longer, especially with co-op and harder settings. Either way, you can get to an ending on a relaxed evening. The rest of the characters, scores and difficulty levels are available if you happen to fall in love.
+
+It is also an excellent game to play with another person on the sofa. Sometimes the best palate cleanser is a good old-fashioned shared argument about who picked up the chicken.
+
+## 13. Teenage Mutant Ninja Turtles: Shredder's Revenge — two to three hours
+
+**Best for cheerful co-op mayhem.**
+
+*Shredder's Revenge* follows the same arcade-brawler philosophy as *Streets of Rage 4* but trades much of its grimy urban swagger for pizza, Saturday-morning colour and hordes of Foot Clan ninjas.
+
+Donatello fights with the reach of his staff. Michelangelo races around enemies. Raphael favours short-range aggression. These distinctions are modest, but they make choosing a character more meaningful than picking your favourite bandana. You will be bouncing opponents off the scenery, reviving teammates and enjoying exaggerated animation almost immediately.
+
+The [GameSpot review](https://www.gamespot.com/reviews/teenage-mutant-ninja-turtles-shredders-revenge-review-turtle-power/1900-6417895/) put a straightforward finish at around two and a half hours and notes the difference between Story and Arcade modes. That is all the time you need to see the main adventure. Optional collections and additional character runs remain, if you want them.
+
+The caveat is important: for a solo player chasing deep combat mastery, *Streets of Rage 4* may be more interesting. For an evening with friends, or simply the desire to make a villain ricochet across the screen, the turtles are extraordinarily accommodating hosts.
+
+## 14. Devil May Cry — six to eight hours
+
+**Best for going back to the roots of stylish action.**
+
+The original *Devil May Cry* is twenty-five years old, and you can feel it. Its camera occasionally seems to have developed a grudge. Some traversal and puzzle moments belong unmistakably to the PS2 era. Dante's arsenal is far smaller than it would become in later games.
+
+Yet the underlying combat remains gloriously readable. Launch an enemy with your sword, keep it suspended with gunfire, change position and bring the sword down. It was the beginning of a style of action design in which the *way* you defeated an enemy mattered as much as the victory itself.
+
+That makes the first game a useful starting point for the history of stylish combat. It prizes combinations and player expression, with simple inputs interacting with precise animation. Those ideas would eventually evolve into the elaborate systems of later *Devil May Cry* games.
+
+The [HD Collection review at GameSpot](https://www.gamespot.com/reviews/devil-may-cry-hd-collection-review/1900-6370301/) found the original's action still crisp, while acknowledging the awkwardness of older cameras and systems. Expect a compact but not entirely forgiving adventure. The first game is available in modern re-releases; you do not need to complete the whole series or its sequels to appreciate how the idea started.
+
+## 15. Sayonara Wild Hearts — one to two hours
+
+**Best when you genuinely want a change of mood.**
+
+All right, this is not a sword-fighting game in the ordinary sense. There are motorcycles, sword battles, dancing, neon highways, heartbreak and an electronic-pop soundtrack. You react to cues, dodge obstacles, chase scores and watch the world reinvent itself between songs.
+
+Developer Simogo called it a playable pop album, and that description gets at its greatest virtue. Every new sequence has a clear rhythm and visual trick. You do not need to learn an elaborate system or remember what you were doing last week. Put on headphones and let the spectacle take over.
+
+It is also the shortest recommendation here. A first pass takes around ninety minutes by [player-submitted estimates](https://www.dekudeals.com/items/sayonara-wild-hearts), though subsequent score chasing can go much longer. The [Nintendo Life review](https://www.nintendolife.com/reviews/switch-eshop/sayonara_wild_hearts) describes the game's seamless Album Arcade mode, unlocked after the first clear, as the version that best captures its flowing musical ambitions.
+
+The controls occasionally lack the exactness of a truly great rhythm game, and some levels end just as they get going. For a night when you do not want another fight, however, *Sayonara Wild Hearts* is about as refreshing as games get.
+
+## Which one should you play first?
+
+If you want **cinematic swordplay in a compact adventure**, start with *Onimusha: Warlords*. Its historical-fantasy atmosphere, precise counters and brief campaign make it the closest thing here to an old-school samurai film. Choose *En Garde!* when you want the physical pleasure of combat without old-console stiffness; it is probably the most immediately playful game here.
+
+For an extraordinary sense of control, pick *Vanquish*, *Rollerdrome* or *Katana ZERO*: each makes movement and violence part of one flowing action. If you want a bigger performance, *Metal Gear Rising* is the loudest and *Hi-Fi Rush* the happiest. If you're craving a test of skill, try *Furi*, *Sifu* or *Ninja Gaiden: Ragebound*, with the understanding that getting good may take longer than the campaign itself.
+
+And if you really mean a single evening away from a gigantic Rockstar map? *Streets of Rage 4*, *Shredder's Revenge* and *Sayonara Wild Hearts* can each give you the rare satisfaction of saying, before bed, that you actually finished something.
+
+That is not an argument against enormous games. Exploring a world for weeks can be wonderful. But a game which knows precisely what it wants you to enjoy, and has the courtesy to stop while you are still enjoying it, is performing its own small miracle.
+
+## Reporting and playtime notes
+
+The release framing is based on [Rockstar's official November 19, 2026 announcement](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026). Playtime estimates are deliberately rounded and derive from the contemporary reviews and player-submitted main-story figures linked within entries, not from fresh timed playtests by Fourth Frame. Sources include [Capcom's remaster announcement](https://blog.playstation.com/2018/08/28/ps2-classic-onimusha-warlords-comes-to-ps4-january-15-2019/), [PlatinumGames' account of *Vanquish*](https://www.platinumgames.com/official-blog/article/2610), [the developers' discussion of *Metal Gear Rising* parries](https://www.platinumgames.com/official-blog/article/4717), [Game Informer's *Hi-Fi Rush* review](https://gameinformer.com/review/hi-fi-rush/riff-city), [the reviews of *Sifu*](https://www.gamespot.com/reviews/sifu-review-i-know-kung-fu/1900-6417823/) and [*Furi*](https://www.gamespot.com/reviews/furi-review/1900-6416472/), and [the 2025 reviews of *Ninja Gaiden: Ragebound*](https://www.gamespot.com/reviews/ninja-gaiden-ragebound-review-a-cut-above/1900-6418392/). These games have definitive campaign endings, but several also include substantial optional challenges, difficulty modes or post-game score chasing.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "best-platformer-games-to-play-2026", "sha256": "393b94884cc9bcab226309f2a7f8bc9d84746931213089e55556a720f68dddd1", "edit_sha256": "c16fefb61a22a3c14d6b89aad7d8b4cd0ea3d615e2f8a259f2feb583e5b668c1"} -->
+---
+title: "20 Best Platformers to Play in 2026: From Prince of Persia to Astro Bot"
+description: "The best platformer games to play now, ranked for movement and level design: Prince of Persia, Astro Bot, Mario, Celeste, Silksong, and more."
+summary: "Twenty games that remind you why a good jump, a clever level and the next checkpoint can still be irresistible."
+deck: ""
+---
+
+The best sound in a platform game is not always the music or the jump. Sometimes it is the tiny click in your head when you discover that a gap which looked impossible is, in fact, exactly the right distance for a running leap.
+
+Platformers made videogames legible to millions of people. There is a character. There is a place to get to. Between the two sits a question about timing, momentum, distance or nerve. That basic proposition has survived every generation of hardware, dozens of design fashions and several fairly convincing declarations that the genre was finished.
+
+It helps that a good platformer knows what a body should feel like. Mario's landing, Madeline's dash, Rayman's airborne float and Sargon's sudden change of direction are not interchangeable control schemes. They are the personalities of their games. A beautifully modelled level means remarkably little if moving through it feels like steering a wardrobe.
+
+This is a ranking of **20 platformers worth playing in 2026**, not a museum list of historically important cartridges or a numerical sort by review score. The selection includes 2D, 3D, precision platformers and a handful of Metroidvanias whose traversal is too good to exclude. Combat, puzzles, exploration and storytelling count, but **movement and level design come first**. Every game here can be played through a current storefront or on supported modern hardware, although some Nintendo choices remain exclusive to its consoles. Availability can change, especially for subscriptions; the platforms given are supported releases, not guarantees about a particular monthly catalogue.
+
+A few games reward forty hours of exploration. Others give you a whole adventure in a weekend. If you're looking specifically for the latter, see our companion guide to [15 short games that feel great between GTA VI sessions](../../stories/short-satisfying-games-between-gta-vi-sessions/). This one asks a slightly different question: where should someone go when they want the *act of moving through a game* to be the main attraction?
+
+[TOC]
+
+## 1. Prince of Persia: The Lost Crown — the complete action-platforming package
+
+**Play on:** PC, Switch, PS4, PS5, Xbox One, Xbox Series X|S, iOS or Android. **Best for:** fast combat, demanding traversal and exploration with a purpose.
+
+There's a point in *The Lost Crown* when Sargon has acquired just enough time-manipulation powers for an ordinary room to become a small athletic argument. The route demands a sprint, a sliding dodge, a leap away from danger and a sudden return to a spot you occupied seconds earlier. Getting it right doesn't feel like following instructions. It feels like knowing your own body.
+
+Ubisoft Montpellier, the studio behind *Rayman Legends*, built a Metroidvania with an unusual confidence in both halves of the genre. The swordplay has expressive parries, juggling and aggressive bosses. The traversal challenges turn spikes, platforms and time powers into increasingly elaborate obstacle courses. Crucially, neither seems like something the designers added because a feature checklist demanded it.
+
+The map's **Memory Shards**, which let you pin screenshots of interesting places, are one of the best small interface ideas in modern exploration games. Ubisoft designer Rémi Boutin [explained the feature's origin](https://developer.microsoft.com/en-us/games/articles/2025/03/prince-of-persia-the-lost-crown-accessibility/) as an attempt to replace the mental burden of remembering every locked route. Custom difficulty and platforming assists mean its demanding later sections need not exclude everyone else.
+
+Its story can be over-earnest and a few bosses overstay their welcome. Still, as a union of speed, combat, accessibility and creative traversal, *The Lost Crown* is the game we'd place in someone's hands first. Ubisoft [lists its current console, PC and mobile versions](https://www.ubisoft.com/en-us/game/Prince-of-Persia/The-Lost-Crown). It makes a persuasive case that the series didn't need another camera angle to reclaim its best ideas.
+
+## 2. Astro Bot — the purest 3D joy on PlayStation
+
+**Play on:** PS5. **Best for:** imagination, tactile controls and short bursts of delight.
+
+Every few minutes in *Astro Bot*, Team Asobi produces a new toy. One level gives the little robot an ability that alters how you traverse its world. The next has an enemy interaction, a curious surface or a physical gag that probably took weeks to perfect and is cheerfully discarded once you've enjoyed it.
+
+This is what a great level-based 3D platformer does: it refuses to confuse content volume with novelty. There are plenty of collectibles, secret exits and familiar PlayStation faces, but the real prize is how enthusiastically everything responds to you. The DualSense's vibration and triggers make ordinary surfaces and interactions unusually tangible. [Team Asobi's launch notes](https://blog.playstation.com/2024/05/30/astro-bot-arrives-on-ps5-september-6/) and [the reviews](https://www.pushsquare.com/reviews/ps5/astro-bot) underline just how much invention the studio packs into each stage.
+
+It's not the largest platformer on this list, and much of its central path is approachable rather than punishing. The optional challenge stages take care of players who want sharper teeth. For everyone else, *Astro Bot* is the sort of game that can make a person smile at an interaction with no obvious reason to exist except that someone thought it would be fun.
+
+## 3. Super Mario Odyssey — the pleasure of movement without an assignment
+
+**Play on:** Nintendo Switch; playable on Switch 2 through compatibility. **Best for:** experimentation and 3D movement.
+
+Sometimes a *Mario Odyssey* Power Moon sits at the end of an elaborate platforming challenge. Sometimes it is behind a suspicious wall or under something that looked like decoration. The important thing is that the next discovery usually belongs to you, not a flashing arrow.
+
+Cappy, Mario's sentient hat, does two extraordinary things. Capturing creatures and objects changes the rules of movement in each kingdom; using the hat as an extension of Mario's own jumps gives expert players more possibilities than the game ever strictly requires. Nintendo's [official movement guide](https://supermario.nintendo.com/mario-cappy/) details the familiar jumps and the new capture abilities, but it cannot communicate the sensation of linking them together at speed.
+
+The scattered-Moon structure has a weakness: not every reward earns the anticipation surrounding it. Some are practically handed to you. Yet *Odyssey* is so generous in its movement, world design and little jokes that wandering off the intended route feels like playing correctly. Nobody makes an ordinary leap across a colourful rooftop seem quite so inviting.
+
+## 4. Celeste — precision with a human heartbeat
+
+**Play on:** PC, Switch, PS4 and Xbox One, including supported newer-console compatibility. **Best for:** exacting jumps and the satisfaction of improving.
+
+Madeline can climb, jump and dash once in mid-air. This is not an especially complicated vocabulary. *Celeste* turns it into an essay on possibility.
+
+A single screen can look murderous until you begin to read it: a safe patch of wall, the one crystal that refreshes a dash, a gap you can just clear if you approach it from the right height. Failure sends you back almost instantly. It doesn't excuse the mistake, but it has the good manners not to waste your time explaining what happened.
+
+Its story about anxiety and self-doubt would be sentimental in a game that only told you difficulty could be overcome. Here, the mechanics make the argument personally. The optional B-sides and later challenges are fiendish; the principal climb is more forgiving than its reputation, and Assist Mode makes it possible to adapt the challenge. The [official game site](https://www.celestegame.com/) still offers the clearest introduction to this painstakingly crafted mountain.
+
+*Celeste* is not the most spectacular game here. It is one of the few that can make clearing a single screen feel like a complete evening's achievement.
+
+## 5. Donkey Kong Bananza — a world made to be broken
+
+**Play on:** Nintendo Switch 2 only. **Best for:** joyful destruction and 3D exploration.
+
+Most platformers teach the player which surfaces are solid. *Donkey Kong Bananza* asks whether you've considered punching straight through them.
+
+Nintendo's reinvention of its oldest hero turns destructible terrain into navigation. Donkey Kong can rip material from the ground, open tunnels, excavate prizes and remake the level as he goes. The companion dynamic with Pauline gives the journey a surprisingly warm centre, while transformations change how DK attacks and moves through the layers below him. Nintendo's [official description](https://play.nintendo.com/news-tips/game-releases/news-donkey-kong-bananza-for-nintendo-switch-2/) captures the range of these mechanics; [GameSpot's review](https://www.gamespot.com/reviews/donkey-kong-bananza-review-a-new-start-for-nintendos-first-star/1900-6418382/) shows why their combinations feel so fresh.
+
+There is a little less purity here than in a tightly authored obstacle course. You will sometimes solve a problem through brute force rather than an elegant sequence of jumps. That's exactly the appeal. After decades of being told not to damage the scenery, this is a platform game that positively encourages vandalism.
+
+## 6. Super Mario Bros. Wonder — the level designer's practical joke
+
+**Play on:** Switch; an expanded Switch 2 edition is also available. **Best for:** inventive 2D stages and approachable co-op.
+
+The cleverest idea in *Super Mario Bros. Wonder* is that a level is allowed to surprise you after you've worked out what it is. Touch a Wonder Flower and familiar Mario geography can become a procession, a transformation, a stampede or some other gently deranged experiment. Nothing stays routine for long.
+
+The base controls are excellent, but Nintendo doesn't rely on them alone. Badges alter how a character traverses or survives, while the cast and accessibility options allow less experienced players to enjoy much of the adventure without an expert constantly rescuing them. Some stages are relaxed. The notorious late challenges are emphatically not.
+
+Nintendo released [a Switch 2 edition with expanded multiplayer attractions in March 2026](https://my.nintendo.com/news/f931234accb87a28), though the original Switch version remains an excellent way to play. *Wonder* probably isn't the last word in technical 2D platforming, but it is a reminder of how much personality can fit between one flagpole and the next.
+
+## 7. Ori and the Will of the Wisps — the platformer that learned to flow
+
+**Play on:** PC, Xbox One, Xbox Series X|S and Switch. **Best for:** movement that feels like flight and a bittersweet adventure.
+
+At the start of an *Ori* game, the little forest spirit seems fragile. By the time *Will of the Wisps* is in full stride, you can bounce off enemies, dash between hazards, sail across wide spaces and convert what looked like a wall into part of a graceful route.
+
+Moon Studios improved on the original's combat and made movement a pleasure in itself. The bash ability, which redirects projectiles or uses enemies as springboards, is among the best traversal mechanics in the genre. Its brilliance is that the very threats which ought to stop you become the things that send you onward.
+
+The painterly landscapes and Gareth Coker's music give the journey emotional weight, though the game sometimes leans a little too hard on tragedy and extended escape sequences. Its wider map also means it isn't a quick series of stages. If you don't mind some Metroidvania backtracking, this is one of the loveliest ways to cross a videogame landscape. [Moon Studios' official game page](https://www.orithegame.com/) is a good starting point for the two adventures.
+
+## 8. Hollow Knight: Silksong — movement for the brave
+
+**Play on:** PC, Mac, Linux, Switch, Switch 2, PS4, PS5 and Xbox. **Best for:** demanding combat, exploration and hard-earned mastery.
+
+The original *Hollow Knight* made its ruined kingdom feel vast and unknowable. Its 2025 sequel makes the body moving through that kingdom more interesting.
+
+Hornet is quicker, more acrobatic and more aggressive than the first game's small knight. Her attacks carry her into danger; her ledge grabs, sprinting and later traversal tools invite daring. Pharloom's immense spaces reward observation, and its bosses ask you to learn attacks rather than merely equip better numbers. [Team Cherry's current release page](https://www.teamcherry.com.au/games) confirms its modern platforms, while [GameSpot's review](https://www.gamespot.com/reviews/hollow-knight-silksong-review-an-unforgettable-climb/1900-6418415/) discusses how much Hornet changes the feel of platforming.
+
+There is a catch, and it is a substantial one. *Silksong* can be brutally demanding, and some repeated journeys to bosses test patience rather than skill. This is not our recommendation for someone after a gentle evening. It is for players who love the moment when a previously impossible series of jumps finally becomes a single confident movement.
+
+## 9. Rayman Legends — rhythm, colour and co-op in perfect time
+
+**Play on:** PC, Switch, PS4 and Xbox One, with supported newer-console compatibility. **Best for:** musical stages and local multiplayer.
+
+A level in *Rayman Legends* sometimes feels like a cartoon chase. The characters slide, punch, wall-jump and glide as if some animator has temporarily taken possession of your hands. Then the music levels begin and the whole thing becomes a dance: you leap and strike in time with a soundtrack that has clearly been waiting for its grand entrance.
+
+Ubisoft Montpellier's hand-painted worlds are still spectacular, and its four-player co-op is glorious organised confusion. The Murphy interactions work better on some platforms than others, and a few stages lose momentum when they require a partner or a particular control gimmick. But the best levels possess an almost physical rhythm. [Ubisoft's official listing](https://www.ubisoft.com/en-us/games/rayman-legends) still includes modern versions and the original's co-op features.
+
+A new *Rayman Legends Retold* was announced for October 2026, then [delayed to December 3, 2026](https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/). Until that arrives and has been properly judged, the 2013 original deserves this place without any apology about its age.
+
+## 10. Donkey Kong Country: Tropical Freeze — the art of the perfect obstacle course
+
+**Play on:** Switch, including supported Switch 2 compatibility. **Best for:** immaculate 2D level design.
+
+*Tropical Freeze* is a game about momentum disguised as a game about an ape reclaiming his island. A minecart tips towards a collapsing bridge. A piece of scenery comes alive. A familiar jungle stage transforms into something increasingly dangerous, always to a rhythm you can learn.
+
+Retro Studios gets extraordinary mileage from the relationship between what you can see and what your body is about to do. Its levels are choreographed without feeling like they play themselves. The music, particularly David Wise's compositions, gives the action a distinctive pulse. Donkey Kong has a reassuring weight that keeps the hazards from feeling trivial.
+
+It can be difficult, sometimes fiercely so. The [Switch version's Funky Mode](https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-switch/) offers a more forgiving way to enjoy the design, including extra survivability and movement help. If you want an argument that traditional, authored 2D stages still matter in an age of vast open worlds, this is a remarkably strong one.
+
+## 11. Shinobi: Art of Vengeance — when platforming meets a martial-arts film
+
+**Play on:** PC, Switch, PS4, PS5, Xbox One and Xbox Series X|S. **Best for:** expressive ninja combat and fast traversal.
+
+Joe Musashi's return in *Shinobi: Art of Vengeance* is less a retro revival than a lesson in how to revive a character's physical identity. Lizardcube, the studio associated with *Streets of Rage 4*, gives him a rapid language of dodges, strikes, aerial movement and devastating finishers.
+
+The hand-drawn look is gorgeous, but the action is what earns the animation. The game makes it enjoyable to enter a room, read the positions of several enemies and leave them regretting their decision to stand in a straight line. Some stages ask for serious platforming precision as well; others invite exploration and later revisits. Sega [confirmed the August 2025 release and available platforms](https://www.sega.co.jp/en/release/250829_1.html).
+
+*Shinobi* has more combat emphasis than Mario or Celeste, and its busier fights can obscure the elegance of its traversal. If you enjoy acrobatic swordplay as much as demanding jumps, though, this is one of the most satisfying picks here after *The Lost Crown*.
+
+## 12. Neon White — the best shortcut is the one you invent
+
+**Play on:** PC, Switch, PS4, PS5 and Xbox. **Best for:** speedrunning without first becoming a speedrunner.
+
+At the end of a *Neon White* level, the game tells you your time. It could simply congratulate you and move on. Instead it quietly suggests there might be a faster way, and within a minute you are running the same stage again, wondering whether a weapon should be fired or thrown away.
+
+Its great innovation is to turn guns into movement tools. A card can shoot an enemy or be discarded for a dash, jump or other traversal ability. The best route often depends on having the courage to sacrifice something useful now in exchange for a better line through the level. [Annapurna's official overview](https://annapurnainteractive.com/games/neon-white) describes this trade-off, but you need to play a few stages to appreciate how addictive it becomes.
+
+The visual-novel interludes are deliberately pulpy and won't appeal to everybody. Fortunately, the stages are compact enough that you're never far from the next brilliant little route puzzle. Few games are better at making you discover a new kind of speed.
+
+## 13. Shovel Knight: Treasure Trove — four reasons to love an old-fashioned jump
+
+**Play on:** PC, Switch, PS4, Xbox One and compatible newer hardware. **Best for:** classic action-platforming with modern polish.
+
+It is tempting to call *Shovel Knight* a tribute to the NES and leave it there. That would miss the invention behind its apparent simplicity. The titular hero attacks with a shovel and pogo-bounces off enemies, terrain and obstacles. That bounce turns combat and traversal into the same decision.
+
+*Treasure Trove* is more than the original campaign. The additional adventures radically reconsider familiar stages through new characters and move sets. Plague Knight's unstable explosions, Specter Knight's dashes and King Knight's flamboyant shoulder bashes suggest several different platformers hiding inside one collection. [Yacht Club Games' catalogue](https://www.yachtclubgames.com/games/) lays out the scope of the package.
+
+The old-school structure means checkpoints can be punishing if you get greedy, and the pixel art won't impress someone who associates value with polygon counts. Everyone else gets a generous set of tightly considered games whose mechanics are better than mere homage.
+
+## 14. Psychonauts 2 — the platformer with something to say
+
+**Play on:** PC, Xbox One, Xbox Series X|S and PS4, including PS5 backward compatibility. **Best for:** imaginative worlds, story and character.
+
+Razputin Aquato enters the minds of other people. These are not normal video-game levels. One psyche can become a casino, another a fractured performance, another a place where a psychological struggle is expressed as geography.
+
+Double Fine's greatest skill is to make level themes reveal a character, rather than merely provide a backdrop. The platforming has been modernised since the first *Psychonauts*, and Raz's psychic abilities create enjoyable combinations of combat and movement, but this is not a contender for the most finely tuned jump on the list. It belongs here for the invention of its spaces and its unusually compassionate storytelling. The [ESRB platform record](https://www.esrb.org/ratings/37746/psychonauts-2/) confirms its major platform releases.
+
+A few stages go on long enough that the idea begins to wear thin. And its tone can jump from heartfelt to broad comedy without warning. But it offers the kind of imaginative 3D adventure that feels increasingly rare beside games focused only on bigger worlds and higher numbers.
+
+## 15. Pizza Tower — a Wario Land nightmare with perfect brakes
+
+**Play on:** PC and Switch. **Best for:** high-speed 2D movement, score chasing and beautiful nonsense.
+
+Peppino Spaghetti looks like a man who should get tired climbing stairs. In *Pizza Tower*, he accelerates into a blur, launches himself across rooms and somehow learns to make every wall, slope and enemy part of a more impressive run.
+
+Its closest ancestor is *Wario Land*, but it takes that series' aggressive physicality and gives it the personality of a forgotten, slightly unhinged television cartoon. Learning a level is fun. Learning to perform it without losing momentum is even better. The end-of-stage escape turns your earlier exploration into a frantic race through familiar spaces.
+
+The visual noise can be exhausting and score chasing is practically an invitation to obsessive repetition. But the underlying movement is exceptionally precise. [Nintendo's current Switch listing](https://www.nintendo.com/us/store/products/pizza-tower-switch/) gives a good account of its unusual emphasis on exploration and speed. If your idea of a platformer is something with physics you can eventually play like an instrument, Peppino's restaurant crisis is well worth visiting.
+
+## 16. Animal Well — the platformer that asks you to look again
+
+**Play on:** PC, PS5, Switch and Xbox Series X|S. **Best for:** environmental puzzles, secrets and quiet curiosity.
+
+A small creature wanders through a dark underground world. There is no heroic weapon to hand, no voice announcing the mission and no obligation to explain every object you find.
+
+*Animal Well* makes a different promise from most games here. Movement is relatively simple; the fascination comes from discovering what objects can do. A tool with one obvious use might turn out to have several less obvious ones. Creatures behave like part of an ecology rather than merely obstacles placed to be cleared. The world steadily becomes more understandable without ever losing all of its mystery.
+
+Its refusal to offer straightforward direction can be frustrating, and its deepest secrets demand far more dedication than a typical platformer. Yet few games reward paying attention as generously. [The game's official site](https://www.animalwell.net/) captures the premise without giving away what is most pleasurable to discover.
+
+If *Neon White* is about mastering a route, *Animal Well* is about realising there was a route at all.
+
+## 17. Sonic Mania — the blue blur gets his old rhythm back
+
+**Play on:** PC, Switch, PS4 and Xbox One, with supported modern-console compatibility. **Best for:** 2D speed, branching routes and replaying favourite stages.
+
+Good Sonic levels are not straightforward racetracks. They are machines full of alternative routes. A skilled player launches through a loop and reaches a secret upper path; a newcomer survives on a lower one. Both are still playing, but not quite the same game.
+
+*Sonic Mania* understands that principle. Developed by a team steeped in the series' history, it restores the convincing inertia, sloping geometry and satisfying jumps of the Mega Drive era. Its best new stages have an almost musical understanding of speed: an uninterrupted rush followed by a moment requiring actual attention.
+
+Its affection for familiar zones occasionally makes the game feel too comfortable looking backward. The special stages won't suit everyone, either. But as a demonstration that **Sonic works best when he feels fast because of the level, not because the camera tells you he is**, this is still hard to beat. [Sega's official game page](https://www.sonicthehedgehog.com/sonic-mania/) covers the original release and characters.
+
+## 18. Kirby and the Forgotten Land — the gentle art of surprise
+
+**Play on:** Switch, with a Switch 2 edition that adds *Star-Crossed World* content. **Best for:** families, relaxed exploration and lovable ideas.
+
+Kirby enters abandoned shopping centres, collapsing buildings and overgrown amusement parks with the composure of a pink creature who has never encountered a problem he couldn't swallow. The game's post-apocalyptic scenery should feel mournful; instead, its colourful ruins become playgrounds.
+
+The transition to three dimensions preserves the series' welcoming nature while giving its copy abilities a new kind of physical comedy. Mouthful Mode, in particular, asks whether Kirby can become a car or a vending machine and answers with entirely too much enthusiasm. Environments hide small optional objectives and secret Waddle Dees, which makes looking around rewarding without forcing a meticulous search of every corner.
+
+It isn't difficult through much of its main campaign. That's a feature for some players and a limitation for others. The [Switch 2 edition announced by Nintendo](https://www.nintendo.com/us/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/) adds further content for owners of the newer machine. If you want a platformer to share with someone less experienced, this is one of the finest invitations available.
+
+## 19. Crash Bandicoot 4: It's About Time — a beautiful exercise in stubbornness
+
+**Play on:** PC, Switch, PS4, PS5 and Xbox consoles. **Best for:** precise linear 3D platforming and those who enjoy a serious challenge.
+
+*Crash 4* looks friendly. The art is colourful, the animations are funny and the hero resembles a cartoon animal whose principal interest is spinning towards fruit. The game is considerably less forgiving once you start trying to clear its harder sequences without mistakes.
+
+Toys for Bob builds levels around a strong rhythm of jumps, slides, spins and newly introduced Quantum Masks. These temporarily alter the relationship between platforms and hazards: switch between dimensions, reverse gravity or slow time at just the right instant. It is exhilarating when a stage clicks, and aggravating when completionist requirements ask you to repeat it with near-perfect precision.
+
+This is an important distinction when recommending it today. Finishing the campaign is a sensible goal; completing everything is an entirely different undertaking. If you grew up with the original *Crash* games and wanted something more demanding rather than merely more nostalgic, this is a very good answer.
+
+## 20. Klonoa Phantasy Reverie Series — two lovely adventures worth rescuing
+
+**Play on:** PC, Switch, PS4, PS5 and Xbox. **Best for:** charming 2.5D platforming with an unexpectedly affecting story.
+
+The first *Klonoa* asks you to catch an enemy and use it to reach a place you otherwise could not. That is almost the whole idea, and it is enough. Enemies are springboards, projectiles and little moments of spatial planning. Klonoa's movement is approachable, the level design is clear and the side-scrolling stages curve through environments with a delightful illusion of depth.
+
+*Phantasy Reverie Series* remasters *Door to Phantomile* and *Klonoa 2: Lunatea's Veil* for modern hardware. The latter remains a wonderfully constructed sequel, with bigger spaces and a stronger sense of scale. Neither game demands that you become a technical virtuoso to see the ending.
+
+There is a certain oddness to their sugary appearance. The stories are more melancholy than the covers suggest, and part of their appeal is how gracefully they handle that tonal turn. A few camera and collision quirks betray their age, but these games deserve to be more than a footnote in the history of PlayStation-era mascots. [Bandai Namco's official series page](https://en.bandainamcoent.eu/klonoa/klonoa-phantasy-reverie-series) explains what the modern compilation contains.
+
+## The shortlist within the shortlist
+
+No ranking can replace knowing what you enjoy. If all you want is a superb **2D obstacle course**, choose *Celeste* for difficult precision or *Tropical Freeze* for lavishly constructed stages. *Super Mario Bros. Wonder* is the friendliest way to see Nintendo's current ideas. *Rayman Legends* is our favourite recommendation when friends want to join in.
+
+For **3D**, *Astro Bot* is the easiest recommendation on PS5, *Super Mario Odyssey* has the greatest freedom to experiment, and *Donkey Kong Bananza* turns almost every wall into a negotiable suggestion. *Psychonauts 2* wins if the worlds and their people matter to you as much as the controls.
+
+For **fighting and traversal together**, start with *Prince of Persia: The Lost Crown*, then try *Shinobi: Art of Vengeance*. Players who want an enormous, punishing world can move to *Silksong*. And if you find yourself restarting one level just to shave two seconds off a good time, *Neon White* and *Pizza Tower* will understand.
+
+There are notable omissions: *Hollow Knight* remains excellent, *Sackboy: A Big Adventure* is a fine family co-op choice, *Metroid Dread* is a superb action-heavy cousin to this list, and *A Hat in Time* deserves affection from fans of the older 3D collectathon. *Mina the Hollower*, released in May 2026, also deserves attention, but Yacht Club's impressive gothic adventure owes more to top-down *Zelda* than to platforming as the central act. These are questions of emphasis, not quality.
+
+The best platformers aren't necessarily the biggest or the newest. They're the ones that persuade you to attempt a jump you probably can't make, then give you the freedom to discover that perhaps you can. For a genre supposedly built on going from left to right, it has found a remarkable number of ways to surprise us along the way.
+
+## Sources and current availability
+
+For recent releases and platform listings, this guide uses the [official *Prince of Persia: The Lost Crown* site](https://www.ubisoft.com/en-us/game/Prince-of-Persia/The-Lost-Crown), [Team Cherry's current game catalogue](https://www.teamcherry.com.au/games), [Sony's *Astro Bot* page](https://www.playstation.com/en-us/games/astro-bot/), [Nintendo's *Donkey Kong Bananza* product information](https://play.nintendo.com/news-tips/game-releases/news-donkey-kong-bananza-for-nintendo-switch-2/), [the *Super Mario Bros. Wonder* Switch 2 announcement](https://my.nintendo.com/news/f931234accb87a28), and [Sega's *Shinobi* release information](https://www.sega.co.jp/en/release/250829_1.html). The separate [September 2026 Rayman delay report](https://www.videogameschronicle.com/news/ubisoft-delays-rayman-legends-retold-weeks-before-planned-release/) supersedes the older October release announcement.
+
+For critical context, see [GameSpot on *Donkey Kong Bananza*](https://www.gamespot.com/reviews/donkey-kong-bananza-review-a-new-start-for-nintendos-first-star/1900-6418382/), [GameSpot on *Silksong*](https://www.gamespot.com/reviews/hollow-knight-silksong-review-an-unforgettable-climb/1900-6418415/), [PC Gamer's platformer recommendations](https://www.pcgamer.com/best-platformers/), and [Ubisoft's design discussion of Memory Shards](https://developer.microsoft.com/en-us/games/articles/2025/03/prince-of-persia-the-lost-crown-accessibility/). Rankings and judgments are Fourth Frame editorial opinions, not a mathematical aggregation of review scores. Platform listings describe released versions as of October 2026; check individual storefronts for territory-specific compatibility and availability.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "sha256": "d88f753c009e29ad0105c6a3cd035fc75555d67a5e536c82bc7bd59c3536ce43", "edit_sha256": "aa2e13d33b8e75f09850fc7af25e6497f7227ad665782c4daafb299e72335105"} -->
+---
+title: "How to Watch JoJo's Bizarre Adventure Without Losing Your Mind"
+description: "A spoiler-safe JoJo anime guide with episode counts, watch order, starting points and closed recap panels for each animated Part through Steel Ball Run."
+summary: "Seven very different adventures, one family name, and recaps you can open only when you're ready."
+deck: ""
+---
+
+There are two ways to frighten somebody away from *JoJo's Bizarre Adventure*. The first is to show them a picture of a heavily muscled man posing as though he has just heard the best bass line in history. The second is to announce that catching up requires nearly two hundred episodes.
+
+Both approaches miss the point. *JoJo* is not one plot that needs almost two hundred episodes to finish a sentence. It is a family saga told in **Parts**, each with a different leading JoJo, a new setting, fresh supporting characters and, increasingly, its own set of rules for supernatural combat. One part plays like Gothic horror; another is a road movie; another resembles a murder mystery in a deceptively ordinary town. You can take a break between them without abandoning a cliffhanger every week.
+
+This guide is designed for viewers who want the story without the homework. First comes **what you need to know without spoilers**: where to begin, which episodes to watch and what sort of series each Part becomes. Beneath each description is a **closed recap** intended for people who have actually finished that Part and want a reminder before starting the next one. The recaps deliberately reveal major outcomes and relationships. Do not open them early.
+
+It is also a living guide. \**As of October 26, 2026, the *Steel Ball Run* anime is still airing weekly.*\* Its recap therefore stops at its introductory stage rather than pretending the full manga story has already appeared on television. The [official anime site](https://jojo-portal.com/en/anime/sbr/streaming/) lists the first 47-minute episode and the weekly 11-episode block that began September 25, 2026.
+
+[TOC]
+
+## Before you start: what is a JoJo?
+
+JoJo is a nickname applied to different protagonists whose names generally contain the syllable *Jo*. Hirohiko Araki began the manga in 1986, but the modern televised adaptations most newcomers want start in **2012**. The simplest route is to follow Parts 1 through 6 in numerical order and then approach Part 7, *Steel Ball Run*, as the beginning of a different continuity.
+
+There are two major kinds of powers. Parts 1 and 2 use **Hamon**, an energy technique produced through controlled breathing; Part 3 introduces **Stands**, supernatural manifestations with rules and abilities that can be anything from straightforward brute strength to a nearly abstract conceptual trick. The pleasure of later *JoJo* is often watching characters solve a lethal puzzle by interpreting the rules better than an opponent. The enemy's strength is almost less important than finding what they can and cannot do.
+
+For a first viewing, ignore the old **1993 and 2000 OVAs**, which adapt pieces of Part 3, and the rarely seen \**2007 *Phantom Blood* film**. They are historical curiosities, not required homework. The four *Thus Spoke Kishibe Rohan* episodes are a worthwhile but optional Part 4 spinoff and belong *after\* meeting Rohan.
+
+You do not need a spreadsheet. You need the next Part and permission to stop after it.
+
+## Part 1: Phantom Blood — 9 episodes
+
+**Start with:** *JoJo's Bizarre Adventure* (2012), episodes 1–9. **Setting:** Victorian England. **The JoJo:** Jonathan Joestar. **Mood:** Gothic revenge melodrama.
+
+This is the foundation. Jonathan is principled almost to a fault; Dio Brando, brought into the Joestar home, treats another person's decency as something to exploit. The series establishes the family conflict and a supernatural threat in just nine episodes. Its characters shout, weep, swear oaths and fight like figures in an operatic stage play. That's a feature, not a mistake.
+
+It can also feel blunt beside the later Parts. Araki's world has not yet developed the wild ingenuity of Stands, and the plot is less subtle than the show's reputation might suggest. But nine episodes is an unusually reasonable price for understanding where this strange saga began.
+
+:::spoilers Completed Part 1? Open the full recap
+
+Dio's abuse of Jonathan begins as an attempt to steal his place in the family and evolves into murder and supernatural transformation. The mysterious stone mask turns Dio into a vampire. Jonathan learns the breathing technique Hamon from Will A. Zeppeli and, with Robert E. O. Speedwagon's support, confronts Dio and his undead followers. Zeppeli dies helping Jonathan; Dio apparently falls after their climactic battle, but survives as a severed head.
+
+Jonathan marries Erina Pendleton. Dio returns aboard the ship carrying the newlyweds and tries to steal Jonathan's body. Jonathan dies holding Dio as the ship is destroyed, while Erina escapes with an infant she rescued. Jonathan's victory is moral rather than personal: he protects the next generation, but the Joestar family's feud survives him.
+
+:::
+
+## Part 2: Battle Tendency — 17 episodes
+
+**Continue with:** the same 2012 series, episodes 10–26. **Setting:** the 1930s, across several countries. **The JoJo:** Joseph Joestar. **Mood:** globetrotting adventure and outrageous trickery.
+
+Joseph is an excellent reward for completing Jonathan's solemn story. Where his grandfather favoured honourable confrontation, Joseph lies, bluffs, taunts and turns every fight into a game of misdirection. The antagonists, the Pillar Men, expand the mythology of the stone masks into something older and more dangerous.
+
+This is the first Part I'd recommend to someone unconvinced by the tone of the opening. It remains sequentially important, yet suddenly discovers a taste for inventive reversals. Watch Joseph's eyes: victory often begins with him noticing a detail everyone else missed.
+
+:::spoilers Completed Part 2? Open the full recap
+
+Joseph and Caesar Zeppeli train their Hamon abilities under Lisa Lisa as the Pillar Men—Wamuu, Esidisi and Kars—attempt to gain a perfect power through the Red Stone of Aja. Caesar dies fighting Wamuu, leaving Joseph the determination to finish their contest. Joseph later defeats Wamuu and survives Kars, who becomes an Ultimate Life Form immune to conventional harm.
+
+Through an extravagant chain of luck, invention and a volcanic eruption, Joseph sends Kars into space, where he drifts helplessly and eventually stops thinking. Lisa Lisa is revealed to be Joseph's mother. Joseph survives and eventually marries Suzi Q. The supernatural threats seem dealt with, but the family's connection to Dio remains unfinished.
+
+:::
+
+## Part 3: Stardust Crusaders — 48 episodes
+
+**Watch:** *Stardust Crusaders* (24 episodes, 2014), followed by *Battle in Egypt* (24 episodes, 2015). **Setting:** an international journey from Japan towards Egypt. **The JoJo:** Jotaro Kujo. **Mood:** road trip, monster-of-the-week and friendship under pressure.
+
+Here is the biggest change in the early franchise. **Stands replace Hamon as the main battle language.** Jotaro travels with a group whose powers and personalities clash almost as often as they cooperate. The episodic structure lets the series try dozens of strange ideas, with battles determined by observation and teamwork rather than merely punching harder.
+
+Forty-eight episodes is a substantial jump, and this is where some viewers feel the repetition. If the journey becomes tiring, watching two or three episodes at a time is sensible. The camaraderie steadily earns its weight, especially once the travellers realise how much they have come to depend on one another.
+
+:::spoilers Completed Part 3? Open the full recap
+
+Dio, now occupying Jonathan's body, has returned. The link to him awakens Stands within the Joestar family and endangers Holly, Jotaro's mother. Jotaro joins Joseph, Avdol, Kakyoin, Polnareff and later Iggy on a journey to Egypt to end Dio's threat before Holly dies.
+
+They confront a succession of Stand users whose attacks conceal strange rules. Avdol and Iggy die during the final assault, and Kakyoin sacrifices himself to uncover the most dangerous fact about Dio's Stand, The World: it can stop time. Jotaro discovers that Star Platinum can also act during stopped time and defeats Dio. Holly recovers, and the surviving travellers part after a journey that has made their friendship more important than any single victory.
+
+:::
+
+## Part 4: Diamond Is Unbreakable — 39 episodes
+
+**Watch:** *Diamond Is Unbreakable* (2016). **Setting:** Morioh, a fictional Japanese town in 1999. **The JoJo:** Josuke Higashikata. **Mood:** small-town mystery, eccentric comedy and creeping horror.
+
+If the endless travel of Part 3 exhausted you, Morioh is a refreshing reversal. Characters have homes, classmates, shops and petty disputes. Strange Stand abilities turn ordinary places into traps. The cast's relationships deepen because everyone keeps running into one another.
+
+Part 4 is where the franchise's interest in *people* becomes especially convincing. Josuke is a warmer protagonist than Jotaro; Koichi gradually gains confidence; Okuyasu provides comic loyalty; Rohan Kishibe is both insufferable and irresistible to watch. Beneath the humour lies a mystery that turns familiar streets into frightening territory.
+
+:::spoilers Completed Part 4? Open the full recap
+
+Josuke and his friends discover that Morioh contains numerous Stand users, some created by a mysterious arrow. Koichi learns to command his developing Stand; Okuyasu becomes a loyal ally after losing his brother; Rohan, initially an antagonist, becomes an abrasive member of the wider group.
+
+The central threat is Yoshikage Kira, a serial killer who wants a quiet life and murders women while collecting their hands. Kira steals another man's identity and tries to evade discovery using Killer Queen and its extraordinary abilities, including Bites the Dust. Hayato, the son of the man Kira impersonates, helps expose him. The townspeople's combined efforts finally bring Kira down, while Morioh remains a place where ordinary life and supernatural danger will always overlap.
+
+:::
+
+## Part 5: Golden Wind — 39 episodes
+
+**Watch:** *Golden Wind* (2018–19). **Setting:** Italy. **The JoJo:** Giorno Giovanna. **Mood:** crime thriller, loyalty and betrayal.
+
+*Golden Wind* is a story about a criminal organisation in which almost everybody looks as though they walked out of a high-fashion magazine during a power outage. Giorno wants to change the gang from within, and his companions are some of the best in the franchise: Bucciarati's makeshift family has rules, quarrels and an almost desperate affection for one another.
+
+The Stand fights now become genuinely elaborate puzzles. Not every solution is elegant, and the explanations sometimes flirt with absurdity, but the dramatic stakes are sharper because an organisation can punish anyone who breaks its code. Where Part 4 made you care about a town, Part 5 makes you care about a team.
+
+:::spoilers Completed Part 5? Open the full recap
+
+Giorno joins Bucciarati's team in the organisation Passione with the intention of overturning its corrupt leadership. Ordered to protect the boss's daughter Trish, the team discovers that the boss intends to kill her to erase evidence of his identity. Bucciarati rebels; the team becomes fugitives hunted by powerful Stand users.
+
+The boss is Diavolo, whose King Crimson can erase spans of perceived time. The struggle becomes a race for a Stand-enhancing Arrow. Several members die, and Bucciarati's survival after an earlier fatal wound is revealed to be temporary. Giorno's Gold Experience evolves into Gold Experience Requiem, whose power prevents Diavolo from reaching the consequences of his actions. Giorno replaces him as the head of Passione, inheriting a criminal empire he hopes to reform.
+
+:::
+
+## Part 6: Stone Ocean — 38 episodes
+
+**Watch:** *Stone Ocean* (Netflix, released in three batches during 2021–22). **Setting:** a Florida prison and beyond. **The JoJo:** Jolyne Cujoh. **Mood:** prison thriller, desperation and questions about fate.
+
+Jolyne begins as a young woman trapped in a system that is difficult to understand and harder to escape. Her Stand, Stone Free, can unravel her body into string, producing fights that reward ingenuity and a keen eye for physical space. The prison setting initially gives *JoJo* a tighter sense of confinement than usual.
+
+It is also the Part that asks most directly what generations of sacrifice have meant. Do not read explanations of how it ends before you watch it. The ending matters far beyond the immediate battle, and searching for the answer will spoil something the show has worked towards for decades.
+
+:::spoilers Completed Part 6? Open the full recap
+
+Jolyne is framed and imprisoned. She discovers that the prison chaplain Enrico Pucci is working towards a plan inherited from Dio: a transformed universe in which people's fates are known in advance. Pucci steals the Stand and memory discs of Jotaro, forcing Jolyne and her companions to recover them.
+
+With allies including Ermes, Emporio, Weather Report and Anasui, Jolyne fights increasingly bizarre opponents. Pucci evolves his Stand into Made in Heaven, accelerating time to bring about a new universe. The conflict kills Jotaro, Jolyne and several companions. Emporio survives, uses Weather Report's Stand to defeat Pucci and encounters counterparts of his friends in a world freed from Pucci's design. This is a decisive ending to the original sequence of Joestar generations, not a conventional cliffhanger for the next season.
+
+:::
+
+## Part 7: Steel Ball Run — airing in 2026
+
+**Watch:** *Steel Ball Run* on Netflix. **Status on October 26, 2026:** the 47-minute *1st STAGE* premiered March 19; a further **11 episodes** have been scheduled weekly from September 25. **Setting:** nineteenth-century America. **Leads:** Johnny Joestar and Gyro Zeppeli. **Mood:** western, sports adventure and a dangerous contest with hidden rules.
+
+This is both a Part 7 and a remarkably approachable fresh start. It unfolds in a **different continuity**, with new versions of certain ideas and names. Johnny is a former star jockey whose life has unravelled; Gyro is a mysterious competitor with an unusual technique. The premise is a transcontinental horse race. As with the best *JoJo*, the bizarre becomes convincing because the characters take the rules very seriously.
+
+There is no need to wait until you've completed all 190 previous episodes merely to sample the premise, though you'll appreciate the wider franchise more if you follow the earlier route. Be careful with manga discussions: the complete *Steel Ball Run* story exists on the page, and manga spoilers travel much farther than this still-airing adaptation.
+
+:::spoilers Watched the 1st STAGE? Open the introductory recap only
+
+The story begins with the extraordinary Steel Ball Run horse race across America. Johnny Joestar, a former jockey who can no longer walk, encounters Gyro Zeppeli and discovers that the strange Spin technique he uses has an effect on Johnny's body. The possibility of regaining agency makes the race far more personal to Johnny than a contest for prize money. The riders gather, rival competitors emerge, and the opening stage establishes the rules and ambitions that will drive their hazardous journey.
+
+This deliberately stops at the **premiere's setup**. It is not a summary of the entire manga, the 11-episode release block, or the outcome of the race. We'll expand it once the currently airing adaptation has finished its announced episodes.
+
+:::
+
+## What about Parts 8 and 9?
+
+*JoJolion* (Part 8) is a completed manga arc, and *The JOJOLands* (Part 9) remains a manga series. Neither has an announced completed TV anime adaptation as of this guide's date. Resist anyone who insists you need to read ahead to enjoy the televised material.
+
+Similarly, the *Thus Spoke Kishibe Rohan* animated stories are an optional detour after Part 4, not a missing bridge between Parts 4 and 5. *JoJo* is already strange enough without turning every adjacent project into mandatory viewing.
+
+## The sensible viewing plan
+
+If you're curious rather than committed, watch **the first nine episodes** and decide whether Araki's extravagant idea of family tragedy appeals to you. Finish **Part 2** if you want to see how quickly his approach changes. Then watch one Part at a time and treat each ending as a legitimate stopping point.
+
+If the question is **"which Part sounds most like my kind of show?"**, the answer is easy: Gothic tragedy (1), clever globe-trotting adventure (2), team road movie (3), small-town mystery (4), gangster drama (5), prison and fate thriller (6), or American western race (7). Starting with Part 4 or Part 7 is possible; the recommended route still makes the family history richer.
+
+Keep this page bookmarked. The recap panels are there to remind you who survived, how an ability worked, or why the next story matters—not to make a sprawling and eccentric series feel like an exam you are already failing.
+
+## Research notes
+
+The numerical route follows the [official JoJo anime portal](https://jojo-portal.com/) and the [official Steel Ball Run streaming schedule](https://jojo-portal.com/en/anime/sbr/streaming/). [Netflix's December 2025 announcement](https://about.netflix.com/en/news/global-anime-hits-and-new-releases-take-center-stage-at-jump-festa-2026) gives the March 19 first-stage launch; its [July 2026 update](https://about.netflix.com/en/news/anime-expo-2026) confirms eleven weekly episodes from September 25. An [independent episode-order cross-check](https://orderofanime.com/guide/jojo) verifies the 26/48/39/39/38 counts for Parts 1–6 and the optional Rohan OVAs. Recaps summarise animated material, not hypothetical future episodes; all major reveals are inside closed spoiler panels. Availability outside Netflix varies by territory, so check regional catalogues rather than relying on subscription assumptions.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "samurai-x-rurouni-kenshin-1996-retrospective", "sha256": "d775e4f944a60d942949fc249806ae334464c8b5dd9ebd6c76691b68664de6ca", "edit_sha256": "be26a74d53a0f07d659d6110e516d7d842b6252d683a968708f14a22257fcf6a"} -->
+---
+title: "Samurai X: The Swordsman Who Made Us Care About the People Behind the Battles"
+description: "A character-led retrospective of 1996's Samurai X: Kenshin's vow, Kaoru, Sanosuke, Yahiko, Saito, Aoshi, Shishio and the Kyoto arc."
+summary: "A former assassin who won't kill again, and the friends and enemies who made that choice matter."
+deck: ""
+---
+
+A man walks into town carrying a sword he has deliberately made worse at killing people.
+
+It sounds like the beginning of a joke about impractical weapons, but *Rurouni Kenshin*—the anime many viewers came to know as *Samurai X*—finds one of its best ideas in the reverse-blade sword. The sharp edge faces inward. Kenshin Himura, who once made his reputation killing on behalf of a revolution, has arranged things so that every fight reminds him of the promise he now lives by: **he will not take another life**.
+
+There is a reason this idea can stick with someone long after they've forgotten the episode titles. Most action protagonists want to become dangerous enough to defeat their enemies. Kenshin already *is* dangerous. His challenge is whether he can use that ability without returning to the person who learned it in the first place.
+
+The original 1996 anime can be absurdly funny and unexpectedly brutal within the same episode. Kenshin slips into his gentle, slightly goofy manner at home, then becomes terrifying when somebody threatens the people around him. The tonal whiplash is part of its identity. So are the remarkable people who gradually turn an itinerant swordsman's solitary penance into a family.
+
+If this was the first anime that made you care about the characters rather than simply wait for the next fight, *Samurai X* is easy to understand. For all its sword techniques and escalating villains, it is largely a story about why a person might choose **not** to use the power they've spent their life acquiring.
+
+[TOC]
+
+## A country after the revolution
+
+*Rurouni Kenshin* began as a manga in 1994, created by Nobuhiro Watsuki. The television adaptation, directed by Kazuhiro Furuhashi, premiered in Japan in January 1996 and ran through 1998. Studio Gallop handled its earlier episodes, with Studio Deen contributing later in the run. A separate, new adaptation began in 2023; that is not the series being considered here. The [official contemporary anime site](https://rurounikenshin-anime.com/intro/) provides a useful short history of both versions.
+
+The setting is the early Meiji era, roughly a decade after the political turmoil that ended the Tokugawa shogunate. The samurai world has not disappeared with the old government. Its habits, grudges, weapons and veterans survive into an era that is loudly announcing its own modernity. Former warriors must decide whether to serve the new state, resist it or discover a life outside the struggle.
+
+That gives the series something more useful than a handsome historical backdrop. Its people have fought for ideas that the peace has failed to deliver. The old order could be brutal, but the new order is not automatically virtuous. Men who committed atrocities in the name of progress may now wear respectable clothing. Others, discarded by the victors, carry scars into a society that has lost interest in their explanations.
+
+Kenshin, once the feared assassin **Hitokiri Battosai**, is both an instrument of that revolution and one of its casualties. He helped create the future but cannot simply congratulate himself on the result. His chosen life as a wanderer becomes a way of asking whether atonement can be practised instead of merely declared.
+
+## Kenshin: strength under restraint
+
+Kenshin is a disarmingly effective protagonist because he is not trying to win the audience's respect through louder and more powerful techniques. From the start he is sufficiently skilled that many fights would be over much faster if he allowed himself to kill.
+
+His reverse-blade sword is therefore more than an unusual prop. It changes the dramatic question of an encounter. We usually know he *can* win; we wonder whether he can do it without becoming the Battosai again.
+
+His gentle manners and eccentric little verbal habits make him approachable. The series' comedy can be broad, and the slapstick hasn't all aged well, but the softness serves a purpose. Kenshin's domestic awkwardness is the life he is trying to learn. Cooking, apologising, making friends and sharing a home are not interruptions to the real plot. They *are* the alternative to violence that gives the plot its meaning.
+
+When the familiar smile vanishes, the change still lands. The series lets you see how much effort it takes for him to remain gentle. A character who is always angry cannot surprise us with anger. Kenshin can.
+
+## Kaoru: the home that makes the vow matter
+
+Kamiya Kaoru is often reduced to the girl who gets cross with Kenshin. The show's early comedy encourages that reading, and some episodes give her too little to do beyond reacting to his exploits. That is a genuine shortcoming.
+
+But Kaoru is also the person who makes Kenshin's commitment practical. She runs her late father's dojo, teaches the Kamiya Kasshin style and believes a sword can protect life rather than take it. Her philosophy is idealistic enough to invite mockery. Kenshin's entire existence suggests that the ideal is worth defending.
+
+More important, she offers a home without demanding that Kenshin pretend his past never happened. The relationship asks a difficult question: can someone be loved for who they are trying to become while remaining responsible for who they once were?
+
+She is the domestic centre of the series because she gives the wandering hero something tangible to lose. The point isn't that he requires a romantic partner to save him. It is that every act of restraint now protects real people, not an abstract rule.
+
+## Sanosuke: the fist with a political memory
+
+Sagara Sanosuke arrives as a fighter-for-hire carrying a famous bad attitude and a huge sword. His best quality is not the zanbato. It is his refusal to trust official histories.
+
+Sanosuke's anger grows out of the destruction of the Sekihotai, the force he followed as a child. He has seen victors rewrite promises and cast former allies aside when they become inconvenient. Kenshin's revolutionary credentials mean little to a man who has reason to suspect the people who won.
+
+That makes Sanosuke a valuable friend. He does not worship Kenshin's legend or excuse every action by the Meiji government. He forces the series to remember that the revolution had losers other than the shogunate. Their developing friendship is not built on identical politics, but on recognising that both men are still carrying an old war.
+
+In fights, Sanosuke is gloriously direct. Where Kenshin is precise, Sanosuke relies on will, toughness and the expectation that his fists will eventually settle the issue. He is also funny because so much of his swagger is immediately punctured by friends who know him too well.
+
+## Yahiko: the future learning from damaged adults
+
+Myojin Yahiko is one of the most quietly important characters in the ensemble. The young orphan wants to be a swordsman, but his mentors have incompatible models of what that means. He admires Kenshin's supernatural speed and Sanosuke's bravado, while Kaoru patiently tries to teach him a method built around protecting people.
+
+Yahiko's development matters because the story is set in a society deciding what to retain from its violent traditions. If Kenshin represents regret over the past, Yahiko asks what parts of that past deserve to be passed on.
+
+He does not have to inherit every technical ability to earn an identity. He has to recognise that bravery is not the same as recklessness and that the weakest person in a room may need defending. The show frequently uses his childish pride for comedy, but it gives his progress emotional weight precisely because the adults around him aren't uncomplicated role models.
+
+## Saito and Aoshi: rivals with their own moral codes
+
+One of the pleasures of *Samurai X* is that rivals can disagree with Kenshin without being stupid or secretly irredeemable.
+
+**Saito Hajime**, the former Shinsengumi swordsman, has survived the fall of the shogunate and now works within the new order. His creed of eliminating evil is uncompromising; his contempt for sentiment is sincere. He does not share Kenshin's vow and sees no reason to soften an effective blade. Their rivalry becomes an argument about whether justice can be achieved without lethal force.
+
+**Shinomori Aoshi**, leader of the Oniwabanshu, embodies a different problem: loyalty that has curdled into obsession. His pride in his comrades and identity is understandable, but a purpose that survives after the people it supposedly serves have been lost can become self-destructive.
+
+Both men are compelling because the anime gives their choices a history. Neither exists solely to be defeated and forgotten. Saito can remain an adversary even when fighting beside Kenshin; Aoshi's struggles carry consequences past the initial confrontation.
+
+## Kyoto: the arc that earns its length
+
+The Kyoto arc, beginning around episode 28 and concluding at episode 62 in the original series, is where its loose collection of allies and rivals becomes an actual dramatic argument.
+
+The enemy is **Shishio Makoto**, an assassin who followed Kenshin in serving the imperial cause but was betrayed by the government he fought for. His bandaged, burned body is a grotesque record of what happened when the revolution no longer needed him. His ambition to overthrow the new order springs from a belief that the strong should dominate and the weak should submit.
+
+This is the crucial difference between Kenshin and Shishio: they both have reasons to resent the world they helped produce, but only one regards that resentment as a licence to rule through violence.
+
+Shishio's organisation supplies more than a parade of stronger opponents. Sojiro Seta's smiling detachment, Yumi Komagata's fierce loyalty and Anji Yukyuzan's grief illustrate different ways in which damaged people can attach themselves to a powerful cause. Misao Makimachi, meanwhile, brings fierce energy to the Kyoto side of the ensemble and deepens the emotional stakes surrounding Aoshi.
+
+The prolonged confrontations can be exhausting, and the power of an individual sword technique sometimes feels determined by the immediate needs of an episode. Yet the arc keeps returning to character. Each fight has an argument underneath the spectacle: about loyalty, guilt, revenge, compassion or the cost of giving someone a second chance.
+
+:::spoilers Finished the original Kyoto arc? Open the ending discussion
+
+Kenshin confronts Shishio as part of a larger struggle in which allies and rivals are forced to decide what they are actually defending. Sojiro's cheerful commitment to Shishio's philosophy cracks after his duel with Kenshin. Aoshi's obsession meets a rival who refuses to treat him as disposable. The final fight exhausts Kenshin, Sanosuke, Saito and Aoshi as Shishio's badly damaged body exceeds its limits.
+
+Shishio's death does not prove that the new government was innocent or that his pain was imaginary. It shows the eventual failure of a vision in which strength excuses cruelty. Kenshin wins without taking the villain's life himself, though the spectacle makes the difference between moral victory and physical survival deliberately uncomfortable. The people who return to Tokyo have survived an ordeal, not solved Japan's political contradictions.
+
+:::
+
+## The fights work because the characters need them to
+
+Sword techniques in *Samurai X* have names, histories and cinematic moments. Kenshin's Hiten Mitsurugi-ryu gives him near-impossible speed; Saito's Gatotsu reduces his entire philosophy to one piercing attack; Aoshi's disciplined movements look built around control; Sanosuke eventually learns a strike that makes his bare fists frighteningly effective.
+
+These attacks are certainly theatrical. A realistic duel would rarely provide enough time for everyone to announce the philosophy behind their move. But the show understands what a good shonen battle can do. A signature technique expresses the fighter's character. Using it against an opponent with a different code can become a conversation carried out in speed, distance and injury.
+
+The 1996 direction is also capable of restraint. A pause before two swordsmen move can create more suspense than a shower of sparks. Noriyuki Asakura's score often lends an unexpectedly melancholy atmosphere to a scene of impending violence. The moments that endure are not necessarily the most elaborate animations. They are the ones in which a face changes and we understand the decision a character is about to make.
+
+## What the original anime did not finish
+
+The original show's reputation is dominated, justifiably, by its first 62 episodes. The material after Kyoto consists of **anime-original arcs**, not an adaptation of the manga's final Jinchū story. Some episodes are pleasant enough, but the momentum and tightly argued conflict of Kyoto are difficult to recover.
+
+If you want the most rewarding first watch in 2026, watch the classic series through episode 62. Treat the remaining episodes as optional stories with familiar characters rather than mandatory canon. Sources differ on whether to count the unaired home-video special as episode 95, which explains why lists give 94 or 95 for the overall run. An [episode guide](https://orderofanime.com/guide/rurouni-kenshin) documents the different versions and the later OVAs.
+
+The \**1999 *Trust & Betrayal* OVA*\* is another matter. Its version of Kenshin's Bakumatsu past is much darker, slower and more tragic. It explores the moral cost of his killings and the origin of his scar. Save it until after you know the character: seeing the old life after the attempt at redemption is part of its emotional power.
+
+The \**2001–02 *Reflection* OVA** proposes an especially bleak continuation that differs from the manga. It is optional and divisive. The **2023 remake*\* offers a more directly manga-focused adaptation with a different visual and musical identity, but is still a different production. You can appreciate the new version without requiring it to replace the texture of the old one.
+
+## A complicated legacy beyond the screen
+
+A present-day retrospective cannot responsibly ignore the history of the creator. In 2018, Nobuhiro Watsuki was fined after admitting possession of child sexual abuse material. The publisher temporarily suspended the continuing *Hokkaido Arc* manga before resuming it. [Contemporary reporting from 2017](https://www.crunchyroll.com/id/news/latest/2017/11/21/rurouni-kenshin-manga-author-charged-with-possession-of-child-pornography) and [the account of the 2018 fine](https://www.tokyoreporter.com/japan-news/breaking/manga-artist-nobuhiro-nishiwaki-fined-for-possessing-child-pornography/) establish the facts.
+
+Readers may reasonably decide that this changes whether or how they support the franchise. It also means an affectionate account of the anime should not become a celebration of its creator without qualification. The 1996 programme involved many writers, animators, actors, musicians and directors beyond the mangaka. Their work, and the response of viewers who connected with its characters, deserves accurate discussion without pretending the serious offence did not occur.
+
+## Why Samurai X stayed with us
+
+What made the original *Samurai X* remarkable was not that every character was good, or that Kenshin always had the right answer. It was that everyone arrived with an idea of what strength meant—and those ideas were tested against one another.
+
+Kaoru believed a sword could preserve life. Sanosuke knew good causes could betray their followers. Yahiko wanted to become strong without inheriting every adult mistake. Saito believed evil needed destroying. Aoshi feared a life without the comrades who had defined it. Shishio believed suffering entitled him to power. Kenshin, stronger than nearly all of them, insisted that strength created obligations he could not escape.
+
+The first anime you truly love tends to become the standard against which later stories are measured. If *Samurai X* was that show, it may be because it gave every duel a human cost and made a band of damaged people feel like a family worth defending.
+
+The reverse-blade sword remains an implausible object. The promise it represents does not.
+
+## Sources and viewing notes
+
+Background and adaptation history draw on the [official Rurouni Kenshin introduction](https://rurounikenshin-anime.com/intro/), [the original 1996 series and episode listing](https://en.wikipedia.org/wiki/List_of_Rurouni_Kenshin_%281996_TV_series%29_episodes) and [a comparative watch-order guide](https://orderofanime.com/guide/rurouni-kenshin). For the controversy surrounding Watsuki, the article relies on [contemporaneous reporting](https://www.crunchyroll.com/id/news/latest/2017/11/21/rurouni-kenshin-manga-author-charged-with-possession-of-child-pornography) and [the 2018 court account](https://www.tokyoreporter.com/japan-news/breaking/manga-artist-nobuhiro-nishiwaki-fined-for-possessing-child-pornography/). This is criticism based on published material, not a new interview or claim to have recently rewatched all episodes. The episode-62 recommendation is a practical editorial starting point, not a dismissal of viewers who enjoy the anime-original adventures.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "saber-rider-star-sheriffs-retrospective", "sha256": "d453b393b460db51fcf4a550d839fa475c7d39131c84c5576d6cd3de5398847b", "edit_sha256": "d3bc667158eff6b1b37fd5ac95dc8f83d5b9089b06364586ce70a4636757575a"} -->
+---
+title: "Saber Rider and the Star Sheriffs: Three Heroes, One Impossible Frontier"
+description: "Why Saber Rider, Fireball and Colt made a magnificent team, and how a Japanese mecha western became a different American cartoon."
+summary: "A swordsman, a racer and a gunslinger made a space western unforgettable. April and Ramrod completed the team."
+deck: ""
+---
+
+The theme started and suddenly the future was full of cowboys.
+
+Not the dusty, morally exhausted gunslingers of an old western. These were impossibly confident space sheriffs with enormous hats, gleaming armour, fast horses and a transforming battle machine called **Ramrod**. A guitar charged across the opening like it was trying to outrun a spaceship.
+
+*Saber Rider and the Star Sheriffs* arrived on American television in 1987, but its appeal never depended on understanding what country had made it or what rules separated a western from science fiction. You saw three radically different young men learning to fight beside one another and knew immediately which one you wanted to be.
+
+The cultured swordsman. The hot-headed racer. The wisecracking gunslinger.
+
+That is a remarkably durable foundation for an adventure show. And it is why *Saber Rider* deserves remembering for more than its terrific opening song.
+
+[TOC]
+
+## Three heroes who could carry three different series
+
+Saber Rider is the face in the title: a composed, disciplined cavalryman who rides a mechanical horse called Steed and attacks problems as though he has already calculated the consequences. His appearance suggests a nineteenth-century officer dropped into the age of lasers. He is not merely the man with the best sword. He is the figure who makes a group of individualists behave like an actual unit.
+
+**Fireball** is all velocity. A racing champion who would rather solve something from behind the wheel, he has the impulsiveness required of an action hero who can turn the wrong turn into a thrilling chase. His sports-car identity gives the technology personality. Nobody watches Fireball driving the Red Fury Racer because it seems like the practical way to reach a destination. They watch because he makes movement itself exciting.
+
+Then there is **Colt**, the bounty hunter whose hat, six-shooter and running commentary make the frontier half of this space western impossible to miss. Colt is a comic counterweight to Saber Rider's composure, but not simply the team's clown. A competent gunslinger who hides discomfort behind a joke can be more interesting than the fellow who announces his principles every five minutes.
+
+Put those temperaments together and the show can produce drama before an Outrider fires a shot. Saber Rider wants order; Fireball wants freedom; Colt trusts his instincts. Their disagreements are gentle by modern prestige-TV standards, but the contrast makes the heroes surprisingly easy to tell apart in the middle of a chaotic action scene.
+
+## April belongs in the group, not outside it
+
+There is a fourth essential Star Sheriff, and a proper retrospective should not forget her merely because the three men make a memorable triangle.
+
+**April Eagle** is a pilot, an engineer and the daughter of Cavalry Command's commander. She is closely associated with the mighty Ramrod system and is often the most technically capable person on screen. The show's era could nevertheless push her into familiar romantic or rescuing roles, making her less consistently adventurous than the men.
+
+Remembering her as the person who maintains and operates the equipment restores an important part of the team's logic. Three heroic personalities are entertaining; a crew needs somebody who knows how the machine works and what happens when the reckless pilot decides to improvise. April's presence makes the Star Sheriffs a team rather than a set of posters.
+
+There is also value in acknowledging the limitation. She deserved more stories in which technical ability and personal agency mattered as much as the men’s weapons.
+
+## The strange genius of a western set in space
+
+The frontier is a storytelling shortcut. A lawless town tells us the rules are fragile. A sheriff's badge announces somebody intends to defend them. A rider approaching the horizon suggests danger before we know his name. Move those images into outer space and the audience already understands half the story.
+
+*Saber Rider* exploits that familiarity with enthusiasm. Colonial settlements become frontier outposts; space vehicles occupy the role of stagecoaches; advanced weapons substitute for six-shooters; and the mysterious **Outriders** threaten a fragile peace from beyond familiar territory. The heroes answer to **Cavalry Command**, a name that sounds perfectly sensible only in a universe where spaceships and horses are allowed to share the same sentence.
+
+The villains, led by **Nemesis**, come from the Vapor Zone, a different dimension whose inhabitants complicate any easy distinction between enemies and monsters. The series' early material keeps matters simple, but the larger conflict offers room for questions about invasion, identity and what counts as a home.
+
+The combination seems ridiculous when listed in a sober paragraph. It works on screen because the show commits to the aesthetic. A good fantasy does not need to apologise for the rules it asks us to accept. It needs to make those rules feel consistent enough that the audience can enjoy their consequences.
+
+## Ramrod: the spectacle at the end of the argument
+
+Eventually the Star Sheriffs have exhausted their smaller craft, their individual weapons and the enemy's patience. That is when **Ramrod** matters.
+
+The enormous vehicle transforms into a humanoid fighting machine, turning a space chase into a giant-robot showdown. It supplies a completely different scale from the individual heroics and makes the team into the operators of one formidable object. Everybody has a station; the transformation itself feels like a ritual the viewer has been waiting to see.
+
+The effect is familiar from many Japanese mecha shows. It is also a perfectly good example of why a repeated sequence can remain exciting even after you know exactly how it ends. The fun isn't surprise. It is anticipation. The team has reached a crisis, the music announces the escalation, and the series gives its characters permission to become larger than life.
+
+A child does not need to know the mechanics of military strategy to appreciate a giant robot transforming while his favourite heroes call out their readiness.
+
+## The Japanese show hiding underneath
+
+The most fascinating thing about *Saber Rider* is that the version many people remember was not the programme originally produced.
+
+Studio Pierrot made \**1984's *Star Musketeer Bismarck\*\**, a Japanese science-fiction western. World Events Productions—also responsible for the American *Voltron\* adaptation—acquired the material and reworked it heavily for English-speaking television.
+
+The changes went far beyond dubbing. Names, settings, dialogue, character relationships, episode order, music and sound design were altered. Footage was edited and rearranged, and **six additional episodes** were made for the American series, bringing the familiar version to 52 episodes. [Nostalgia Central's programme history](https://nostalgiacentral.com/television/tv-by-decade/tv-shows-1980s/saber-rider-and-the-star-sheriffs/) describes the broad adaptation; an [episode-by-episode comparison](https://www.movie-censorship.com/report.php?ID=787098) documents changes in the actual footage.
+
+The key creative change is the leading man. In *Bismarck*, the Japanese racer **Shinji Hikari**, the character renamed Fireball, occupied the central protagonist position. The western adaptation elevated **Richard Lancelot**, renamed Saber Rider, into the figure who leads and narrates much of the adventure. The title itself announces the change. [A close comparison of the opening sequences](https://www.movie-censorship.com/report.php?ID=3910) shows how the American version rearranged material to put Saber Rider front and centre.
+
+This is why dismissing the series as merely a dubbed anime does it a disservice. The animation came from a Japanese creative production, but the version many international children grew attached to was a distinct editorial construction. The people who changed it altered which character viewers were invited to identify with.
+
+It is also why someone who loves the Star Sheriffs may find the Japanese original familiar and surprisingly foreign at the same time.
+
+## The opening song that made everything sound heroic
+
+The famous English-language theme, written and performed by **Dale Schacker**, is one of those opening sequences that seems incapable of being played quietly.
+
+Its electric-guitar swagger gives the western imagery more force than a solemn orchestral score might have managed. Schacker replaced the Japanese programme's music with an American soundtrack that leaned into western motifs and bold synthesised energy. [The version comparison](https://www.movie-censorship.com/report.php?ID=3910) identifies the separate opening songs and their composers.
+
+That music matters more than nostalgia generally admits. It establishes the tone before the story begins. It tells viewers that the heroes are cool, that danger will be exhilarating and that this frontier should feel like an adventure rather than a miserable place to endure.
+
+There are cartoon themes you remember because you heard them often. This one communicates the entire show's attitude in its first few seconds.
+
+## The weaknesses were always there
+
+Watching old episodic animation in sequence can reveal the things childhood television schedules hid. The weekly stakes sometimes reset too conveniently. A villain's scheme can exist mainly to justify a shootout. Secondary characters appear less often than their potential warrants. The animation can be energetic one moment and decidedly economical the next.
+
+The Outriders are frequently more effective as a source of danger than as individually memorable people. And because the western adaptation rearranged and reframed pre-existing material, the sense of a carefully progressing serial narrative is not always as strong as the premise deserves.
+
+None of that cancels the fun. It merely clarifies it. This was a syndicated adventure designed to make a short slot of television exciting, and it was unusually good at building recognizable team chemistry within that limitation.
+
+## A way to revisit it now
+
+If you have not seen *Saber Rider* in years, begin with the opening episode, **"Star Sheriff Round Up"**. It introduces the core relationships, Fireball's racing credentials, Colt's bounty-hunter instincts and the reason the team has to work together. Follow with **"Cavalry Command"** to spend time with the institution that gives the team its role. [TV Guide's episode listing](https://www.tvguide.com/tvshows/saber-rider-and-the-star-sheriffs/episodes-season-1/1000249724/) is useful for navigating the American series.
+
+Then try a run of episodes with attention to *who* solves the problem. If the same man always wins, the team is decoration. When Fireball, Colt, Saber Rider and April each supply something the others cannot, the show remembers why the format worked.
+
+There is another enjoyable experiment: compare an episode of the American adaptation with its *Bismarck* counterpart. This is not about declaring the Japanese version authentic and the English version false. It is about watching how editing, dialogue and music can turn the same animation into two subtly different stories.
+
+## What the Star Sheriffs got right
+
+The show's great strength remains its human geometry. Saber Rider had discipline without being dull. Fireball had recklessness without becoming useless. Colt had jokes without surrendering competence. April gave their enthusiasm machinery, judgment and an essential fourth perspective.
+
+Each character appealed to a different fantasy of being heroic. Together they suggested that heroism did not need one personality type. The best leader, the best pilot and the best shot were not necessarily the same person.
+
+That is worth remembering in an era when prestige television can make every character equally grim and every conflict equally tangled. Sometimes a great team is simply three people you would have watched in separate shows discovering that they are even more enjoyable together.
+
+And when things become truly desperate, there is always Ramrod.
+
+## Sources and version notes
+
+Adaptation history is supported by [Nostalgia Central](https://nostalgiacentral.com/television/tv-by-decade/tv-shows-1980s/saber-rider-and-the-star-sheriffs/), a [Japanese/US version comparison](https://www.movie-censorship.com/report.php?ID=787098), and [the comparison of the two opening sequences](https://www.movie-censorship.com/report.php?ID=3910). [TV Guide's programme listing](https://www.tvguide.com/tvshows/saber-rider-and-the-star-sheriffs/episodes-season-1/1000249724/) documents the familiar names and episode introductions; [Absolute Anime's comparison table](https://www.absoluteanime.com/saber_rider/) confirms the Japanese character identities. This article discusses the English-language *Saber Rider* adaptation, not a complete scene-by-scene review of all 51 Japanese *Bismarck* episodes.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "conan-the-adventurer-cartoon-retrospective", "sha256": "bb985468d9f5ad8407ea5a0b1435cadf4112307ceb8bf3c56fbb2e3f9014c27f", "edit_sha256": "ead8bcd493ff46a36d7659312992632663af7504ef2ceb47a46854b0afc86599"} -->
+---
+title: "Conan the Adventurer: The Saturday-Morning Barbarian Who Needed a Party"
+description: "Revisiting the 1992 Conan cartoon, its Star Metal mythology, Wrath-Amon, surprisingly memorable companions and Christy Marx's story editing."
+summary: "A barbarian, a family curse and a travelling party made this children's Conan unexpectedly compelling."
+deck: ""
+---
+
+There is a particular sort of children's cartoon that can take an adult fantasy hero, remove most of the blood and still leave him with a world full of demons, betrayal and unreasonably difficult family problems.
+
+*Conan the Adventurer*, the 1992 animated series, was one of them. Its Conan had the broad shoulders, enormous sword and hair of a familiar barbarian. But instead of wandering through Robert E. Howard's brutal short stories, he was trying to save his family from a curse, travelling with companions who could each sustain an adventure of their own.
+
+It sounds like the sort of concession television makes when the source material is far too adult for its intended audience. In practice, the change supplied something the original tales did not always prioritise: a long-running **quest with an emotional destination**.
+
+The cartoon was not a faithful adaptation of Howard's Conan. It was better at something else, and that deserves a look without pretending the two versions were identical.
+
+[TOC]
+
+## The sword from the sky
+
+The show's opening idea is remarkably efficient. A meteor shower deposits an unusual substance known as **Star Metal** near Conan's Cimmerian village. His father, a blacksmith, uses the material to forge exceptional weapons, including a sword saved for the day Conan becomes strong enough to claim it.
+
+Wrath-Amon, a sorcerer who serves the serpent god Set, desperately wants the Star Metal. His scheme eventually brings him to Conan's home, where he punishes the family by turning them into stone. Conan inherits not just a weapon but a terrible obligation: find a way to reverse the curse, defeat the enemies responsible and make sure they cannot do the same to everybody else.
+
+The premise is clean enough to explain before the first advertisement break. It is also perfectly suited to a serial adventure. Star Metal is the important substance that can oppose the Serpent Men; the magic behind the curse provides a reason to seek distant places; the family remains a reminder that the hero has something to lose beyond a fight.
+
+The series ran **65 episodes** across 1992 and 1993. Its [premiere, "The Night of Fiery Tears"](https://www.tvguide.com/tvshows/conan-the-adventurer/episodes-season-1/1000392897/), introduces the supernatural weapons and the transformation of Conan's family, while the next episodes quickly expand the cast. You could mistake the opening for the setup to a role-playing game, and that is a large part of its enduring attraction.
+
+## The secret advantage of a party
+
+One of the most entertaining things about cartoon Conan is that he doesn't remain a solitary sword with a voice.
+
+**Zula**, whom Conan befriends in captivity, brings physical ability, resourcefulness and a bond of comradeship. He is not simply another bruiser in a different outfit. **Jezmine**, initially a performer and thief, carries Star Metal throwing weapons and often has a different idea of how to approach a problem. **Greywolf**, the young magician, understands forces Conan would rather hit with a sword. His brother and sister have themselves been transformed into wolves, giving him a personal search as compelling as Conan's.
+
+Then there is **Snagg**, the Viking-like warrior whose appetite for competition and ability to antagonise Conan make their eventual friendship good fun. **Needle**, the small phoenix, supplies comic energy and a different perspective on what is happening. Other travelling allies extend the sense that this is a whole fantasy world with cultures and quarrels outside the immediate battle against Set.
+
+The party structure makes the cartoon more flexible. Greywolf's magic can create a mystery; Jezmine's history can complicate a seemingly simple theft; a contest between Conan and Snagg can end with two rivals forced to cooperate. The companions also stop Conan's physical power from becoming a substitute for every solution.
+
+Modern fantasy games have made parties of contrasting classes so familiar that it is easy to forget how effective the structure remains on television. There is a warrior, a sorcerer, a scout or agile fighter, another warrior with a different code—and a reason they will continue travelling together. If the world is colourful and the relationships are good, the road can stretch for a very long time without feeling entirely arbitrary.
+
+## The Serpent Men made a clever television enemy
+
+The show's central enemies can masquerade as humans. Wrath-Amon's Serpent Men can therefore threaten a settlement through deception rather than always arriving as a visible army. Their connection to Set adds the sort of cosmic, forbidden-magic danger that Howard's stories could conjure without needing to build a single televised villain hierarchy.
+
+But the series has an obvious problem: how do you let Conan swing a giant sword every week without filling a children's schedule with dismemberment?
+
+The solution is to make the supernatural enemy vulnerable to Star Metal. Rather than depicting realistic sword wounds, contact with the metal can banish the Serpent Men to the Abyss. It is a wonderfully mechanical piece of adaptation. Conan gets to appear decisive and fierce; the cartoon avoids the explicit brutality that would have limited its audience.
+
+It also produces one of the show's limitations. A world in which many enemies disappear cleanly through magic can make combat feel less consequential. An adult Howard story may threaten a character's body or soul in ways that children's animation is not prepared to pursue.
+
+Yet the replacement stakes are not automatically empty. The living-stone family curse, Greywolf's transformed siblings and the heroes' need to trust one another give the fantasy a different vocabulary of loss.
+
+## Wrath-Amon was made for serial villainy
+
+Robert E. Howard's tales use many antagonists, environments and moral situations. A syndicated cartoon needs something that can return every week and announce what it wants without a long philosophical explanation.
+
+**Wrath-Amon** fills the role wonderfully. He serves Set, possesses dangerous sorcery, commands serpent troops and pursues Star Metal with the predictability of an enemy who knows the hero will somehow find it first. His reptilian menace, masked servants and exotic lairs give the show a visual identity.
+
+A recurring antagonist also provides structure. One village can be saved without the greater danger disappearing. One piece of an ancient weapon can be found while the sorcerer's larger plan remains unresolved. That is very different from the episodic roughness of classic pulp fantasy, but it gives children a reason to remember earlier adventures.
+
+The cost is repetition. Wrath-Amon's schemes can begin to feel familiar, and the cartoon has a habit of restoring the broad status quo after a close call. The atmosphere sometimes promises a darker story than the episode intends to deliver.
+
+## Christy Marx and the people who gave Conan a quest
+
+The writing connection is worth noting precisely rather than attributing every creative decision to one person. **Christy Marx**, whose career spans *Jem and the Holograms*, sword-and-sorcery comics and Sierra adventure games, served as **story editor for the 65-episode series** and wrote episodes including the opening "The Night of Fiery Tears", "Blood Brother" and "The Star of Shadizar". These credits are listed in [her own archive](https://christymarx.com/writing.htm) and supported by [the television episode listing](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes).
+
+Her involvement makes this show a fascinating companion to our [profile of Christy Marx's career](../../stories/christy-marx-jem-conan-games/). *Jem* hides domestic stakes inside a commercial fantasy; *Conan* hides a family rescue story inside a weekly parade of swords and monsters. Both ask the audience to care about people who have jobs, loyalties and obligations between the show's set pieces.
+
+That does not mean Marx single-handedly created every character or story. Animation is collaborative, and her official credit should be understood as story editor and credited episode writer. It does mean the show's narrative ambition belongs in any account of her unusually varied work.
+
+## What the cartoon kept—and lost—from Howard
+
+Howard's Conan is not a paladin. He can be mercenary, brutal, clever, selfish or unexpectedly honourable. His stories are driven by appetite for survival, wealth, escape, exploration and occasionally kingship. They are also steeped in pulp exoticism and assumptions about race, gender and civilisation that modern readers may question.
+
+The animated Conan is a much more conventional hero. He has a clearly wicked enemy, a tangible quest and travelling friends. The animation can gesture towards supernatural horror, but it rarely sustains Howard's ambiguity. Its geography functions as a playground of adventure more than as an unruly, morally dangerous world.
+
+It is tempting to say this made the character harmless. That would miss the way the cartoon translated his appeal. He is still physically unstoppable, distrustful of sorcery and quick to challenge authority. He still goes where sensible people advise him not to go. The show simply gives his wandering a gentler moral compass.
+
+There is pleasure in a fantasy setting that does not require viewers to choose between a likeable hero and the promise of a strange world. The Saturday-morning version has less bite, but its companions and its long-running mission can give it more heart.
+
+## Three episodes that explain the appeal
+
+A rewatch does not require all 65 episodes immediately. Start with **"The Night of Fiery Tears"**, where the metal, the curse and the hero's vow make a clear promise about the journey ahead. Next is **"Blood Brother"**, which brings Zula into Conan's life and turns physical survival into comradeship. Then try **"The Star of Shadizar"**, where Jezmine's introduction gives the quest some welcome unpredictability.
+
+To see the programme branching into high fantasy rather than straightforward barbarian adventure, continue with **"Greywolf of Xanthus"**. It introduces a sorcerous ally who brings additional family stakes and a different way of approaching danger. [TV Guide's season-one synopsis](https://www.tvguide.com/tvshows/conan-the-adventurer/episodes-season-1/1000392897/) confirms these early plots.
+
+A later rewatch can focus on the show's expanding mythology and final resolution. But those first episodes provide a fair test of whether its strengths still appeal to you: lively team chemistry, a simple overarching quest and a fantastical world that asks to be explored.
+
+## Better than a footnote
+
+The cartoon deserves neither to be mistaken for Howard's adult barbarian nor dismissed for failing to reproduce his violence. It was a deliberate transformation built for a different audience, and the transformation had an idea at its centre.
+
+Conan could defeat almost any individual Serpent Man. He could not rescue his family by being strong alone. He needed people who knew things he did not, could go places he could not and had losses of their own to carry.
+
+For a cartoon about a man with an enormous sword, that is a surprisingly good reason to keep watching.
+
+## Sources and scope
+
+The main production and plot record comes from [TV Guide's series episode summaries](https://www.tvguide.com/tvshows/conan-the-adventurer/episodes-season-1/1000392897/), [Christy Marx's published credits](https://christymarx.com/writing.htm), the [season and writer credits](https://en.wikipedia.org/wiki/List_of_Conan_the_Adventurer_episodes), and a [series character reference](https://en.wikipedia.org/wiki/Conan_the_Adventurer_%281992_TV_series%29). This is about the 1992–93 **animated series**, not the separate 1997 live-action *Conan the Adventurer* show or the subsequent *Conan and the Young Warriors* cartoon. Character criticism is an editorial interpretation of the established programme, not a claim of new creator interviews.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "double-dragon-1993-cartoon-retrospective", "sha256": "4c74dcf805abee0840d1e4b54fb7077e7a27856fdcace2fd537762bcaf0c0166", "edit_sha256": "64c7d251c15f08e5a2df2b94f3cc25e23b0a4ac75fdfcff66d30074081be5e15"} -->
+---
+title: "Double Dragon: The Cartoon That Turned Two Arcade Fighters Into Brothers at War"
+description: "The forgotten Double Dragon cartoon, where Billy and Jimmy Lee became rivals, supernatural warriors and the stars of a very different adaptation."
+summary: "An arcade beat-'em-up became a story about brothers raised on opposite sides of a supernatural war."
+deck: ""
+---
+
+Imagine adapting *Double Dragon* for television. The game supplies two brothers, a gang, a kidnapped woman and a remarkably persuasive argument for punching every person in the street. It is an arcade premise designed to last as long as the player's coins and concentration can hold out.
+
+The 1993 cartoon took that setup and apparently decided it lacked mythology.
+
+Suddenly Billy Lee and Jimmy Lee were not merely twin martial artists. They had been **separated at birth and raised on opposite sides of a supernatural war**, each inheriting a version of an ancient power. One brother stood for the Dragon; the other initially served the Shadow. The city became a battleground between magic, gang crime, costumed fighters and a villain whose name left little doubt about his position in the moral universe: the Shadow Master.
+
+The result was extraordinarily different from the game, not always for the better. But the change reveals something fascinating about the period when publishers, toy companies and television studios tried to turn videogame mechanics into characters children could follow every week.
+
+The arcade machine needed you to hit people. The cartoon needed you to care **why two brothers might hit each other**.
+
+[TOC]
+
+## Two brothers make a stronger story than two identical characters
+
+The original *Double Dragon* was an arcade beat-'em-up released in 1987. Billy and Jimmy Lee fought through gangs in an urban landscape built around side-scrolling combat, improvised weapons and cooperative play. The appeal was wonderfully physical. A kick had weight, a thrown enemy removed another danger, and two players could clear a crowded street while arguing about whose turn it was to grab the weapon.
+
+The television adaptation was produced with DIC and Bohbot involvement and aired across **26 episodes from 1993 to 1994**. Its later distributor's [programme listing](https://www.invincibleent.com/double-dragon) identifies the producers, director Chuck Patton and ensemble cast, while [TV Guide's episode record](https://www.tvguide.com/tvshows/double-dragon/episodes-season-1/1000260277/) preserves the show's first story arc.
+
+Its greatest alteration came before the brothers even met. **Billy**, raised by the Oldest Dragon, inherited a responsibility to protect others. **Jimmy**, raised under the influence of the Shadow Master, became the masked Shadow Boss and served the very forces Billy was meant to resist. The premise invited a contest more emotionally interesting than a championship match. What happens when the person you should trust most has been taught that your values are his enemy?
+
+The reveal lasts only a short while before the show changes direction, but it gives the Lee brothers an actual history. A fight between them now carries the possibility of recognition, anger and reconciliation. No amount of arcade lore was necessary for a child to understand the stakes.
+
+## The pilot wanted you to keep watching
+
+The first episode, **"The Shadow Falls"**, introduces the apparent opposition between the brothers. Billy attempts to build a martial-arts school and the Shadow Boss emerges as an enemy whose identity changes the way viewers see the battle. **"The Legend Continues"** brings the betrayal that finally pushes Jimmy away from the Shadow Master and toward his brother.
+
+It is a brisk solution to the problem of turning an arcade premise into a continuing series. The creators spend two episodes establishing the character conflict and then convert it into the show's ongoing engine: brothers with different experiences learning how to operate as a team.
+
+The choice has advantages. It makes Jimmy sympathetic without requiring every episode to be about whether he will turn evil again. It leaves room for comrades, pupils and a larger fight against the city's dangers.
+
+It also squanders a little dramatic potential. The brothers' opposing upbringings might have supported a longer exploration of how loyalties are made and broken. Saturday-morning television preferred to get its heroic team assembled quickly and send it into action.
+
+## From a beat-'em-up to a superhero cartoon
+
+Once Billy and Jimmy unite, the series moves away from the muscular street-crime tone of the early games. They can transform into more spectacular **Dragon Warriors**, with supernatural abilities and visual conventions that belong as much to American superhero animation as to martial-arts fiction.
+
+The Shadow Master supplies the larger menace; named allies and villainous specialists turn the city into a familiar weekly battlefield. The programme includes adversaries and ideas that have little connection to the original arcade encounters. The plot of **"The Mistress of Chi"**, for example, brings in a chi master and an attempt by the Shadow Master to take her powers. **"The Price of Oblivion"** uses a fictional drug to threaten the population. [Apple TV's episode descriptions](https://tv.apple.com/us/show/double-dragon/umc.cmc.2g02ygv05r7kpg6nbgxfraif) establish how rapidly the programme expands beyond fighting gangs.
+
+This was an understandable solution to adaptation. The original game offers an excellent activity and barely enough plot for an episode. A show needs jeopardy that can be varied, villains who can return, friends who can disagree and mysteries that justify the next adventure.
+
+The cartoon's weakness is that it sometimes adopts generic solutions. Transformations and magical powers are visually convenient, but they can push aside what made *Double Dragon* distinctive: the intimate physicality of two martial artists facing a dangerous street together.
+
+## What a videogame loses when television takes the controls
+
+The games' best trick was the simple possibility that a friend could help you survive a fight. Cooperation was not merely something the plot announced. A second player stood beside you and changed what you could do.
+
+A cartoon can depict that bond, but it cannot give the viewer the sensation of watching an enemy approach from one side while a friend handles the other. It compensates through dialogue and character roles. Billy becomes the responsible teacher; Jimmy carries knowledge of the Shadow side; the villains attempt to exploit their differences.
+
+At its best, this produces an enjoyable sibling dynamic. The brothers are not interchangeable colours on a character-selection screen. Their histories produce friction and different judgments.
+
+At its least effective, the series forgets the relationship and lets generic supernatural action take over. The Lee brothers become a standard heroic team with a standard villain and a few martial-arts details pasted on top. Watching it as an adult can make you wish the writers had trusted the central sibling story more and the transformation sequences less.
+
+## The cartoon got its own fighting game
+
+The relationship between the franchise and the adaptation took a curious turn with ***Double Dragon V: The Shadow Falls*** in 1994.
+
+This was not simply a fifth numbered sequel to the 1987 arcade brawler's original design philosophy. It was a **one-on-one fighting game tied to the cartoon**, using characters and ideas created for the animated version. In effect, the television programme generated material for another videogame, which now competed in the enormous shadow cast by *Street Fighter II* and *Mortal Kombat*.
+
+That loop is a small snapshot of how entertainment franchises functioned in the 1990s. A game inspired a cartoon; the cartoon invented a cast and mythology; those designs returned to a game in a different genre. The source did not merely get adapted. It began feeding back into itself.
+
+For players who enjoyed the uncomplicated pleasure of the earlier beat-'em-ups, the result could feel like the brand had wandered very far from home. For a child who had met the brothers on television first, it might instead feel like a chance to control the heroes of the show.
+
+There isn't a single correct audience perspective. But there is a useful historical distinction: \*\**Double Dragon V* is not the same genre of game that made the original famous.\*\*
+
+## The characters who kept the cartoon alive
+
+The brothers' voices and their sharply differentiated roles help the premise along. **Michael Donovan voiced Billy**, and **Scott McNeil voiced Jimmy** in the English series. **Jim Byrnes voiced the Shadow Master**. The surviving [cast and production record](https://www.invincibleent.com/double-dragon) documents the performers who brought the show's outsized drama to life.
+
+Jimmy is the most interesting character by construction. His past contains choices that cannot be erased merely because he has chosen to stand beside Billy. The story occasionally allows old alliances and old suspicions to return, including in **"Over the Line"**, where an amnesiac Billy is manipulated into taking the Shadow Boss role and Jimmy must resist him. It reverses the expected brotherly dynamic and demonstrates how easily the premise can produce a compelling episode when the writers foreground loyalty over spectacle.
+
+Billy's own appeal is quieter. A martial-arts teacher trying to give local children something better than the life of violence around them is a strong idea for a hero. The show could have done even more with that role. Saving a city is flashy; persuading one child not to be recruited by the next gang has consequences a transformation cannot easily solve.
+
+The Shadow Master, meanwhile, serves his purpose with all the discretion of his name. He works best not as a nuanced political opponent but as the embodiment of an inheritance Jimmy has decided to refuse.
+
+## Does it hold up?
+
+The animation, visual design and dialogue are products of the syndicated television culture that made them. Many scenes are rigidly staged, villains explain themselves with excessive courtesy and the dialogue sometimes sounds written for children who have wandered away to fetch cereal. The storytelling can reset an emotional development just when it might become interesting.
+
+There is also a gulf between the content and the audience of the games. The original *Double Dragon* was rough urban action. The cartoon is openly supernatural and toyetic, keen to present colourful characters and conflicts that can be aired repeatedly.
+
+But the central premise—twins raised on opposite sides, learning to trust each other—is still strong. When the episodes make that the focus, the show has more heart than its reputation as another questionable videogame adaptation suggests.
+
+For a quick sample, watch **"The Shadow Falls"** and **"The Legend Continues"** in order. Then try **"Over the Line"**, which demonstrates how the show can use the brothers' identities as a real dramatic problem. The [TV Guide listing](https://www.tvguide.com/tvshows/double-dragon/episodes-season-1/1000260277/) and [Apple TV episode synopses](https://tv.apple.com/us/show/double-dragon/umc.cmc.2g02ygv05r7kpg6nbgxfraif) are useful for finding those episodes.
+
+If you arrive expecting a faithful translation of every kick and throw, you will probably be disappointed. If you arrive curious about the strange imaginative detours a videogame can take when adapted for television, there is plenty to discuss.
+
+## The lost possibility inside Double Dragon
+
+Perhaps the most interesting show *Double Dragon* could have been is hiding in its first two episodes. A brother raised to protect a community discovers that the enemy he's fighting is the brother he never knew. The other brother finds out that loyalty to his master requires him to betray his family. Neither can undo his upbringing. They can choose what comes next.
+
+That would have been enough for a lean, martial-arts-centred serial. The supernatural costumes are entertaining, but the relationship does the real work.
+
+After all, the most important feature of the original arcade game was not the dragons. It was the second player standing beside you.
+
+## Sources and version notes
+
+The [series distributor's programme page](https://www.invincibleent.com/double-dragon) confirms the 1993 cartoon's 26-episode run, producers and cast. [TV Guide](https://www.tvguide.com/tvshows/double-dragon/episodes-season-1/1000260277/) and [Apple TV](https://tv.apple.com/us/show/double-dragon/umc.cmc.2g02ygv05r7kpg6nbgxfraif) supply contemporary-series episode descriptions. [The documented series chronology](https://www.tvmaze.com/shows/50384/double-dragon) distinguishes the animated characters from the earlier videogames; [The Guardian's history of martial-arts game design](https://www.theguardian.com/games/2023/aug/28/they-should-be-called-bruce-em-ups-how-bruce-lee-shaped-fighting-games) gives useful context for the original beat-'em-up's physical appeal. The subject is the **1993–94 cartoon**, not the live-action 1994 *Double Dragon* film, and no unverified Christy Marx credit is implied.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "gundam-anime-watch-order-beginners-guide", "sha256": "9a2ad3c581b166cf9f545a2bb9b339bb70253919d886445fd38f0f0c51a24ba8", "edit_sha256": "41be6750fc77609e059e23bc5c9dc1965b334e83db65e921d427d1f82ff26974"} -->
+---
+title: "Where to Start With Gundam Without Watching Forty Years of Anime"
+description: "A spoiler-safe Gundam watch guide: best starting series, Universal Century order, standalone timelines and closed story recaps."
+summary: "Pick a Gundam by the story you want, not by the number of decades you've missed."
+deck: ""
+---
+
+The first question a Gundam fan asks you is usually innocent enough: which one have you seen? The second might involve an explanation of the Universal Century, three or four unrelated calendars and why a show made in 2015 isn't necessarily where you should begin a story set in 0079.
+
+It's an effective way to make a newcomer decide to watch something else.
+
+The truth is much simpler. **Gundam isn't one show with a forty-seven-year prerequisite.** It's a family of war stories, political dramas, coming-of-age adventures and occasional glorious absurdities built around the idea of a powerful mobile suit. Some instalments share a history. Many do not. The original 1979 series matters, but you can have a complete Gundam experience without first working your way through decades of animation.
+
+Think of this guide as a set of doors. One leads to the original saga of Amuro and Char. Another opens onto a corporate-controlled school in space. A third follows child soldiers exploited by adults. Other doors promise international intrigue, operatic rivalries or giant-robot martial arts. Pick whichever sounds like your show.
+
+Below you'll find **spoiler-free watch routes**, a map of the continuities and **closed recaps** to revisit after you've finished a series. Those recaps reveal deaths, identities and endings. The rest of the guide deliberately does not.
+
+[TOC]
+
+## The rule that makes Gundam manageable
+
+The [official Gundam introduction](https://en.gundam-official.com/what-is-gundam) divides the franchise into **Universal Century**, **alternative timelines**, and the *Build* and SD spinoff families. The Universal Century—usually shortened to **UC**—contains the original 1979 story and most of its follow-ups. It is where continuity matters.
+
+*Gundam Wing* takes place in **After Colony**. *Gundam SEED* belongs to **Cosmic Era**. *Gundam 00* uses **Anno Domini**. *Iron-Blooded Orphans* unfolds in **Post Disaster**. *The Witch from Mercury* takes place in **Ad Stella**. These are not different stages of one character's life; they are different fictional histories. You can watch any of those independently.
+
+Some recurring ideas make the various shows recognisably Gundam: a devastating machine, conflict between Earth and space or competing human groups, uncertain loyalties, idealistic young pilots, and adults who are very good at explaining why other people must die. Gundam is often described as *real robot* anime because its weapons function as military hardware within a political world, rather than merely a superhero's costume. Yet the franchise has room for outright fantasy and tournament action too.
+
+The right starting point is therefore a **tone**, not a release date.
+
+## Choose your first Gundam in under a minute
+
+**Want a modern, finished story with an approachable cast?** Start with ***Mobile Suit Gundam: The Witch from Mercury***: the Prologue, then 24 television episodes. Its school setting is a doorway into more complicated corporate and family conflicts. No earlier Gundam is required.
+
+**Want a bleak, character-driven war story?** Pick ***Iron-Blooded Orphans***: 50 episodes across two seasons. The younger crew's attempt to build a better life gives the politics personal stakes. It is much harsher than its early adventure trappings suggest.
+
+**Want international politics and a team of dramatically different pilots?** Choose ***Gundam 00***: two 25-episode seasons, followed by *A Wakening of the Trailblazer* if you want the film conclusion. The premise is deliberately provocative: armed intervention as a way to eliminate war.
+
+**Want a traditional Gundam adventure with famous rivals?** Watch the \**three compilation films of *Mobile Suit Gundam\*\*\* or the original 43-episode series. This is the essential entry for the long Universal Century route.
+
+**Want a particularly short glimpse of why Gundam's wars matter?** Try the \**six-episode *Gundam 0080: War in the Pocket\*\*\*. It is a contained tragedy set during the original war. Its emotional effect is stronger if you understand the factions, but prior homework isn't essential.
+
+**Want stylish melodrama?** ***Gundam Wing*** (49 episodes, then *Endless Waltz*) gives you five contrasting pilots, extravagant schemes and enormous personalities. ***G Gundam*** (49 episodes) is the wonderfully strange alternative if your real desire is a martial-arts tournament involving giant robots.
+
+If all you want is one recommendation, I'd begin with ***The Witch from Mercury***, then decide whether you're ready for the 1979 classic. Modern animation is not automatically better, but it can make it easier to discover what you like before you commit to an older show's rhythms.
+
+## Route A: The Universal Century, without the unnecessary detours
+
+The best first-time route is **release-oriented**, not a fictional-calendar marathon. Later prequels assume you recognise people and events from the original show. Watching every side story in in-universe order can turn an effective narrative into homework.
+
+1. \*\**Mobile Suit Gundam* (1979–80)** — **43 episodes\**, or substitute the three compilation films: *Mobile Suit Gundam*, *Soldiers of Sorrow* and *Encounters in Space\*. A teenager named Amuro Ray finds himself piloting a new Federation weapon during the One Year War, while the masked Char Aznable becomes the face of a fascinating enemy.
+2. \*\**Mobile Suit Zeta Gundam* (1985–86)** — **50 episodes\*\*. A new lead, Kamille Bidan, enters a conflict shaped by the aftermath of that war. This is darker, messier and more politically bitter than the original.
+3. \*\**Mobile Suit Gundam ZZ* (1986–87)** — **47 episodes\**. Judau Ashta leads a younger cast through a story that initially favours comedy before changing dramatically. Its early tone can be jarring after *Zeta\*, but it continues the world rather than existing as a disposable spinoff.
+4. \*\**Mobile Suit Gundam: Char's Counterattack* (1988)** — **one film\*\*. A major culmination of the Amuro–Char conflict. The emotional effect relies on what came before.
+
+The [official Gundam history](https://en.gundam-official.com/) and [Crunchyroll's continuity overview](https://www.crunchyroll.com/news/guides/2025/10/11/gundam-timeline-explained) help clarify which shows belong to this connected history. The original film trilogy is a **substitute** for the first TV series, not three mandatory extras. By contrast, the *Zeta* compilation films change the story's conclusion; prefer the **Zeta television series** before *ZZ*.
+
+A useful observation: forty-three episodes of old animation may sound daunting, but the films let you sample the original's political and emotional vocabulary in roughly a long weekend. It is a trade-off—some quieter character material is lost—but a reasonable one.
+
+:::spoilers Finished Mobile Suit Gundam (1979) or the movie trilogy? Open the original-war recap
+
+The Earth Federation and Principality of Zeon fight the One Year War. Amuro Ray, an inexperienced civilian aboard White Base, becomes an exceptional Gundam pilot. His relationship with the masked Char Aznable is shaped by rivalry, personal history and the emerging potential of Newtypes—people capable of unusual awareness and understanding.
+
+Char's pursuit of revenge against the Zabi family complicates his loyalty to Zeon. The Newtype Lalah Sunee becomes especially important to both Amuro and Char; her death in battle leaves a wound that outlives the war. White Base's surviving crew escapes the climactic fighting at A Baoa Qu, and the Federation emerges victorious. The war ends, but Amuro, Char and the idea of Newtypes remain unresolved.
+
+:::
+
+:::spoilers Finished Zeta Gundam? Open the political and character recap
+
+Years after the One Year War, the Earth Federation's Titans become a repressive force. Kamille Bidan joins the anti-Titans AEUG, where Char operates under the identity Quattro Bajeena. The conflict broadens as Haman Karn and Axis Zeon intervene, making the divisions more tangled than a simple Earth-versus-space war.
+
+Kamille suffers devastating personal losses, including his connection to Four Murasame. His final confrontation with Paptimus Scirocco ends in victory but leaves Kamille severely psychologically damaged. The Titans are defeated, yet Axis remains a power to reckon with. The ending is intentionally painful: defeating the most obvious tyrants does not make the world safe.
+
+:::
+
+:::spoilers Finished Gundam ZZ? Open the recap before Char's Counterattack
+
+Judau Ashta and other young people become the core of a new Gundam team after the losses of *Zeta*. Their struggle against Neo Zeon moves from opportunistic survival to a much larger responsibility. The conflict culminates in Judau's confrontation with Haman Karn, whose defeat ends this immediate struggle for power.
+
+Kamille begins to recover from the trauma left by *Zeta*. Judau eventually leaves for Jupiter with Roux Louka rather than accept the existing institutions' expectations. The story closes one group of lives and leaves the political conditions for the next great conflict far from settled.
+
+:::
+
+:::spoilers Finished Char's Counterattack? Open the conclusion of the Amuro and Char saga
+
+Char returns as the leader of Neo Zeon and attempts to force humanity into space by bringing the asteroid Axis down on Earth. Amuro, piloting the Nu Gundam, confronts him. The two men remain haunted by their war, their ideals, and Lalah's death.
+
+As the situation becomes catastrophic, a remarkable phenomenon associated with the psycho-frame enables Amuro's desperate effort to push Axis away from Earth, aided by others who choose to help. The asteroid is diverted, and both Amuro and Char disappear. The film provides a powerful ending to their rivalry without resolving all of humanity's social and political failures.
+
+:::
+
+## Route B: The short Universal Century stories
+
+If the core route feels too long, the Universal Century still has room for stories with **one clear conflict and a manageable runtime**.
+
+\*\**Gundam 0080: War in the Pocket* — 6 episodes.\*\* A boy named Al gets caught between people on opposite sides of a war he has previously treated as exciting. It is a small, devastating correction to the franchise's talent for making military machines look appealing.
+
+\*\**The 08th MS Team* — 12 main episodes.\*\* A ground-unit story with mud, logistics, a romance across enemy lines and a sense that massive robots are more frightening when they have to move through an actual jungle. There are additional specials and recap versions, but those are optional.
+
+\*\**Gundam Thunderbolt* — two major ONA/film arcs to sample.\** A harsher, stylised One Year War side story that emphasises trauma, rivalry and music. The *December Sky* and *Bandit Flower\* films rework released episodes, so do not treat both formats as separate mandatory adventures.
+
+\*\**Gundam Unicorn* — 7 OVAs, or the recut 22-episode *RE:0096*.** A later UC mystery surrounding the political legacy of the Federation. This is much better **after\** the original, *Zeta*, *ZZ* and *Char's Counterattack\*, because its secrets depend on your understanding of that world.
+
+\*\**Gundam Hathaway* (2021) and *The Sorcery of Nymph Circe* (2026).** These are the first two films of an **unfinished film adaptation\*\*, following a politically disillusioned adult in the later UC era. The second film was released in Japan on January 30, 2026. Don't describe it as the completed trilogy. The [official film site](https://en.gundam-official.com/hathaway/) documents its release and continuing status.
+
+:::spoilers Finished War in the Pocket? Open its ending
+
+Al befriends Zeon pilot Bernie while also knowing Christina, a Federation pilot. Neither of the two pilots initially understands the other's role in Al's life. Bernie returns for a final desperate battle even after an opportunity to escape.
+
+Bernie is killed fighting the Gundam piloted by Christina, who survives unaware that she killed the man Al knew. Al, unable to share the truth comfortably with either side, finally recognises the horror of war rather than the thrill of its machines. His classmates still treat the prospect of another war as something exciting; he cannot.
+
+:::
+
+## Route C: Self-contained Gundam worlds
+
+These shows need no understanding of Amuro, Char or the Universal Century. Some have sequels within their own settings; those should be watched in order.
+
+\*\**The Witch from Mercury* (Ad Stella) — Prologue + 24 episodes.\*\* Suletta Mercury transfers to an elite school controlled by a corporate system and finds her future suddenly tied to Miorine Rembran. Its relationships, duelling rules and corporate politics make a fresh introduction. The [official story page](https://en.gundam-official.com/witch-from-mercury/) confirms the premise and episode structure.
+
+\*\**Iron-Blooded Orphans* (Post Disaster) — 50 episodes.\*\* A group of exploited young soldiers organise themselves into Tekkadan and attempt to claim control over their lives. It is gritty, loyal to its ensemble and often merciless about what power does to the vulnerable.
+
+\*\**Gundam 00* (Anno Domini) — 50 episodes + film.\** Celestial Being announces that it will use overwhelming military force to end armed conflict. That contradiction is the point: how can violence impose peace without becoming another form of domination? Finish both TV seasons before *A Wakening of the Trailblazer\*.
+
+\*\**Gundam Wing* (After Colony) — 49 episodes + *Endless Waltz*.\*\* Five young pilots become involved in a political struggle between Earth and its space colonies. Its memorable personalities and mecha have made it an international gateway, even if its diplomatic intrigue sometimes operates on the logic of an extremely melodramatic chess match.
+
+\*\**Gundam SEED* (Cosmic Era) — roughly 50 episodes; then *SEED Destiny*, then *SEED Freedom* (2024 film).\*\* Childhood friends find themselves on opposing sides of a conflict shaped by the divide between Coordinators and Naturals. Remastered editions and episode counts vary slightly by release; follow your platform's continuous ordering rather than insisting every edition has the same number.
+
+\*\**Mobile Fighter G Gundam* (Future Century) — 49 episodes.\*\* Gundams represent nations in a martial-arts tournament. Its hot-blooded tone is very different from the more military series. That is precisely why it can be a delightful first show for somebody who wants outrageous martial-arts action.
+
+\*\**After War Gundam X* — 39 episodes.\*\* A postwar adventure in a ravaged world. It is one of the more overlooked standalone entries and an excellent choice if you like the idea of surviving the aftermath rather than winning a war.
+
+\*\**Turn A Gundam* — 50 episodes.\*\* A slower, unusually thoughtful and pastoral series with a design sensibility that initially seems miles away from a normal Gundam. It has broader thematic connections to the franchise, but can be approached as its own story. I'd save it until you've seen another series and understand what it is gently arguing with.
+
+:::spoilers Finished The Witch from Mercury? Open the character and ending recap
+
+Suletta's connection to Gundam Aerial is inseparable from her mother Prospera's concealed ambitions. Aerial's deeper nature is tied to Ericht Samaya, and the emotional relationship between Suletta and Miorine is strained by the machinery of corporate power and family manipulation.
+
+The crisis around Quiet Zero forces Suletta to challenge Prospera's plan. With allies working across the conflicts, she uses Calibarn to intervene and protect others rather than fulfil the destiny laid out for her. The conclusion allows the central characters to choose a future beyond the most destructive ambitions of their parents.
+
+:::
+
+:::spoilers Finished Iron-Blooded Orphans? Open its final-season recap
+
+Tekkadan's initial victories bring political influence but also draw the children into larger bargains they cannot safely control. Orga's determination to secure a place for his people leads him into destructive alliances. Mikazuki continues fighting even as his extraordinary machine takes a severe physical toll.
+
+The organisation is ultimately broken. Orga is assassinated; Mikazuki and Akihiro die resisting overwhelming forces so others can escape. Some survivors build lives beyond Tekkadan, while changes within the political order complicate the idea that the victors deserved their triumph. The ending is an indictment of a system that exploits young people even when they become frighteningly capable of fighting back.
+
+:::
+
+## Where does GQuuuuuuX fit?
+
+The awkwardly named \*\**Mobile Suit Gundam GQuuuuuuX* (2025, 12 episodes)** looks like a short modern entry, and it is. But it belongs to an **alternate history of the original Universal Century\**, not the normal sequence after *Char's Counterattack\*.
+
+Its immediate premise follows Amate Yuzuriha, a girl drawn into illicit mobile-suit duels called Clan Battles, alongside Nyaan and the mysterious Shuji. The [official website](https://en.gundam-official.com/gquuuuuux/) describes it without demanding historical homework. Yet the series plays with a viewer's knowledge of the original One Year War. Even a sentence explaining *how* it branches would spoil one of the pleasures.
+
+**Recommendation:** watch the 1979 original or its movie trilogy first, then *GQuuuuuuX*. The theatrical *-Beginning-* release overlaps with the series' opening material; it is not a separate sequel you must watch as well.
+
+:::spoilers Finished GQuuuuuuX? Open the continuity explanation
+
+The show imagines a branching One Year War in which Char's actions differ decisively from the events of the original *Mobile Suit Gundam*. Zeon gains the advantage and the familiar political landscape develops in a new direction. The later story explores what that altered history means for Amate, Nyaan, Shuji and people connected to the old timeline.
+
+The crucial point for future viewing is that these events are **not the outcome** of the original 1979 story or a replacement ending for *Zeta*. Treat this as a parallel possibility that rewards recognition, not an episode in the ordinary Universal Century succession.
+
+:::
+
+## The Origin, the model-building shows and other tempting detours
+
+***Mobile Suit Gundam: The Origin*** is set **before** the first series and offers modern animation and character history, particularly around Char. It was made decades later and assumes an interest in figures the original introduces more gradually. I recommend watching it after *Mobile Suit Gundam*, even though its calendar date comes first.
+
+***Gundam Build Fighters*** and related *Build* titles imagine battles based on Gundam model kits, often in more playful worlds. They reward affection for the franchise but can be approached as a different sort of sports or hobby anime. Their models refer to earlier shows; recognising all of those designs is a bonus, not an admission requirement.
+
+*Gundam Narrative*, *Gundam F91*, *Victory Gundam*, *Gundam AGE*, *Reconguista in G*, the SD titles and several smaller OVAs offer further routes once you know what you enjoy. You can find them grouped by continuity on the [official series directory](https://en.gundam-official.com/). A guide should help someone choose—not frighten them with an exhaustive list of names they have yet to care about.
+
+## A watch plan that fits an actual life
+
+If you're **unsure about giant-robot anime**, try the *Witch from Mercury* Prologue and its first three episodes. If you like the character relationships, continue; if you want a darker alternative, sample the first three episodes of *Iron-Blooded Orphans*.
+
+If you're **interested in Gundam history**, give the original 1979 show a few episodes. If its pacing is a barrier, choose the three films instead. Then go through *Zeta*, *ZZ* and *Char's Counterattack*. That four-step route gives you the main emotional and political thread without dozens of detours.
+
+If you're **short on time**, six episodes of *War in the Pocket* will teach you more about why Gundam matters than a catalogue of how many different machines have appeared in the franchise.
+
+You do not have to become an expert in the Universal Century to love Gundam. The best shows leave you thinking less about the robot's specifications and more about the young person inside the cockpit, and the adults who keep asking them to fight.
+
+## Sources and version notes
+
+The continuity divisions come from the [official Gundam introduction](https://en.gundam-official.com/what-is-gundam), the [official series catalogue](https://en.gundam-official.com/) and [Crunchyroll's October 2025 timeline overview](https://www.crunchyroll.com/news/guides/2025/10/11/gundam-timeline-explained). Episode and release-route cross-checks use the [Gundam watch-order guide](https://orderofanime.com/guide/gundam) and [the franchise listing](https://www.animewatchtime.com/franchise/mobile-suit-gundam). For recent releases, see the [GQuuuuuuX site](https://en.gundam-official.com/gquuuuuux/) and [2026 Hathaway sequel site](https://en.gundam-official.com/hathaway/). This guide is current to **October 27, 2026**. It does not pretend to list all manga, compilation films, releases on every regional streaming service or unreleased films. Closed panels contain significant story outcomes and are excluded from Fourth Frame's text-search excerpts.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "naruto-anime-watch-guide-filler-recaps", "sha256": "7299e8ab655938af30535508f742b3a276bfeef5c1925944e75653016ad485c0", "edit_sha256": "603f4ca99d22c60c1d4add19c19b05378790ddf5f8376c73fb65120d5f980636"} -->
+---
+title: "How to Watch Naruto Without Drowning in 720 Episodes"
+description: "A spoiler-safe Naruto watch guide: original and Shippuden arcs, precise filler cuts, movie order, Boruto and closed story recaps."
+summary: "Finish Naruto's story without getting lost in filler, contradictory season numbers or spoilers."
+deck: ""
+---
+
+A child in orange clothing announces that he is going to become the leader of his village. Everyone around him knows why that sounds ridiculous. He's loud, impatient, terrible at behaving and hungry for a kind of recognition that nobody seems willing to give him.
+
+Twenty minutes later, it's surprisingly difficult not to root for him.
+
+*Naruto* grew into an enormous anime, full of spectacular techniques, complicated families and several decades' worth of arguments about who could beat whom. But its earliest strength was much smaller: **Naruto Uzumaki desperately wants to belong somewhere**. His friend and rival Sasuke carries a different kind of loneliness. Sakura wants to be taken seriously; Kakashi seems incapable of answering a question directly; the village has plenty of adults who talk about duty while leaving children to deal with terrible consequences.
+
+The story is worth watching. The difficulty is deciding **how much** to watch.
+
+The original *Naruto* ran for **220 episodes**. *Naruto: Shippuden* adds **500**, making 720 before the sequel *Boruto*, the films and the specials. Roughly 40% of each original show is classified as filler by community guides, but that doesn't mean all of it is worthless or every apparently nonessential episode is safe to skip.
+
+This guide offers a way through without turning entertainment into homework: a complete order, a **verified filler-only skip list**, an arc roadmap and **closed recap panels** for people returning after months or years. All major identities, deaths and endings belong inside those panels. Open one only after finishing the named stretch.
+
+[TOC]
+
+## The watch order in one minute
+
+There are only four steps if your goal is Naruto's complete coming-of-age story:
+
+1. \*\**Naruto* (2002–07)\*\* — episodes 1–220. It begins with Team 7 and ends with the original series' transition towards the time skip. Use the optional filler cuts below.
+2. \*\**Naruto: Shippuden* (2007–17)** — episodes 1–493. The numbering **starts over at 1\*\*. A longer, more politically tangled continuation; again, the filler-only cuts are optional.
+3. \*\**The Last: Naruto the Movie* (2014)** — watch it after the main conflict is resolved and **before the final wedding-related episodes\**, a convenient placement being after *Shippuden\* episode 493.
+4. \*\**Shippuden* episodes 494–500\*\* — the closing wedding-related stories. The surrounding novel adaptations in 484–493 also belong to the concluding stretch.
+
+*Boruto: Naruto Next Generations* is a **separate sequel**, not a condition for finishing Naruto's story. It aired 293 episodes from 2017 to March 2023, and an anime Part 2 was announced but has **no confirmed premiere date** as of October 27, 2026. The [official Naruto announcement](https://naruto-official.com/en/news/01_1437) establishes the Part 1 ending and Part 2 production status.
+
+The films released during *Naruto* and much of *Shippuden* are mostly optional adventures. For a straightforward first viewing, \**only *The Last* needs a place in the central character storyline*\*. You can collect the others later if you enjoy spending time with the cast.
+
+## Filler: what it means, and what not to skip
+
+People often use "canon" to mean "good" and "filler" to mean "bad". That's neither fair criticism nor a safe navigation method. An anime-original episode can tell a delightful story about the characters; an adaptation episode can take a frustrating amount of time to reach the next decision.
+
+Here the word **filler** has a narrow use: an episode marked fully anime-original in [Anime Filler List's original-series record](https://www.animefillerlist.com/shows/naruto) or [Shippuden record](https://www.animefillerlist.com/shows/naruto-shippuden). These are **community classifications**, not sacred rulings by Masashi Kishimoto or the studio. We retain all **mixed canon/filler** episodes, because some contain indispensable story material alongside additions.
+
+For the original 220 episodes, the **90 filler/recap episodes you can skip** are:
+
+- **26** (a recap), **97**, **101–106**, **136–140**, and **143–219**.
+
+**Important:** keep **141–142** and **220**, which contain mixed adaptation material. Episode 220 provides a useful bridge to *Shippuden*. You may also choose to enjoy episode **101**, a beloved comedy about the team trying to discover what is under Kakashi's mask. It's filler, and it is often funnier than people remember.
+
+For the 500 *Shippuden* episodes, the **203 fully filler episodes** according to the same classification are:
+
+- **57–71**, **91–112**, **144–151**, **170–171**, **176–196**, **223–242**, **257–260**, **271**, **279–281**, **284–295**, **303–320**, **347–361**, **376–377**, **388–390**, **394–413**, **416–417**, **422–423**, **427–450**, **464–468**, and **480–483**.
+
+Any episode **not** in those lists should be kept for this route, including episodes that blend manga events with anime-original scenes. The boundaries can feel counterintuitive: jumping over an entire "season" on a streaming service is not a substitute for checking the **absolute episode number** displayed on your player.
+
+These cuts leave roughly **130 episodes of Naruto** and **297 of Shippuden**, or **427** across both series before films. That's still a major adventure—but a substantially less padded one than 720 uninterrupted episodes. The number is a navigation estimate, not a claim that every retained episode contains only manga panels.
+
+## The original Naruto: Team 7 and the first great conflicts
+
+The young characters matter because they're not simply collecting more spectacular moves. They're learning what sort of people they might become.
+
+**Naruto Uzumaki** is an outsider whose determination can resemble selfishness until you see what he's trying to protect. **Sasuke Uchiha** is talented, proud and fixated on a grief the other children cannot fully comprehend. **Sakura Haruno** begins with much less combat experience than either and gradually struggles to define herself outside their rivalry. **Kakashi Hatake**, the instructor who appears lazy or detached, is carrying an entirely different sort of history.
+
+The early episodes introduce the Hidden Leaf Village, its ninja ranks, teams and missions, and the chakra system that makes jutsu possible. They also plant the idea that inherited duty, private pain and political authority can produce dangerous contradictions. It's possible to enjoy these as exhilarating action adventures; there's more to notice when the cast starts disagreeing about what being a good ninja actually means.
+
+### Land of Waves — episodes 1–19
+
+This is the place to test the series. The first serious assignment shows what happens when a simple escort mission brings Team 7 into a conflict between people who don't have the luxury of innocent choices. Zabuza and Haku provide a very different kind of introduction to the world from an Academy exercise.
+
+:::spoilers Finished Land of Waves? Open the recap
+
+Team 7's mission to protect bridge-builder Tazuna leads to battles with Zabuza Momochi and Haku, whose remarkable talent is bound to Zabuza's harsh view of ninja life. Haku sacrifices himself to protect Zabuza, and Zabuza ultimately turns on the criminal Gatō before dying. Naruto's anger at the way Haku was used helps Zabuza recognise the human cost of his own choices.
+
+The bridge's completion and its naming for Naruto establish an early lesson: a mission can be about more than what the client has paid for, and a person's loyalty is not the same thing as their value as a disposable weapon.
+
+:::
+
+### Chūnin Exams and Konoha Crush — episodes 20–80
+
+A testing tournament is a wonderfully efficient way to expand the cast. New teams arrive with clashing philosophies, unusual abilities, elaborate rivalries and enough personality to keep the story moving well beyond Team 7. The apparent format is examination and competition; the real subject is the cost of the village's expectations.
+
+:::spoilers Finished episode 80? Open the recap
+
+During the Chūnin Exams, Orochimaru targets Sasuke and gives him the Curse Mark, while candidates including Rock Lee, Gaara, Neji and Hinata establish lasting rivalries. Naruto's confrontation with Neji challenges the assumption that a person's fate has already been determined by their birth.
+
+The tournament is interrupted by an attack on the Hidden Leaf Village, undertaken through the machinations of Orochimaru and an alliance involving the Sand. The Third Hokage, Hiruzen Sarutobi, dies after fighting his former student Orochimaru. Naruto confronts Gaara and recognises a loneliness similar to his own; their encounter becomes a turning point for both boys.
+
+:::
+
+### Search for Tsunade and Sasuke Recovery — episodes 81–135
+
+A search for a new leader initially feels like another travelling adventure, then forces several characters to reckon with what they want from strength. Later, a crisis within the group turns loyalty from a comfortable promise into a difficult demand. Episodes **101–106** are optional filler between these stretches.
+
+:::spoilers Finished episode 135? Open the recap
+
+After Hiruzen's death, Naruto travels with Jiraiya in search of Tsunade, who eventually becomes the Fifth Hokage. Naruto develops the Rasengan while Sasuke, increasingly unsettled by comparisons with his rival and his own desire for vengeance, grows vulnerable to Orochimaru's influence.
+
+Sasuke leaves the village in pursuit of power. Shikamaru leads a rescue team whose members endure dangerous fights against the Sound Four, and Naruto confronts Sasuke at the Valley of the End. Naruto cannot bring him home. Sasuke's departure leaves the friendship unresolved and creates the emotional problem that will drive much of *Shippuden*.
+
+:::
+
+### After episode 135: do I really jump?
+
+For a story-first route, continue through the **mixed episodes 141–142**, skip the fully filler stretch **143–219**, and watch **220** before starting *Shippuden*. If you would rather keep some leisurely missions, there is nothing wrong with sampling the late original-series fillers; just don't mistake them for chapters that must be watched before the sequel makes sense.
+
+That distinction can save an extraordinary amount of time without diminishing the central story.
+
+## Shippuden: the older characters enter a bigger world
+
+*Shippuden* begins after a time skip. Naruto returns with new training, old friends have changed, and the threats are no longer confined to school rivalries and local missions. The criminal group **Akatsuki** becomes central; questions about the tailed beasts, wars between villages and the inherited mistakes of earlier generations push to the forefront.
+
+The series sometimes becomes more compelling as its politics expand. It also sometimes spends too long announcing information the viewer has already understood. The filler list above is particularly valuable here, because long anime-original stories often interrupt an ongoing crisis.
+
+### The opening rescue and reunion — episodes 1–53
+
+The initial story focuses on a threatened ally and then on the widening search for someone important to Team 7. It reintroduces a changed cast without requiring viewers to know every new adult and every political faction immediately.
+
+:::spoilers Finished Shippuden episode 53? Open the recap
+
+Akatsuki members Deidara and Sasori abduct Gaara, now the Kazekage, to extract the tailed beast sealed inside him. Naruto and his allies attempt a rescue. Chiyo, after fighting alongside Sakura, sacrifices her life to restore Gaara's, giving his leadership and former isolation new emotional weight.
+
+The next mission introduces Sai and Yamato as part of a reconfigured team searching for Sasuke. Naruto and Sasuke meet again, but the gulf between their abilities and intentions has grown. Naruto's desire to recover his friend is no longer something that determination alone can solve.
+
+:::
+
+### An unusually personal battle — episodes 72–88
+
+After the skippable **57–71**, this stretch shifts towards supporting characters who have often spent earlier episodes waiting for their turn. It's a terrific example of how an ensemble series can create stakes without giving Naruto every decisive action.
+
+:::spoilers Finished episode 88? Open the recap
+
+Akatsuki members Hidan and Kakuzu kill Asuma Sarutobi, devastating Shikamaru and his teammates. Shikamaru devises a strategy built around their particular abilities and traps the apparently immortal Hidan, while Naruto unveils the Wind Release: Rasenshuriken against Kakuzu.
+
+The story gives Shikamaru a hard-earned moment of maturity. His victory isn't proof that grief has vanished; it shows him learning how to act responsibly while carrying it.
+
+:::
+
+### Hidden histories and the meaning of revenge — episodes 113–143
+
+After optional missions in **91–112**, the story begins confronting secrets behind several characters' lifelong motives. The stretch leading to episode 143 reshapes the meaning of loyalties established in the original series.
+
+:::spoilers Finished episode 143? Open the recap
+
+Jiraiya infiltrates the Rain Village, learns terrible information about the figure known as Pain, and dies while attempting to pass that intelligence to his allies. Sasuke finally confronts his brother Itachi; their battle ends with Itachi's death, but Tobi subsequently reveals a devastating account of the Uchiha massacre and the burdens Itachi carried.
+
+Sasuke's vengeance shifts from the brother he hated towards the institutions he believes betrayed their family. These revelations alter the audience's understanding of earlier events rather than merely setting up another escalation in power.
+
+:::
+
+### The attack on the village — episodes 152–175
+
+The story's focus narrows again to one community and the price of conflict. Skip the filler **144–151** first; later, **170–171** are optional interruptions inside this section, so retain the surrounding episodes.
+
+:::spoilers Finished episode 175? Open the recap
+
+Pain attacks the Hidden Leaf Village and unleashes destruction on a scale the earlier series has rarely shown. Naruto, returning with Sage Mode, confronts him while friends and teachers struggle to protect civilians. Hinata risks her life to defend Naruto and openly admits her feelings.
+
+Pain's true controller, Nagato, is tied to Jiraiya's past and believes extreme suffering can force peace. Naruto rejects a cycle of revenge while admitting he has no easy solution. Nagato ultimately sacrifices himself to revive the people killed during the attack. Naruto returns to a village that finally recognises him as a hero.
+
+:::
+
+### The Five Kage Summit — episodes 197–214
+
+After an optional block **176–196**, competing villages and powerful individuals confront the consequences of earlier decisions. The idea of restoring an old friendship becomes difficult to separate from the cost imposed on everybody else.
+
+:::spoilers Finished episode 214? Open the recap
+
+The Five Kage gather while Sasuke's increasingly destructive actions place him in open conflict with the other villages. He targets Danzō, whose involvement in the Uchiha affair has become central to his anger. Their battle ends with Danzō dead, but it provides no satisfying resolution to Sasuke's pain.
+
+Sakura and Naruto are forced to reconsider what saving Sasuke can mean as their former teammate becomes more dangerous. The political landscape shifts towards a war that individual acts of friendship cannot simply avert.
+
+:::
+
+### The Fourth Shinobi World War — episodes 215–479, with significant filler interruptions
+
+This is an intimidating range because it isn't a single uninterrupted arc. Battles, flashbacks, past conflicts and changing alliances unfold over many episodes. **Use the filler list**, not a blanket jump from 215 to 479: some of the best character material is embedded between blocks of anime-original digressions.
+
+A practical division is **the war's opening through the mid-300s** and **the final conflicts through 479**. Save the recaps until you've finished the relevant material; even naming the most significant late antagonists can spoil the show.
+
+:::spoilers Finished the war's early and middle stages? Open the recap
+
+The allied shinobi forces face an unprecedented conflict in which Kabuto uses reanimation to bring fallen warriors back to battle. Their appearances force many living characters to confront unfinished family stories and previous wars. The conflict eventually reveals that the masked man directing much of the threat is Obito Uchiha, whose history is intertwined with Kakashi's.
+
+Madara Uchiha's return transforms the scale of the fighting, while Naruto and Killer Bee deepen their partnership with the tailed beasts. The war increasingly exposes how grievances inherited across generations have been exploited by people claiming to know how to end conflict permanently.
+
+:::
+
+:::spoilers Finished Shippuden episode 479? Open the main-story ending
+
+The final conflict moves beyond the original war leaders to Kaguya Ōtsutsuki and the ancient roots of chakra. Naruto, Sasuke, Sakura and Kakashi contribute to her defeat after enormous losses and reversals.
+
+Naruto and Sasuke then face one another again at the Valley of the End, returning the story to the friendship and rivalry at its centre. Both lose an arm during the final battle. Sasuke finally accepts that Naruto's determination is not simply naivety, and the cycle of personal vengeance begins to break. Their reconciliation gives the long story its emotional conclusion, even while the world still has political work to do.
+
+:::
+
+### The epilogue and The Last — episodes 480–500
+
+Episodes **480–483** are optional childhood-focused material. Episodes **484–493** adapt novel-based stories, and **494–500** bring the wedding arc. Watch ***The Last: Naruto the Movie*** between **493 and 494** if you're following the straightforward route above. Some viewers place it after 479, once the main conflict is concluded; either way, it belongs before the final wedding chapters.
+
+:::spoilers Finished The Last and episode 500? Open the epilogue recap
+
+*The Last* develops Naruto and Hinata's romance during a crisis connected to the Ōtsutsuki legacy. Naruto's understanding of Hinata's long-standing feelings becomes part of the emotional bridge between the war and his adult life.
+
+The closing television episodes gather familiar characters around Naruto and Hinata's wedding, allowing friendships and old rivalries to be seen in a gentler context. The story ends not with another world-threatening opponent but with the possibility of a future in which these characters get to live ordinary lives.
+
+:::
+
+## Three kinds of optional episodes worth keeping
+
+A skip list shouldn't pretend all diversions are interchangeable. If you like the people in this world, three categories are worth sampling after a major arc.
+
+**Character comedy:** original *Naruto* **episode 101**, the attempt to reveal Kakashi's face, is a perfect one-off palate cleanser. *Shippuden* **469** revisits the idea in a very different period; avoid its title and synopsis until you're much later in the story if you dislike spoilers.
+
+**Backstory:** the **Kakashi ANBU** episodes of *Shippuden* **349–361** are anime-original and can deepen an important adult character. Watch them only once you have enough story context to recognise why the earlier choices matter.
+
+**A compact side adventure:** *Shippuden* **290–295**, often called the *Power* arc, is a more ambitious anime-original production with strong visual ambition. It is not required to understand the ending.
+
+These suggestions are **optional**, not secret canon that every viewer must include. The best extra material is the sort that makes you happier to spend another evening with the characters.
+
+## What about Boruto and the films?
+
+***Boruto: Naruto Next Generations*** follows the next generation in a changed technological and political world. It has **293 television episodes in its first part**, and its own disagreements about what counts as "filler": several episodes are original to the anime yet contribute to relationships and continuity within that adaptation. Don't blindly apply Naruto's manga-only cuts to *Boruto*.
+
+*Boruto: Naruto the Movie* (2015) overlaps with material retold and expanded in the television anime. You don't have to treat both as separate chapters of a mandatory viewing route. The ongoing *Boruto: Two Blue Vortex* manga is also **not** evidence that its full story has already aired as anime.
+
+There is a new, separate development as of October 2026: the officially announced ***Naruto × Ninkū*** crossover, a planned **four-episode anime** supervised by creators Masashi Kishimoto and Kōji Kiriyama. It was unveiled at New York Comic Con on **October 10, 2026**. This is an **optional crossover**, not the long-awaited Part 2 of *Boruto* and not a missing episode of the original *Naruto*. See the [official announcement](https://naruto-official.com/en/news/01_2696) and [VIZ's announcement](https://www.viz.com/press-releases/v/1006772).
+
+The older four-episode Naruto anniversary project announced for September 2023 was [postponed before broadcast](https://naruto-official.com/en/news/01_1589). Do not conflate that delayed production with the newly announced *Naruto × Ninkū* project unless a subsequent official announcement explicitly connects them.
+
+## How to make the series manageable
+
+If you have **twenty minutes tonight**, begin with *Naruto* episode 1, not a research session about episode 480.
+
+If you have **one weekend**, try **episodes 1–19**. By the end of the Land of Waves story, you'll know whether the show's combination of earnest emotion, elaborate tactical fights and wounded young characters works for you.
+
+If you already watched half the series years ago, use the **closed arc recaps** above to find the last story you remember, then continue from the next numbered block. Don't read ahead; there are still major revelations that land better when the characters learn them.
+
+And if the notion of 427 retained episodes still feels like too much, it is perfectly reasonable to read the manga instead. A viewing guide is supposed to remove obstacles, not guilt you into watching hundreds of episodes because somebody on the internet has decided you're not a proper fan otherwise.
+
+The remarkable thing about *Naruto* is that after all the wars, secret histories and miraculous techniques, its enduring centre remains recognisable: a lonely boy trying to build a place where people want him to stay. That is worth taking time for. It is not a reason to spend that time watching every available detour.
+
+## Sources, classifications and update policy
+
+The episode counts and skip ranges follow [Anime Filler List's original Naruto classifications](https://www.animefillerlist.com/shows/naruto) and [Shippuden classifications](https://www.animefillerlist.com/shows/naruto-shippuden), each separating full filler from mixed canon/filler episodes. [The compiled episode overview](https://www.narutohq.com/episodes) cross-checks the 220/500/293 counts. The [official Naruto/Boruto announcement](https://naruto-official.com/en/news/01_1437) confirms the 2023 Boruto anime Part 1 finale and Part 2 development. The new [October 2026 crossover announcement](https://naruto-official.com/en/news/01_2696) and the [2023 anniversary postponement](https://naruto-official.com/en/news/01_1589) establish the separate status of those projects. Film placement is editorial guidance for story continuity, not a claim that every movie belongs to the manga timeline. This guide was checked **October 27, 2026**. Major plot revelations appear only in the closed recap panels and are removed from Fourth Frame's full-text search excerpts.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "dragon-age-veilguard-review", "sha256": "beb88816dc37ae7d884ad0c9c0715555ffeaff5e8579e47f69cd44eff71b6613", "edit_sha256": "f76297caef85e22921fad2ef1d33dd064de58823016926c992a3850ca181fd4c"} -->
+---
+title: "Dragon Age: The Veilguard Review — What Happened to Thedas?"
+description: "A longtime Dragon Age fan finds polished combat and interesting lore buried under shallow choices, repetitive quests and a game-breaking bug."
+summary: "A painful disappointment after Origins, Dragon Age II and Inquisition."
+deck: "A painful disappointment after Origins, Dragon Age II and Inquisition."
+---
+
+I wanted to love *Dragon Age: The Veilguard*. I've followed this series since *Origins*, and very few fantasy worlds have kept me as interested in their characters, politics and lore as Thedas. That makes this a painful review to write. After more than 100 hours, I came away feeling that BioWare had made a competent action RPG, but a disappointing *Dragon Age* game.
+
+## What works
+
+The combat is fluid and satisfying. There are useful improvements throughout: doors open as you approach, respeccing your character is free and straightforward, and the interface is easier to navigate without stripping away all the important information.
+
+The companions have distinct personalities, and their personal quests suggest some interesting stories. I also appreciated the new lore. There's quite a bit here for someone who has spent years wondering about the history of Thedas.
+
+Unfortunately, the promising parts rarely develop as much as I wanted them to.
+
+## The choices don't carry enough weight
+
+A *Dragon Age* conversation should sometimes make you hesitate before selecting a response. In *Origins*, you could disagree with a companion on something fundamental, make a decision you regretted and spend the next few hours wondering whether you had done the right thing. *Dragon Age II* found similarly compelling conflicts in Kirkwall, despite all its flaws.
+
+In *The Veilguard*, the dialogue options often lead to much the same place. The choices are there, but they seldom feel consequential enough. A fair amount of the writing also sounds jarringly modern. Characters sometimes speak like comic-book superheroes instead of people living in Thedas, and that repeatedly broke the atmosphere for me.
+
+I wanted to care more about the companions. Their personal quests offer glimpses of stories that could have been meaningful, but the emotional payoffs rarely landed. Neve's performance and storyline were particularly disappointing to me.
+
+The quests also fall into a repetitive pattern. *Inquisition* already suffered from too much filler, so it's frustrating to find another adventure in Thedas making familiar mistakes.
+
+## The bug that ended my playthrough
+
+I ran into late-loading objects, long level loads and encounters where enemies failed to appear. Those issues were frustrating enough. But an endgame enemy simply wouldn't spawn, leaving the main story impossible to progress.
+
+Customer support couldn't give me a timeline for a fix. Eventually I uninstalled the game without seeing its ending.
+
+That's difficult to forgive in a story-driven RPG, especially after investing so much time in the characters and their journey. This was my experience with the version I played, not a claim that every player will encounter the same problem.
+
+## A missed opportunity
+
+*Origins* was a mature, wonderfully complicated RPG. *Dragon Age II* had a strong central character and a clear vision, even if its execution was divisive. *Inquisition* found an imperfect but enjoyable middle ground, with plenty of memorable decisions and excellent lore.
+
+I can appreciate the improvements in *The Veilguard*, and someone looking for a more streamlined fantasy action game might enjoy it. But the writing, quest design and limited consequences made it difficult for me to recognise the series I loved.
+
+**Verdict:** Not recommended. There are good ideas here, particularly in the combat and worldbuilding, but I wanted a proper successor to the first three games. This wasn't it.
+
+*Adapted from my Steam review posted 1 May 2025 (102.4 hours recorded). The technical problems and verdict reflect that playthrough.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "jedi-survivor-review", "sha256": "d565d6f4743ff9d96bff6f851aae874f16b2c10c401709d245a368e58038e885", "edit_sha256": "2546d98eddc8908799e3c6667a17c7fcea1bf4fff11d0aa70eb52b3269c7fae8"} -->
+---
+title: "Star Wars Jedi: Survivor Review — A Sequel That Improves on the Original"
+description: "Jedi: Survivor builds on Fallen Order with better combat, enemy variety, rewarding exploration and a more mature Cal Kestis."
+summary: "A great Star Wars action adventure becomes an even better one."
+deck: "A great Star Wars action adventure becomes an even better one."
+---
+
+I really enjoyed *Jedi: Fallen Order*. The characters were interesting, the story had a sense of urgency, and the environments were a pleasure to navigate. Moving through ruins and solving puzzles felt intuitive, and the callbacks to the wider *Star Wars* universe made exploration even more rewarding. The combat required thought and skill, with enough options to make each difficult encounter satisfying to overcome.
+
+*Jedi: Survivor* takes nearly everything I liked about that first game and improves upon it.
+
+## Cal has grown up
+
+Cal Kestis is noticeably more mature this time. I found the story more engaging partly because you can see how much his experiences have changed him. He has become a stronger fighter, but there's also a weight to the decisions he makes that wasn't quite as pronounced in *Fallen Order*.
+
+The supporting cast remains one of the series' strengths. Their relationships give the adventure a personal stake beyond the larger conflict in the galaxy. And BD-1 is still the best bud a Jedi could hope to have.
+
+## Better options in a fight
+
+The combat is where I noticed some of the biggest improvements. There are more approaches to the encounters and more useful abilities to unlock, whichever skill tree you invest in. I never felt that I was wasting time developing a particular fighting style.
+
+Enemy variety is also much better. Learning the behaviour of different opponents, deciding which attacks to punish and figuring out how to best dispatch each type became a large part of the fun. You can't just approach every encounter in exactly the same way.
+
+I especially appreciate games that reward you for learning their systems. *Survivor* gives you opportunities to experiment rather than simply making enemies tougher.
+
+## Exploration is still a joy
+
+The environments remain beautiful, and there's plenty to discover away from the main path. I enjoyed moving around the world, finding routes through seemingly inaccessible places, and figuring out puzzles without the game constantly telling me what to do.
+
+The movement, platforming and combat fit together well enough that exploring is almost always enjoyable in itself. There are also enough secrets and *Star Wars* references to make looking around feel worthwhile.
+
+I came away liking Cal and his companions more than I did at the end of the first adventure. That's quite an achievement for a sequel that also improves so substantially on the gameplay.
+
+**Verdict:** Recommended without any reservations, especially if you enjoy cinematic action adventures with thoughtful combat, clever puzzles and rewarding exploration.
+
+*Adapted from my Steam review posted 14 March 2025 (69.8 hours at review time).*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "mass-effect-legendary-edition-review", "sha256": "69c5bc558f25736e8bab3d3de31a20df0757991391336fc51bc693aa5f23270e", "edit_sha256": "341079bed6f3355068565b03485a988773a9e011bd61bd8fa626d1e5fcce2385"} -->
+---
+title: "Mass Effect Legendary Edition Review — Three Games Still Worth Your Time"
+description: "A returning Mass Effect fan revisits the trilogy's memorable crew, consequential choices, improved combat and controversial final chapter."
+summary: "The Normandy's crew still makes the trilogy worth revisiting."
+deck: "The Normandy's crew still makes the trilogy worth revisiting."
+---
+
+The original *Mass Effect* left a lasting impression on me when it came out in 2007. The characters were wonderfully varied, the story was tense, and there were plenty of secrets worth uncovering. I also loved how everything built towards a thrilling climax.
+
+*Mass Effect 2* improved almost every part of that experience, particularly the combat and the characters. Importing my Shepard from the first game and continuing relationships and unfinished plot threads made it feel like one enormous adventure rather than an unrelated sequel.
+
+And *Mass Effect 3*, despite leaning further into action and delivering a famously controversial ending, maintained a remarkable level of quality. The DLC adds quite a lot to the experience.
+
+## The trilogy's greatest strength
+
+I think the real reason these games have held up so well is the cast.
+
+Garrus, Tali, Wrex, Liara and the other companions aren't simply characters who accompany you into battle. You spend time learning about their histories, loyalties and problems. Your decisions influence those relationships, and the consequences can follow you across games.
+
+Few series have managed to give me the same sense of progression. By the time you reach the later adventures, some of these characters feel like old friends.
+
+The larger story is excellent too, but it's the personal relationships that make the stakes matter.
+
+## Familiar games, worthwhile improvements
+
+The Legendary Edition adds some welcome visual and quality-of-life updates, particularly to the first game. Its combat and interface had aged more noticeably than those of its sequels, so the improvements make replaying the whole trilogy much easier to recommend.
+
+The second and third games are still more action-oriented, but I enjoy that the series changes as it goes along. Each game has its own strengths, and the ability to carry choices forward makes them feel connected despite those differences.
+
+Not every decision leads to a completely different outcome, and I still have reservations about the trilogy's ending. But even after multiple playthroughs, the choice-and-consequence system manages to reveal things I haven't seen before.
+
+Most importantly, the games are fun to play.
+
+## Worth another journey
+
+There's a lot here for someone discovering the series for the first time. Returning players have another reason to step aboard the Normandy, too. The combination of a memorable cast, satisfying combat and decisions that carry across three games remains difficult to beat.
+
+**Verdict:** A wholehearted recommendation. It's one of my favourite series, and the Legendary Edition is a great way to experience it.
+
+*Adapted from my Steam review posted 14 March 2025 (140.7 hours recorded).*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "elden-ring-personal-review", "sha256": "2c4369267152c38ae3d588fd8698113dea663dfa549cd3fccfbe085e3fd81672", "edit_sha256": "bc4b86849a76429b05a27de8e19c53b674be410324835326295a95bd1d9fa3c5"} -->
+---
+title: "Elden Ring Review — Why I Couldn't Leave the Lands Between"
+description: "A player's account of Elden Ring's rewarding exploration, flexible builds, hidden lore, dangerous dungeons and the tension of risking runes."
+summary: "Even after nearly 200 hours, there was more I wanted to see."
+deck: "Even after nearly 200 hours, there was more I wanted to see."
+---
+
+*Elden Ring* is a masterpiece.
+
+The dungeons feel claustrophobic and the surface world feels huge, sometimes overwhelmingly so. But almost every place I visited offered something unique and interesting. There's a real sense that you could wander into an area you've never seen before and find a new weapon, a strange character or an encounter that completely changes your plans.
+
+## Exploration without the usual busywork
+
+One of the biggest improvements over many other open-world games is the quest design. You don't spend the whole adventure following obvious fetch quests simply because a map marker tells you to. You explore because you genuinely don't know what you might stumble across.
+
+That uncertainty makes finding something worthwhile feel much more satisfying.
+
+As you explore, you gradually uncover the lore. I was surprised by how rich it became, particularly the way the history of the demigods and the question of why Queen Marika shattered the Elden Ring connect the different regions. Every area feels distinct, but they still belong to the same world.
+
+## A different weapon makes a different game
+
+I loved experimenting with weapons and character attributes. Switching from a greatsword to a pair of daggers significantly changes how the combat feels. It's not simply a different animation attached to the same attack. Your range, timing and approach to enemies all change.
+
+That flexibility helps keep such a long game interesting. When a particular build becomes familiar, there's almost always another way to play.
+
+Death is equally important, both to the themes of the world and to the mechanics. You level up by collecting runes, which can be lost if you die before retrieving them. I enjoyed the tension of deciding whether to return somewhere safe and invest what I'd earned or risk pushing into a region I might not be strong enough to survive.
+
+Those little decisions make exploration feel dangerous in a way that a typical open-world checklist rarely does.
+
+## The people and sounds of the Lands Between
+
+The music is haunting, and the environments leave a lasting impression. I wasn't completely sold on the old-world manner of speaking used by some characters; that's a rather personal gripe, but I would have preferred it toned down a little.
+
+I also had bigger reservations about PvP balancing. Since multiplayer competition isn't the main reason I play, it didn't spoil the experience. I did enjoy occasionally getting help from other players, though, and watching the strategies and equipment they used against difficult enemies.
+
+It was a surprisingly good way to learn.
+
+## Final verdict
+
+After 196 hours in the Lands Between, there were still places I wanted to explore and bosses I wanted to defeat. I didn't need much of an excuse to return.
+
+**Verdict:** One of the best games I've played since the original *Mass Effect*. The exploration, combat and lore work together wonderfully, and the world stayed with me long after I put the controller down.
+
+*Adapted from my Steam review posted 6 August 2022 (196.7 hours at review time).*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "batman-arkham-asylum-review", "sha256": "e3a0c98ccea5c4443daa3a15e5b905685fc7e13ecbd8e4d31d4891a85585065c", "edit_sha256": "2b1104f911965af4cdc1e8159af16257789bf040852f29707c372e419cc7718a"} -->
+---
+title: "Batman: Arkham Asylum Review — It Really Does Feel Like Being Batman"
+description: "A fan's review of Arkham Asylum's predator encounters, intuitive combat, clever gadgets, wonderful villains and occasional cheesy dialogue."
+summary: "From detective work to predator rooms, Arkham Asylum understands Batman."
+deck: "From detective work to predator rooms, Arkham Asylum understands Batman."
+---
+
+*Batman: Arkham Asylum* feels like a celebration of everything Batman.
+
+It's apparent that the game was made by fans for fans. There are an astonishing number of Easter eggs, but the more important achievement is how well it captures the feeling of being the Caped Crusader.
+
+Stalking criminals from above, investigating crime scenes, using an assortment of bat-themed gadgets and picking enemies off one by one before their friends realise what's happening: it's all wonderfully entertaining.
+
+## A Batman game that gives you options
+
+The levels are varied enough to remain interesting throughout, and Batman's enemies influence them in creative ways.
+
+It's a relatively linear adventure, but you still have room to experiment. You can work your way around a room silently, using vantage points and gadgets to remove enemies, or jump into combat and take them on directly.
+
+The fighting mechanics are among the most intuitive I've experienced. They're easy to learn, but enemy variety and different tactics give you reasons to pay attention instead of simply hammering the same button.
+
+I particularly enjoy games where a mechanic is straightforward at first and grows more interesting as you begin combining the tools available to you. *Arkham Asylum* gets that balance right.
+
+## Gotham's villains steal the show
+
+The character designs are excellent, although some of the faces and the graphics technology haven't aged particularly well. The animation of Batman's cape is still impressive, though, and deserves some appreciation of its own.
+
+Sound design, music and most of the voice performances are fantastic. Even the patient interview recordings are entertaining, partly because so many of the villains have such strong personalities.
+
+My biggest complaints concern some of Batman's dialogue. His lines occasionally range from fine to cheesy to the kind that make you wonder how anyone thought they sounded natural. A few character faces also look rather odd now.
+
+Fortunately, neither problem takes much away from the gameplay.
+
+## Final verdict
+
+For me, the game's greatest success isn't any one fight or villain. It's the way the detective work, stealth, gadgets and hand-to-hand combat all come together to make you feel like Batman.
+
+**Verdict:** Recommended wholeheartedly, whether you're a longtime fan of the character or just looking for a satisfying action adventure.
+
+*Adapted from my Steam review posted 7 July 2021.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "tomb-raider-2013-review", "sha256": "ace239bebe87d8221d3109143a167ba9259912b980e7802dbe7ac5f485bbb8bd", "edit_sha256": "8bc0fd466e4fc75bf8a4b50d8c546d66aaefb9716ed50c51197833be70f1d593"} -->
+---
+title: "Tomb Raider (2013) Review — A Survival Adventure Worth Revisiting"
+description: "Tomb Raider's smooth movement, clever traversal, tense combat, stealth and atmosphere make Lara Croft's reboot an enjoyable adventure."
+summary: "Great traversal and atmosphere make this reboot an easy recommendation."
+deck: "Great traversal and atmosphere make this reboot an easy recommendation."
+---
+
+The 2013 *Tomb Raider* has a lot of good mechanics that come together to make a very satisfying adventure.
+
+Movement is smooth, and the platforming sequences are often puzzles in themselves. Running, jumping, climbing and sliding down ropes that you attach to the environment with an arrow feels surprisingly liberating. I had fun simply moving around the levels and figuring out where the next path led.
+
+## Exploration and survival
+
+The gunplay feels solid, but I particularly liked that ammunition is limited enough to make you think about how to approach encounters. Stealth gives you a useful alternative to simply shooting your way through everything.
+
+Sneaking around and silently picking enemies off one by one became one of my favourite parts of the game.
+
+The atmosphere is another big strength. The island feels dangerous, and the game does a convincing job of making Lara's situation feel desperate without forgetting that this is still an action adventure.
+
+I probably would have preferred a more grounded story without the supernatural elements, although I suppose they're part of *Tomb Raider*'s identity by this point. I didn't mind them too much in the end.
+
+The whole adventure occasionally reminded me of *Lost*. Better, though, because the ending doesn't make you weep.
+
+## A well-made package
+
+The environments look good, the sound holds up well, and the story gives the action a convincing sense of urgency. I appreciated the fact that platforming, puzzles, stealth and shooting all had a place rather than leaving one mechanic to do all the work.
+
+It isn't an enormously long game, which I actually consider a point in its favour. There's enough variety to keep things fresh from start to finish.
+
+**Verdict:** A pretty fun adventure with great movement and atmosphere. I enjoyed it all the way through and wouldn't hesitate to recommend picking it up.
+
+*Adapted from my Steam review posted 15 May 2021.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "halo-reach-review", "sha256": "7aec7603ea0d5578a16aa1337f6949027eb68139a3b9021307e381ae710f6316", "edit_sha256": "1e55dc7141c9f620e9815785acfba6fbe1a8acb21118bfe695c85d14fab1f3fb"} -->
+---
+title: "Halo: Reach Review — Everything I Loved About Combat Evolved"
+description: "Revisiting Halo through Reach: intelligent enemies, varied missions, enormous battlefields and a memorable squad."
+summary: "A campaign that made me remember why I loved Combat Evolved."
+deck: "A campaign that made me remember why I loved Combat Evolved."
+---
+
+I played *Halo: Combat Evolved* around fifteen years before writing my original review of *Reach*, and I loved it. I tried *Halo 2* afterwards, but found the difficulty curve a little too punishing to really enjoy.
+
+*Halo: Reach* brought back the things I remembered fondly about the first game while making the combat and mission design feel more modern.
+
+## A super-soldier in the middle of a war
+
+The gameplay is fun, and that's the biggest compliment I can give it.
+
+There are plenty of weapons and armour abilities, and the enemies behave differently enough that you need to adapt the way you attack. Understanding their strengths, using the right weapons and finding a good position is a large part of the enjoyment.
+
+This was something I especially liked about *Combat Evolved*. *Reach* builds on it while giving you more options, including some enjoyable stealth sequences.
+
+The campaign has a good mix of missions. Some give you broad areas where you can approach objectives however you like. Others squeeze you into confined spaces and create an almost thriller-like atmosphere. There are also piloting sections, which were new to me and very welcome.
+
+## The world feels enormous
+
+The environments are spectacular.
+
+I remember that wonderful feeling in *Combat Evolved* when you first land on the ring and can see its landscape stretching into the distance. *Reach* occasionally gave me that same sense of scale.
+
+Not every texture has aged gracefully, but the visual identity is unmistakably *Halo*, and the music and overall sound are excellent.
+
+The story itself is fairly straightforward, and I didn't find it particularly exceptional. But I grew fond of the squad as the campaign progressed, even Emile. That made the events of the story feel more significant than they might have on paper.
+
+## What didn't work so well
+
+Finding an online multiplayer match could be a bit of a pain when I played, although the campaign alone justified my purchase of *The Master Chief Collection*.
+
+I wasn't sure at the time whether I wanted to replay the original trilogy straight away. But finishing *Reach* made me look forward to *ODST* and *Halo 4*, and to giving the multiplayer another chance.
+
+**Verdict:** Very good value and a satisfying campaign. *Reach* made me feel like a super-soldier fighting in a galaxy-sized war, which is exactly what I wanted from it.
+
+*Adapted from my Steam review posted 15 May 2021 (9.2 hours at review time). Multiplayer availability reflects that period.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "mortal-kombat-11-review", "sha256": "c9d6f2f52e19cd9a86fcd9945f9ffcb3e34fdfb3d551bb164aaea1e033265ef6", "edit_sha256": "bc9556825aa19efa2cc1cd4b2c17d79b241d40a8256f3bc8b307c827a173a650"} -->
+---
+title: "Mortal Kombat 11 Review — Fighting With More Than One Good Option"
+description: "MK11's balanced-feeling roster, deep move sets, custom gear and excellent presentation impressed a longtime fighting-game fan."
+summary: "A fighting game with great mechanics and a remarkably enjoyable roster."
+deck: "A fighting game with great mechanics and a remarkably enjoyable roster."
+---
+
+I've enjoyed watching NetherRealm refine its fighting games since the *Mortal Kombat* reboot in 2011. Each new *Mortal Kombat* and *Injustice* game has introduced ideas that the studio develops further in the next one.
+
+For me, *Mortal Kombat 11* is an excellent example of that gradual improvement.
+
+## A roster I actually want to learn
+
+The mechanics feel tight. Each character has a varied toolset, and although their strengths are different, I rarely felt that one fighter was overwhelmingly more powerful than the others during my time with the game.
+
+Every match can be tense, but I usually feel that I have some control over the outcome. I think that's because each fighter has different options available at different stages of an encounter.
+
+It's great fun experimenting with a character, learning which attacks work together and figuring out how to respond to what the opponent is doing.
+
+## Making the fighters your own
+
+I really enjoy the customisation.
+
+Tweaking gear and designing my own versions of classic *Mortal Kombat* characters is satisfying. It feels like a natural evolution of the character variations introduced in *Mortal Kombat X*.
+
+Some players have criticised the grind involved in unlocking cosmetics. I understand the complaint, but it didn't bother me too much given how much I enjoyed the rest of the game. I did wish the *Aftermath* DLC was cheaper.
+
+The characters, stages and cutscenes look excellent. The music and sound effects are even better and contribute a great deal to how powerful the fighting feels.
+
+I wasn't as impressed by Sonya's voice acting. Johnny Cage, on the other hand, is entertaining enough to make up for quite a lot.
+
+## Final verdict
+
+*MK11* gave me an enormous amount of enjoyment, both through the moment-to-moment fighting and the freedom to customise the characters I like.
+
+**Verdict:** One of my favourite fighting games. The roster, mechanics and presentation make it very easy to recommend.
+
+*Adapted from my Steam review originally posted 30 June 2019 and edited 15 May 2021. These impressions reflect the game during that period.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "god-of-war-2018-review", "sha256": "7e0365397964ac6b7d4bad2c8667f68b641583d40d76cc8ee3544d15389cd95a", "edit_sha256": "c05a8cde9b65f6c35c00cd7caf5a5b387e138fbbfd641e9f087ecba8f1d93a92"} -->
+---
+title: "God of War (2018) Review — Kratos Has Something Worth Fighting For"
+description: "God of War succeeds through Kratos and Atreus's father-son story, superb axe combat, Norse mythology and a rewarding semi-open world."
+summary: "The spectacle is still here, but Kratos and Atreus give it a new purpose."
+deck: "The spectacle is still here, but Kratos and Atreus give it a new purpose."
+---
+
+I've always loved the original *God of War* trilogy. The combat was brutal, the bosses were enormous, and the games did a wonderful job of making you feel like an unstoppable force as Kratos tore his way through Greek mythology.
+
+*God of War* (2018) changes quite a lot of that formula, but I think it's a better game for it. The fighting is more deliberate, there's much more freedom to explore, and Kratos himself is a far more interesting character.
+
+The biggest improvement, though, is the story.
+
+## Kratos and Atreus
+
+The father-son relationship is easily my favourite part of the game.
+
+Kratos is still the intimidating warrior we remember, but he's also a father who doesn't really know how to talk to his son. He wants Atreus to survive, and you can tell he's afraid that his boy might make the same mistakes he did. Atreus, meanwhile, is curious and compassionate, and he wants his father's approval.
+
+I loved watching them gradually become more comfortable around each other. Their disagreements feel natural because you can understand both sides, and it becomes clear that they're learning from one another.
+
+I also enjoyed the parallels with the relationships between the Norse gods. The conflicts surrounding Odin, Thor, Baldur and Thor's sons Magni and Modi give the story a lot more depth. These families are every bit as troubled as Kratos's, and the consequences of their pride, anger and attempts to control one another run through the whole adventure.
+
+It makes Kratos's attempts to become a better father especially meaningful.
+
+## Excellent fighting mechanics
+
+I wasn't sure what to expect when the series moved away from its traditional style of combat, but the Leviathan Axe is fantastic. Every strike feels powerful, and throwing it at an enemy before recalling it to your hand never really gets old.
+
+There's plenty to learn: light and heavy attacks, blocks, parries, runic abilities, and combinations that let you approach different enemies in different ways. I particularly liked that Atreus plays a useful role in combat. His arrows can interrupt opponents or create openings, and your ability to work together improves as the journey goes on.
+
+The Valkyrie fights are another highlight. They're tough, and learning their patterns and the timing of their attacks is incredibly satisfying. Beating one after several failed attempts feels like a real accomplishment.
+
+And the spectacle is still there.
+
+The fight against the enormous dragon in the mountain was one of my favourite sequences. The size of the creature, the setting and the way the fight develops are wonderful. This is something the original trilogy always did well, and I'm glad it hasn't been lost.
+
+## A world worth exploring
+
+I really enjoyed the semi-open-world structure.
+
+The Lake of Nine acts as a central area, and new places become accessible as you progress and acquire different abilities. There's freedom to explore, but the game still has a clear sense of direction. I liked that wandering off the main route often led to something worth finding rather than another obvious fetch quest.
+
+Some of the optional stories are excellent. Helping the dead sailors and other wayward spirits was memorable because their problems added to the history of the world. The Valkyries gave me a good reason to return to earlier locations as my skills improved.
+
+The realms are gorgeous and distinct. Alfheim, Helheim and the other places you visit look and feel different, and I loved seeing how the game interpreted Norse mythology. The World Serpent is another spectacular sight.
+
+The music and sound are equally impressive.
+
+## The stories told on the boat
+
+One of my favourite things about the game is how much character development happens while you're simply travelling.
+
+Kratos occasionally tells Atreus stories, usually in his dry and rather humourless way. Later, Mimir joins in with tales about the gods and their history. I found myself looking forward to these conversations as much as some of the quests.
+
+They add colour to the world without forcing you to stop and read pages of background information. More importantly, they allow the relationships between the characters to develop naturally.
+
+The callbacks to the original trilogy are handled beautifully too. I particularly appreciated that Kratos's past matters to the story instead of being ignored for the sake of a reboot.
+
+## Story discussion — spoilers
+
+:::spoilers Open the spoiler discussion
+
+Freya and Baldur are a fascinating contrast to Kratos and Atreus. Freya's attempt to protect her son leaves him unable to feel anything, and the terrible resentment that follows makes their relationship tragic rather than simply villainous.
+
+Odin's influence over his family, and Thor's relationship with Magni and Modi, show different consequences of power and violence being passed from parent to child. Kratos has been part of the same cycle himself. He knows what it means to kill a god, and to kill his own father.
+
+That makes his efforts to guide Atreus towards a different path much more compelling.
+
+The return of the Blades of Chaos is another wonderful moment. I loved using them again, but what makes the scene work is that Kratos has to face a part of himself he would rather forget. It's a brilliant callback to the original trilogy that actually contributes to the new story.
+
+:::
+
+## Final verdict
+
+*God of War* is an excellent action adventure. The combat is satisfying and varied, exploration is consistently rewarding, and the interpretation of Norse mythology is fascinating.
+
+But what makes it special is the relationship between Kratos and Atreus. I loved the original trilogy for its action and spectacle. This game retains those qualities while giving Kratos a more personal story and plenty of room to grow.
+
+It's also one of the few games where I enjoyed the quieter moments almost as much as the enormous battles.
+
+**Verdict:** Recommended without any reservations, especially for anyone who enjoys satisfying combat, rewarding exploration and a well-written story. Fans of the original trilogy will find even more to appreciate.
+
+*Written for Fourth Frame from my notes on the game and revised with my original gaming reviews as the style reference.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "best-games-2026-ranked", "sha256": "094d1d883ea402aafb1de63639be7ce2fa258ad6486783994cfcb831a7da49e1", "edit_sha256": "f5bc18dbea6029bbe069caa210c12d26975bbfca6ae277f53a459ef4638583b1"} -->
+---
+title: "The Best Games of 2026, Ranked: Fourth Frame's Top 10 Before GTA VI"
+description: "Fourth Frame's 2026 top ten: Star Wars Galactic Racer, Fire Emblem Fortune's Weave, Zero Company, 007 First Light and more."
+summary: "Ten 2026 favourites, from tactical Star Wars to arcade racing, before GTA VI enters the conversation."
+deck: "Rockstar's return to Vice City is almost here. These are the ten games I would put forward before it arrives."
+---
+
+*Grand Theft Auto VI* is due on 19 November, which means 2026 is almost at the point where every conversation about Game of the Year will turn into a conversation about Rockstar. I can understand why. Few studios make worlds as convincing or as entertaining to explore.
+
+But there's quite a lot worth talking about before we return to Vice City. This year has given us two very different *Star Wars* games, a new *Fire Emblem*, a Bond adventure, an ambitious vampire RPG and a game about sending genetically questionable cats into tactical battles. I'm glad we haven't had to spend the whole year waiting for one enormous release.
+
+These are Fourth Frame's ten picks, in **our preferred order**, rather than an official awards result or a Metacritic ranking. The order reflects the kinds of games I value most: satisfying mechanics, meaningful choices, characters worth caring about and worlds that reward exploration. The assessments below draw on [published coverage](https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/) and verified game information; they aren't claims that I've personally completed all ten. The [Golden Joystick Awards' 2026 shortlist](https://www.gamesradar.com/games/events-conferences/alix-wilton-regan-announced-as-golden-joystick-awards-host-as-ultimate-game-of-the-year-voting-goes-live/) is a separate vote.
+
+## 10. Forza Horizon 6
+
+I was always interested in seeing what *Forza Horizon* could do with Japan. It seems an ideal setting for this particular sort of racing game: twisting mountain roads, city expressways, an enormous car culture and plenty of opportunities to forget what you were originally driving towards.
+
+*Horizon 6* takes that setting and gives players the series' familiar freedom to switch between competitions or simply drive around. The variety of cars is a big part of the appeal. I like racing games where different vehicles actually encourage different approaches, and Japan's scenery makes a strong argument for taking the slower route occasionally.
+
+The reservation is that the series has become very comfortable with its formula. [PC Gamer's review](https://www.pcgamer.com/games/racing/forza-horizon-6-review/) praises the setting while questioning how much the sequel changes. At number ten, it's an excellent racing package that might have needed a few more surprises to climb higher.
+
+## 9. Gears of War: E-Day
+
+I've always enjoyed *Gears* for the weight of its combat. There's something satisfying about sliding into cover, timing a reload correctly and figuring out how to approach a room full of enemies who are quite happy to do the same to you. The original games were also terrific cooperative experiences.
+
+*E-Day* takes Marcus and Dom back to the Locust invasion and restores some of the horror that made the first game memorable. It's an appealing idea. Before everyone understood the enemy and had an enormous war machine behind them, a Locust encounter should have been genuinely frightening.
+
+The [reviews have been divided](https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/) on the campaign's pacing, though there is considerable praise for the shooting itself. I'd put it ninth because the core mechanics sound as satisfying as ever, even if returning to familiar territory isn't quite the same as moving the series forward.
+
+## 8. Mewgenics
+
+Breeding cats and sending them off to fight monsters doesn't immediately sound like a serious strategy game. In *Mewgenics*, however, every cat brings its own traits and abilities, and the resulting combinations give you an enormous number of decisions to make.
+
+What interests me is the way the tactical battles and breeding systems feed into one another. You're not just assembling a party for one encounter. You're experimenting with combinations that can influence later runs, and that gives each success or failure a different kind of consequence.
+
+There's also something wonderfully absurd about making careful strategic plans around an animal that looks as if it should be sleeping on your sofa. The randomness and deliberately grotesque presentation won't suit everybody, but [critics have praised its depth](https://www.pcgamer.com/games/roguelike/mewgenics-review/). It earns a place here because very few games are willing to try quite so many unusual ideas.
+
+## 7. Resident Evil Requiem
+
+I like the way *Resident Evil* has moved between survival horror and action over the years, even when some entries have pushed too far in one direction. *Requiem* tackles that problem by giving us two protagonists who approach danger very differently.
+
+Grace's sequences emphasise vulnerability and the need to think carefully about resources. Leon's put more emphasis on fighting back. The contrast sounds like a useful way to bring the different sides of the franchise together instead of asking every player to enjoy the same style of horror.
+
+I'm especially interested in how the shift changes the tension. An enemy that's terrifying when you have almost no ammunition can become an entirely different problem once you're better equipped. [Capcom describes](https://www.capcom.co.jp/ir/english/news/html/e260316.html) that combination of fear and action as central to the game. Seventh place feels appropriate for a series that continues to refine its strengths, although the split approach won't please every kind of *Resident Evil* fan equally.
+
+## 6. PRAGMATA
+
+*PRAGMATA* has one of my favourite mechanical ideas of the year. Hugh handles the fighting while Diana hacks enemies, and you have to think about both activities during combat.
+
+I enjoy action games that give you more to do than simply dodge at the right time and attack when there's an opening. Here, the hacking adds another decision. You need to manage the enemies around you while figuring out which systems to disable or exploit, so the puzzle-solving becomes part of the fight itself.
+
+The relationship between Hugh and Diana also gives the adventure a more personal side. Capcom's [description of the game](https://www.capcom.co.jp/ir/english/news/html/e260507.html) places as much emphasis on their developing bond as its combination of action and puzzles. It's refreshing to see a new big-budget property built around a distinctive idea rather than another familiar franchise.
+
+## 5. The Blood of Dawnwalker
+
+Former *Witcher* developers making a vampire RPG is a compelling proposition on its own, but the more interesting idea in *The Blood of Dawnwalker* is that time and the protagonist's changing abilities affect how you play.
+
+Coen isn't simply a conventional fantasy hero with a different set of weapons. His condition creates different possibilities by day and night, and the limited time available to save his family gives the decisions some urgency. I like RPGs that make choices matter, particularly when those choices affect more than the next line of dialogue.
+
+The setting sounds equally interesting: a grim medieval landscape, powerful vampires and ordinary people trying to survive amid conflicts they barely understand. [Reviews have noted](https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-review/) that the execution doesn't always match the ambition. Nevertheless, it's fifth because I'd rather see an RPG take a few risks with its systems and storytelling than offer a huge map with nothing particularly interesting to do.
+
+## 4. 007 First Light
+
+James Bond should make an excellent video game protagonist. He has the gadgets, the villains, the expensive cars and a career that requires him to enter places where he is very definitely not welcome.
+
+The exciting part of IO Interactive taking on Bond is its experience with *Hitman*. I enjoy being given several ways to solve a problem, and the idea of using distractions, disguises and the environment to approach an objective suits Bond perfectly. The cinematic action can be entertaining, but I hope those quieter espionage sequences remain the reason to play.
+
+*First Light* tells an origin story about a younger Bond, and there's plenty of spectacle along the way. Not every critic agrees about the balance between stealth and scripted action; [PC Gamer, for example](https://www.pcgamer.com/games/action/007-first-light-review/), was less enthusiastic about the familiar parts of its design. Fourth place reflects how well the premise fits a studio that understands the pleasure of having options.
+
+## 3. Star Wars: Zero Company
+
+I loved the tactical possibilities in games such as *Baldur's Gate 3*, and I also like *Star Wars* stories that explore parts of the galaxy beyond the usual handful of famous heroes. *Zero Company* brings those interests together.
+
+Set during the Clone Wars, it puts you in charge of Hawks and a squad of operatives with different backgrounds and abilities. Positioning, timing and combining those abilities are central to the battles. I particularly like the idea that developing relationships within the squad can make the characters worth protecting for reasons beyond their usefulness in combat.
+
+There's room for caution. [PC Gamer's review](https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/) praises the tactical depth and story but reports technical problems and more linear exploration than the battle systems might suggest. Even so, this is the sort of *Star Wars* game I'd like to see more often: one that asks you to think your way out of trouble rather than handing everybody a lightsaber.
+
+It takes the place previously occupied by *Dispatch* in this ranking. Both have interesting characters, but *Zero Company* adds a particularly appealing tactical dimension.
+
+## 2. Fire Emblem: Fortune's Weave
+
+There are few things in games quite as satisfying as winning a difficult battle because you understood the enemy and made the right decisions. It's why I enjoy tactical RPGs, and why *Fire Emblem* has always interested me.
+
+*Fortune's Weave* tells its story through multiple protagonists whose paths eventually converge. That structure creates room for conflicts seen from different perspectives, but the real attraction is the combat. Positioning units, exploiting strengths, protecting vulnerable characters and knowing when to take a risk can turn a relatively small encounter into something memorable.
+
+The game is ambitious, perhaps occasionally too much so. [Nintendo Life's review roundup](https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in) praises the battles while noting some pacing and management problems. I can live with a little excess when the central systems are this interesting. It comes close to taking the top spot because it offers the sort of challenge where improving as a player is part of the reward.
+
+## 1. Star Wars: Galactic Racer
+
+Sometimes I want an enormous RPG with difficult choices, a great supporting cast and dozens of hours of exploration. At other times, I just want to race something ridiculously fast through an environment where one mistake can ruin everything.
+
+*Star Wars: Galactic Racer* seems very well suited to the second mood.
+
+It returns to a part of the *Star Wars* universe I have always found entertaining: podracers, dangerous courses and vehicles that look barely capable of surviving the next corner. The setting provides plenty of spectacle without relying on yet another Jedi story.
+
+The clever idea is its runs-based progression. A sequence of races, upgrades and risks gives each decision a purpose beyond finishing first in one event. Vehicle customisation also means you're thinking about how you want to race, not simply unlocking the next machine on a list.
+
+[Reviewers have praised](https://www.techradar.com/gaming/star-wars-galactic-racer-review) how well the structure works. It sounds like one of those games that can turn a short session into an entire evening because there is always another race worth attempting.
+
+It's our number one because it places enjoyable gameplay at the centre of everything and builds something distinctive around it. It doesn't need a galaxy-ending threat to make the competition exciting.
+
+## Honourable mention: Dispatch
+
+*Dispatch* deserves a mention for doing something very different with superheroes. Rather than giving you control of the most powerful person in the room, it asks you to manage a group of former villains and deal with the consequences of their personalities and decisions.
+
+That emphasis on characters and relationships is exactly what interests me in a narrative adventure. It originally launched in October 2025, which is why I prefer to keep it outside this top ten of 2026 releases, although it was included in the [2026 Golden Joystick Ultimate Game of the Year shortlist](https://www.gamesradar.com/games/events-conferences/alix-wilton-regan-announced-as-golden-joystick-awards-host-as-ultimate-game-of-the-year-voting-goes-live/).
+
+## And what about Grand Theft Auto VI?
+
+[Rockstar has announced 19 November 2026](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026) for *Grand Theft Auto VI*. At the time of this ranking, it hasn't been released, so there's no point pretending we already know whether it belongs at number one.
+
+I loved how previous GTA games made exploring their cities enjoyable even when I wasn't doing a mission. If the new Vice City can combine that freedom with better mission design, interesting characters and a world that reacts convincingly to the player, it'll be difficult to ignore.
+
+Until then, the 2026 games above deserve a proper look. There's more to gaming than one enormously anticipated release, however good it might turn out to be.
+
+*Editorial note: This list represents Fourth Frame's preferred ranking as of 28 October 2026, not official award results or a claim of personal hands-on testing for every entry. Major story spoilers have been avoided.*
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "every-game-of-the-year-winner-reconsidered", "sha256": "a6e203aa2027659daca4511cfdea1ca9ef3db43b5a253834898576bb5d9bba96", "edit_sha256": "c47f222fd511577fae513cec84b6b41ec172b7e3d316826bb532db8527e8dbfc"} -->
+---
+title: "Every Game of the Year, Reconsidered: Fourth Frame's Picks From 1983 to 2025"
+description: "Every Golden Joystick Game of the Year winner from 1983 to 2025, its challengers and Fourth Frame's verdict on which game deserved the honour."
+summary: "Forty-three years of winners and challengers, with a Fourth Frame verdict on each."
+deck: "The awards got some years right. On others, we'd give the trophy to a different game."
+---
+
+Awards are useful for remembering what mattered in a particular year, but they aren't the final word on whether a game is worth playing. A blockbuster can dominate the conversation and still be less satisfying than a smaller game with thoughtful mechanics. And sometimes the voters get it exactly right.
+
+The [Golden Joystick Awards](https://www.gamesradar.com/golden-joysticks-ultimate-list-ultimate-games-1983-2014/) began in 1983, which gives us a much longer history to examine than The Game Awards, which began in 2014. For each year, I've kept the [recorded Golden Joystick Game of the Year result](https://en.wikipedia.org/wiki/Golden_Joystick_Award_for_Game_of_the_Year) and put it beside Fourth Frame's own choice. The other candidates are our retrospective shortlist, **not** a claim about who finished second in the original vote.
+
+There's an important complication: these are **award years**, while our alternatives mostly reflect games released in that calendar year. Some winning games had come out the previous year. The Golden Joysticks also handed out separate platform trophies in the late eighties, paused during parts of the nineties and gave *Super Mario 64* a combined 1996/97 award. Rather than pretend the dates line up neatly, I've flagged the differences where they matter.
+
+Our decisions favour satisfying gameplay, meaningful choices, engaging characters and exploration that rewards curiosity. They don't claim firsthand playthroughs of every game on this list. The verdicts are Fourth Frame's editorial choices, made after considering the challengers, not official awards.
+
+[TOC]
+
+## The eighties: when new rules were still being written
+
+The early winners came from arcades, home computers and hardware that could barely agree on what a game ought to be. The freedom of *Elite*, the teamwork of *Gauntlet* and the tactical demands of *R-Type* all point towards ideas that games still build on.
+
+### 1983 — Jetpac
+
+**Historical Golden Joystick:** *Jetpac*.
+
+The original *Jetpac* had almost everything a good arcade game needs: an objective you understand immediately, movement worth mastering and a reason to try again when things go wrong. *Manic Miner* offered tougher platforming and *The Hobbit* was far more ambitious as an adventure, but *Jetpac* is the one I'd defend as a complete, satisfying game.
+
+*Also considered: *Manic Miner*, *The Hobbit*. Fourth Frame verdict: Award upheld.*
+
+### 1984 — Elite
+
+**Historical Golden Joystick:** *Knight Lore*.
+
+*Knight Lore* deserves considerable credit for its isometric rooms and clever perspective. I'd still choose *Elite*. Buying and selling cargo, managing risk and deciding where to travel made its universe feel much bigger than the screen. The interesting thing wasn't merely that you could go somewhere; it was that you had to decide what to do when you arrived.
+
+*Also considered: *Elite*, *Impossible Mission*. Fourth Frame verdict: Our alternative.*
+
+### 1985 — The Way of the Exploding Fist
+
+**Historical Golden Joystick:** *The Way of the Exploding Fist*.
+
+Fighting games work when a victory feels earned rather than accidental, and *The Way of the Exploding Fist* understood that. The timing of attacks and blocks, the animation and the scoring all made its karate bouts more thoughtful than an exchange of button presses. *Paradroid* is an excellent alternative for its unusual mechanics, but I'd leave this award alone.
+
+*Also considered: *Summer Games II*, *Paradroid*. Fourth Frame verdict: Award upheld.*
+
+### 1986 — Gauntlet
+
+**Historical Golden Joystick:** *Gauntlet*.
+
+There were other creative games in 1986, particularly *The Sentinel*, but *Gauntlet* made dungeon crawling wonderfully immediate. Different heroes had different strengths, supplies mattered and cooperation was frequently the difference between surviving a room and watching everyone fall apart. The crowds of enemies made it chaotic; having friends beside you made that chaos entertaining.
+
+*Also considered: *Uridium*, *The Sentinel*. Fourth Frame verdict: Award upheld.*
+
+### 1987 — Out Run
+
+**Historical Golden Joystick:** *Out Run*.
+
+*Out Run* understands something that racing games occasionally forget: the act of driving should be enjoyable by itself. The routes, scenery and music turn a timed race into a trip you want to repeat. *Bubble Bobble* has a strong claim through its cooperative design, but I think the Golden Joystick voters found a deserving winner here.
+
+*Also considered: *The Last Ninja*, *Bubble Bobble*. Fourth Frame verdict: Award upheld.*
+
+### 1988 — R-Type
+
+**Historical Golden Joystick:** Three parallel winners: *Operation Wolf* (8-bit computers), *Speedball* (16-bit computers) and *Thunder Blade* (consoles).
+
+There wasn't one overall victor: the Golden Joysticks recognised *Operation Wolf*, *Speedball* and *Thunder Blade* across different machines. For a retrospective pick, I'd give it to *R-Type*. Its deliberate pace, weapon upgrades and demanding patterns reward learning each section rather than relying on luck. It's punishing, but most failures teach you something useful.
+
+*Also considered: *R-Type*, *Last Ninja 2*. Fourth Frame verdict: Our alternative.*
+
+### 1989 — Populous
+
+**Historical Golden Joystick:** Two platform winners: *The Untouchables* (8-bit computers) and *Kick Off* (16-bit computers).
+
+*Kick Off* made football feel quick, demanding and surprisingly convincing on a home computer, so its win makes sense. My pick is *Populous*. Playing with terrain and influencing your followers rather than controlling a single hero gives the strategy a very different appeal. It opened up interesting decisions that few games were asking players to make.
+
+*Also considered: *Populous*, *SimCity*. Fourth Frame verdict: Our alternative.*
+
+### 1990 — The Secret of Monkey Island
+
+**Historical Golden Joystick:** Four platform winners: *Rick Dangerous 2* (8-bit computers), *Kick Off 2* (16-bit computers), *Mega Man* (8-bit consoles) and *John Madden Football* (16-bit consoles).
+
+*Kick Off 2* was a natural winner in an era when sports games were becoming more sophisticated, and the other platform categories honoured quite different audiences. But I'd choose *The Secret of Monkey Island*. Its puzzles are memorable because they grow out of the setting and characters, and the writing makes even ordinary conversations entertaining. It remains a lovely reminder that an adventure can be funny without treating its story as a joke.
+
+*Also considered: *The Secret of Monkey Island*, *Super Mario World*, *Railroad Tycoon*. Fourth Frame verdict: Our alternative.*
+
+### 1991 — The Legend of Zelda: A Link to the Past
+
+**Historical Golden Joystick:** *Sonic the Hedgehog*.
+
+Sonic's speed, animation and sense of personality helped make the Mega Drive a serious competitor to Nintendo, so the award was understandable. I'd pick *A Link to the Past*. The balance between exploring, solving puzzles and gradually finding new ways through the world is excellent. You often find something useful because you were curious enough to look.
+
+*Also considered: *The Legend of Zelda: A Link to the Past*, *Final Fantasy IV*. Fourth Frame verdict: Our alternative.*
+
+### 1992 — Street Fighter II
+
+**Historical Golden Joystick:** *Street Fighter II*.
+
+*Street Fighter II* refined fighting-game fundamentals that are still important: spacing, timing, readable special moves and a roster whose characters demand different approaches. *Alone in the Dark* was adventurous in an entirely different genre, while *Sonic 2* pushed its predecessor further. But this is one official result I'd keep. Very few games have influenced competitive play so strongly while remaining this satisfying.
+
+*Also considered: *Sonic the Hedgehog 2*, *Alone in the Dark*. Fourth Frame verdict: Award upheld.*
+
+## The nineties: 3D worlds, new genres and a missing trophy
+
+The Golden Joysticks' history gets awkward here: some years have no comparable overall prize, and 1996/97 shared a single result. The games are easier to remember than the ceremonies. This was the decade that gave us *Doom*, *Ocarina of Time* and *Half-Life*, among others.
+
+### 1993 — Doom
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+There isn't a standalone overall Golden Joystick winner for this year, so this is entirely Fourth Frame's retrospective call. *Myst* offered remarkable atmosphere and *Star Fox* showed what console technology could achieve. I'd choose *Doom* because movement, weapon choice, enemy behaviour and level layouts come together so well. Its multiplayer possibilities made an already excellent shooter feel like something new.
+
+*Also considered: *Doom*, *Myst*, *Star Fox*. Fourth Frame verdict: Retrospective award.*
+
+### 1994 — Super Metroid
+
+**Historical Golden Joystick:** Two category winners: *Super Mario All-Stars* (console) and *The Legend of Zelda: Link's Awakening* (handheld).
+
+The award record lists *Super Mario All-Stars* for consoles and *Link's Awakening* for handhelds rather than a single overall winner. I'd choose *Super Metroid*. Finding a new ability and realising it opens an old route is one of the great pleasures of exploration games. Few games have made such a carefully interconnected world feel so natural to navigate.
+
+*Also considered: *Super Metroid*, *Final Fantasy VI*. Fourth Frame verdict: Our alternative.*
+
+### 1995 — Chrono Trigger
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+With no standalone overall Golden Joystick to agree or disagree with, I'd give the year to *Chrono Trigger*. It has a terrific cast, an inventive approach to time travel and a story that stays engaging without stretching itself unnecessarily. *Warcraft II* offers more room for strategic experimentation and *Yoshi's Island* is an excellent platformer, but *Chrono Trigger* brings its strengths together beautifully.
+
+*Also considered: *Chrono Trigger*, *Warcraft II*, *Yoshi's Island*. Fourth Frame verdict: Retrospective award.*
+
+### 1996 — Super Mario 64
+
+**Historical Golden Joystick:** No separate 1996 award; *Super Mario 64* was recognised in the combined 1996/97 ceremony.
+
+*Super Mario 64* would later receive the combined 1996/97 Golden Joystick award, but there was no separate 1996 winner. That's fine by me because I'd make the same choice. The way Mario runs, jumps, turns and builds momentum is a large part of the appeal. Nintendo understood that moving through a 3D environment had to be fun before filling it with objectives.
+
+*Also considered: *Super Mario 64*, *Tomb Raider*, *Quake*. Fourth Frame verdict: Retrospective award.*
+
+### 1997 — GoldenEye 007
+
+**Historical Golden Joystick:** *Super Mario 64*, awarded for the combined 1996/97 period.
+
+The combined 1996/97 Golden Joystick went to *Super Mario 64*, and it was a deserving technical achievement. For the 1997 release year I'd choose *GoldenEye 007*. Its missions offer more than simply reaching the end of a level, and the different objectives encourage learning the maps. The local multiplayer also gave friends countless reasons to play another match. *Final Fantasy VII* and *Symphony of the Night* make this a genuinely difficult year.
+
+*Also considered: *Final Fantasy VII*, *GoldenEye 007*, *Castlevania: Symphony of the Night*. Fourth Frame verdict: Our alternative.*
+
+### 1998 — The Legend of Zelda: Ocarina of Time
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+*Ocarina of Time*, *Half-Life*, *Metal Gear Solid* and *StarCraft* could each support an entire retrospective. I'd give it to *Ocarina of Time* for the way it made combat, puzzles and exploration work in three dimensions. The controls and camera gave players a practical way to understand complex spaces, while the dungeons rewarded paying attention. This was a year without a standalone Golden Joystick overall award, but certainly not one without great games.
+
+*Also considered: *The Legend of Zelda: Ocarina of Time*, *Half-Life*, *Metal Gear Solid*, *StarCraft*. Fourth Frame verdict: Retrospective award.*
+
+### 1999 — Planescape: Torment
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+*Age of Empires II* is the obvious pick if we value strategy and replayability most, and *System Shock 2* combines RPG decisions with tremendous atmosphere. I'd choose *Planescape: Torment*. Its conversations, unusual companions and questions about identity make the role-playing feel different from almost everything else. Combat isn't its greatest strength, but the writing gives the journey a purpose beyond the next encounter.
+
+*Also considered: *Planescape: Torment*, *System Shock 2*, *Age of Empires II*. Fourth Frame verdict: Retrospective award.*
+
+### 2000 — Deus Ex
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+*Baldur's Gate II* and *Diablo II* gave RPG players two very different ways to spend hundreds of hours. *Deus Ex* is my choice because it allows so many approaches to the same situation. Stealth, conversation, hacking and fighting all have a place. A level becomes more interesting when you can decide how to solve its problems rather than following the one route the developers prepared.
+
+*Also considered: *Deus Ex*, *Baldur's Gate II*, *Diablo II*, *Tony Hawk's Pro Skater 2*. Fourth Frame verdict: Retrospective award.*
+
+### 2001 — Halo: Combat Evolved
+
+**Historical Golden Joystick:** No standalone overall Game of the Year award.
+
+*Grand Theft Auto III* changed the appeal of open-world crime games, and *Ico* demonstrated how much atmosphere could accomplish with restraint. I'd go with *Halo: Combat Evolved*. The enemy behaviours, weapons and open combat spaces give you different strategies to try, and the campaign regularly makes those mechanics feel fresh. For me, that's a stronger claim than technical ambition alone.
+
+*Also considered: *Halo: Combat Evolved*, *Grand Theft Auto III*, *Ico*, *Metal Gear Solid 2*. Fourth Frame verdict: Retrospective award.*
+
+## The 2000s: worlds worth getting lost in
+
+The awards returned in 2002, but the winning game wasn't necessarily released in that calendar year. That's why this retrospective keeps the historical award separate from our choice of a game associated with the year.
+
+### 2002 — Warcraft III: Reign of Chaos
+
+**Historical Golden Joystick:** *Grand Theft Auto III*.
+
+The Golden Joystick went to *Grand Theft Auto III*, which actually launched in 2001. It deserves its place in history for making a living city the centre of the experience. But if we're considering the games associated with 2002, I'd choose *Warcraft III*. Heroes matter both in the story and during the battles, the factions play differently, and the campaign makes strategy personal. It's one of Blizzard's most interesting combinations of mechanics and storytelling.
+
+*Also considered: *Metroid Prime*, *Warcraft III*, *Grand Theft Auto: Vice City*. Fourth Frame verdict: Our alternative.*
+
+### 2003 — Star Wars: Knights of the Old Republic
+
+**Historical Golden Joystick:** *Grand Theft Auto: Vice City*.
+
+*Vice City* is a marvellous place to spend time, with music and atmosphere that give it a personality of its own. I'd still choose *Knights of the Old Republic*. It gives Star Wars a cast worth knowing and offers decisions that change how you understand the story. Turning a familiar universe into a thoughtful RPG was a tremendous achievement, especially when the characters are interesting enough to carry the quieter scenes.
+
+*Also considered: *Star Wars: Knights of the Old Republic*, *The Legend of Zelda: The Wind Waker*. Fourth Frame verdict: Our alternative.*
+
+### 2004 — Half-Life 2
+
+**Historical Golden Joystick:** *Doom 3*.
+
+I understand *Doom 3* winning for its technology and oppressive atmosphere, but *Half-Life 2* is the better all-round game for me. Its gravity gun changes the way you interact with the environment, and the levels keep introducing useful ideas rather than simply adding more enemies. *Halo 2* and *World of Warcraft* are serious alternatives, but Gordon Freeman's journey makes the best case through play.
+
+*Also considered: *Half-Life 2*, *Halo 2*, *World of Warcraft*. Fourth Frame verdict: Our alternative.*
+
+### 2005 — Resident Evil 4
+
+**Historical Golden Joystick:** *Grand Theft Auto: San Andreas*.
+
+*San Andreas* offers extraordinary freedom, *Shadow of the Colossus* has some unforgettable encounters, and the original *God of War* brings its mythology to life through combat spectacle. My choice is *Resident Evil 4*. It makes every fight tense because ammunition, positioning and enemy behaviour matter. It also keeps changing the situations you're forced to handle, which is why the action remains exciting for so long.
+
+*Also considered: *Resident Evil 4*, *Shadow of the Colossus*, *God of War*. Fourth Frame verdict: Our alternative.*
+
+### 2006 — The Elder Scrolls IV: Oblivion
+
+**Historical Golden Joystick:** *The Elder Scrolls IV: Oblivion*.
+
+I'd leave *Oblivion* with the award. The appeal is the freedom to wander away from a quest and end up somewhere interesting, whether that's a town, a ruin or a storyline you didn't know existed. *Gears of War* is tremendous at making shooting feel powerful, and *Ōkami* offers beautiful art and puzzles. But few RPGs of the period made their worlds so inviting to explore.
+
+*Also considered: *Gears of War*, *The Legend of Zelda: Twilight Princess*, *Ōkami*. Fourth Frame verdict: Award upheld.*
+
+### 2007 — Mass Effect
+
+**Historical Golden Joystick:** *Gears of War*.
+
+*Gears of War* was a very good choice for its cover shooting and the weight of its combat. *BioShock* built one of gaming's most memorable settings, and *Super Mario Galaxy* found wonderful uses for gravity. I'd give it to *Mass Effect*. Its cast, complicated galactic politics and decisions make the story feel personal. It also began a trilogy in which the people you met and the choices you made could stay important for years.
+
+*Also considered: *BioShock*, *Mass Effect*, *Super Mario Galaxy*. Fourth Frame verdict: Our alternative.*
+
+### 2008 — Fallout 3
+
+**Historical Golden Joystick:** *Call of Duty 4: Modern Warfare*.
+
+*Call of Duty 4* won the 2008 Golden Joystick after releasing in 2007, and its campaign and multiplayer were hugely influential. For this retrospective I'd choose *Fallout 3*. Leaving the Vault gives you an enormous wasteland to investigate, and exploration works because there's always the possibility of finding a small story somewhere unexpected. The gunplay has its limitations, but the freedom to make the journey your own is hard to beat.
+
+*Also considered: *Grand Theft Auto IV*, *Fallout 3*, *Metal Gear Solid 4*. Fourth Frame verdict: Our alternative.*
+
+### 2009 — Batman: Arkham Asylum
+
+**Historical Golden Joystick:** *Fallout 3*.
+
+The Golden Joystick went to the previous year's *Fallout 3*. My pick among 2009's standouts is *Batman: Arkham Asylum*. Stealth, detective work, gadgets and wonderfully intuitive hand-to-hand combat all contribute to the feeling of being Batman. The villains are entertaining and the levels leave room to experiment. *Uncharted 2* is a great cinematic adventure, but this one lets the character's abilities shape the gameplay.
+
+*Also considered: *Uncharted 2: Among Thieves*, *Batman: Arkham Asylum*, *Demon's Souls*. Fourth Frame verdict: Our alternative.*
+
+## The 2010s: the blockbuster wasn't the only game in town
+
+In the 2010s, big-budget cinematic adventures competed with demanding action games, clever indies and multiplayer phenomena. We don't think the most expensive game ought to win by default. The strength of the underlying design matters more.
+
+### 2010 — Mass Effect 2
+
+**Historical Golden Joystick:** *Mass Effect 2*.
+
+I wouldn't change this result. *Red Dead Redemption* has a fantastic setting, *Super Mario Galaxy 2* is wonderfully imaginative and *Halo: Reach* has some excellent combat encounters. But *Mass Effect 2* gets the nod for the way it brings together its crew. Recruitment and loyalty missions give you reasons to care about each companion before the final mission asks you to make difficult decisions about them.
+
+*Also considered: *Red Dead Redemption*, *Super Mario Galaxy 2*, *Halo: Reach*. Fourth Frame verdict: Award upheld.*
+
+### 2011 — Portal 2
+
+**Historical Golden Joystick:** *Portal 2*.
+
+*Skyrim*, *Dark Souls* and *Arkham City* all deserve consideration, but *Portal 2* is an extremely satisfying game. Its puzzles teach you how to use new mechanics before asking you to combine them in more difficult ways. The writing is also consistently entertaining, which is not something you can say about every puzzle game. The Golden Joystick voters got this one right.
+
+*Also considered: *The Elder Scrolls V: Skyrim*, *Dark Souls*, *Batman: Arkham City*. Fourth Frame verdict: Award upheld.*
+
+### 2012 — Dishonored
+
+**Historical Golden Joystick:** *The Elder Scrolls V: Skyrim*.
+
+The official winner was *Skyrim*, a 2011 release. I'm not going to argue that it didn't deserve recognition for its world and the freedom it gives you. But Fourth Frame's pick for 2012 is *Dishonored*. The level design lets you improvise with powers, gadgets, routes and stealth, and that flexibility makes revisiting a mission worthwhile. The game trusts the player to find a solution instead of insisting on one.
+
+*Also considered: *The Walking Dead*, *Journey*, *Dishonored*. Fourth Frame verdict: Our alternative.*
+
+### 2013 — The Last of Us
+
+**Historical Golden Joystick:** *Grand Theft Auto V*.
+
+*Grand Theft Auto V* is a remarkable technical achievement, and its three protagonists make for some entertaining scenes. I'd still choose *The Last of Us*. The encounters are tense partly because resources are limited, but the relationship between Joel and Ellie gives each dangerous situation more meaning. I appreciate games where characters and gameplay reinforce one another, and this is an excellent example.
+
+*Also considered: *The Last of Us*, *BioShock Infinite*, *Super Mario 3D World*. Fourth Frame verdict: Our alternative.*
+
+### 2014 — Middle-earth: Shadow of Mordor
+
+**Historical Golden Joystick:** *Dark Souls II*.
+
+*Dark Souls II* deserves recognition for its demanding combat and the freedom to experiment with different builds. *Dragon Age: Inquisition* has excellent companions and a wonderfully detailed world, even if far too many quests feel like filler. But I'd give 2014 to *Middle-earth: Shadow of Mordor*. Its Nemesis system made the Orc captains feel like individuals rather than another collection of enemies to kill. A captain who defeated you could rise through the ranks, remember your last encounter and become an increasingly troublesome rival. Even losing a fight could create a story you wanted to see through. The stealth, sword fighting and freedom to choose your approach were good fun, but the evolving rivalries made this one stand apart.
+
+*Also considered:* *Dragon Age: Inquisition*, *Bayonetta 2*. *Fourth Frame verdict:* Our alternative.
+
+### 2015 — The Witcher 3: Wild Hunt
+
+**Historical Golden Joystick:** *The Witcher 3: Wild Hunt*.
+
+*Bloodborne* and *Metal Gear Solid V* are compelling alternatives for combat and player freedom, while *Undertale* does remarkable things with choice. I'd keep *The Witcher 3*. Its best quests are enjoyable because the people involved have believable motives and the consequences are often more complicated than the initial problem suggests. The world is beautiful, but it's the writing that makes exploring it so worthwhile.
+
+*Also considered: *Bloodborne*, *Metal Gear Solid V*, *Undertale*. Fourth Frame verdict: Award upheld.*
+
+### 2016 — Overwatch
+
+**Historical Golden Joystick:** *Dark Souls III*.
+
+The Golden Joystick went to *Dark Souls III*, and I can appreciate why. Its bosses, level design and demanding combat represent many of FromSoftware's strengths. Fourth Frame's pick, though, is *Overwatch*. The heroes feel different to play, team composition matters and a well-timed combination of abilities can turn a fight around. Learning your role while understanding what your teammates need gives the multiplayer a particularly satisfying sense of cooperation. *Doom* and *Titanfall 2* are excellent alternatives, but this is the year I'd reward team-based play.
+
+*Also considered: *Overwatch*, *Doom (2016)*, *Titanfall 2*, *Uncharted 4*. Fourth Frame verdict: Different winner.*
+
+### 2017 — The Legend of Zelda: Breath of the Wild
+
+**Historical Golden Joystick:** *The Legend of Zelda: Breath of the Wild*.
+
+*Super Mario Odyssey*, *NieR: Automata* and *Persona 5* all have a strong claim. I'd still give the year to *Breath of the Wild*. Rather than constantly pointing you towards activities, it fills its world with systems you can experiment with. Climbing, cooking, weather and physics contribute to the journey, and many of the best discoveries happen because you decided to go somewhere interesting.
+
+*Also considered: *Super Mario Odyssey*, *NieR: Automata*, *Persona 5*. Fourth Frame verdict: Award upheld.*
+
+### 2018 — God of War
+
+**Historical Golden Joystick:** *Fortnite Battle Royale*.
+
+*Fortnite* became a phenomenon, so its Golden Joystick victory makes sense as a reflection of the year's gaming culture. But if I'm choosing the strongest complete experience, it's *God of War*. The axe combat is satisfying, the semi-open world rewards looking around and the enormous encounters still deliver plenty of spectacle. What elevates it is Kratos and Atreus: their relationship grows through the journey, and the Norse myths provide interesting parallels.
+
+*Also considered: *God of War*, *Red Dead Redemption 2*, *Celeste*. Fourth Frame verdict: Our alternative.*
+
+### 2019 — Sekiro: Shadows Die Twice
+
+**Historical Golden Joystick:** *Resident Evil 2*.
+
+*Resident Evil 2* is a brilliant remake that updates the controls without abandoning the tension of the original. I'd choose *Sekiro*. Its combat has a clear rhythm, and learning when to attack, deflect or reposition is hugely rewarding. It's difficult, but the challenge generally feels connected to improving your own skill. *Outer Wilds* deserves enormous credit for its discovery-driven structure too.
+
+*Also considered: *Sekiro: Shadows Die Twice*, *Outer Wilds*, *Death Stranding*. Fourth Frame verdict: Our alternative.*
+
+## The 2020s: deeper systems and bigger expectations
+
+There's no single recipe for an excellent modern game. The favourites below range from roguelikes and tactical RPGs to cooperative adventures and expansive fantasy worlds. What connects them is that the mechanics give players a reason to care about what happens next.
+
+### 2020 — Hades
+
+**Historical Golden Joystick:** *The Last of Us Part II*.
+
+*The Last of Us Part II* has ambitious performances and a story willing to make players uncomfortable. *Ghost of Tsushima* has a beautiful world, while *Doom Eternal* pushes its combat into more demanding territory. My pick is *Hades*. New weapons, abilities and combinations keep its runs interesting, and the characters give repeated attempts a narrative purpose. Losing doesn't feel like the game has forgotten your progress.
+
+*Also considered: *Hades*, *Ghost of Tsushima*, *Doom Eternal*. Fourth Frame verdict: Our alternative.*
+
+### 2021 — It Takes Two
+
+**Historical Golden Joystick:** *Resident Evil Village*.
+
+*Resident Evil Village* brings together several different forms of horror, and *Metroid Dread* is excellent at keeping exploration tense. I'd give the year to *It Takes Two*. It constantly finds new things for two players to do together, and the way the mechanics depend on cooperation gives the experience its identity. Playing with someone else feels essential to the design rather than an extra mode added later.
+
+*Also considered: *It Takes Two*, *Metroid Dread*, *Returnal*. Fourth Frame verdict: Our alternative.*
+
+### 2022 — Elden Ring
+
+**Historical Golden Joystick:** *Elden Ring*.
+
+I don't see a stronger choice than *Elden Ring*. The surface world feels huge and mysterious, while its dungeons can be wonderfully claustrophobic. Switching weapons or builds changes the way you approach fights, and exploring is rewarding because you rarely know exactly what you'll discover. *God of War Ragnarök* has a great emotional story, but the freedom and experimentation of the Lands Between win this year.
+
+*Also considered: *God of War Ragnarök*, *Tunic*, *Xenoblade Chronicles 3*. Fourth Frame verdict: Award upheld.*
+
+### 2023 — Baldur's Gate 3
+
+**Historical Golden Joystick:** *Baldur's Gate 3*.
+
+*Tears of the Kingdom* gives players extraordinary tools for solving problems, while *Alan Wake 2* is ambitious about narrative presentation. But *Baldur's Gate 3* is the right winner. Its classes, party members, decisions and combat systems all give you interesting ways to solve encounters and shape relationships. It's rare for a game this large to accommodate so many approaches without losing its characters.
+
+*Also considered: *The Legend of Zelda: Tears of the Kingdom*, *Alan Wake 2*, *Resident Evil 4*. Fourth Frame verdict: Award upheld.*
+
+### 2024 — Astro Bot
+
+**Historical Golden Joystick:** *Black Myth: Wukong*.
+
+*Black Myth: Wukong* deserves praise for its spectacle and interpretation of Chinese mythology. *Metaphor: ReFantazio* and *Final Fantasy VII Rebirth* have plenty to offer RPG fans, and *Balatro* is absurdly replayable. I'd choose *Astro Bot*. It consistently finds new ways to use movement, environments and familiar platforming ideas, and it understands that small, well-designed levels can be more enjoyable than a sprawling map.
+
+*Also considered: *Astro Bot*, *Metaphor: ReFantazio*, *Final Fantasy VII Rebirth*, *Balatro*. Fourth Frame verdict: Our alternative.*
+
+### 2025 — Clair Obscur: Expedition 33
+
+**Historical Golden Joystick:** *Clair Obscur: Expedition 33*.
+
+*Kingdom Come: Deliverance II*, *Hades II* and *Hollow Knight: Silksong* all give players distinct systems to learn and explore. I'd leave the Golden Joystick with *Clair Obscur: Expedition 33*. Its battle mechanics give turn-based combat a more active rhythm, and the characters provide an emotional reason to keep going. For me, the gameplay and storytelling reinforce each other well enough to justify the result.
+
+*Also considered: *Kingdom Come: Deliverance II*, *Hades II*, *Hollow Knight: Silksong*. Fourth Frame verdict: Award upheld.*
+
+## So, were the awards deserved?
+
+Quite a few were. *Mass Effect 2*, *Portal 2*, *The Witcher 3*, *Elden Ring* and *Baldur's Gate 3* are difficult to argue against when you consider how effectively their systems and storytelling come together. They're very different games, which makes their common strength more interesting.
+
+There are also years where I'd choose differently. *Mass Effect* over *Gears of War* in 2007, *God of War* over *Fortnite* in 2018 and *Overwatch* over *Dark Souls III* in 2016 are all disagreements worth having. They aren't declarations that the actual winners were bad games. They're choices about what I value most: player freedom, combat that rewards learning and characters worth caring about.
+
+For 2026, see [Fourth Frame's current top ten](../../stories/best-games-2026-ranked/). Unlike the finished historical years, that list may change once the remaining releases arrive.
+
+## Sources and methodology
+
+The historical winner record was checked against the [Golden Joystick award history](https://en.wikipedia.org/wiki/Golden_Joystick_Award_for_Game_of_the_Year), the organiser's [retrospective archive](https://www.gamesradar.com/golden-joysticks-ultimate-list-ultimate-games-1983-2014/) and [2025 results](https://www.gamesradar.com/games/events-conferences/golden-joystick-awards-2025-all-winners/). Games named as alternatives are editorial comparisons across the calendar year, not necessarily Golden Joystick nominees. No official voting totals or runner-up positions are implied.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "greatest-game-developers-and-teams", "sha256": "79341f0f02e170fe50e877f230663806ecdb2ee0a99cfadc159167dc8a6e56d6", "edit_sha256": "7f67f420514ebf7e8370a4dcf5744e90b3f7fa8c3f1265c400554c0a878b0dfe"} -->
+---
+title: "15 of the Greatest Game Developers and Teams"
+description: "From Mario and Doom to Mass Effect and Stardew Valley, the people whose work changed how games feel, think and tell stories."
+summary: "Fifteen selections, from the makers of Mario and Doom to the designers who made an item drop worth caring about."
+deck: ""
+---
+
+[TOC]
+
+I tend to remember developers because of something their games let me do. Explore somewhere I wasn’t expecting to find. Talk to a companion who gradually became my favourite character. Get through a fight using a plan that was probably more complicated than necessary, but was mine.
+
+That seems a better place to start a list like this than sales figures. Commercial success matters, but it doesn’t explain why *Halo*’s combat is still satisfying, why people keep going back to *Diablo II*, or why *Mass Effect*’s crew has stayed with me for so long.
+
+These are fifteen selections I would put in the conversation about the greatest game developers. Some are individuals, some are partnerships, and some are particular teams at a particular time. The numbers are for navigation; I’m not pretending there is a sensible equation that places a farming simulator three positions above *Doom*. I’m looking at the quality of the work, the decisions behind it, and how much those decisions gave players.
+
+For the development stories behind several of these choices, read the companion feature, [The People Who Made Our Favourite Games Work](https://peterdsouza247.github.io/4thframe/stories/the-people-who-made-our-favourite-games-work/).
+
+## 1. Shigeru Miyamoto, Takashi Tezuka and Toshihiko Nakago
+
+**The work: Super Mario Bros. and the foundations of Zelda.**
+
+Miyamoto belongs here, obviously, but Nintendo’s own interviews make the partnership much more interesting than the familiar story of one man inventing everyone’s childhood. Tezuka and Nakago recall ideas moving between Mario and Zelda while the games were taking shape. Mario itself began with experiments involving a moving rectangle.[^1]
+
+The achievement was making movement interesting enough to build a whole game around, then giving that movement places worth exploring. A block could hide a reward. An awkward jump could become manageable with a run-up. The player learned through doing, and the next obstacle gave that lesson a purpose.
+
+I admire how much pleasure there is in those basic interactions. Mario can make crossing a small stretch of ground satisfying before it has shown you a spectacular boss, a skill tree or a reason to save the kingdom.
+
+## 2. John Carmack, John Romero and the early id Software team
+
+**The work: Wolfenstein 3D, Doom and Quake.**
+
+Carmack’s technology and Romero’s design are an extraordinary combination, but *Doom* also needs its artists, level designers and the rest of the team in the picture. A contemporary account documents both the technical work and the development tools behind the game; Romero and Tom Hall later revisited its creation in their own postmortem.[^2][^3]
+
+What earns id its place for me is the relationship between speed, space and combat. Enemies force you to move differently. Weapons have recognisable jobs. A room changes when you realise where the danger is coming from, and changes again when you reach the ammunition you were trying to get to.
+
+The technology made those spaces possible. The design made you want to stay in them. *Doom*’s lasting appeal is a useful reminder that impressive graphics and satisfying action are separate achievements, even when the same game manages both.
+
+## 3. Sid Meier and Bruce Shelley
+
+**The work: Railroad Tycoon and the original Civilization.**
+
+There is a wonderfully practical detail in Shelley’s account of making Civilization: he and Meier played and discussed the game, Meier revised it, and another version would be waiting the next morning. Shelley also wrote the manual and contributed historical material.[^4]
+
+Civilization turns an enormous subject into decisions you can understand. Expanding gives you opportunities and responsibilities. Research promises something useful a few turns away. A neighbour’s presence complicates the settlement you were about to build.
+
+I like that its ambition survives this simplification. You can see the immediate purpose of a decision while having very little certainty about where the next hundred decisions will take you. That gives the game its momentum. The historical model deserves scrutiny, particularly its assumptions about progress and empire, but the design remains an exceptional way of getting players to think about interconnected consequences.
+
+## 4. Roberta Williams and Sierra’s King’s Quest teams
+
+**The work: Mystery House and King’s Quest.**
+
+Williams helped establish an approach to adventure games in which exploring a visible world became central to the experience. Describing *King’s Quest*, she recalled wanting a third-person character and using the IBM PCjr’s capabilities to do more than had been possible in her earlier work.[^5]
+
+That ambition matters. A place becomes more tangible when a character can move through it, pass behind things and interact with its inhabitants. It changes how a player imagines being inside the story.
+
+The games also deserve honest criticism. Sudden deaths, obscure solutions and the possibility of making progress impossible can turn curiosity into suspicion. I wouldn’t hand-wave that away because something is a classic. Williams belongs here because the work expanded what an adventure could look and feel like, with enough imagination to survive the parts that now require patience or a walkthrough.
+
+## 5. Warren Spector, Harvey Smith and Ion Storm Austin
+
+**The work: Deus Ex.**
+
+*Deus Ex* is one of the clearest examples of a game being built around the player’s ability to solve problems. Spector’s postmortem records the design rules, including Smith’s insistence on multiple solutions and his revisions to skills and augmentations.[^6]
+
+The important part is that your chosen approach has support. A stealth route needs somewhere to hide. Hacking needs something worth accessing. Combat needs consequences that make it a decision. Putting three buttons on a dialogue wheel wouldn’t achieve the same thing.
+
+Its shooting and presentation have rough edges, but I find the underlying respect for the player much more impressive than a smoother sequence that only works one way. Spector and Smith deserve recognition for giving that principle practical form, alongside the designers, artists and programmers who made the alternatives function.
+
+## 6. David Brevik, Erich and Max Schaefer, and Blizzard North
+
+**The work: Diablo and Diablo II.**
+
+Blizzard North understood the appeal of gradually building a character through discoveries. Brevik has described the roguelike influences behind *Diablo*’s random items, while Erich Schaefer’s *Diablo II* postmortem explains the attention given to rewards, accessibility and the pleasure of individual actions.[^7][^8]
+
+The result gives even an ordinary fight a little uncertainty. Something useful might drop. It might improve your existing build or tempt you towards another one. A familiar area can remain interesting because your character and your expectations have changed.
+
+That balance is easy to reduce to the word “addictive”, which doesn’t quite explain its appeal. I’m more interested in the moments when an item opens a possibility. A reward that makes you reconsider how you play is considerably more exciting than another object waiting to be sold.
+
+## 7. Travis Day and Diablo III’s itemization team
+
+**The work: helping rebuild Diablo III’s rewards.**
+
+Day deserves a place alongside the more familiar names because his public writing identifies a problem players could immediately recognise. Legendary items needed power and properties that justified their rarity. The best equipment should offer interesting effects, with alternatives to stacking the same desirable damage statistics.[^9]
+
+That is an important design contribution. A legendary drop should be capable of changing your plans. Otherwise, the game has gone to considerable trouble to announce another disappointment.
+
+*Diablo III*’s recovery involved the wider team, including Josh Mosqueira’s direction and changes beyond itemization. Loot 2.0 and the auction house’s removal were connected parts of that recovery.[^10][^11] Day earns individual attention for the reward-design thinking visible in his work. There is room on a greatest-developers list for someone whose achievement becomes apparent when the game finally starts giving you compelling reasons to keep playing.
+
+## 8. Bungie’s original Halo team
+
+**The work: Halo: Combat Evolved and the original trilogy.**
+
+*Halo* is one of the games I return to when thinking about satisfying combat. The weapons, grenades, melee attacks, vehicles and enemy behaviours give a relatively small encounter plenty of ways to unfold.
+
+Jaime Griesemer and Chris Butcher are particularly worth knowing for their design and AI work. In interviews about the first game, they describe developing the Covenant’s behaviour and personality together. Bungie’s published talks also make clear how closely combat design and implementation overlapped.[^12][^13]
+
+You can feel that relationship when an Elite holds your attention while Grunts complicate the fight around it. Enemy behaviour gives you information and opportunities. It also gives the Covenant character before the story has explained much about them.
+
+The repeated interiors can wear thin. The combat survives them remarkably well. That is a substantial compliment to the people who made it.
+
+## 9. BioWare’s original Mass Effect teams
+
+**The work: the Mass Effect trilogy, especially its first two games.**
+
+*Mass Effect* is my favourite game series, and *Mass Effect 2* is my favourite entry. BioWare made the people aboard a spaceship matter enough that assembling a squad could feel as important as finding out what was happening to the galaxy.
+
+The credit spans disciplines: Casey Hudson, Preston Watamaniuk, Derek Watts, Drew Karpyshyn, Mac Walters, and the wider writing, design, art, audio and cinematic teams. Karpyshyn identifies himself as the first game’s lead writer and *Mass Effect 2*’s co-lead with Walters. The original team also discussed developing the conversation system early in production.[^14][^15]
+
+The series has uneven combat, awkward morality mechanics and decisions whose eventual consequences can disappoint. Its great achievement is that the companions give you reasons to care about those consequences. Garrus, Tali, Wrex and Jack are a fairly persuasive argument for giving characters more than a supporting role in an RPG’s appeal.
+
+## 10. Hidetaka Miyazaki and FromSoftware’s Souls teams
+
+**The work: Dark Souls, Bloodborne and Elden Ring.**
+
+*Elden Ring* is a masterpiece. The thing that most impresses me is the exploration: you keep going because you honestly don’t know what you might stumble across.
+
+Miyazaki’s discussion of its development places freedom, discovery and the accumulated experience of the team at the centre of that world. He also credits the expanded staff and production work required to realise it.[^16]
+
+FromSoftware earns its reputation through the relationship between combat and place. A dangerous journey gives a refuge value. A shortcut changes your understanding of an area. A new weapon can make an old obstacle worth attempting again.
+
+Some quests are unnecessarily obscure, and repetition becomes more apparent across *Elden Ring*’s enormous map. Those criticisms belong alongside the praise. The team’s ability to make learning, exploration and perseverance so rewarding is still exceptional.
+
+## 11. Hideo Kojima, Yoji Shinkawa and the Metal Gear teams
+
+**The work: Metal Gear Solid and its sequels.**
+
+Kojima’s games have a personality you can recognise almost immediately. So do Shinkawa’s designs. Their collaboration deserves attention because the art could influence the story itself: in a 1998 interview, Kojima and Shinkawa describe how a cyborg ninja design grew into a central character.[^17]
+
+That is a much more interesting creative relationship than one person writing instructions and everyone else supplying the illustrations.
+
+*Metal Gear* can also test the limits of your patience with exposition. Its best moments justify the indulgence through imaginative situations, expressive characters and a willingness to do something strange with the player’s expectations. The games are confident enough to be sincere, ridiculous and unsettling within the same stretch of play. That confidence works because an enormous amount of craft sits underneath it.
+
+## 12. Kim Swift and Valve’s Portal team
+
+**The work: Portal.**
+
+*Portal* begins with a mechanic that is easy to demonstrate and surprisingly difficult to exhaust. The team’s achievement was teaching it well enough that players could enjoy thinking with it.
+
+Swift’s account traces the game back to the student project *Narbacular Drop* and describes frequent playtesting at Valve. Watching people become confused helped the team break complex ideas into more manageable steps. Erik Wolpaw’s writing and Ellen McLain’s performance then gave the chambers a memorable personality.[^18][^19]
+
+I admire how much *Portal* accomplishes within its running time. Its puzzles give the player space to work something out, and its story gives that work a different emotional context as it develops. The result feels unusually complete. It has a good idea, understands why the idea is enjoyable, and knows how long to keep building on it.
+
+## 13. Eric Barone
+
+**The work: Stardew Valley’s original release.**
+
+The scope of Barone’s contribution is extraordinary. He created the original *Stardew Valley*’s programming, art, writing, music and other creative work, developing the game over roughly four years. In an early interview, he described repeatedly revisiting material as his skills improved.[^20]
+
+The game itself is what makes that story worth telling. Farming, fishing, exploring and getting to know the town offer different kinds of progress, with enough overlap to make choosing between them interesting. The small goals give a day purpose; the longer ones give the seasons shape.
+
+His affection for *Harvest Moon* is openly acknowledged.[^21] I like that as part of the achievement. Understanding a game you love well enough to build a worthy successor requires taste and persistence. Originality can come from knowing exactly which pleasures deserve more attention.
+
+## 14. Lucas Pope
+
+**The work: Papers, Please and Return of the Obra Dinn.**
+
+Pope is remarkable at finding a game inside an activity that sounds unpromising on paper. Checking documents becomes an exercise in pressure and compromised decisions. Identifying people aboard a ship becomes a mystery that asks the player to observe and reason.[^22][^23]
+
+Both games depend on what the player actually does. *Papers, Please*’s demands give its human encounters weight. Obra Dinn makes a face, an arrangement of people or a small contextual detail worth remembering.
+
+I find that more impressive than announcing a serious theme and surrounding it with unrelated tasks. Pope’s systems make the subject tangible. The presentation also serves the work: the cramped desk and the stark ship each direct attention towards the information that matters. These are distinctive games whose identity extends all the way into their mechanics.
+
+## 15. Supergiant Games
+
+**The work: Bastion, Transistor, Pyre and Hades.**
+
+Supergiant deserves recognition as a team because the parts of its games work together so well. In *Hades*, repeated attempts give you reasons to experiment with combat and return to its characters. Failure can still move a relationship forward.[^24]
+
+Amir Rao and Gavin Simon belong in that picture alongside Greg Kasavin’s writing and design, Jen Zee’s art direction, Darren Korb’s audio work and the wider staff. The studio’s own biographies help make those contributions visible.[^25]
+
+*Hades* also used Early Access deliberately, with the structure of the game designed to accommodate development alongside player feedback.[^26] The finished result has a clear identity despite that ongoing revision. I admire a team that can listen closely and still make something so recognisably its own.
+
+## The work I keep coming back to
+
+These selections leave plenty of room for argument. Will Wright, Alexey Pajitnov, Yu Suzuki, Hironobu Sakaguchi and the teams behind many other favourites could support an article of their own. A list this size has to choose its ground.
+
+For me, these developers stand out because their decisions remain visible when you play. You understand a space differently, find another use for a tool, become attached to a companion or feel the possibilities in an item that has just dropped. Knowing who helped make those moments happen gives me more appreciation for the games themselves.
+
+---
+
+## Sources and attribution
+
+This is an editorial selection, not a ranking derived from sales or awards. Development claims draw primarily on participant interviews, developer-written postmortems and official material. Judgments about the games are criticism. Team names refer to the work discussed, rather than every later release bearing the same studio name.
+
+[^1]: Nintendo, [Iwata Asks: “It Started With A Square Object Moving”](https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-New-Super-Mario-Bros-Wii/Volume-2/3-It-Started-With-A-Square-Object-Moving/3-It-Started-With-A-Square-Object-Moving-232967.html). Participant recollections by Tezuka and Nakago, including uncertainty about individual ideas.
+
+[^2]: Alexander Antoniades, [“Monsters From the Id: The Making of Doom”](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-), originally published in January 1994; reprinted in 2009. Contemporary reporting with Carmack and development-tool details.
+
+[^3]: John Romero and Tom Hall, [Classic Game Postmortem: DOOM](https://www.gdcvault.com/play/1014627/Classic-Game-Postmortem), GDC 2011. Participant retrospective.
+
+[^4]: Bruce Shelley, [Civilization Chronicles interview](https://civfanatics.com/misc/interview-with-bruce-shelley/), 2006. Firsthand account of the prototype, daily revision and manual.
+
+[^5]: Time Extension, [interview with Roberta and Ken Williams](https://www.timeextension.com/features/interview-roberta-and-ken-williams-on-how-colossal-cave-led-to-a-life-of-adventure), 2023. Roberta describes the ambitions and hardware opportunity behind King’s Quest.
+
+[^6]: Warren Spector, [Postmortem: Ion Storm’s Deus Ex](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-), 2000. Includes Harvey Smith’s design amendments and contribution to skills and augmentations.
+
+[^7]: David Brevik, [Ars Technica’s Diablo War Stories interview](https://arstechnica.com/video/watch/war-stories-how-one-gameplay-decision-changed-diablo-forever/), 2020. His recollection of the original game’s influences and random-item appeal.
+
+[^8]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), 2000. A firsthand description of collaborative design, rewards and production.
+
+[^9]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013. A proposal for changes at that time, not a claim that every suggestion shipped unchanged.
+
+[^10]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), GDC 2015.
+
+[^11]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013. Official explanation of the removal decision and its relationship to Loot 2.0.
+
+[^12]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015. Direct interviews with Griesemer, Butcher and other participants.
+
+[^13]: [Bungie Publications, archived](https://bnetarchive.haloman30.com/inside/publications.html), including Griesemer and Butcher’s “The Illusion of Intelligence” and Damian Isla’s Halo AI retrospective. Used to identify authorship and the subjects of the talks.
+
+[^14]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007. Contemporary discussion of conversation design and the game’s conception.
+
+[^15]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57). His own description of his writing credits on Mass Effect and Mass Effect 2.
+
+[^16]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022. Development priorities, accumulated team experience and production scope.
+
+[^17]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/), translated by Shmuplations from The PlayStation magazine. Joint interview with Kojima and Shinkawa.
+
+[^18]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008. Developer-written account.
+
+[^19]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), 2008. Direct interview, including discussion of writing for McLain’s performance.
+
+[^20]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), March 2016. Barone confirms his original solo creative work and describes repeated revision.
+
+[^21]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), 2017. Direct interview about influences and development.
+
+[^22]: Leigh Alexander, [Road to the IGF: Lucas Pope’s Papers, Please](https://www.gamedeveloper.com/design/road-to-the-igf-lucas-pope-s-i-papers-please-i-), 2014.
+
+[^23]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), 2019. Direct interview.
+
+[^24]: Supergiant, [Hades](https://www.supergiantgames.com/games/hades/), official game description.
+
+[^25]: Supergiant, [Team](https://www.supergiantgames.com/team/). Used for the named contributors’ disciplines; the current roster is not treated as the original Hades roster.
+
+[^26]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/), including the studio’s explanation of designing for Early Access.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "the-people-who-made-our-favourite-games-work", "sha256": "c56c0a8dd9c223a3908d3c0b36973c2617b421cfc936e33fe2d268ef48a2351e", "edit_sha256": "791dcfb26d43ddbb549285ada48f1e18df5ed5898564270c6c8106fc063a0c75"} -->
+---
+title: "The People Who Made Our Favourite Games Work"
+description: "Diablo’s loot, Thief’s AI, Halo’s encounters and Mass Effect’s companions reveal what greatness in game development actually involves."
+summary: "Diablo’s loot, Thief’s guards and Portal’s teaching reveal the people and decisions behind memorable games."
+deck: ""
+---
+
+[TOC]
+
+A legendary item drops. The game gives it a special colour, a name and enough ceremony to suggest that something important has happened. You check the properties. Your existing weapon is better. Off it goes to be sold with the rest.
+
+That is a fairly small disappointment. Repeat it often enough in a game built around finding equipment, though, and it becomes a problem with the whole experience. The fighting might be excellent. The monsters might die wonderfully. You still need a reason to be interested in what they leave behind.
+
+In his 2013 itemization journal for *Diablo III*, Travis Day addressed this directly. Legendary equipment needed to justify its rarity, and desirable items needed more interesting possibilities than another combination of the same powerful damage statistics.[^1]
+
+I find that a useful place to start thinking about the greatest game developers. Day’s work concerns something a player can recognise immediately, even if they have never thought about the person making it. The difference becomes apparent when a reward gives you an idea for your character and you want to try it out.
+
+There are plenty of famous names worth celebrating. I also want to know who made an enemy behave convincingly, who changed the way a level taught its rules, or who recognised that the game’s most elaborate feature was getting in the way. Those contributions often explain more about why a game is special than the name above its title.
+
+The accompanying [list of fifteen great developers and teams](https://peterdsouza247.github.io/4thframe/stories/greatest-game-developers-and-teams/) gives the wider selection. Here, I want to spend some time with the work itself.
+
+## The difference between finding loot and wanting it
+
+*Diablo III*’s turnaround is a particularly good example because it required the developers to reconsider systems that already existed. Improving a disappointing game takes its own kind of judgment. You have to identify what is worth preserving while admitting that something else has gone wrong.
+
+Blizzard’s official explanation for removing the auction houses was unusually clear. They had been intended to make trading convenient and secure, but had ended up undermining the central activity of killing monsters to find desirable equipment. John Hight’s announcement connected their removal with the developing Loot 2.0 changes.[^2]
+
+I can see why the auction house would have appeared useful. Trading was already something players wanted to do. Giving it a convenient home solved a real problem. But a system can be useful on its own and still weaken the game around it. When shopping becomes the sensible route to an upgrade, finding equipment has a harder time providing the pleasure the rest of the game depends on.
+
+Loot 2.0 made several changes to itemization, including a chance for drops to roll as Smart Loot with statistics suited to the character finding them. Those changes arrived in patch 2.0.1, ahead of the *Reaper of Souls* expansion.[^3] The auction houses shut down on 18 March 2014.[^2]
+
+The distinction matters because the familiar account of an expansion rescuing a game can blur several decisions into one event. Josh Mosqueira’s retrospective describes a wider change in direction, encompassing rewards, randomness and the game’s underlying priorities.[^4] Day’s item work belongs inside that collective effort.
+
+What interests me is the judgment behind it. A drop has to sit somewhere between predictable wages and meaningless noise. If rewards arrive with complete certainty, discovery loses some excitement. If practically everything is useless, uncertainty stops feeling generous. A game can keep asking for another hour long after it has stopped giving the player a good reason to offer one.
+
+Day later presented his reward-design lessons at GDC. His framework included balancing deterministic and random rewards, maintaining rewards players had come to expect, and being generous.[^5] Those principles acknowledge that players form a relationship with a game’s rules. Changing the rules changes that relationship.
+
+This is why I would put a systems designer like Day in the same discussion as celebrated directors. Equipment affects the character you can build, the skills you want to use and the ambitions you set for yourself. That is a substantial part of an RPG’s personality.
+
+## A guard who can support the game around him
+
+Tom Leonard’s account of *Thief: The Dark Project* is a less comfortable development story. The game’s AI had become a major obstacle, and Leonard says he underestimated the severity of the problem despite concerns raised by Doug Church. Eventually, the team discarded most of the existing AI code and rebuilt it under severe time pressure.[^6]
+
+The important detail is that the behaviour being built had to serve stealth. A system suited to a fighting game wasn’t enough. *Thief* needed enemies that could support a player’s attempts to remain unseen, make mistakes, recover and try another approach.
+
+That gives an AI programmer an unusually direct role in determining the experience. In a stealth game, the guard is part of the level’s structure. The distance he can see, the sounds he notices and the stages of his suspicion help define which routes are possible. Change those behaviours and you have effectively changed the room.
+
+I like stealth most when I can understand what went wrong. A noisy floor, a badly timed movement or an exposed crossing gives failure a cause. The next attempt has somewhere to begin. A guard who detects the player for reasons they cannot reasonably infer teaches very little beyond the value of quickloading.
+
+The same goes for sound. Footsteps are useful information about a place and its inhabitants. A surface can be beautiful to look at and troublesome to cross. The player starts evaluating a room through several senses at once, and an ordinary corridor becomes something worth considering carefully.
+
+Leonard’s postmortem also describes the production difficulties behind making those systems cohere.[^6] The finished game can make a convincing world feel natural. Reading about its development reveals how contingent that naturalness was.
+
+It makes me appreciate the work of getting an idea to function. “You are a thief” is an appealing premise. A game that gives hiding, listening and moving carefully enough depth to sustain that premise is a much larger achievement.
+
+## Halo’s enemies give the combat its character
+
+*Halo* is one of my favourite examples of a game whose fundamentals are strong enough to survive repetition. Some of *Combat Evolved*’s interiors repeat far more than I would like. Its encounters can still be enjoyable because the things happening inside those spaces remain interesting.
+
+In an interview about the original game, Jaime Griesemer described different personalities for the Covenant’s Elites and Grunts, while Chris Butcher discussed how encounter requirements helped shape the AI. Their accounts show the behaviour and the design developing together.[^7]
+
+An Elite and a Grunt don’t just offer different amounts of resistance. They make different demands on your attention. The more dangerous enemy can hold you in place while smaller threats become troublesome around it. A change in the fight can scatter those threats and give you an opening. You are reading behaviour as well as counting enemies.
+
+I think that explains a lot of *Halo*’s appeal. The combat lets you establish a plan and then gives you reasons to improvise. You might intend to save a weapon for later, find yourself in a worse position than expected, and decide that later has arrived. A grenade can clear an area, move an enemy or create just enough confusion to cross exposed ground.
+
+The enemy has to communicate enough for these decisions to feel informed. If every reaction happens too quickly or invisibly, you lose the pleasure of understanding the fight. If everything is completely predictable, the encounter becomes a sequence to execute. *Halo* is often excellent at leaving room between those extremes.
+
+Bungie’s published development material gives names to some of that work, including Griesemer and Butcher’s presentation on the relationship between AI and level design, and Damian Isla’s later retrospective on the trilogy’s AI.[^8] That helps move the discussion beyond the studio logo.
+
+The broader experience also owes a great deal to its art, animation, audio and level design. An enemy’s personality is communicated through what it does, how it moves and what you hear. The player experiences those things together. Good collaboration can make the boundaries between departments disappear.
+
+## Shinkawa’s ninja changed the story
+
+One of my favourite details from the research is in a 1998 interview with Hideo Kojima and Yoji Shinkawa. Discussing *Metal Gear Solid*, Kojima says he hadn’t originally planned a character like the cyborg ninja. Shinkawa describes experimenting with a soldier design, developing the cyborg appearance and adding the sword. The character became important to the plot.[^9]
+
+That is a lovely example of an artist influencing more than the appearance of a finished idea. The drawing created an opportunity. The story changed to accommodate it.
+
+It also makes the collaboration easier to appreciate. Kojima’s imagination is an enormous part of *Metal Gear*’s identity, but Shinkawa’s contribution has creative force of its own. Characters and machines have silhouettes, textures and physical attitudes that suggest the kind of world they inhabit. The art can make an idea compelling before anyone has explained it.
+
+I don’t think acknowledging that makes Kojima’s authorship less interesting. Being willing to recognise the value of someone else’s contribution is part of creative direction. A project can have a strong identity while allowing the people working on it to affect its course.
+
+There are obvious practical limits. A production cannot absorb every interesting suggestion. Work has to connect, deadlines exist, and someone needs to decide which ideas belong. But there is a large difference between providing direction and having already decided everything worth doing.
+
+*Metal Gear*’s excesses are part of the picture too. The long explanations can be tiring. The tonal shifts sometimes demand a generous audience. What makes the series worth discussing is how much specific imagination reaches the player, including the imagination of collaborators whose contributions are easy to place beneath a director’s reputation.
+
+I would rather learn the history of that ninja than hear another vague description of a visionary making a masterpiece.
+
+## Watching someone fail to understand your clever idea
+
+*Portal* offers a different view of greatness: the ability to make an unusual mechanic understandable without draining the pleasure from it.
+
+Kim Swift’s development account describes the move from *Narbacular Drop* to Valve and the importance of observing playtests early and frequently. One puzzle involving redirecting an energy ball proved too difficult as an introduction. The team added simpler steps before asking players to deal with the more complicated version.[^10]
+
+That seems straightforward when someone explains it afterwards. During development, it requires the people who already understand the puzzle to take the confusion of someone else seriously. They know where to look, which surface matters and what the mechanic permits. Their knowledge can hide the problem.
+
+A good puzzle needs the player to participate in the discovery. Too much explanation removes the satisfying part. Too little can leave them testing possibilities without a useful basis for choosing between them. *Portal*’s teaching generally gives the player enough evidence to form an idea, try it and see what follows.
+
+That is something I admire in games beyond the puzzle genre. Learning an enemy’s attack, recognising a route through a level or finding a useful combination of abilities can all provide the same pleasure. You understand something you didn’t understand before, and the game gives you a chance to use it.
+
+*Portal* also benefits from the way its writing responds to the experience. In their joint interview, Swift and Erik Wolpaw describe playtesting and the effort to bring the gameplay and narrative closer together. Wolpaw also discusses writing to Ellen McLain’s strengths as GLaDOS developed.[^11]
+
+The chambers give you problems to solve while the voice gives those problems an increasingly unpleasant context. The experience stays coherent because the writing understands what you are doing. It doesn’t have to interrupt the activity to become relevant.
+
+That is a lot of craft hidden inside a short game. The mechanic, teaching, performance and tone all need to support one another. Adding more chambers would have been much easier to describe as extra value than finding the right shape for the ones already there.
+
+## BioWare made companions part of the reason to play
+
+*Mass Effect* is my favourite series, so I am hardly neutral about BioWare’s achievement here. I do think the reasons hold up to examination. The games made exploring a science-fiction universe and getting to know a group of people feel like parts of the same adventure.
+
+The original team discussed the conversation system as one of the early elements of development. They wanted dialogue to flow more naturally, responding to weaknesses they saw in the delivery of earlier games.[^12] That is a useful detail because it places conversation among the game’s basic interactions. It needed design attention just as movement or shooting did.
+
+The result gives time aboard the Normandy a purpose. Conversations develop your understanding of people who then accompany you into danger. What you learn about them changes the significance of having them there. The ship becomes familiar through those repeated interactions.
+
+*Mass Effect 2* takes this especially far by making much of its structure about assembling and preparing the team. Mac Walters has discussed the creation of its cast, loyalty missions and final mission in a retrospective using development documents.[^13] Drew Karpyshyn’s own account identifies him and Walters as the sequel’s co-lead writers.[^14]
+
+The final mission’s broad design is worth considering without spelling out its outcomes. The game asks you to make decisions about people you have spent hours getting to know. Their capabilities and your preparation become things you have reasons to care about. That is a satisfying use of a companion cast.
+
+There are mechanical weaknesses. A relationship can sometimes feel too easily translated into a task completed or a requirement fulfilled. The morality systems can encourage choosing a consistent type of answer instead of responding naturally. But the characters give those systems something substantial to work with.
+
+Jack, Garrus, Wrex and Tali matter to me because of their histories, attitudes, conflicts and the way those things develop. Turning that material into a game involves writers, quest designers, cinematic artists, performers and many others. The people who make the conversation playable deserve to stand alongside the people who write it.
+
+When I think about what I want from another *Mass Effect*, this is where my mind goes first: a crew worth knowing, with enough space in the game for those relationships to become meaningful.
+
+## The value of leaving something for the player to discover
+
+*Elden Ring* gives me a different kind of pleasure. Its world keeps making me wonder what is further along a route, below a ledge or beyond a place that seems too dangerous to enter yet. You explore because you honestly don’t know what you might stumble across.
+
+Miyazaki’s pre-release interview about the game describes freedom and exploration as priorities, and credits the team’s accumulated experience with making its scale possible.[^15] The phrase “accumulated experience” is useful here. It gives some context to a game that can otherwise seem like the expression of one director’s taste.
+
+My interest is in what the finished world permits. Leaving a difficult fight gives you somewhere else to go. An unexpected weapon can suggest a different character. Seeing something in the distance creates an ambition before the game has assigned you a task. Those possibilities give exploration its own momentum.
+
+The obscurity can go too far, especially around quests. A world can preserve mystery while giving the player enough information to make sensible decisions, and FromSoftware doesn’t always find the balance I would prefer. I also think the repeated encounters are more noticeable as the hours add up.
+
+Still, its greatest discoveries feel like discoveries. That requires restraint as well as content. If the game explains the significance of everything before you reach it, there is less left for you to do when you arrive.
+
+There is a connection here with a good RPG conversation or puzzle. The developer has done enough work to support your participation and has left enough unresolved for that participation to matter. That is difficult to capture in a feature list. It is very easy to feel while playing.
+
+## A solo developer’s work still needs judgment
+
+Eric Barone is an unusually clear case of individual authorship. In an interview shortly after *Stardew Valley*’s release, he confirmed creating its art, music, code and other work himself. He also described revising material repeatedly as he became more capable.[^16]
+
+The scale is impressive. What I find more interesting is that the production story includes learning to recognise work that could be better. Finishing an enormous quantity of material and deciding some of it needs to be redone are different demands on a person.
+
+The finished game also has to justify that effort. Players encounter the farm, the town and its daily choices before they encounter a story about how hard someone worked. *Stardew Valley*’s range of activities gives different goals room to coexist. A day can feel useful in several ways, and longer ambitions make the changing seasons matter.
+
+Barone’s account of his influences is refreshingly direct: he wanted to recapture what he loved about *Harvest Moon* and expand on its formula.[^17] There is taste involved in deciding what deserves preservation. A successor can be valuable because it understands an existing pleasure deeply enough to develop it.
+
+Lucas Pope offers another form of individual authorship. Discussing *Return of the Obra Dinn*, he describes beginning with the wish to make a modern 3D game with a one-bit visual presentation, then working out the game over years of development.[^18] It is a useful corrective to the assumption that every great work begins with a complete design waiting to be implemented.
+
+What makes Pope’s games remarkable to me is how directly the activity carries the subject. *Papers, Please* asks you to perform the work around which its pressures are organised. Obra Dinn asks you to do the observing and deduction that make its mystery satisfying. The player’s attention is doing meaningful work.
+
+Solo development also shouldn’t become an excuse for dismissing teams. These are particular people making particular projects under particular circumstances. Their achievements show what concentrated authorship can accomplish. They don’t establish a sensible staffing plan for every other game.
+
+## The hours are part of the history
+
+There is a danger in collecting these stories: almost any difficult production can be turned into a tale of heroic endurance once the finished game is loved enough.
+
+Erich Schaefer’s *Diablo II* postmortem resists that reading. He celebrates the team’s achievement while explicitly identifying the year-long crunch as a serious cost to relationships and quality of life. Avoiding burnout was a problem he wanted future development to solve.[^19]
+
+I think that deserves to remain in the account. Admiring the game doesn’t require treating its working conditions as the recipe. A project can succeed while leaving its developers with good reasons to change how they work.
+
+It is also possible for the celebrated person to have made mistakes. In his *Deus Ex* postmortem, Warren Spector describes an unsuccessful attempt to organise two design teams with competing philosophies. He eventually merged them under one lead.[^20] The willingness to explain that failure tells us more about leadership than a version of the story in which every decision was correct from the beginning.
+
+For a positive example of revision built into the process, Supergiant’s explanation of *Hades* is useful. The studio says it designed the game for Early Access, including its modular structure and approach to narrative, so it could develop alongside player feedback.[^21]
+
+That doesn’t guarantee a great result. It does describe an intention to learn while making the game. *Hades* then provides an excellent finished example of combat, character writing, art and audio working towards a shared experience. Repeated attempts make sense within the story, and returning home can give a failed escape its own small rewards.
+
+I admire that kind of cohesion. It makes several people’s contributions easier to appreciate, even when the game itself feels seamless.
+
+## Remembering the contribution
+
+I still enjoy following the work of a particular developer. A name can give you a reason to be interested in a game you know very little about. So can a studio whose previous work has earned your trust.
+
+I just find the admiration more rewarding when it becomes specific. Travis Day’s thinking about items. Tom Leonard’s work making stealth possible. Shinkawa’s drawing giving the story a character it hadn’t planned for. The *Portal* team watching players struggle and changing the game accordingly.
+
+Those stories make the finished games more interesting. They reveal judgment, disagreement, revision and the contributions of people I might otherwise have missed in the credits.
+
+The next time a reward makes me rethink a build, or a fight gives me an opening I hadn’t noticed before, I would like to know who helped make it happen. There is often a very good story there.
+
+---
+
+## Sources and reporting notes
+
+This feature combines published development accounts with criticism of the released games. I have not conducted original interviews for it. Participant recollections are attributed as recollections; an individual’s account does not establish sole credit for a team’s work. The *Mass Effect* discussion avoids specific final-mission outcomes; *Metal Gear Solid* character-design material includes a minor premise-level reveal.
+
+Jason Schreier’s reporting prompted the angle, particularly the idea of looking beyond a familiar director or studio name. The publicly available itemization material supports Travis Day as a likely match for the *Diablo* example behind this article, but that identification remains an inference without the original book passage. No quotation or page-specific claim from that passage is reproduced here. Josh Mosqueira’s GDC retrospective provides direct participant context for the wider *Diablo III* recovery.
+
+[^1]: Travis Day, [Developer Journal: Itemization Update](https://news.blizzard.com/en-gb/article/10056636/developer-journal-itemization-update), 2013. The journal describes proposed directions at publication, including stronger legendaries and alternatives to dominant damage statistics.
+
+[^2]: John Hight, [Diablo III Auction House Update](https://news.blizzard.com/en-gb/article/10974978/diablo-iii-auction-house-update), 2013. Official statement of the original trading rationale, why it conflicted with the core game, and the 18 March 2014 shutdown date.
+
+[^3]: Blizzard, [Patch 2.0.1 Now Live](https://news.blizzard.com/en-us/article/12671560/patch-2-0-1-now-live), February 2014. Official implementation details for Loot 2.0 and Smart Loot. Not every item was guaranteed to be a Smart Loot drop.
+
+[^4]: Josh Mosqueira, [Against the Burning Hells: Diablo III’s Road to Redemption with Reaper of Souls](https://www.gdcvault.com/play/1021776/Against-the-Burning-Hells-Diablo), GDC 2015. The session’s published overview identifies its discussion of core philosophy, itemization, rewards and the auction house.
+
+[^5]: Travis Day, [Rewards in Video Games: presentation slides](https://media.gdcvault.com/gdc2017/Presentations/Day_Rewards_Video_Games.pdf), GDC 2017. Principles are paraphrased from the slides; no claim is made to a full transcript of the talk.
+
+[^6]: Tom Leonard, [Postmortem: Thief: The Dark Project](https://www.gamedeveloper.com/design/postmortem-i-thief-the-dark-project-i-), July 1999. Primary account of the AI’s mismatch with the revised design, Church’s warnings and the late rewrite. The ensuing evaluation of stealth feedback is criticism of the game.
+
+[^7]: GamesRadar+/Edge, [How the original Halo was nearly a very different game](https://www.gamesradar.com/making-halo-original-very-different-game/), 2015. Direct participant interviews, including Griesemer and Butcher. Their descriptions of enemy personality and encounter work inform the historical account; the combat evaluation is editorial analysis.
+
+[^8]: [Bungie Publications, archived](https://bnetarchive.haloman30.com/inside/publications.html). Used to verify the authors and stated subjects of the published AI/design presentations, rather than as a substitute for watching unavailable recordings.
+
+[^9]: [Metal Gear Solid: 1998 developer interview](https://shmuplations.com/metalgearsolid/), English translation by Shmuplations from The PlayStation magazine. Kojima and Shinkawa’s account of the ninja design and collaborative development.
+
+[^10]: Kim Swift, [Thinking With Portals: Creating Valve’s New IP](https://www.gamedeveloper.com/design/thinking-with-portals-creating-valve-s-new-ip), 2008. Developer account, including early testing and the energy-ball puzzle example.
+
+[^11]: Brandon Sheffield, [Still Alive: Kim Swift and Erik Wolpaw Talk Portal](https://www.gamedeveloper.com/business/still-alive-kim-swift-and-erik-wolpaw-talk-portal), March 2008. Direct interview about story/gameplay integration, playtests and McLain’s influence on the writing.
+
+[^12]: RPGamer, [Mass Effect team interview](https://archive.rpgamer.com/games/other/xbox2/masseffect/masseffectinterview.html), 2007. Contemporary team discussion of the conversation system’s early development and intended delivery.
+
+[^13]: GameSpot, [Mass Effect 2 Dev Talks Cut Characters and Designing the Suicide Mission](https://www.gamespot.com/articles/mass-effect-2-dev-talks-cut-characters-and-designing-the-suicide-mission/1100-6487001/), February 2021. Mac Walters retrospective using development documents. The article’s public description establishes the subjects discussed; it is not cited as a full transcript.
+
+[^14]: Drew Karpyshyn, [Games](https://drewkarpyshyn.com/c/?page_id=57). Firsthand identification of his lead-writing work on Mass Effect and co-lead credit with Walters on Mass Effect 2.
+
+[^15]: Edge/GamesRadar+, [Hidetaka Miyazaki interview: exploring the Lands Between](https://www.gamesradar.com/elden-ring-fromsoftware-hidetaka-miyazaki-interview/), 2022. Development intentions and team experience. The exploration and quest evaluations are criticism, rather than additional claims about internal production.
+
+[^16]: Tom Marks, [Interview: What’s next for Stardew Valley](https://www.pcgamer.com/stardew-valley-interview/), March 2016. Barone’s confirmation of his original creative work and explanation of revisions as his skills improved. This refers to the original game, not sole authorship of every subsequent port and update.
+
+[^17]: Alissa McAloon, [Road to the IGF: ConcernedApe’s Stardew Valley](https://www.gamedeveloper.com/design/road-to-the-igf-concernedape-s-i-stardew-valley-i-), February 2017. Direct interview on his Harvest Moon influences and goals.
+
+[^18]: Joel Couture, [Road to the IGF: Lucas Pope’s Return of the Obra Dinn](https://www.gamedeveloper.com/business/road-to-the-igf-lucas-pope-s-i-return-of-the-obra-dinn-i-), March 2019. Primary account of the visual starting point and evolving design. Also see Pope’s [development-log archive](https://dukope.com/devlogs/obra-dinn/).
+
+[^19]: Erich Schaefer, [Postmortem: Blizzard’s Diablo II](https://www.gamedeveloper.com/design/postmortem-blizzard-s-i-diablo-ii-i-), October 2000. His closing evaluation explicitly discusses the personal cost of the crunch period.
+
+[^20]: Warren Spector, [Postmortem: Ion Storm’s Deus Ex](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-), December 2000. Primary account of the two-team structure and subsequent merger.
+
+[^21]: Supergiant, [Hades FAQ](https://www.supergiantgames.com/blog/hades-faq/), on designing the structure and narrative for Early Access; [official Hades overview](https://www.supergiantgames.com/games/hades/), on its systems and premise.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "dragonlance-reading-guide", "sha256": "ee6bdff3d4f209f95293a6f211fa3f0d17806655ed11ece39630057268c313d6", "edit_sha256": "a1dc89d0fad031aef1bcd4eb1957aaee0645f5ddd27e806bce24e1e98f762a7b"} -->
+---
+title: "Where to Start with Dragonlance: A Reading Guide to Krynn"
+description: "Start with Chronicles, follow with Legends, then choose your route through Dragonlance’s later eras, prequels and newer novels."
+summary: "Begin with Chronicles and Legends, then choose a route through Krynn’s later eras and historical branches."
+deck: ""
+---
+
+[TOC]
+
+Dragonlance has the kind of problem a successful fantasy setting eventually earns: there is so much of it that getting started can look like a research project.
+
+The actual starting point is straightforward. Read **Dragons of Autumn Twilight**, continue through the original Chronicles trilogy, then read Legends. That gives you six books and the foundation for deciding how much more of Krynn you want.
+
+I like that as a manageable introduction. You can become attached to a group of characters before worrying about every historical era, side series and book with a dragon in its title. There are quite a few of those.
+
+This guide keeps to premises and reading-order information. It avoids character deaths, betrayals, endings and the solutions to the series’ larger mysteries. Later-book blurbs are less restrained, so I would leave those alone until you reach them.
+
+## What Dragonlance actually is
+
+Dragonlance is a Dungeons & Dragons setting and a shared fiction world. Its world is **Krynn**, with much of the best-known material taking place on the continent of Ansalon. Margaret Weis and Tracy Hickman wrote the central Chronicles and Legends trilogies, but the wider library includes many other authors.[^1][^2][^3]
+
+That distinction matters. Dragonlance is much bigger than one continuous novel sequence, and the quality, focus and assumptions change between its branches. You do not need to read everything published under the name to understand the original story.
+
+You also don’t need to know D&D’s rules. The novels introduce their own people, places and conflicts. Knowing what a saving throw is contributes very little to understanding why a proud knight or an ambitious mage makes a terrible decision.
+
+If your reference points are Baldur’s Gate or Neverwinter Nights, expect a familiar appetite for adventuring parties, powerful magic and competing allegiances. Krynn is a different setting from those games’ Forgotten Realms. Its institutions, history and relationship with the gods give it a character of its own.
+
+## The six books I would start with
+
+Read these in the order shown. All six are by Margaret Weis and Tracy Hickman.[^2][^3]
+
+- 1. **Dragons of Autumn Twilight** (Chronicles 1). The reunion, the initial quest and the introduction to Krynn’s best-known companions.
+- 2. **Dragons of Winter Night** (Chronicles 2). A wider conflict and a party whose relationships face increasing pressure.
+- 3. **Dragons of Spring Dawning** (Chronicles 3). The conclusion of the original trilogy. Finish this before choosing a historical detour.
+- 4. **Time of the Twins** (Legends 1). A more concentrated story around Raistlin and Caramon.
+- 5. **War of the Twins** (Legends 2). The brothers’ conflict develops through the trilogy’s larger historical story.
+- 6. **Test of the Twins** (Legends 3). The conclusion of the Legends arc.
+
+**Chronicles** offers the large travelling company, the gathering war and the pleasure of watching people with different abilities and attitudes attempt to function together. Its emotional appeal depends heavily on the companions becoming more interesting than their initial roles suggest.
+
+**Legends** changes the emphasis. The relationship between the twins gives ambition, responsibility and dependence more room. If the thing that interests you about fantasy is what power does to a person and to the people closest to them, this is a particularly important part of the reading path.
+
+These are also sensible stopping points. Chronicles concludes its own trilogy. Legends concludes another. Later books continue the world, but finishing six books doesn’t leave you with an obligation to consume a publishing catalogue.
+
+## The people to pay attention to
+
+You can learn the cast naturally. These descriptions simply explain the early appeal without revealing where anyone ends up.
+
+- **Tanis Half-Elven**: Leadership complicated by belonging, divided loyalties and personal uncertainty.
+- **Raistlin Majere**: A physically frail mage whose intelligence, bitterness and ambition give him an unsettling presence.
+- **Caramon Majere**: Raistlin’s powerful twin, with devotion that creates problems as well as providing strength.
+- **Sturm Brightblade**: A commitment to knightly honour that the world doesn’t always make easy to maintain.
+- **Tasslehoff Burrfoot**: A kender whose curiosity can be endearing, useful and extremely inconvenient.
+- **Flint Fireforge**: A dwarf whose scepticism helps ground the company’s more extravagant personalities.
+- **Goldmoon and Riverwind**: A relationship through which questions of faith, duty and cultural belonging enter the early story.
+
+For me, the reason to choose a series with this kind of ensemble is the relationship between the roles. A warrior and a mage can make a useful party. Two brothers whose strengths and vulnerabilities complicate their relationship give the story much more to work with.
+
+## The world, without a history lesson
+
+The original story begins in a world still shaped by catastrophe. Institutions and beliefs carry the weight of an earlier age, while the threat of war makes their weaknesses difficult to ignore.[^1]
+
+Three things help orient a new reader:
+
+- **The past has consequences.** Old disasters, promises and failures affect how people respond to the present.
+- **Organisations matter.** Knights and mages have traditions, loyalties and expectations that can conflict with personal judgment.
+- **Dragons affect the scale of the war.** They belong to its politics and military threat as well as its spectacle.
+
+You can let the books explain the details. Trying to memorise a complete timeline before starting would remove some of the pleasure of finding out how this world understands itself.
+
+## What to read after Legends
+
+At this point, choose according to what you want more of. The options below are routes, rather than additional homework.
+
+### Stay with the original company: Lost Chronicles
+
+The Lost Chronicles trilogy fills gaps around the events of the original Chronicles:
+
+1. **Dragons of the Dwarven Depths**
+2. **Dragons of the Highlord Skies**
+3. **Dragons of the Hourglass Mage**
+
+Read these **after Chronicles and Legends**, rather than inserting them between the original books on a first read. Dragonlance Nexus explicitly recommends that placement, citing the authors’ guidance.[^4]
+
+That is also the approach I would use. A later return to familiar events can assume knowledge the original telling hasn’t supplied yet. Chronological placement and a good introduction are different considerations.
+
+### Follow the world forward: the central continuation
+
+For a relatively direct continuation through the Weis and Hickman material, the next path is:
+
+- 7. **The Second Generation**. A collection that introduces important people and situations for the next stage.
+- 8. **Dragons of Summer Flame**. A major continuation whose consequences shape later Krynn.
+- 9–11. **The War of Souls:** Dragons of a Fallen Sun; Dragons of a Lost Star; Dragons of a Vanished Moon. A later-era trilogy that develops the setting beyond the original adventures.
+
+This is a **selective eleven-book route**, counting the first six. It prioritises the principal Weis and Hickman sequences. It skips material between Summer Flame and War of Souls, so expect a changed world and some historical developments to learn about when you arrive.[^4][^5]
+
+For a fuller bridge through that intervening era, add Jean Rabe’s **Dragons of a New Age** trilogy after Summer Flame: **The Dawning of a New Age**, **The Day of the Tempest** and **The Eve of the Maelstrom**. The **Dhamon Saga** is another expansion of that era. These are worthwhile branches to know exist; they are not prerequisites for the original six books.[^6]
+
+### Continue after War of Souls: Dark Disciple
+
+Margaret Weis’s Dark Disciple trilogy follows in the later setting:
+
+1. **Amber and Ashes**
+2. **Amber and Iron**
+3. **Amber and Blood**
+
+Leave it until after War of Souls. Even its premise becomes easier to discuss once you know that trilogy, so I would avoid browsing its character summaries in advance.[^7]
+
+## Where the newer books fit
+
+### Dragonlance Destinies
+
+Weis and Hickman’s Destinies trilogy is complete:
+
+1. **Dragons of Deceit**
+2. **Dragons of Fate**
+3. **Dragons of Eternity**
+
+It follows Destina Rosethorn and a time-travel premise involving the setting’s history.[^8] I would read **Chronicles and Legends first**. That is this guide’s recommendation for preserving introductions and recognising returning material, rather than a claim that the publisher requires every earlier book.
+
+You don’t need to read every later-era novel before trying it. Just avoid mistaking a newer publication for the obvious first stop in an older shared world.
+
+### Dragonlance: War Wizard
+
+**Dragonlance: War Wizard** was published on **4 August 2026**. It is the first volume of a new trilogy by Weis and Hickman, focusing on the early relationship between Magius and Huma.[^9]
+
+For this reading plan, treat it as a historical branch after the original six books. That placement is an editorial choice. Its earlier setting doesn’t make it necessary to move it ahead of Chronicles, and an opening volume of a new trilogy should not be described as a finished three-book commitment.
+
+## Do the older books hold up?
+
+I would approach them for the company, the adventure and the emotional conflicts. Their appeal has more to do with becoming invested in particular people than with endlessly surprising an experienced fantasy reader.
+
+There are rough edges to expect. The early story can show its adventuring-party structure, the prose can be broad, and some depictions of cultures and fantasy peoples reflect the conventions of their period. Comedy also depends on how much patience you have for the person creating the next problem.
+
+That doesn’t prevent an ensemble from becoming compelling. It does mean I wouldn’t sell these as contemporary literary fantasy in older covers. Try Autumn Twilight, see whether the characters and setting interest you, and let that determine the next purchase.
+
+## Editions and avoiding accidental duplicates
+
+The **Dragonlance Chronicles** omnibus contains the original three novels. The **Dragonlance Legends** omnibus contains the next three.[^2][^3] Buying both gives you the six-book starting path, not six books plus two extra stories.
+
+Individual volumes are equally valid. Omnibuses are convenient for keeping a trilogy together, but a very large physical book isn’t everyone’s idea of comfortable reading. Check the contents rather than relying on the cover design, especially with older editions and second-hand listings.
+
+The annotated editions add commentary for readers interested in how the books were made. For an initial read, the ordinary novels keep the experience simpler. Roleplaying campaign books are a separate purchase and unnecessary for following the fiction.
+
+## The route I would actually use
+
+Start with **Chronicles**, then **Legends**. After that, decide whether you want to return to the original company with Lost Chronicles or move forward through **The Second Generation**, **Dragons of Summer Flame** and **War of Souls**.
+
+There is enough variety beyond those books to support much more reading, but the first six give you something useful: an informed preference. You’ll know which people, conflicts and parts of Krynn you want to spend more time with.
+
+---
+
+## Sources and scope
+
+Checked 30 October 2026. The reading routes are editorial recommendations. Publisher and author material establishes titles, authorship, omnibus contents and current publication information; Dragonlance Nexus supplies specialist context for older branches and spoiler-aware ordering. This guide covers selected reading routes rather than the complete bibliography.
+
+[^1]: D&D Beyond, [What Is Dragonlance? Krynn: A World at War](https://www.dndbeyond.com/posts/1324-what-is-dragonlance-krynn-a-world-at-war), official setting introduction; Dungeons & Dragons, [Bookshelf](https://www.dungeonsanddragons.com/bookshelf/), official fiction overview. The setting article contains more historical detail than a new reader needs.
+
+[^2]: Penguin Random House, [Dragonlance Chronicles](https://www.penguinrandomhouse.com/books/777486/dragonlance-chronicles-by-margaret-weis-tracy-hickman/), omnibus contents and authorship. Its 2025 date is the omnibus edition date, not the original novels’ first publication date.
+
+[^3]: Penguin Random House, [Dragonlance Legends](https://www.penguinrandomhouse.com/books/804621/dragonlance-legends-by-margaret-weis-and-tracy-hickman/), omnibus contents and authorship. The 2026 collection republishes the original trilogy.
+
+[^4]: Dragonlance Nexus, [Recommended Dragonlance Reading List](https://dragonlancenexus.com/recommended-dragonlance-reading-list/). Specialist secondary guidance on Chronicles before Legends, Lost Chronicles placement, later eras and the disadvantages of beginning in timeline order.
+
+[^5]: Publisher bibliographic records via Google Books: [Dragons of a Fallen Sun](https://books.google.com/books/about/Dragons_of_a_Fallen_Sun.html?id=nNypGrGNL0kC) and [Dragons of a Lost Star](https://books.google.com/books/about/Dragons_of_a_Lost_Star.html?id=3OJlNwAACAAJ); [library record for Dragons of a Vanished Moon](https://gc.wyldcatalog.org/Record/a952311). Used for sequence and authorship, not to reproduce plot blurbs.
+
+[^6]: Dragonlance Nexus, [Complete Product List](https://dragonlancenexus.com/complete-product-list/), an archived specialist catalogue, read alongside its recommended-reading guide for the Fifth Age branches.
+
+[^7]: Publisher bibliographic material via Google Books: [Amber and Iron](https://books.google.com/books/about/Amber_and_Iron.html?hl=en&id=sdxfI1cQh-kC&output=html_text), identified as the second volume; [Amber and Blood](https://books.google.com/books/about/Amber_and_Blood.html?hl=en&id=YA6zLQAACAAJ&output=html_text), identified as the conclusion. Later-book descriptions contain spoilers.
+
+[^8]: Penguin Random House, [Dragonlance Destinies series](https://www.penguinrandomhouse.com/series/XDG/dragonlance-destinies/); Margaret Weis, [author’s catalogue](https://margaretweis.com/collections/all), confirming volumes one through three.
+
+[^9]: Penguin Random House, [Dragonlance: War Wizard](https://www.penguinrandomhouse.com/books/786619/dragonlance-war-wizard-by-margaret-weis-and-tracy-hickman/), publication date, opening-volume status, authors and premise.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "hearthstone-stories-expansions-adventures-guide", "sha256": "c60180cee1cf33ce7e79423fee699092fc06d0b61c9388c191004613f1896c6b", "edit_sha256": "12eee670ec0337e85c714f9c2b43a0a9aa4f94bd932eab2b89743c25a3648603"} -->
+---
+title: "Hearthstone: A Guide to Its Stories, Expansions and Best Adventures"
+description: "How Hearthstone turns Warcraft into card-game stories, which solo adventures matter, and where its different modes fit."
+summary: "Follow Hearthstone’s expansion stories, choose its best solo adventures and understand the different modes."
+deck: ""
+---
+
+[TOC]
+
+In *World of Warcraft*, Karazhan is a haunted tower filled with the remains of somebody else’s disastrous decisions. In *Hearthstone*, it can be the venue for a party with a serious catering problem. That change in attitude explains a great deal about the card game.
+
+*Hearthstone* borrows Warcraft’s characters, places and history, then gives itself permission to play with them. An archaeological expedition can turn into an ongoing adventure serial. Familiar heroes can become Death Knights. A cosmic horror can also be a card that ruins an otherwise sensible evening.
+
+The stories are worth exploring on those terms. This guide follows the base game and the main expansion eras, picks out the most worthwhile solo adventures, then explains the modes available to someone who wants to play. It covers premises and themes without revealing the major adventure endings.
+
+For the MMO’s main continuity, expansion campaigns and group encounters, see the companion [World of Warcraft guide](https://peterdsouza247.github.io/4thframe/stories/world-of-warcraft-stories-expansions-raids-guide/).
+
+## Start with the tavern
+
+The original 2014 game brought nine Warcraft heroes to a card table, including Jaina, Thrall, Uther and Gul’dan. It did not offer a single campaign in which those nine characters travelled together. The tutorial introduced the rules through short encounters, while the larger setting emerged through artwork, dialogue, card effects and references.[^1][^2]
+
+That remains an important part of how *Hearthstone* tells stories. A deck can express a character’s personality: a Warlock trades away safety for power, while a Mage turns limited resources into an alarming amount of damage. The player produces the action through the cards they choose. Sometimes the story is a carefully written boss encounter. Sometimes it is the improbable sequence that occurred in a ranked match.
+
+Warcraft knowledge adds another layer, but is unnecessary for understanding the joke or enjoying the game. The tavern accommodates both the person who recognises a minor dungeon boss and the person who simply likes what its card does.
+
+## Expansion, adventure and mini-set mean different things
+
+An **expansion** primarily introduces a themed collection of cards. Its trailer and card art may establish a conflict without providing a complete, separately playable campaign. **Adventures** are solo encounters, sometimes with fixed decks and sometimes with a deck that develops during a run. A **mini-set** supplements a larger release with more cards and often a smaller theme.
+
+Early releases such as *Curse of Naxxramas* combined authored boss encounters with card rewards. Later expansions frequently separated the card set from the associated solo experience. *Rise of Shadows*, for example, supplied the cards and premise; *The Dalaran Heist* supplied the substantial solo adventure.[^3][^4]
+
+Buying expansion packs does not, by itself, unlock every adventure associated with that period. Check the Solo Adventures menu and the product description for the particular content you want. Old announcements often contain introductory offers that have long since expired.
+
+## The first years: finding a voice, 2014–2016
+
+*Curse of Naxxramas* gave the game its first major adventure. Kel’Thuzad’s floating necropolis became a sequence of bosses whose special powers changed the ordinary rules. *Goblins vs Gnomes* took the opposite tonal direction: competing inventors, unreliable machinery and the possibility that a good idea would explode.[^1][^3]
+
+In 2015, *Blackrock Mountain* adapted the rivalries and inhabitants of Warcraft’s volcanic stronghold. *The Grand Tournament* turned heroic competition into colourful sporting spectacle. *The League of Explorers* then supplied something especially valuable for the game’s future: a recurring cast with personalities that could carry adventures beyond a single location. Reno Jackson, Elise Starseeker, Brann Bronzebeard and Sir Finley Mrrgglton offered different approaches to exploration, scholarship and getting into trouble.[^5]
+
+The range widened again in 2016. *Whispers of the Old Gods* made corruption central to its cards, including distorted versions of familiar creatures. *One Night in Karazhan* reimagined Medivh’s tower as an extravagant party. *Mean Streets of Gadgetzan* divided a desert trading town between competing criminal organisations.[^1][^6]
+
+These releases established a useful freedom. The next setting could support horror, a caper or an elaborate joke, provided the theme gave the cards something interesting to do. The cost of that freedom is continuity: release order should not be mistaken for one uninterrupted Warcraft history.
+
+## Exploration becomes something you play, 2017–2018
+
+The three 2017 sets each approached discovery differently. *Journey to Un’Goro* emphasised expeditions, dinosaurs and elemental life. *Knights of the Frozen Throne* imagined the heroes transformed by the Lich King’s power and added a solo ascent through Icecrown. *Kobolds & Catacombs* returned to the familiar fantasy of a dungeon full of monsters and suspiciously unattended treasure.[^1]
+
+Its **Dungeon Run** made that last premise playable. You began with a small deck, defeated bosses, and chose cards and powerful treasures to improve the run. A loss ended the attempt. The result was a compact adventure whose identity came from the decisions made along the way, rather than from a permanent collection brought in beforehand.[^7]
+
+The 2018 releases developed separate variations. *The Witchwood* paired a haunted Gilneas setting with **Monster Hunt** and its distinctive hunters. *The Boomsday Project* turned Dr Boom’s laboratory into a setting for reckless science, while **The Puzzle Lab** asked players to solve carefully arranged board states. *Rastakhan’s Rumble* used a gladiatorial contest and its loa patrons as the basis for **Rumble Run**.[^1]
+
+For someone interested in game design, this is a particularly worthwhile period. The same card-game rules support a repeatable dungeon crawl, character-specific runs and puzzles with intended solutions. “Single-player Hearthstone” had become several different activities.
+
+## The Year of the Dragon: the clearest connected story, 2019–2020
+
+The most useful starting point for a longer *Hearthstone* story is the conflict between the League of E.V.I.L. and the League of Explorers.
+
+The sequence is:
+
+1. **Rise of Shadows** establishes Arch-Villain Rafaam’s coalition and its plan for Dalaran. **The Dalaran Heist** lets the player take part in the operation through repeatable solo runs.
+2. **Saviors of Uldum** brings the Explorers back into the conflict. **Tombs of Terror** develops the expedition through playable heroes, changing decks and persistent progress against its Plague Lords.
+3. **Descent of Dragons** escalates the conflict around Galakrond. **Galakrond’s Awakening**, released in early 2020, provides the authored conclusion.[^8][^9]
+
+This is a good demonstration of why the game benefits from its own recurring characters. The antagonists have recognisable habits, while the Explorers make a convincing group to follow into the next bad situation. Their familiarity carries more of the story than a detailed account of Azeroth’s cosmology would.
+
+There is one important qualification: *Galakrond’s Awakening* presents separate E.V.I.L. and Explorers versions of the story, with alternate endings. Treat it as *Hearthstone* having fun with the possibilities of its cast. Trying to reconcile both outcomes into the MMO timeline creates work the story never asked you to do.[^9]
+
+## Familiar heroes and new adventurers, 2020–2021
+
+*Ashes of Outland* brought Illidan and the Demon Hunter class into focus, with **Trial by Felfire** following Aranna Starseeker and her companions. *Scholomance Academy* imagined the notorious school before its better-known ruin, while *Madness at the Darkmoon Faire* mixed carnival attractions with the returning Old Gods.[^1]
+
+**Book of Heroes** took a more biographical approach. Beginning with Jaina, its chapters retold the lives of the original heroes through solo fights. It is a convenient introduction to important Warcraft characters, although its compressed presentation cannot replace every game, novel or campaign behind them.[^2]
+
+The 2021 sets formed another connected sequence: *Forged in the Barrens*, *United in Stormwind* and *Fractured in Alterac Valley*. Their new mercenary characters began as adventurers associated with the Horde and Alliance, then developed through the year’s conflicts. **Book of Mercenaries** supplied the accompanying chapters.[^10]
+
+The appeal is the relationship between faction identity and individual loyalties. Following a smaller cast gives the familiar red-versus-blue conflict some people to attach to. There are limits to how much character development can fit between card battles, but it gives this year a stronger narrative through-line than a succession of unrelated settings.
+
+**Book of Mercenaries and Mercenaries are different things.** The former is a story adventure. The latter is a separate mode built around collecting and developing a roster. Their names have probably caused enough confusion to qualify as a minor encounter of their own.
+
+## From murder mysteries to space travel, 2022–2025
+
+The 2022 sequence moved between *Voyage to the Sunken City*, *Murder at Castle Nathria* and *March of the Lich King*. That means underwater exploration, a murder mystery involving Sire Denathrius’s guests, and a return to the Scourge, with Death Knight added as a playable class.[^1][^11]
+
+*Nathria* is a particularly clear example of theme reaching the rules. Its Infuse mechanic rewards a card for friendly minions dying while it waits in your hand. The setting’s appetite for anima becomes something the player plans around. However, the murder-mystery premise does not mean the expansion pack unlocks a full detective campaign starring Murloc Holmes.
+
+In 2023, *Festival of Legends* made the classes participants in a music festival, *TITANS* put the setting’s enormous cosmic beings on the board, and *Showdown in the Badlands* used a western setting and excavation conflict. The 2024 releases followed with *Whizbang’s Workshop*, *Perils in Paradise* and *The Great Dark Beyond*: a toy workshop, a resort holiday and a journey into space.[^1]
+
+This stretch is easiest to understand as a set of themed interpretations of Warcraft. Some cards carry a small narrative in their art and effect; others mainly contribute to the atmosphere. A player looking for a substantial authored solo campaign should check that separately rather than assume every evocative title has one.
+
+The 2025 sets were *Into the Emerald Dream*, *The Lost City of Un’Goro* and *Across the Timeways*. The Dream’s struggle against corruption, Elise’s return to exploration and Chromie’s conflict with Murozond revisit three reliable interests of the setting: the vulnerability of beautiful places, the pleasure of discovery and the complications of changing history.[^12][^13][^14]
+
+## The current chapter, 2026
+
+Checked **30 October 2026**: the year’s expansion sequence is *CATACLYSM*, *Escape from Violet Hold* and *Reign of the Black Empire*.
+
+*CATACLYSM* revisits Deathwing’s devastation through the card game’s alternate possibilities. *Escape from Violet Hold* follows Vanessa VanCleef assembling outlaws for a prison break, with Maiev Shadowsong as Warden. Its rule-breaking characters make the premise visible in play: escaping confinement also means bending ordinary deck and card-game restrictions.[^15][^16]
+
+*Reign of the Black Empire*, live since **20 October**, presents the Old Gods at the height of their power, opposed by the Titan-forged. It is an ancient conflict used as a new card-game setting, rather than the next chronological event after the prison break.[^17]
+
+The new **Journey** system in the Journal brings current story material and progression together. Its first chapter, *The Road to Ny’alotha*, began rolling out in October. This is a current seasonal route into the setting; it should not be confused with an archive containing every older adventure. The announced Monk class is due in **March 2027** and is not playable at this guide’s date.[^18][^19]
+
+## The solo adventures most worth your attention
+
+These are editorial selections for atmosphere, design and narrative importance. They do not assume that every old product is automatically unlocked on a new account.
+
+### Curse of Naxxramas: the foundation
+
+The necropolis teaches the pleasure of a boss whose rules demand a different deck. A normal ranked strategy may become awkward when the opponent’s special power changes the value of minions or the cost of waiting. Its five wings also make the place feel like a collection of distinct grotesque inhabitants rather than a random ladder of opponents. Choose it for the history of solo *Hearthstone* and its compact horror setting.[^3]
+
+### Blackrock Mountain: the volcanic Warcraft tour
+
+The adventure adapts inhabitants and conflicts from several Blackrock locations into encounters. Its value is the density of recognisable Warcraft material, from the mountain’s lower depths to its competing powers. The bosses also help explain a recurring strength of the game: an enemy’s characteristic behaviour can become a rule that governs an entire match.[^1]
+
+### The League of Explorers: the best introduction to the cast
+
+The search for the Staff of Origination gives the group a practical reason to travel, while the encounters have room for escapes and other situations beyond a routine duel. This is the strongest first choice for someone who wants to understand why these four characters kept returning. Their enthusiasm for the next discovery also gives the adventure a warmer tone than another world-ending invasion.[^5]
+
+### One Night in Karazhan: the setting doing the work
+
+The Parlor, Opera, Menagerie and Spire turn the tower into an unusually coherent series of jokes and problems. The chess encounter is a useful example of adapting an activity to the card board instead of merely naming a large minion after it. Choose this for theatrical presentation and a lighter interpretation of a famous place.[^6]
+
+### Dungeon Run: the most important repeatable design
+
+The original *Kobolds & Catacombs* run remains the clearest expression of the format: build something increasingly unreasonable, then discover whether it survives the next boss. Treasures and card selections make the route develop around the current deck. It is less interested in sustained character drama than the Explorers adventures, but gives the player a stronger role in determining what kind of expedition unfolds.[^7]
+
+### The Dalaran Heist and Tombs of Terror: the larger expeditions
+
+These expand the run structure with playable characters, alternative powers and location-specific complications. They are the most substantial stops for someone who likes the Year of the Dragon cast and wants its story to accompany repeated play. Begin with the Heist, then move to Uldum; reversing them weakens the sense of pursuing the same conflict across the year.[^4][^20]
+
+### Galakrond’s Awakening: play it for the conclusion
+
+This returns to linear encounters with supplied decks in its normal story experience. Its appeal is seeing the year’s conflict turned into authored fights and two competing versions of the finale. It is a better choice after the preceding adventures than as an isolated introduction.[^9]
+
+### Book of Heroes and Book of Mercenaries: follow people
+
+Choose *Heroes* for short introductions to established Warcraft figures; choose *Mercenaries* for the cast built around the 2021 sequence. Fixed scenarios can sometimes make the intended solution more apparent than in a run built around your own deck. The benefit is that encounters can be arranged around a particular moment in a character’s story.[^2][^10]
+
+For a short route, begin with *The League of Explorers*, try a *Dungeon Run*, then follow the Year of the Dragon adventures if the cast and format appeal. Add the Books when a particular character interests you. There is no requirement to consume the entire release history first.
+
+## Where are Hearthstone’s raids and dungeons?
+
+Names such as Naxxramas, Blackrock and Karazhan originate in Warcraft’s dungeons and raids, but their *Hearthstone* adventures are solo card encounters. They do not recreate the MMO’s group roles, movement or coordination. A raid boss becomes a deck, a special power and a problem to solve with cards.
+
+That transformation is part of the appeal. *World of Warcraft* asks a group to respond to events in a shared space. *Hearthstone* can represent the same character through a rule that changes what a useful turn looks like. The two games often provide different reasons to enjoy the same location.
+
+## Choose a mode for the experience you want
+
+### Solo Adventures and Journey: start here for authored story
+
+Older adventures are the main destination for complete boss sequences and character chapters. Journey is the current framework for seasonal material. Availability and unlock conditions vary, so inspect the actual chapter or adventure before buying anything.
+
+### Standard: the current card-game conversation
+
+Standard uses a rotating selection of recent expansions alongside Core. It is the simplest route into the current constructed game, where you build a deck and face another player. Expansion themes appear through the cards, but a ranked match does not advance a campaign. Rotation changes legality, not whether the setting’s story occurred.[^21]
+
+### Wild: the larger historical toy box
+
+Wild allows a much broader card pool, making combinations across the game’s history possible. It suits interest in older cards and decks, rather than a desire to replay expansions chronologically. A Wild match can combine characters who never shared an adventure.
+
+### Battlegrounds: assemble a warband during the match
+
+Battlegrounds uses Warcraft’s cast in an auto-battler structure: recruit minions, improve their interactions and let the warband fight. Your constructed collection does not determine which ordinary minions you can recruit. Choose it for building a team within each match; its use of the setting is mostly thematic.[^22]
+
+### Arena, The Underground and Tavern Brawl: different rules, different commitments
+
+Arena and The Underground offer drafted runs rather than a permanent constructed deck. Tavern Brawl supplies changing rules, sometimes with provided decks and sometimes requiring your collection. These are places to explore mechanical variations, with entry conditions checked for the specific activity.[^23]
+
+### Older names need a date
+
+Classic constructed, Duels and Twist should not be treated as current starting options: they have been retired. Mercenaries stopped receiving regular new content in 2023; it is distinct from the story chapters in *Book of Mercenaries*. Old menus in videos are not a reliable guide to today’s client.[^24][^25]
+
+For story, the enduring strength of *Hearthstone* is how readily a character or a place can change the rules of a match. The League of Explorers gives that freedom a cast worth following. Dungeon Run gives it to the player. Those are good places to find out which side of the tavern holds your attention.
+
+## Sources and scope
+
+Checked 30 October 2026. This is a selective story and design guide, with all main expansion years covered and mini-sets discussed only where useful. Selections and evaluations are editorial judgments, not claims of firsthand completion. Blizzard’s launch articles establish premises and release status; their original promotions should not be read as current offers.
+
+[^1]: Blizzard, [Expansions and Adventures](https://hearthstone.blizzard.com/en-us/expansions-adventures), release catalogue and set groupings.
+
+[^2]: Blizzard, [18.2 Patch Notes](https://news.blizzard.com/en-us/article/23509390/18-2-patch-notes), Book of Heroes launch and original-hero focus.
+
+[^3]: Blizzard, [Beware the Curse of Naxxramas](https://hearthstone.blizzard.com/en-us/news/13665269/beware-the-curse-of-naxxramas-4-11-2014), five-wing structure and premise.
+
+[^4]: Blizzard, [The Dalaran Heist](https://hearthstone.blizzard.com/en-gb/news/22933721), adventure overview.
+
+[^5]: Blizzard, [Join the League of Explorers](https://hearthstone.blizzard.com/en-us/news/19932699/join-the-league-of-explorers-on-november-12-11-6-2015), cast, quest and adventure introduction.
+
+[^6]: Blizzard, [One Night in Karazhan](https://hearthstone.blizzard.com/en-us/news/20228505), party premise, wings and encounters.
+
+[^7]: Blizzard, [Kobolds & Catacombs](https://hearthstone.blizzard.com/en-us/news/21160659) and [Dungeon Run with Dave Kosak](https://hearthstone.blizzard.com/en-us/news/21183937), run structure and design.
+
+[^8]: Blizzard, [Rise of Shadows](https://hearthstone.blizzard.com/en-us/news/22938504) and [Welcome to the Year of the Phoenix](https://hearthstone.blizzard.com/en-us/news/23319441/benvenuto-nell-anno-della-fenice), retrospective account of the preceding year's connected story. The latter includes outcome spoilers.
+
+[^9]: Blizzard, [Galakrond’s Awakening launches January 21](https://hearthstone.blizzard.com/en-gb/news/23227142/galakrond-s-awakening-launching-january-21), linear story structure and alternate versions.
+
+[^10]: Blizzard, [20.0 Patch Notes](https://hearthstone.blizzard.com/en-us/news/23622607), introduction of Book of Mercenaries; [Book of Mercenaries](https://hearthstone.wiki.gg/wiki/Book_of_Mercenaries), specialist chapter index.
+
+[^11]: Blizzard, [Announcing Murder at Castle Nathria](https://news.blizzard.com/en-us/article/23817874/announcing-murder-at-castle-nathria-hearthstones-next-expansion), mystery premise and Infuse.
+
+[^12]: Blizzard, [Into the Emerald Dream](https://hearthstone.blizzard.com/en-gb/expansions-adventures/into-the-emerald-dream), Dream and Nightmare conflict.
+
+[^13]: Blizzard, [The Lost City of Un’Goro](https://hearthstone.blizzard.com/en-us/expansions-adventures/the-lost-city-of-ungoro), expedition premise.
+
+[^14]: Blizzard, [Across the Timeways](https://hearthstone.blizzard.com/en-us/news/24232759), Chromie and Murozond premise.
+
+[^15]: Blizzard, [Deathwing Strikes Back in CATACLYSM](https://hearthstone.blizzard.com/en-us/news/24245219), premise and mechanics.
+
+[^16]: Blizzard, [Break the Rules in Escape from Violet Hold](https://hearthstone.blizzard.com/en-us/news/24276664), Vanessa, Maiev and rule-breaking theme.
+
+[^17]: Blizzard, [Reign of the Black Empire Is Now Live](https://hearthstone.blizzard.com/en-us/news/24304163), 20 October 2026 launch and conflict.
+
+[^18]: Blizzard, [Journey](https://hearthstone.blizzard.com/en-us/news/24303865), Journal system and initial chapter rollout.
+
+[^19]: Blizzard, [BlizzCon 2026: Monk Joins Hearthstone, the Old Gods Return, and More](https://hearthstone.blizzard.com/en-gb/news/24302069/blizzcon-2026-monk-joins-hearthstone-the-old-gods-return-and-more), March 2027 announcement.
+
+[^20]: Blizzard, [Tombs of Terror](https://news.blizzard.com/en-us/article/23116163/the-tombs-of-terror-are-now-open), adventure overview.
+
+[^21]: Blizzard, [Expansions and Adventures](https://hearthstone.blizzard.com/en-us/expansions-adventures), current Standard/Wild division.
+
+[^22]: Blizzard, [Hearthstone](https://hearthstone.blizzard.com/en-us/), mode introductions.
+
+[^23]: Blizzard, [A New Era of Arena](https://hearthstone.blizzard.com/en-gb/news/24208800), Arena and The Underground.
+
+[^24]: Blizzard, [35.4 Patch Notes](https://hearthstone.blizzard.com/en-us/news/24259073), Twist retirement; [Duels Runs Coming to an End](https://hearthstone.blizzard.com/en-gb/news/24033780), Duels retirement; [26.6 Patch Notes](https://hearthstone.blizzard.com/en-us/news/23973115), Classic replaced by Twist in 2023.
+
+[^25]: Blizzard, [Mercenaries Gets a Mythic Update](https://news.blizzard.com/en-us/article/23892226/mercenaries-gets-a-mythic-update), end of regular content updates.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "world-of-warcraft-stories-expansions-raids-guide", "sha256": "12c4669b3317775a8cf40f53ce1bbcb60e109b56038e673b50289a55d3b81977", "edit_sha256": "f50ece864918f0ca836fcda7d573729f9e6ca876f9528394f5b611f557f55bdd"} -->
+---
+title: "World of Warcraft: Its Stories, Essential Raids and Different Versions"
+description: "A story-led guide to WoW's base game and expansions, its essential raids and dungeons, and Modern, Classic and the forthcoming Forever."
+summary: "Explore every expansion’s themes, essential raids and dungeons, and the choice between Modern, Classic and Forever."
+deck: ""
+---
+
+[TOC]
+
+A ruined village can explain *World of Warcraft* more effectively than a diagram of its cosmic powers. The houses suggest people who lived there. The enemies tell you what happened to them. A quest might send you to recover something small enough to matter to one survivor, even while another part of the world prepares for an invasion.
+
+That relationship between a place and the people affected by it is worth looking for throughout WoW. The scale changes enormously across its expansions. The best stories still give the player a reason to care about the ground beneath the next enormous boss.
+
+This guide follows the original game and each expansion’s central conflicts, then picks out raids and dungeons that help explain the world or show its encounter design at its strongest. The final section separates Modern, the Classic branches and the forthcoming *Forever*. Expansion premises and established character identities are discussed; major campaign endings are left out.
+
+## The story before the MMO
+
+The useful preparation is *Warcraft III* and *The Frozen Throne*. Their conflicts explain why Arthas, Thrall, Jaina, Illidan and the survivors of Lordaeron matter. They also establish a world where the Horde and Alliance have fought together against a larger threat without resolving the reasons they distrust each other.[^1]
+
+You do not need to complete the strategy games before creating a character. The essentials are straightforward: demonic invasions have devastated the world, the undead Scourge has destroyed kingdoms, and the surviving peoples are trying to establish homes among the consequences. The two main factions contain different cultures and competing interests. Neither is a single personality wearing a particular colour.
+
+That is the starting point for the original MMO: a damaged world with more problems than its leaders can manage.
+
+## Original World of Warcraft, 2004: the world before the main quest
+
+The base game spread its story across regions. Westfall’s bandit problem connected to Stormwind’s failures. The Forsaken’s starting areas explored survival after undeath and the uncertain place of a people distrusted by their former neighbours. The Barrens made the Horde’s presence in Kalimdor feel like a difficult process of settlement.
+
+These local stories gradually exposed larger powers: the black dragonflight, Ragnaros beneath Blackrock Mountain, the ancient threat in Ahn’Qiraj and the Scourge’s necropolis, Naxxramas.[^2]
+
+The appeal is the distance between an inexperienced adventurer and those threats. Travelling, finding allies and learning the geography contribute to the story even when they interrupt efficient progress. The world can feel indifferent to your timetable, which is either part of the adventure or a good reason to choose a different version.
+
+For the original geography and quest structure, Classic Era is the relevant branch. Modern WoW’s Eastern Kingdoms and Kalimdor include the changes made by *Cataclysm*. Modern access to an old continent does not mean every original quest remains available.
+
+## The Burning Crusade, 2007: people living with the damage
+
+The first expansion opens the Dark Portal to Outland, a broken world whose floating landmasses make the consequences of its history immediately visible. Illidan and the forces competing for control provide the main conflict, while the draenei and blood elves bring different experiences of exile, loss and dependence on power.[^2]
+
+That last theme gives the expansion more interest than its demon armies alone. The blood elves’ need for magical sustenance and the draenei’s long flight from persecution make survival a cultural problem as well as a military one. Outland’s beauty is inseparable from how damaged it is.
+
+Karazhan offers the most distinctive smaller-scale setting; the Black Temple provides a major destination in Illidan’s story. The expansion’s later Sunwell material also matters to the blood elves’ future. Release-era patches are part of the narrative, rather than optional footnotes after the levelling zones.
+
+## Wrath of the Lich King, 2008: a recognisable enemy with a history
+
+*Wrath* takes the factions to Northrend and keeps Arthas present as a threat across the continent. His importance comes from an earlier human story: a prince whose attempts to save his people led him towards the power he now embodies.[^3]
+
+The expansion gains from having that clear centre. The Scourge’s violence appears in occupied settlements and experiments, while the death knight introduction makes questions of control and responsibility playable. Other regions widen the setting through the titans, their creations and the danger beneath Ulduar.
+
+Ulduar is the essential detour into cosmic horror; Icecrown Citadel is the destination for the Arthas arc. They work for different reasons. One uncovers the unsettling history behind a magnificent place. The other asks the player to enter a fortress that the expansion has spent its time making significant.
+
+## Cataclysm, 2010: the old world cannot stay still
+
+Deathwing’s return physically changes Azeroth. Familiar routes and communities become sites of destruction, reconstruction or renewed faction conflict. New high-level zones extend the crisis into elemental realms and older histories.[^4]
+
+Its most interesting idea is the use of a persistent world’s own familiarity. A changed coastline has more weight if the player remembers what stood there. For somebody arriving later, the same place may simply look like the normal map. That creates a genuine challenge for an MMO: showing change can remove the material that made the change meaningful.
+
+The worgen and goblin introductions give the upheaval specific communities. Firelands provides a concentrated elemental setting and a return to Ragnaros. Dragon Soul is important to the central Deathwing conflict, although narrative importance alone does not make it the first raid to recommend for a tour of encounter design.
+
+## Mists of Pandaria, 2012: the war travels with you
+
+The factions arrive in Pandaria carrying their conflict into a land with its own societies, histories and political problems. The sha give negative emotions a destructive physical presence. War makes the threat worse, so the adventurers’ arrival cannot be treated as an uncomplicated rescue mission.[^5]
+
+This is one of the strongest expansion premises because the landscape and the conflict argue with each other. Farming communities, monasteries and ordinary routines provide reasons to value the place. The mogu’s imperial history supplies another version of power imposed on others. Garrosh’s leadership draws the faction conflict towards increasingly difficult questions of loyalty.
+
+Throne of Thunder develops the imperial theme through Lei Shen and his palace. Siege of Orgrimmar carries the political conflict into a faction capital. Together they show why a raid can be more useful to a story than a final room containing a conveniently available monster.
+
+## Warlords of Draenor, 2014: an alternate history of conquest
+
+*Warlords* uses an alternate Draenor to revisit the orc clans before the destruction that produced Outland. Garrosh’s intervention helps create the Iron Horde, offering military power through a different route.[^6]
+
+The important distinction is that rejecting one corrupting influence does not automatically create a just society. Conquest, domination and the choices of individual leaders remain central. The setting also allows draenei settlements and orc cultures to appear as living places rather than archaeological remains.
+
+The altered timeline needs explanation, and the wider story is less straightforward to follow than *Wrath*. The individual locations remain valuable. Blackrock Foundry is the essential raid here because its machinery makes the Iron Horde’s power feel manufactured. The war has a production line.
+
+## Legion, 2016: a world mobilising against an invasion
+
+The Burning Legion returns on a scale that makes cooperation necessary. The Broken Isles provide the search for the Pillars of Creation, while class campaigns give players separate organisations and responsibilities within the larger response.[^7]
+
+The class material is especially useful for making a powerful player character feel situated in the world. A Paladin and a Warlock can oppose the same invasion through institutions that have very different attitudes towards power. Illidan and the demon hunters extend the question of how far opposition to an enemy can justify adopting its methods.
+
+Suramar offers a more local conflict within the larger war: occupation, dependence on the Nightwell and the risks of resistance. Its campaign gives the Nighthold raid a society to interrupt. Return to Karazhan supplies a separate, unusually theatrical dungeon excursion.
+
+## Battle for Azeroth, 2018: faction war and the people beneath it
+
+The Alliance seeks support in Kul Tiras; the Horde turns to Zandalar. These parallel routes introduce naval power, local traditions and political fractures that exist beyond the needs of the visiting faction.[^8]
+
+Jaina’s relationship with Kul Tiras gives the Alliance story a personal centre. Zandalar’s monarchy and its relationship with the loa make the Horde route a different campaign rather than a change of quest-giver colour. Playing both provides useful context, although it is a substantial commitment.
+
+The wider expansion moves from faction warfare towards older threats, including Queen Azshara and N’Zoth. That changing emphasis can make the central argument less coherent: responsibility for a war and the arrival of a cosmic enemy compete for attention. The regional stories often benefit from staying with particular families, institutions and places.
+
+Battle of Dazar’alor is the most direct raid expression of the faction conflict. The Eternal Palace and Ny’alotha belong to the later escalation. Follow the War Campaign alongside the zones if the aim is to understand how those stages connect.
+
+## Shadowlands, 2020: the afterlife becomes a place with rules
+
+*Shadowlands* takes characters into the realms of death. Souls, anima and the responsibilities of the Covenants become the basis of its societies, while the Maw and the Jailer provide the overarching threat.[^9]
+
+The strongest local premise is Revendreth: a realm concerned with pride and penance, ruled by an aristocracy whose claims to moral authority deserve scrutiny. Castle Nathria gives that conflict a suitable home, complete with courtly ceremony and conspicuous excess.
+
+The larger approach is more difficult. Explaining how the afterlife operates can reduce the uncertainty that once made death significant. It also places familiar characters inside a new structure of cosmic administration. Whether that expansion of the setting appeals will depend on how much explanation you wanted in the first place. Revendreth is the most approachable self-contained stop for a shorter story tour.
+
+## Dragonflight, 2022: inheritance and the right to choose
+
+The return to the Dragon Isles places the dragonflights’ past responsibilities beside the lives of the communities already there. The Primalists’ opposition to titan influence makes the source of the Aspects’ authority part of the conflict.[^10]
+
+Legacy becomes a practical question: what should be recovered, what deserves to change, and who gets to decide? The dracthyr’s history adds another perspective through beings created for a purpose who must develop identities of their own.
+
+This is a useful modern starting point because its exploration has room for different tones. Archaeology, family histories and community encounters sit beside the main threat. Dawn of the Infinite is a worthwhile dungeon for the bronze dragonflight’s problem of knowledge, fate and intervention. The raid sequence moves through Vault of the Incarnates, Aberrus and Amirdrassil; their stories should be read alongside the relevant patch campaigns rather than treated as isolated attractions.
+
+## The War Within, 2024: the people under the world
+
+The opening chapter of the Worldsoul Saga takes the player into Khaz Algar. The earthen, the Arathi of Hallowfall and the nerubians provide societies shaped by very different relationships with duty, belief and survival. Xal’atath supplies the immediate organising threat, while Anduin’s continuing struggle gives the established cast a more personal concern.[^11]
+
+The underground setting works best when it expands the sense of what a community could look like. Hallowfall’s settlements and its immense source of light are useful examples: the environment gives its inhabitants something to organise their lives around.
+
+Nerub-ar Palace turns the nerubian political conflict into a raid setting. Later campaign chapters continue beyond that opening destination. As with other expansions, finishing the launch zones is not the same thing as seeing the full story released over its lifetime.
+
+## Midnight, 2026: returning to a place with scars
+
+Checked **30 October 2026**, *Midnight* is the current expansion and the second part of the Worldsoul Saga. Its return to Quel’Thalas places the Void threat against a homeland whose identity has already been shaped by destruction and recovery.[^12]
+
+The blood elves and the Sunwell connect the present conflict to *The Burning Crusade*. That history gives the location meaning beyond its usefulness as a battlefield. Questions about unity and protection become more interesting when the people being asked to unite remember different injuries.
+
+The live **12.1.5** update continues the Quel’Thalas and Zul’Aman story and includes the single-boss raid **The Unbinding of Kith’ix**. These are current destinations, not entries being declared all-time greats within weeks of release. The story remains in progress; this guide does not treat announced future chapters as completed material.[^13]
+
+## The raids that explain WoW
+
+A raid is a larger group instance built around coordinated encounters. These selections separate historical or narrative significance from reasons to admire a raid’s actual design. Visiting an old raid on an overpowered character can reveal its architecture and dialogue, but cannot reproduce its original challenge.
+
+### Molten Core and Onyxia’s Lair: understand the early scale
+
+These belong on a history route because they helped establish the original game’s large-group endgame. Molten Core’s elemental depths and Onyxia’s connection to Stormwind give them different roles in the world. They are valuable context; their age is not a reason to pretend they offer the same complexity as later encounters.[^2]
+
+### Naxxramas: a place organised around its horrors
+
+The necropolis divides its inhabitants into recognisable wings before bringing the raid towards Kel’Thuzad. Plague, military organisation and grotesque experimentation give the Scourge a working structure. The original level-60 raid and its *Wrath* adaptation are different versions of the encounter set. Choose the version deliberately when reading about its difficulty or place in progression.[^14]
+
+### Karazhan: the best first stop for atmosphere
+
+Medivh’s tower is a haunted residence with a banquet, an opera and a chessboard. Its variety follows the strange life of the building, so the encounters feel connected even when they are very different activities. For a story-minded tour, it makes a stronger introduction than a succession of monumental fortresses. This is the *Burning Crusade* raid; *Return to Karazhan* is a later dungeon.[^15]
+
+### Ulduar: discovery and encounter design working together
+
+Ulduar moves through titan machinery towards the threat of Yogg-Saron. Its hard modes are especially important: several are activated through actions inside the encounter rather than a separate menu selection. The raid asks the group to change how it handles the same place. That connection between curiosity and difficulty makes it an essential design stop, as well as an important Old God story.[^16]
+
+### Icecrown Citadel: the essential narrative destination
+
+Icecrown benefits from the time spent establishing Arthas. Entering his fortress has significance before the first boss begins. The raid also gives the Scourge different forms, from military force to experiments and appropriated champions. Choose it for the conclusion to a major character arc, after the Northrend campaign has made that conclusion matter.[^17]
+
+### Throne of Thunder: power expressed through a palace
+
+Lei Shen’s stronghold turns imperial ambition into architecture and a varied sequence of guardians, experiments and machinery. The final confrontation’s use of the arena’s conduits makes controlling space central to the fight. It is one of the most worthwhile raids for understanding how an encounter can use its room as a system, rather than a container for a boss.[^18]
+
+### Siege of Orgrimmar: a political conflict reaches home
+
+The route from the damaged Vale into Orgrimmar gives the expansion’s war a destination with existing inhabitants and loyalties. The assault involves opposition to Garrosh from within the Horde as well as from the Alliance. Choose it for its place in the faction story; its long sequence is better understood after Pandaria’s campaign than as a context-free tour.[^19]
+
+### Blackrock Foundry: the strongest industrial identity
+
+The Iron Horde’s equipment is produced here, and the fights keep that fact visible. Conveyor belts and Operator Thogar’s trains make production and transport into hazards the raid must understand. The setting gives the mechanical variety a common purpose. It is the clearest recommendation in *Warlords* for a reader interested in how place shapes play.[^20]
+
+### The Nighthold: finish the Suramar story
+
+The raid enters the centre of the Nightborne’s power after the campaign has established dependence, collaboration and resistance outside its walls. Its inhabitants and maintained spaces help it feel like a functioning palace. The value is the relationship between the campaign and the raid: Suramar gives the group a reason to care about who controls this place.[^21]
+
+### Castle Nathria: a society reflected in its encounters
+
+The Council of Blood’s courtly dancing and Sire Denathrius’s theatrical presence suit Revendreth’s ruling class. Ceremony becomes part of what the player must respond to, while the castle’s excess contrasts with the realm’s suffering. It is a strong choice for atmosphere and for a contained political story within an expansion whose wider cosmology can be harder to follow.[^22]
+
+## The dungeons worth making time for
+
+Dungeons usually use smaller groups and can give a region’s story a more manageable destination. This route favours distinct places and narrative usefulness over a current Mythic+ ranking.
+
+### The Deadmines: a local problem becomes a place
+
+Westfall’s Defias conflict leads underground into a working base, including its remarkable ship concealed beneath the countryside. The original Edwin VanCleef story and the *Cataclysm* version should be kept distinct. For the original political context, use the original Westfall questline and Classic-era dungeon together.[^23]
+
+### Blackrock Depths: a city you can get lost in
+
+Prison, foundries, living spaces and the Grim Guzzler tavern make this feel like an underground society. Its branching scale can be inconvenient for a quick run, but that same quality makes it valuable for exploration. The original dungeon is also distinct from the later anniversary raid adaptation. Choose it when there is time to understand the place, rather than only reach an exit.[^24]
+
+### Stratholme and The Culling of Stratholme: compare the wound with the event
+
+The original Stratholme dungeon explores a city consumed by the Scourge and divided between hostile forces. The *Wrath* Caverns of Time dungeon returns to an earlier, decisive moment involving Arthas. They are separate instances. Experiencing them together gives the location a history, although the Culling necessarily reveals a major event from *Warcraft III*.[^25]
+
+### Magisters’ Terrace: the costs of dependence
+
+The original *Burning Crusade* dungeon on the Isle of Quel’Danas continues the blood elf and Sunwell conflict in a compact setting. This is distinct from the updated *Midnight* version. Its bright architecture gives the threat a different atmosphere from Outland’s harsher landscapes. Use it as part of the later expansion campaign rather than assuming Black Temple contains the whole ending.[^26]
+
+### Halls of Reflection: the enemy sets the pace
+
+The final part of *Wrath*’s three-dungeon Icecrown sequence makes escape central to the encounter. It is a useful change from approaching a powerful enemy on the group’s own schedule. Begin with Forge of Souls and Pit of Saron so that the route into the citadel has continuity.[^27]
+
+### Return to Karazhan: revisit a place through a different form
+
+The *Legion* mega-dungeon returns to the tower with its own encounter sequence and presentation. Its length supports the feeling of an excursion through an entire strange building. It belongs alongside the earlier raid as a comparison in adaptation, rather than as a replacement that makes the original visit unnecessary.[^28]
+
+### Dawn of the Infinite: a character’s future becomes the problem
+
+The bronze dragonflight’s responsibility for time gives this *Dragonflight* mega-dungeon a conflict involving Nozdormu’s fate. Its movement between times and possibilities follows naturally from the people involved. Play the relevant campaign introduction first; the dungeon is a chapter in their story, and its later split form serves a different practical purpose for repeat runs.[^29]
+
+For a shorter tour, use Deadmines and Blackrock Depths to understand early world-building, Karazhan for atmosphere, Ulduar for encounter design, and Icecrown after the Northrend story. Add Suramar and the Nighthold when ready for a campaign that leads deliberately towards its raid.
+
+## Modern, Classic and Forever: which world are you entering?
+
+These choices determine more than graphics or convenience. They change which history is playable, the pace of the journey and the sort of community a character joins. Characters and progress are not generally shared between these separate branches.
+
+### Modern World of Warcraft: the continuing story
+
+Modern is the branch that receives the current expansions, now *Midnight*. It also retains substantial earlier content, with levelling routes that let returning players choose an expansion. The current new-player route begins with Exile’s Reach and *Dragonflight*, then prepares players for later story material.[^30]
+
+Choose Modern for the ongoing saga, flexible solo activities and contemporary group play. It is also useful for touring older locations once a character is sufficiently powerful. However, the available campaigns are not arranged as a seamless beginning-to-end single-player RPG. Removed quests, patch introductions, level scaling and separate raid finales can interrupt the chronology.
+
+Follower Dungeons supply NPC parties in supported dungeons. Story Mode exists for selected raid story encounters; it is not a universal setting covering every historical raid. These tools make some current stories easier to follow alone, but their actual coverage needs checking.[^31]
+
+### Classic Era: the original world as the destination
+
+Classic Era preserves the level 1–60 style of the original game rather than progressing through all later expansions. The journey places more weight on travel, preparation and finding other players. It is the clearest option here for experiencing the old world before *Cataclysm* reshaped it.[^32]
+
+Choose it for the setting and pace of that period. Do not expect it to contain the complete later lives of characters introduced there. It is a particular version of Azeroth with its own stopping point.
+
+### Progression Classic: return to a particular expansion era
+
+The active family includes **Mists of Pandaria Classic** and **Burning Crusade Classic Anniversary** at this guide’s date. These provide different historical eras with their associated classes, systems and staged content releases. The precise branch, realm and progression schedule matter.[^32]
+
+This is the better fit when the aim is to experience an expansion’s group content with a community progressing through it, rather than walk through its old raid alone in Modern. A branch labelled Classic is not automatically an untouched copy of every original detail.
+
+### Hardcore: the risk changes the journey
+
+Hardcore applies permanent-death stakes to the Classic journey. Ordinary caves and awkward enemy pulls become more significant when a mistake can end a character’s run. That creates a different form of attachment to the world, but makes it an unforgiving first route for someone mainly interested in seeing the story. Learn the rules of the chosen realm before committing.[^32]
+
+### Season of Discovery: familiar ground with altered possibilities
+
+Season of Discovery changes the Classic experience with additional content and class possibilities. Choose it for experimentation within the older world. Its additions mean it should not be used as a literal record of what was available in 2004, and its phase and population deserve a check before starting.[^32]
+
+### World of Warcraft: Forever: an announced reimagining
+
+As of **30 October 2026**, *Forever* has **not launched**. Blizzard has scheduled its global launch for **4 November 2026 at 3 p.m. PST**. It is presented as a separate, permanent reimagining of early Azeroth built around a level 1–60 foundation, with expanded places and stories.[^33]
+
+The important distinction is its purpose. Classic Era preserves a particular period; *Forever* is intended to develop that early-world foundation in new directions. Its announced material should be assessed as a plan until the live game can be judged. It is not an extra campaign that must be completed before Modern’s main chronology.
+
+Base access is announced as included with a subscription or Game Time. Optional upgrades have separate features, so their contents should not be mistaken for the requirements of ordinary access.[^34]
+
+### Remix, Timewalking and difficulty names: activities rather than a new main timeline
+
+Remix events revisit selected expansion material with accelerated progression and changed systems for a limited period. Timewalking revisits older instances within Modern’s rotating activities. Neither label guarantees that the full original campaign and progression experience has been recreated.[^35]
+
+Raid Finder, Normal, Heroic and Mythic describe ways of tackling raids; Mythic+ adds a repeatable, escalating challenge to a seasonal dungeon pool. These names help explain the activity, but do not identify which Classic branch someone means. Establish the game version first, then the difficulty.
+
+The most useful starting choice is the place or conflict that interests you. Arthas points towards Northrend. The old world points towards Classic Era. Suramar rewards the time given to its campaign before the Nighthold. The current saga belongs to Modern. Once that choice is made, the levelling and equipment advice has somewhere sensible to lead.
+
+For Warcraft reworked into shorter card-game encounters and alternate stories, see the [Hearthstone guide](https://peterdsouza247.github.io/4thframe/stories/hearthstone-stories-expansions-adventures-guide/).
+
+## Sources and scope
+
+Checked 30 October 2026. Expansion interpretations and encounter selections are editorial judgments, not a claim of firsthand clears or a poll of player preferences. Years identify original expansion releases. Campaign summaries avoid major resolutions; linked timeline pages and boss guides can contain spoilers. Current branch status and the announced Forever launch need updating after this date.
+
+[^1]: Blizzard, [The Story of Warcraft](https://worldofwarcraft.blizzard.com/en-gb/news/10073429/of-orcs-and-humans-the-story-of-warcraft), official timeline introduction; [Warcraft Wiki timeline index](https://warcraft.wiki.gg/wiki/The_Story_of_Warcraft), specialist index of the official chapters.
+
+[^2]: Blizzard, [Burning Crusade Classic: The Story So Far](https://worldofwarcraft.blizzard.com/en-us/news/23679744/burning-crusade-classic-the-story-so-far), original endgame threats and the Outland premise.
+
+[^3]: Blizzard, [Wrath of the Lich King Classic launch announcement](https://worldofwarcraft.blizzard.com/en-us/news/23850854/shatter-the-ice-wrath-of-the-lich-king-classic%E2%84%A2-goes-live-september-26), Northrend and Arthas; [Icecrown timeline chapter](https://worldofwarcraft.blizzard.com/en-gb/story/timeline/chapter-18), which contains ending spoilers.
+
+[^4]: Blizzard, [Cataclysm Classic zones and dungeons](https://worldofwarcraft.blizzard.com/en-us/news/24095666), altered world and regional conflicts.
+
+[^5]: Blizzard, [Mists of Pandaria timeline chapter](https://worldofwarcraft.blizzard.com/en-gb/story/timeline/chapter-23), faction war and the sha.
+
+[^6]: Blizzard, [Hellscream: the prelude to Warlords of Draenor](https://worldofwarcraft.blizzard.com/en-us/news/15208494/read-hellscream-the-prelude-to-warlords-of-draenor), alternate-history setup.
+
+[^7]: Blizzard, [Legion revealed](https://wow-site-bwa-production-eks-prod-use1-01.worldofwarcraft.blizzard.com/en-us/news/19851623/world-of-warcraft-legion-revealed), invasion, Broken Isles and class premise.
+
+[^8]: Blizzard, [Battle for Azeroth: The Story So Far, Week 1](https://worldofwarcraft.blizzard.com/en-gb/news/22265420/spoilers-inside-battle-for-azeroth-the-story-so-far-week-1), faction routes; [campaign index](https://warcraft.wiki.gg/wiki/Battle_for_Azeroth_campaign), specialist ordering of later chapters.
+
+[^9]: Blizzard, [Shadowlands timeline chapter](https://worldofwarcraft.blizzard.com/en-gb/story/timeline/chapter-38), realms, anima and overarching threat.
+
+[^10]: Blizzard, [Take Wing Through Time With the Dragon Aspects](https://worldofwarcraft.blizzard.com/en-us/news/23876527/the-story-so-far-take-wing-through-time-with-the-dragon-aspects), historical context; [Dragonflight deep dive](https://worldofwarcraft.blizzard.com/en-gb/news/23785116/tout-sur-world-of-warcraft-dragonflight), setting and premise.
+
+[^11]: Blizzard, [The War Within overview](https://worldofwarcraft.blizzard.com/en-us/news/24025827), announcement and story setup.
+
+[^12]: Blizzard, [Midnight Now Live](https://worldofwarcraft.blizzard.com/en-us/news/24264417) and [Quel’Thalas zone preview](https://worldofwarcraft.blizzard.com/en-us/news/24264003), current expansion and homeland context.
+
+[^13]: Blizzard, [Midnight’s 12.1.5 Content Update Is Now Live](https://worldofwarcraft.blizzard.com/en-us/news/24307306/midnight-s-12-1-5-content-update-is-now-live), 13 October 2026.
+
+[^14]: [Naxxramas](https://warcraft.wiki.gg/wiki/Naxxramas), Warcraft Wiki, historical versions and layout.
+
+[^15]: [Karazhan raid](https://warcraft.wiki.gg/wiki/Karazhan_%28raid%29), Warcraft Wiki, encounter structure and distinction from Return to Karazhan.
+
+[^16]: Blizzard, [Ulduar now available](https://worldofwarcraft.blizzard.com/en-us/news/23897173), raid premise; [Ulduar](https://warcraft.wiki.gg/wiki/Ulduar_%28instance%29), specialist reference for in-world hard-mode triggers.
+
+[^17]: [Icecrown Citadel](https://warcraft.wiki.gg/wiki/Icecrown_Citadel), Warcraft Wiki, encounter sequence and story context.
+
+[^18]: Blizzard, [Throne of Thunder](https://news.blizzard.com/en-us/article/24249602/take-on-lei-shen-the-throne-of-thunder-raid-is-now-live), palace and encounters.
+
+[^19]: Blizzard, [Siege of Orgrimmar preview](https://worldofwarcraft.blizzard.com/en-us/news/10788364), political context and raid route.
+
+[^20]: Blizzard, [Blackrock Foundry raid preview](https://worldofwarcraft.blizzard.com/en-us/news/17633660/warlords-of-draenor-raid-preview-blackrock-foundry), industrial setting and bosses.
+
+[^21]: Blizzard, [The Nighthold raid preview](https://worldofwarcraft.blizzard.com/en-us/news/20407404/raid-preview-the-nighthold), Nightwell and palace inhabitants.
+
+[^22]: Blizzard, [Castle Nathria](https://news.blizzard.com/en-us/article/23584139/castle-nathria-raid-finder-wing-4-now-live), Revendreth conflict; [Council of Blood](https://warcraft.wiki.gg/wiki/Council_of_Blood), encounter reference.
+
+[^23]: Blizzard, [Cataclysm Classic dungeons](https://worldofwarcraft.blizzard.com/en-us/news/24095666), Defias background and revised dungeon; [Deadmines](https://warcraft.wiki.gg/wiki/Deadmines), version context.
+
+[^24]: [Blackrock Depths](https://warcraft.wiki.gg/wiki/Blackrock_Depths), Warcraft Wiki, city layout and separate anniversary raid.
+
+[^25]: [Stratholme](https://warcraft.wiki.gg/wiki/Stratholme) and [Culling of Stratholme](https://warcraft.wiki.gg/wiki/Culling_of_Stratholme), Warcraft Wiki, separate locations in the timeline and instance context.
+
+[^26]: [Magisters’ Terrace](https://warcraft.wiki.gg/wiki/Magisters%27_Terrace), Warcraft Wiki, Sunwell-era context.
+
+[^27]: [Halls of Reflection](https://warcraft.wiki.gg/wiki/Halls_of_Reflection), Warcraft Wiki, Icecrown dungeon sequence.
+
+[^28]: Blizzard, [Return to Karazhan](https://worldofwarcraft.blizzard.com/en-gb/news/20324668/dungeon-preview-a-return-to-karazhan), dungeon preview and structure.
+
+[^29]: Blizzard, [Preserve the Timeline: Dawn of the Infinite](https://news.blizzard.com/en-us/article/23976337/preserve-the-timeline-dawn-of-the-infinite-mega-dungeon), setting and Nozdormu premise.
+
+[^30]: Blizzard, [New Players Starter Guide](https://worldofwarcraft.blizzard.com/en-us/news/24266319), February 2026, current introduction and access structure.
+
+[^31]: Blizzard, [Returning Player’s Guide](https://worldofwarcraft.blizzard.com/en-us/news/24263354), selected Story Mode coverage; [Follower Dungeons](https://warcraft.wiki.gg/wiki/Follower_Dungeons), specialist reference for supported content.
+
+[^32]: Blizzard, [Content Update Notes](https://worldofwarcraft.blizzard.com/en-us/content-update-notes), active branch coverage as of 27 October 2026. Realm rules and activity should be checked separately.
+
+[^33]: Blizzard, [World of Warcraft at BlizzCon 2026 News Round-Up](https://news.blizzard.com/en-us/article/24301145/world-of-warcraft-at-blizzcon-2026-news-round-up), separate branch announcement; [Forever product page](https://worldofwarcraft.blizzard.com/en-us/forever/), scheduled launch date.
+
+[^34]: Blizzard, [Forever upgrades and access announcement](https://wow-site-bwa-production-eks-prod-use1-01.worldofwarcraft.blizzard.com/en-us/news/24301508/world-of-warcraft-forever-upgrades-vorab-kaufen-und-die-n%C3%A4chste-reise-durch-azeroth-beginnen), launch time, subscription inclusion and optional upgrades.
+
+[^35]: Blizzard, [Legion Remix: Argus Eternal](https://news.blizzard.com/en-us/article/24239491/legion-remix-argus-eternal-now-live), example of a staged, limited-time revisit, not a statement that its original event window is currently open.
 
 <!-- fourth-frame:end -->
