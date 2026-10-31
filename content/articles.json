@@ -170,7 +170,8 @@
     ],
     "related": [
       "consoles-deserved-better",
-      "underrated-nes-games"
+      "underrated-nes-games",
+      "the-games-we-never-got-to-play"
     ]
   },
   {
@@ -1107,6 +1108,23 @@
     "related": [
       "hearthstone-stories-expansions-adventures-guide",
       "warcraft-iii-heroes"
+    ]
+  },
+  {
+    "slug": "the-games-we-never-got-to-play",
+    "type": "Long read",
+    "tags": [
+      "Cancelled games",
+      "Gaming history",
+      "Game development",
+      "Blizzard",
+      "Star Wars",
+      "Game preservation"
+    ],
+    "related": [
+      "cancelled-games-masterpieces",
+      "the-people-who-made-our-favourite-games-work",
+      "world-of-warcraft-stories-expansions-raids-guide"
     ]
   }
 ]
