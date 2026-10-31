@@ -126,6 +126,7 @@ Article files (updated by `scripts/add_article.py`):
 - dragonlance-reading-guide: `stories/dragonlance-reading-guide/index.html`
 - hearthstone-stories-expansions-adventures-guide: `stories/hearthstone-stories-expansions-adventures-guide/index.html`
 - world-of-warcraft-stories-expansions-raids-guide: `stories/world-of-warcraft-stories-expansions-raids-guide/index.html`
+- the-games-we-never-got-to-play: `stories/the-games-we-never-got-to-play/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
