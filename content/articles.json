@@ -1126,5 +1126,38 @@
       "the-people-who-made-our-favourite-games-work",
       "world-of-warcraft-stories-expansions-raids-guide"
     ]
+  },
+  {
+    "slug": "mdk-retrospective",
+    "type": "Long read",
+    "tags": [
+      "MDK",
+      "Shiny Entertainment",
+      "Retro games",
+      "Shooters",
+      "Game design"
+    ],
+    "related": [
+      "short-satisfying-games-between-gta-vi-sessions",
+      "best-bioware-games-ranked",
+      "retro-game-collections-worth-playing"
+    ]
+  },
+  {
+    "slug": "actraiser-retrospective",
+    "type": "Long read",
+    "tags": [
+      "ActRaiser",
+      "Quintet",
+      "SNES",
+      "Retro games",
+      "Game design",
+      "Game music"
+    ],
+    "related": [
+      "retro-game-collections-worth-playing",
+      "why-dragon-age-original-trilogy-mattered",
+      "mdk-retrospective"
+    ]
   }
 ]
