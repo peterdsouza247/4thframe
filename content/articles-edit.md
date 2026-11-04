@@ -5,7 +5,7 @@ Refresh from the site (replaces this file): `python3 scripts/export_articles.py 
 Preview: `python3 scripts/import_articles.py --dry-run`
 Apply: `python3 scripts/import_articles.py`
 
-<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play"]} -->
+<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play", "mdk-retrospective", "actraiser-retrospective"]} -->
 
 <!-- fourth-frame:article {"slug": "telltales-batman-reinvention", "sha256": "100f9ea78c5d6fa7ca7a1d580d3d07af36b03e9c3b2c49c0a90bcae5f0610bea", "edit_sha256": "be9a193e68c0b9ae2ca1d82566d78325b805aaa8d3b2215603628d84f634d787"} -->
 ---
@@ -8104,5 +8104,313 @@ This feature draws on published reporting, developer interviews, contemporary de
 [^26]: Danny O’Dwyer, [The Story of Overwatch: The Complete Jeff Kaplan Interview](https://www.gamespot.com/articles/the-story-of-overwatch-the-complete-jeff-kaplan-in/1100-6439202/), May 2016. Participant account of the transition from Titan to Overwatch.
 
 [^27]: Lex Fridman, [Jeff Kaplan interview transcript, episode 493](https://lexfridman.com/jeff-kaplan-transcript), 2026, Titan discussion from approximately 3:03. Used for Kaplan’s later recollections of the proposed MMO and its problems; recollection is attributed to him.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "mdk-retrospective", "sha256": "37b2a00194e1a0556df419c8b9c8ef85eb21fbbb1e306c8b3582b1e67e93c4cf", "edit_sha256": "9efc302a4faffe9841e0a3eabad819d252c12cc6ff2b0c3a25cadce9786fc63a"} -->
+---
+title: "MDK: A Janitor, a Sniper Helmet and a Very Strange Alien Invasion"
+description: "Revisiting Shiny's MDK: Kurt Hectic's sniper helmet, ribbon parachute, strange alien worlds and the design that holds its absurd adventure together."
+summary: "How Shiny made a janitor with a gun on his head the right hero for a wonderfully strange shooter."
+deck: "Shiny's 1997 shooter found plenty of uses for a sniper rifle, a parachute and a complete disregard for sensible alien behaviour."
+---
+
+An alien mining machine is chewing through the Earth, and the person sent to stop it is a janitor wearing a gun on his head. His support team consists of an eccentric scientist and a six-legged dog. Somewhere in the equipment cupboard is a nuclear bomb small enough to serve as a door key.
+
+That is a fairly useful introduction to *MDK*. It tells you roughly what the game involves and gives you fair warning about the people responsible for it.
+
+Shiny Entertainment's 1997 shooter is easy to remember as a collection of oddities. Kurt Hectic's long, pointed helmet. His black suit. The ribbon parachute spreading above him. The enemies who seem to have wandered in from a different, much less dignified invasion. But the reason these things work together deserves more attention. Underneath the jokes is an action game that repeatedly changes how you look at a room, how you move through it and what you need to do before leaving.
+
+It has its awkward stretches, and some of its tricks are better than others. Even so, there is a particular pleasure in a game whose next idea is difficult to predict. *MDK* gets a surprising amount of mileage out of that pleasure.
+
+[TOC]
+
+## A science-fiction game with a cartoon upbringing
+
+Shiny had already made its name with *Earthworm Jim*. That background matters because *MDK* carries over an animator's interest in silhouettes, exaggerated movement and visual jokes, even as its setting heads towards industrial science fiction.
+
+In a later interview with Hectic HQ, creator Nick Bruty described wanting to return to science fiction after working on cartoon games. The starting image was a futuristic figure clinging to a building, with a weapon attached to his head so his hands could remain free. That practical little thought produced one of the more recognisable character designs of the period.[^1]
+
+Kurt looks strange, but he is easy to read. The helmet gives him a distinctive profile; the slim body makes his movement visible against enormous structures. There is very little danger of confusing him with a generic soldier. His equipment is also part of his shape. You can understand something about what this person does before a tutorial begins explaining it.
+
+The original manual credits Bruty, Bob Stevenson and Tim Williams equally for design, with further design contributions from Andy Astor, Martin Brownlow and Shawn Nelson. It is a useful reminder that a game this distinctive still comes from several people solving different problems together.[^2]
+
+Its premise gives those people plenty of room. Alien machines are stripping the planet for resources. Kurt, employed by Dr Fluke Hawkins aboard the Jim Dandy, becomes the available answer to a problem well outside his job description. The gulf between the size of the emergency and the qualifications of the hero supplies much of the humour.
+
+There is no lengthy transformation into a hardened professional. The suit can make Kurt look capable. The surrounding nonsense keeps the adventure from becoming too impressed with him.
+
+## The room matters more than the body count
+
+The ordinary fighting is fast and mobile. Kurt's arm-mounted gun lets him keep moving while dealing with enemies, and the third-person view gives his evasions and changes of direction a physical presence. Staying active is a large part of the appeal. The game wants you crossing its spaces, looking for an angle and making use of the room around you.
+
+That would support a perfectly serviceable shooter by itself. *MDK* becomes more interesting when an encounter interrupts the obvious solution.
+
+A distant target calls for the sniper helmet. A gap makes the parachute relevant. An unusual object invites experimentation. Instead of asking only how many enemies are left, you start asking what the area is trying to get you to notice. The distinction keeps the action from settling into one comfortable routine.
+
+Its progression is essentially linear, despite the scale of some environments. These are spaces designed to present a particular sequence of problems. Their size gives individual scenes room to breathe; it does not promise an open world full of competing objectives. Once that expectation is clear, the structure makes sense. A corridor can lead to a much larger arena because the next encounter needs a different kind of attention.
+
+The danger is that the designer's intention can be less clear than the designer expects. If the required target or interaction escapes notice, momentum drains away. A joke about a peculiar contraption becomes less amusing after several minutes spent wondering which part of it counts as the answer.
+
+This is where *MDK* can feel its age. It is willing to trust curiosity, which is welcome. It is occasionally too willing to trust that curiosity will produce exactly the right conclusion.
+
+## A sniper rifle that changes the pace
+
+Kurt's helmet is the game's best piece of equipment because using it changes the terms of an encounter.
+
+Normal combat makes you pay attention to movement and nearby threats. Entering the scope narrows that attention. The target becomes important in a different way: its distance, its position, the moment it can be hit. The player moves from reacting to the room to examining a portion of it.
+
+It is a simple way to build variation without continually replacing the protagonist's abilities. The same environment can support a running battle and a careful shot. A structure that looked like background becomes part of the problem once something on it needs to be hit.
+
+The manual advises acquiring a target before increasing magnification. Airstrikes also use the sniper interface, making the scope a way to direct support as well as fire a shot.[^2]
+
+There is a satisfying relationship between the ridiculous appearance of the helmet and the precision it asks of you. A weapon attached to someone's face sounds like a joke. Then the level gives you a reason to concentrate on using it properly.
+
+The technology was built around that need. Bruty told Hectic HQ that the team chose 640 by 480 resolution to give the sniper mode enough precision, at a time when many 3D games used much lower resolutions. That choice carried a cost: more ambitious city scenery had to be curtailed for performance.[^1]
+
+This is more revealing than a general claim that *MDK* was technically impressive. A particular mechanic needed a particular degree of clarity, and other ambitions were reduced to support it. The resulting environments can look sparse, but the sniper rifle gives their distances a purpose.
+
+There are limits to the idea. Precision tasks can become fussy, and repeated switches into the scope can interrupt an otherwise lively fight. The game is strongest when taking aim feels like a useful change of approach. It is weaker when the player is simply waiting to perform the one permitted interaction.
+
+## The parachute makes the scale useful
+
+The ribbon parachute has a quieter but equally important role. It makes height into something the player can use.
+
+In plenty of action games, a huge room is mostly a visual statement. You fight on its floor and admire the architecture above you. Kurt's ability to drift changes that relationship. A high platform suggests a departure point. Empty space becomes somewhere to travel through. The distance to the ground becomes part of a route.
+
+There is also a welcome change in tempo. Running and shooting are immediate. Gliding stretches a movement across several seconds, giving you time to look at where you are going and adjust your expectations of the next landing. The game can make the same basic act of reaching the other side feel very different by changing the elevation.
+
+The parachute helps sell the enormous machinery, too. Kurt's small figure suspended against a large structure makes scale legible in a way that a description of the minecrawler cannot. You are given enough control to move through the spectacle rather than standing at the bottom of it waiting for the camera to finish showing off.
+
+It also belongs to the character. The sniper helmet and parachute make Kurt a peculiar combination of infiltrator, acrobat and improvised exterminator. Those roles fit the task of entering something much larger than himself and disabling it from within.
+
+There is a consistency here that the surrounding humour can obscure. The setting needs giant machines. The character needs ways of crossing their interiors. The equipment gives the level designers reasons to build vertically. Each supports the others.
+
+## The jokes are allowed to become mechanics
+
+The smallest nuclear bomb is a good example of *MDK*'s sense of proportion. Nuclear weapons normally represent the largest possible escalation. Here, one becomes a piece of specialised equipment for a much smaller problem. The joke sits in the mismatch between the name and the job.
+
+Other equipment encourages a similarly playful response. The manual advises experimenting with unfamiliar pickups somewhere quiet.[^2] That suits the fiction of receiving fresh inventions from a scientist who has apparently skipped the field-testing stage.
+
+Shiny's contemporary development diary is full of enthusiasm for further interruptions to the shooting: snowboarding, bombing runs and an alien hoverboard. Even allowing for the excitement of a studio promoting unfinished work, the priorities are clear. The team wanted changes of activity to be part of the attraction.[^3]
+
+That approach has a cost. An unusual section may finish before it has developed into anything substantial. Another may demand attention without being as enjoyable as the ordinary movement and combat it replaces. Variety is valuable when a new idea earns its interruption; a game cannot assume every departure is automatically welcome.
+
+But there is an advantage to this particular kind of generosity. *MDK* can put something odd in front of you without promising that it will become a whole progression system. A funny weapon can remain a funny weapon. An activity can appear, do its job and leave.
+
+The enemies contribute to this mood because their behaviour and appearance leave room for indignity. The invasion can be catastrophic without every participant behaving as though they are auditioning for the most serious alien army in fiction. A world this strange becomes more convincing when some of its inhabitants look ridiculous living in it.
+
+## A threatening place that refuses to behave solemnly
+
+For all the silliness, *MDK* has an unsettling visual identity. The industrial structures are huge and often difficult to relate to ordinary human spaces. Kurt can appear almost delicate against them. His suit fits the darkness, but the man inside it remains an improbable visitor.
+
+That relationship gives the game an atmosphere of intrusion. You are moving through something built for purposes that do not include your comfort. The broad surfaces and exposed distances can reinforce that feeling, even where they also betray the limitations of early 3D environments.
+
+Sound has to help these places hold together. The manual credits Tommy Tallarico Studios for sound design, and the development diary describes music being brought into the production alongside effects and voice recording.[^2][^3] The music gives the spaces a dramatic scale that the visual jokes can then puncture. Constant comic music would leave very little for a joke to interrupt.
+
+There is a similar tension in the invasion itself. A meter tracks civilian deaths as a minecrawler advances, although this never became a developed moral-choice system.[^1][^2] It adds nasty background pressure, but the adventure remains structured around reaching and overcoming its next obstacle.
+
+That is a fair limitation to recognise. The game evokes an emergency more effectively than it simulates one. Its strengths lie inside the machinery, where the designers can control the next encounter, the next absurdity and the view that frames them.
+
+## Small-team invention, with visible seams
+
+Bruty recalled a team of six making the game in a little over a year alongside their first 3D engine. Eight planned worlds became six.[^1] That helps explain some of the unevenness.
+
+The variety can be exhilarating while the transitions between ideas feel rough. Some spaces are easier to appreciate as compositions than to navigate. Certain encounters have a clearer purpose than others. The game often seems eager to get to its next invention before fully refining the current one.
+
+That should not become an excuse to dismiss every criticism as the price of creativity. Clearer objectives and more consistent feedback would help several of these ideas. An original mechanic still needs to communicate what the player can do with it.
+
+Equally, the roughness is no reason to reduce *MDK* to an interesting failure. Its central tools are strong enough to support an actual adventure. The helmet changes how you examine an environment; the parachute changes how you cross it. There is a coherent game beneath the parade of strange things.
+
+The later *MDK 2*, developed by BioWare and released in 2000, put Kurt, Max and Hawkins into three playable roles.[^4] That is a substantial shift: the companions who help define the original's absurd little universe become separate ways of playing in it. It is worth approaching as its own interpretation of the premise rather than assuming Shiny simply continued where it left off.
+
+## Why make time for MDK now?
+
+The original is still sold digitally, including through GOG.[^5] Allow a little time to configure the controls and check compatibility before settling in. The unusual equipment is worth learning; fighting your own key bindings is less rewarding.
+
+The more useful expectation is about its design. This is a compact, linear action game built around a handful of distinctive tools and a steady willingness to try something else. Players who enjoy learning an unusual movement system, noticing the logic of an encounter and seeing what a designer has placed around the next corner have good reasons to investigate it. Anyone looking for the precision and consistency of a modern shooter should expect compromises.
+
+There is more to appreciate here than the fact that games used to be strange. Plenty of strange games are tiring. *MDK* gives its strangeness something useful to do: the silhouette tells you about the equipment, the equipment changes the environment, and the environment keeps finding new demands to make of both.
+
+The janitor is a ridiculous choice to save the world. After spending some time with the tools available, the choice begins to look reasonably well considered.
+
+[^1]: [Nick Bruty's interview with Hectic HQ](https://hectichq.com/viewpage.php?page_id=54), covering the initial character sketch, sniper resolution, reduced scope, production recollections and the handover of the sequel.
+
+[^2]: [Original PC instruction manual](https://www.bestoldgames.net/download/games/mdk/mdk-dos-manual.pdf), especially its credits, gameplay advice and Dr Hawkins's journal. The manual uses Bones for the dog; later material uses Max. This article follows the familiar Kurt Hectic / Dr Fluke Hawkins names.
+
+[^3]: [Shiny's development diary, preserved by Hectic HQ](https://hectichq.com/viewpage.php?page_id=78). These are contemporary development notes, so planned features and production enthusiasm are treated as such.
+
+[^4]: [BioWare's official games archive](https://www.bioware.com/games/), entry for *MDK2*. The sequel's original release year is 2000; individual platform dates differ.
+
+[^5]: [MDK on GOG](https://www.gog.com/en/game/mdk), digital PC release and product information.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "actraiser-retrospective", "sha256": "e5b1a93bb10aa1ee9df379e2bdf07dd80c84e9794de2cdad05670063b5f4cd3c", "edit_sha256": "89821bc441e404a8d476af3c9bf3af6bde671050417ca5f2e66ce19344e0c6cd"} -->
+---
+title: "ActRaiser: The World Was Worth Saving Because You Helped Build It"
+description: "How ActRaiser's sword fighting, settlement building and Yuzo Koshiro score made an early SNES game about saving people unusually thoughtful."
+summary: "Quintet's strange mixture of sword fighting and settlement building gave the world between battles a life of its own."
+deck: "Between the monsters and the miracles, an early SNES game found time for the people who had to live with the aftermath."
+---
+
+Saving the world is usually the exciting part. Someone else can sort out the roads afterwards.
+
+*ActRaiser* makes the roads your problem. You descend from the heavens, inhabit a warrior's statue and fight through a land occupied by monsters. Then you return to the sky and help a small settlement work out how to survive there. The sword has done its job. The people still need somewhere to live.
+
+That change of pace is the reason to talk about Quintet's early Super Nintendo game. The action provides danger and release. The settlement building lets the consequences remain on screen. A region stops being a place where a boss used to live and becomes somewhere that other people are trying to make their home.
+
+The individual systems have limitations. The sword fighting is fairly stiff, and the simulation can spend too long waiting for its next event. Yet their relationship produces something that neither half could manage as easily alone. There is a surprisingly thoughtful game about responsibility tucked inside this strange little adventure.
+
+[TOC]
+
+## Two ideas sharing a cartridge
+
+Developed by Quintet and published by Enix, *ActRaiser* first appeared in Japan in 1990, with its North American release following in 1991. It arrived early enough in the Super Famicom's life that its creators were still working out what a game for the new machine ought to be.[^1]
+
+Tomoyoshi Miyazaki later recalled that Quintet had initially been making an RPG, with an ambitious concept involving a planet's life cycle, before changing direction. In comments preserved and translated by shmuplations, he describes the decision as an attempt to make something worthy of the new hardware. Some of the abandoned ambition would eventually feed into *Terranigma*.[^2]
+
+Ayano Koshiro's account provides another useful piece of the story. She recalled that the programmer favoured action while the lead planner liked *Populous*. The resulting game combined those interests.[^3] Those recollections need not be squeezed into a neat myth about a single inspired afternoon. What matters is that the final design gave both ideas meaningful work to do.
+
+The basic arrangement is easy to understand. Each of the six principal regions has action stages surrounding a period of settlement growth. You clear the initial threat, assist the inhabitants, then return to combat when a more powerful danger demands direct intervention. The player alternates between embodying divine force and supervising the slower business of recovery.[^1]
+
+It is an economical structure. It can change the scenery and the local problems without having to teach a whole new game in each region. More importantly, it gives the player two different reasons to care about progress. Defeating a monster opens the way for a community. Helping that community develop prepares the ground for further victories.
+
+The fantasy of power has a practical purpose from the beginning.
+
+## A sword is a fairly limited answer
+
+The action stages have an appealing physical premise. Your presence on Earth takes the form of an animated statue, a broad warrior carrying a sword through hostile territory. It is a strong image for a god intervening in human affairs: enormous authority, briefly concentrated into one vulnerable body.
+
+The ordinary tools are straightforward. You move, jump and swing, with magic providing additional help. That simplicity puts emphasis on enemy placement, attack timing and the terrain immediately ahead. It also means the quality of a stage depends heavily on whether those basic interactions remain enjoyable.
+
+There is a difference between deliberate movement and movement that feels unhelpfully rigid. *ActRaiser* crosses that line at times. Ayano Koshiro herself acknowledged problems with attacks coming from off screen and unusual jumping behaviour.[^3] It would be odd to insist that every awkward landing was an intentional lesson in divine humility when someone involved was prepared to admit the practical problems.
+
+Still, the limited movement gives the fighting a particular rhythm. Position matters because you cannot rely on a generous set of evasive actions to rescue every bad decision. A jump commits you to dealing with what lies ahead. A sword swing has to meet an enemy at the right distance.
+
+The game's action is more convincing when it asks for that kind of attention than when it punishes the player for information they could not reasonably have read. Those are different things, even in an old game. Age can explain a design limitation without turning it into a virtue.
+
+The stage art helps carry the adventure. The regional differences imply that the world contains more than a sequence of combat rooms, and the return to the overhead map lets you see those places at another scale. What was dangerous terrain becomes the surrounding geography of a settlement.
+
+That second perspective does a great deal for the first. You are given a reason to think about the land after you have finished fighting across it.
+
+## The people do the building
+
+In the simulation sections, you control the little angel who serves as your intermediary. You direct the settlement's expansion, drive away monsters with arrows and use miracles to make more land habitable. Your inhabitants build and cultivate the routes you have opened for them.[^4]
+
+The relationship is important. A more elaborate construction game might let you place every building personally. Here, the visible activity belongs to the community. You guide its development and remove obstacles, then watch people occupy the space.
+
+That gives the small figures an unusual degree of ownership. They are doing the living. The player is responsible for making it possible.
+
+The process is also very readable. A patch of land is unsuitable; a miracle changes it; settlement can proceed. Monsters emerge from lairs; you keep them away while guiding the population towards the source. The village expands into an area that previously belonged to its enemies. Progress can be seen directly on the map.
+
+Population growth raises the Master's level, feeding the settlements' progress back into your strength.[^1] It is a much more appropriate measure for this particular protagonist than awarding all progress for the number of creatures personally killed.
+
+There is a danger in making that sound deeper than it is. This is no detailed model of government or ecology. Much of the time, the desired outcome is clear and the task is to perform the necessary steps. The pleasure comes from recognising a need, acting on it and seeing the change persist.
+
+That is enough to give the people a place in the adventure. They remain visible between emergencies. The game makes you spend time with the world at something closer to its ordinary pace.
+
+## Miracles as practical work
+
+Lightning and rain are familiar divine powers. *ActRaiser* asks what they are useful for when the immediate problem is a settlement rather than a monster's health bar.
+
+Lightning clears obstacles, sunlight dries land and rain helps crops. Miracles cost SP, replenished by defeating monsters.[^4] These powers make examining the map worthwhile: there are conditions you can change as well as enemies you can shoot.
+
+A forest is a problem that can be changed. Dry ground suggests another response. Instead of arriving at a new place and asking only what needs killing, you examine the conditions that prevent people from thriving.
+
+This need not involve a complicated choice to feel worthwhile. Games often ask players to repair things through a progress bar, after which a texture changes and the next objective appears. *ActRaiser* links repair to further activity. The cleared ground becomes somewhere a road can go. The road allows the settlement to reach something else. The effect continues beyond the first visual reward.
+
+There is an uncomfortable side to this power as well. Older, less efficient housing can be cleared to allow more advanced development. Taken purely as a population puzzle, that is understandable. Taken as the work of a benevolent protector, it makes the relationship look rather more severe.
+
+The game does not fully explore that tension. Its growth model is simple, and the player can start treating the population as a number to optimise. But the small requests and local stories repeatedly draw attention back towards the people represented by that number. Efficiency is part of the game; it is an incomplete description of what the player has been asked to do.
+
+## A loaf of bread can matter as much as a boss
+
+In Bloodpool, Teddy goes missing. His mother offers bread; taking it to him brings him home and leads to an offering useful against a monster lair.[^4]
+
+The sequence is mechanically modest. Find someone, use the relevant item, receive the next useful thing. Yet it changes the way the settlement reads. An interruption to development has a human cause. Someone is frightened for her child. Your attention is needed for a reason that cannot be expressed adequately as a deficit in population growth.
+
+It is also a sensible use of scale. A game about a deity does not need to manufacture a larger threat every time it wants to make intervention meaningful. A missing child is small beside the fate of a region, but it is quite large enough for the person waiting at home.
+
+The exchanges between regions help in another way. The manual describes taking bridge-building knowledge from Fillmore to Bloodpool, and moving useful offerings between communities.[^4] The places are connected through what they can provide each other. The world is gradually developing a shared store of answers.
+
+That is a stronger reason to revisit somewhere than checking whether a new collectible has spawned. A previous settlement may hold something useful for a current problem. Its progress remains relevant after its own immediate crisis has passed.
+
+There are obvious limits to the storytelling. The inhabitants speak through short messages, and their personalities are lightly drawn. But the stories are attached to things the player does. Concern leads to an intervention, and the intervention changes what can happen next. Very little dialogue is wasted explaining why the gameplay has temporarily stopped.
+
+## The quiet sections need to keep moving too
+
+The settlement building is the original's defining feature. It can also be its slowest part.
+
+Once the relevant obstacles have been cleared and the immediate threat is under control, waiting for construction or the next request can become routine. The angel's shooting occupies your hands, but it is not always enough to make the interval interesting. Repetition starts to show through the generous premise.
+
+Nor does every obstacle become a satisfying little inference. A player can understand the situation while remaining unsure which item or command the game expects. The distinction between knowing what should happen and knowing how this particular interface permits it is where some of the friction sits.
+
+These shortcomings matter because the two halves depend on each other's pacing. The simulation should give the action room to recover its impact. If it drags, the next battle starts to feel like a reward for finishing chores. Equally, if the fighting becomes frustrating, town management can turn into a refuge from the supposed excitement.
+
+The game's achievement is that its alternation works often enough to make both activities feel purposeful. There is a recognisable cycle of danger, relief and fresh responsibility. Finishing an action stage is satisfying partly because you know what the peace will allow.
+
+That helps explain why reducing the design to a list of component genres misses something. You could improve the combat in isolation and still produce a less involving adventure if the quieter part disappeared.
+
+## Koshiro gives a small world a large emotional range
+
+Yuzo Koshiro's music is central to the way *ActRaiser* moves between those moods. The force of the action music and the gentler character of the settlement themes make the change of activity feel immediate. The score helps establish both the scale of your authority and the vulnerability of the people below.
+
+In a 2011 interview, Koshiro said he had not previously composed an orchestral score and worked largely by instinct. He also noted that the Super Nintendo made string sounds easier to reproduce than FM synthesis had.[^5] That is a useful account because it grounds the achievement in a musician responding to the available tools.
+
+The result can sound grand without turning every event into the same kind of triumph. The opening action music urges movement. The settlement music makes continued activity feel hopeful. A sorrowful cue can change the meaning of those little houses without needing to replace them with detailed cinematic scenes.
+
+There is also a practical benefit to strong melodic identity in a game where the player spends time looking at a fairly small map. The music supplies movement and expectation while construction takes place. It cannot solve every slow section, but it gives the act of watching a settlement a much stronger emotional character.
+
+The presentation works best as a whole. The tiny people, the temple, the larger view from the heavens and the score imply different scales of life taking place at once. You are powerful enough to alter the landscape and close enough to hear about a loaf of bread.
+
+## The sequel and the remake chose different answers
+
+The 1993 sequel, *ActRaiser 2*, removed the settlement simulation and concentrated on action. Ayano Koshiro attributed that decision to Enix's American office; she and Hitoshi Ariga also recalled requests for greater difficulty.[^3] It is a frustrating example of a distinctive game being steered away from the thing that distinguished it.
+
+The change makes the original's unusual appeal easier to identify. More demanding combat is a valid direction for a sequel. But it removes the activity that gives the fighting its place in a larger process. The player can still defeat evil without spending the same time watching ordinary life return.
+
+The 2021 remake, *Actraiser Renaissance*, goes in the other direction. Its official description lists expanded settlement management, defence battles, additional stories and a new realm, alongside changes to the action. Koshiro returned to rearrange the original music and add new tracks, with an option to switch between original and rearranged music.[^6]
+
+The defence battles and longer stories give the people more attention, but they also change how long you spend between action stages. The original's briskness is part of its appeal. More activity on the map does not automatically improve that rhythm.
+
+The important distinction for a new player is that *Renaissance* is an expanded remake. Its presence on current storefronts makes the premise easier to access, but it should not be mistaken for an unchanged release of the SNES game. The original's economy and its limitations belong to the same particular version of the idea.
+
+## The ending understands the task
+
+The final sequence deserves to be left intact for anyone discovering the game. It also explains why the settlement building matters beyond the mechanical usefulness of a larger population.
+
+:::spoilers Discuss the original ActRaiser's ending
+
+After the final victory, the Master and angel look over the world they have helped. The temples are empty. The angel reflects on the possibility that people are happiest when they no longer need to ask their protector for help.[^1]
+
+There is room to read sadness into that. A deity who has spent the game restoring faith now encounters its apparent absence. It can also be read as an unusually generous understanding of success: the people are able to get on with their lives.
+
+The game has made this question playable well before the ending raises it. You have been clearing obstacles, sharing useful things and helping settlements become more capable. The final scene asks you to consider what all that help was for. If the goal was the inhabitants' wellbeing, their reduced dependence ought to count for something.
+
+That does not settle a large argument about faith. It does give a game about divine power an ending that pays attention to the people who lived under it. Their ability to continue matters more than arranging a final queue of grateful subjects.
+
+:::
+
+## A world with something to do after the battle
+
+*ActRaiser* remains worth examining because its systems make a familiar heroic promise concrete. Saving a place should leave somebody able to live there. The game gives you time to see that happen and enough responsibility to feel involved in it.
+
+Its action has aged unevenly, and the town simulation will seem slight to anyone seeking a demanding building game. Neither complaint makes the combination less interesting. Players who enjoy short adventures, expressive music and visible consequences for their actions have good reasons to look beyond the awkward edges.
+
+There is a useful lesson here for much larger games. A convincing world needs activities that make its continued existence meaningful. Some of those activities can be quite ordinary. Roads, food and the return of a missing child do more for *ActRaiser's* humanity than another elaborate account of how powerful its villain is.
+
+The sword clears the way. The settlement shows who the way was cleared for.
+
+[^1]: [ActRaiser reference overview](https://en.wikipedia.org/wiki/ActRaiser), used for regional release years, the broad sequence of the original and the ending. This article discusses the SNES original; *Renaissance* is treated separately.
+
+[^2]: [Quintet developer interviews and archived website comments, translated by shmuplations](https://shmuplations.com/quintet/). Miyazaki recalls the original RPG project, its change of direction and the connection to *Terranigma*.
+
+[^3]: [Time Extension's interview with Ayano Koshiro and Hitoshi Ariga](https://www.timeextension.com/features/streets-of-rage-2-actraiser-and-story-of-thor-ayano-koshiro-on-her-career-in-games), including the first game's combined influences, action limitations and the sequel's direction. Production explanations are attributed to their recollections.
+
+[^4]: [Original North American instruction manual](https://www.retrogames.cz/manualy/SNES/ActRaiser_-_SNES_-_Manual.pdf), particularly printed pages 8–21 on action, simulation, miracles and Fillmore/Bloodpool. It also documents replacing older buildings. Terminology and difficulty vary between regional versions.
+
+[^5]: [Game Music's February 2011 interview with Yuzo Koshiro](https://www.squareenixmusic.com/features/interviews/yuzokoshiro.shtml), by Chris Greening and Don Kotowski, on the score and the Super Nintendo's sound capabilities.
+
+[^6]: [Official Actraiser Renaissance Steam listing](https://store.steampowered.com/app/1393370/Actraiser_Renaissance/) and [Square Enix's announcement](https://www.square-enix-games.com/en_US/home/actraiser-renaissance-playing-god-has-never-been-so-satisfying). These detail the remake's additional modes, stories and music options.
 
 <!-- fourth-frame:end -->
