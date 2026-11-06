@@ -1,0 +1,777 @@
+{
+  "slug": "wing-commander",
+  "name": "Wing Commander",
+  "reviewed": "6 November 2026",
+  "strap": "Where to start Wing Commander, from the Tiger’s Claw to Privateer.",
+  "description": "A Wing Commander guide to campaign order, Privateer, the Anniversary editions, flight basics and recurring characters, with optional story recaps.",
+  "intro": "The appeal is easy to understand: fly a dangerous mission, return to the carrier and find out what the people beside you make of it. Wing Commander gives the pilots names and lets the war follow them into the bar. Start with III for the cinematic campaigns, the original for the full history, or Privateer if you would rather own the ship and choose the work.",
+  "recommendation": "For a manageable first route, play III: Heart of the Tiger, then IV: The Price of Freedom. Take I → II → III → IV for Blair’s longer story. Choose Privateer for trading and ship progression, or Prophecy for a later combat-focused starting point.",
+  "branch_label": "Campaign or detour",
+  "story_order_label": "Suggested campaign groups",
+  "atlas_title": "A carrier berth, or a ship of your own.",
+  "atlas_intro": "The main campaigns follow a military career. Privateer changes your relationship with the universe, while Academy and Armada experiment with how the battles are arranged. You can choose one route without buying the whole catalogue.",
+  "strand_link": "See this route ↓",
+  "strands": [
+    {
+      "name": "Carrier campaigns",
+      "title": "Follow the pilots",
+      "text": "I–IV build Blair’s military career. Prophecy introduces a new protagonist, with Secret Ops continuing that later conflict."
+    },
+    {
+      "name": "Privateer",
+      "title": "Earn your next ship",
+      "text": "Trade, take contracts and decide which risks are worth the credits. The Darkening has a different setting and cast."
+    },
+    {
+      "name": "Combat experiments",
+      "title": "Build a different battle",
+      "text": "Academy offers custom missions; Armada adds a strategic layer. These are optional alternatives to the story-led campaigns."
+    }
+  ],
+  "entries": [
+    {
+      "id": "cinematic",
+      "title": "Wing Commander III: Heart of the Tiger",
+      "audience": "I want a space opera with a memorable crew",
+      "why": "The TCS Victory gives Blair a new posting and the player a cast to get to know. Briefings, conversations and flight missions keep the war connected to individual people. Mark Hamill’s Blair is a useful point of entry even if you have never seen the earlier sprite-based games.",
+      "need": "Humanity’s Terran Confederation has fought the Kilrathi for decades. Blair is an experienced pilot; Paladin and Maniac are old acquaintances, and Hobbes is a Kilrathi ally serving with the Confederation.",
+      "skip": "I, II and their mission packs. The optional earlier-story recap explains Blair’s reputation without requiring several campaigns.",
+      "tradeoff": "This remains a space-combat game. Conversations provide context and choices, but you will spend a great deal of time learning to fight from a cockpit. It does not offer Mass Effect’s on-foot exploration or character builds.",
+      "next": "Play IV next. Its argument about loyalty and military power benefits from knowing the people and institutions in III.",
+      "unlock": "before-wc3",
+      "recap_events": [
+        "wc1",
+        "wc2"
+      ],
+      "recap_label": "Read the I–II recap (spoilers)"
+    },
+    {
+      "id": "origins",
+      "title": "Wing Commander",
+      "audience": "I want the full carrier-campaign history",
+      "why": "The original establishes the routine: listen to the briefing, fly with a wingman and return to a crew that reacts to the fighting. Different campaign paths and possible wingman losses make success feel larger than your own score.",
+      "need": "You are a young Confederation pilot aboard the Tiger’s Claw during the Kilrathi war. The personal name Christopher Blair is established in the later games.",
+      "skip": "Novels, the film and the animated series. They are not prerequisites for the game’s campaign.",
+      "tradeoff": "Sprite-based enemies and a cockpit full of instruments take adjustment. The original’s responsiveness to losses also differs from the more tightly scripted stories that follow.",
+      "next": "Continue with II, then III and IV. Play The Secret Missions and Crusade after I if you want more; they are harder optional continuations.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "privateer",
+      "title": "Wing Commander: Privateer",
+      "audience": "I want trading, freedom and a ship to improve",
+      "why": "Your starting ship and finances determine which jobs you can sensibly accept. A successful run buys equipment that changes your next decision. The main plot is available when you want it, while the everyday business of surviving gives the universe its appeal.",
+      "need": "You are Grayson Burrows, an independent pilot in Gemini. The Confederation and Kilrathi conflict is background pressure rather than a campaign you must have completed.",
+      "skip": "Every numbered Wing Commander. Their saves and character histories are unnecessary.",
+      "tradeoff": "Early earnings can be slow and encounters can be punishing. Repeated journeys are part of the progression. Buying a better ship is satisfying partly because the first one makes its limitations clear.",
+      "next": "Play Righteous Fire after the base story. Try Privateer 2 later if its unusual setting appeals; it is not Burrows’s next adventure.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "prophecy",
+      "title": "Wing Commander: Prophecy",
+      "audience": "I mainly want the later dogfighting",
+      "why": "A new protagonist and carrier let you learn alongside another generation of pilots. The later engine supports fluid combat and larger-looking engagements, making this a useful entry if the older games’ presentation is the main obstacle.",
+      "need": "The Kilrathi war is over. Lance Casey joins the Midway, and Christopher Blair is an established senior figure. You can accept those facts without reading the earlier endings.",
+      "skip": "I–IV and Privateer. Familiarity adds weight to returning characters, but Casey’s campaign explains its immediate threat.",
+      "tradeoff": "The crew drama and enemy are less distinctive than the conflicts in III and IV. Starting here also tells you the broad historical outcome of the Kilrathi war.",
+      "next": "Continue with Secret Ops. Return to III → IV if you want more of the older cast; expect the presentation and flight model to change.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "political",
+      "title": "Wing Commander IV: The Price of Freedom",
+      "audience": "I am most interested in the political thriller",
+      "why": "Suspicious attacks threaten a fragile peace. Blair must judge orders and evidence while serving an institution with its own interests. This is the strongest route for someone more interested in the argument surrounding the battles than the history of the Kilrathi war.",
+      "need": "Blair is a veteran, Tolwyn a powerful senior officer, and Paladin an old ally. The war has ended, but its military habits and political consequences remain.",
+      "skip": "I–II. III is recommended first, although the optional recap can supply its central outcome if you choose to begin here.",
+      "tradeoff": "The flight mechanics build on III more than they reinvent it, and difficult missions can interrupt the story’s pace. Starting here sacrifices some of the meaning attached to familiar faces.",
+      "next": "Choose Prophecy for the next main campaign. Play III afterwards only if knowing its ending will not undermine your interest.",
+      "unlock": "before-wc4",
+      "recap_events": [
+        "wc1",
+        "wc2",
+        "wc3"
+      ],
+      "recap_label": "Read the I–III recap (spoilers)"
+    }
+  ],
+  "basics": [
+    [
+      "What happens between missions",
+      "Visit the people available on the carrier before reporting for the next flight. Their conversations establish disagreements and relationships that a mission briefing cannot. Later games use full-motion video, usually shortened to FMV, for these scenes. The attraction depends on caring about the person whose voice you hear over the radio."
+    ],
+    [
+      "How the flying works",
+      "These are accessible military space-combat simulations, but they still ask you to read instruments. Learn target selection, radar, speed control, afterburners and the communications menu. Practise matching an enemy’s movement rather than holding the trigger as soon as a silhouette appears. Check the reference card for the particular game; controls and equipment vary."
+    ],
+    [
+      "Wingmen and objectives",
+      "Issue wingman orders and watch the objective as well as your target. Chasing a fighter far from an escort can win a small engagement while losing the mission. Bombers and capital-ship attacks have their own requirements in the games that use them. Read the briefing before blaming your guns for a problem they were not designed to solve."
+    ],
+    [
+      "Failure and campaign branches",
+      "The original can continue along different paths after poor results, and wingmen can be lost. Later entries use more scripted story beats alongside mission performance and dialogue decisions. A successful replay is a valid choice, but constant reloading is not the only way to see the campaign. Keep separate saves if you want to compare outcomes."
+    ],
+    [
+      "Which route carries the main story",
+      "I → II → III → IV follows Blair from the Tiger’s Claw through the war and its aftermath. Prophecy changes the player character to Casey; Secret Ops follows Prophecy. The mission packs sit after their parent campaigns. Privateer follows an independent pilot, and Privateer 2 uses another cast and setting."
+    ],
+    [
+      "What the Anniversary labels mean",
+      "EA released Anniversary editions of I, II, III, IV, Prophecy and Privateer 2 on 5 November 2026. The announced changes vary: I–II integrate community compatibility work and Kilrathi Saga versions; the later cinematic games receive restored footage and other enhancements. Prophecy includes Secret Ops. Privateer, Academy and Armada are listed as faithful ports. Consult the edition notes for your chosen game rather than assuming one feature list covers all nine."
+    ],
+    [
+      "Choosing controls and a first session",
+      "Use the launcher’s supported input options and the game’s reference card. A joystick can suit sustained flying, but do not buy one before checking whether the available mouse or controller setup works for you. Spend a short practice session learning to select targets, issue an order and return to the carrier. Your first campaign mission is a poor place to discover that you never mapped the command you need."
+    ],
+    [
+      "Privateer’s opening hours",
+      "Keep money for repairs and supplies instead of spending every credit on a purchase. Compare a contract’s destination with what your ship can survive. Save before committing to a risky journey, and pay attention to how shields, guns and equipment draw on your resources. The upgrade loop is the point; the main plot can wait while you establish yourself."
+    ],
+    [
+      "Academy, Armada and the adaptations",
+      "Academy is a custom-mission simulator, not the animated series of the same name. Armada combines ship-to-ship action with a light strategic campaign and multiplayer. Super Wing Commander is a remake of the original with revised presentation and campaign material. Arena is a later arcade offshoot. None is a missing numbered chapter you must complete before IV."
+    ]
+  ],
+  "events": [
+    {
+      "id": "wc1",
+      "title": "Wing Commander",
+      "year": 1990,
+      "era": "2654 / the Tiger’s Claw",
+      "premise": "A young Confederation pilot joins a carrier fighting the Kilrathi in the Vega Sector.",
+      "why": "Start here for the original carrier routine and branching campaign. Its presentation is older, but the consequences give individual sorties a larger context.",
+      "characters": [
+        "blair",
+        "angel",
+        "paladin",
+        "maniac"
+      ],
+      "recap": "The successful campaign path helps turn the Vega conflict in the Confederation’s favour. Individual wingmen can survive or die during play; later continuity does not preserve every possible campaign state.",
+      "optional": false,
+      "chronology": 1,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "sm1",
+      "title": "Wing Commander: The Secret Missions",
+      "year": 1990,
+      "era": "After the original campaign",
+      "premise": "The Tiger’s Claw investigates the destruction of a Confederation colony and pursues a dangerous Kilrathi weapon.",
+      "why": "Optional continuation after I. Its demanding missions suit players who want a tougher campaign before moving on.",
+      "characters": [
+        "blair",
+        "angel",
+        "paladin",
+        "maniac"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 2,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "sm2",
+      "title": "Wing Commander: The Secret Missions 2: Crusade",
+      "year": 1991,
+      "era": "The Firekka campaign",
+      "premise": "The carrier visits Firekka during a diplomatic mission that develops into a dangerous confrontation.",
+      "why": "Play after The Secret Missions if following the expansion route. It adds context around the crew and the wider war without being essential preparation for II.",
+      "characters": [
+        "blair",
+        "angel",
+        "paladin",
+        "maniac"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 3,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "wc2",
+      "title": "Wing Commander II: Vengeance of the Kilrathi",
+      "year": 1991,
+      "era": "2665 / the Concordia",
+      "premise": "Years after a career-damaging accusation, Blair has a chance to return to front-line service.",
+      "why": "The strongest sprite-era story route. Trust, prejudice and the need to recover a reputation give the campaign its personal stakes.",
+      "characters": [
+        "blair",
+        "angel",
+        "paladin",
+        "maniac",
+        "tolwyn",
+        "hobbes",
+        "thrakhath"
+      ],
+      "recap": "Blair exposes Jazz as the traitor, proves the existence of the Kilrathi stealth fighters and clears his name. A successful strike against K’Tithrak Mang restores his standing, while Thrakhath survives.",
+      "optional": false,
+      "chronology": 4,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "so1",
+      "title": "Wing Commander II: Special Operations 1",
+      "year": 1991,
+      "era": "After II",
+      "premise": "Blair undertakes further operations involving Kilrathi resistance to the imperial government.",
+      "why": "Optional extension of II. It complicates the idea that every Kilrathi shares the same allegiance.",
+      "characters": [
+        "blair",
+        "paladin",
+        "hobbes",
+        "thrakhath"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 5,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "so2",
+      "title": "Wing Commander II: Special Operations 2",
+      "year": 1992,
+      "era": "After Special Operations 1",
+      "premise": "Experimental fighters and unfinished business draw Blair into another set of dangerous assignments.",
+      "why": "Play after Special Operations 1. It supplies further crew history, but III can introduce its own posting without it.",
+      "characters": [
+        "blair",
+        "maniac",
+        "tolwyn"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 6,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "academy",
+      "title": "Wing Commander: Academy",
+      "year": 1993,
+      "era": "Custom combat scenarios",
+      "premise": "A combat simulator lets you assemble and fly encounters instead of following a character campaign.",
+      "why": "An optional tool for players who want to arrange more battles. It is a poor first choice if the carrier crew is what attracted you.",
+      "characters": [],
+      "recap": "",
+      "optional": true,
+      "chronology": 200,
+      "branch": "Combat experiments",
+      "status": "Released"
+    },
+    {
+      "id": "privateer",
+      "title": "Wing Commander: Privateer",
+      "year": 1993,
+      "era": "2669 / Gemini Sector",
+      "premise": "An independent pilot takes contracts, trades and improves a ship while a larger mystery develops.",
+      "why": "The best entry for economic progression and choosing your own work. Familiarity with Blair’s campaigns is unnecessary.",
+      "characters": [
+        "burrows"
+      ],
+      "recap": "Burrows acquires a Steltek weapon and becomes entangled with an ancient drone. Destroying the drone resolves the base campaign’s immediate danger; life as an independent pilot continues.",
+      "optional": true,
+      "chronology": 100,
+      "branch": "Privateer",
+      "status": "Released"
+    },
+    {
+      "id": "righteous",
+      "title": "Privateer: Righteous Fire",
+      "year": 1994,
+      "era": "After Privateer",
+      "premise": "The theft of valuable equipment sends Burrows back through Gemini into a new conflict with the Retros.",
+      "why": "An expansion for the original Privateer. Continue after the base story for another set of jobs and further equipment progression.",
+      "characters": [
+        "burrows"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 101,
+      "branch": "Privateer",
+      "status": "Released"
+    },
+    {
+      "id": "super",
+      "title": "Super Wing Commander",
+      "year": 1994,
+      "era": "A remake of the first campaign",
+      "premise": "The original adventure is retold with different graphics, voices and revised campaign material.",
+      "why": "A historical alternative, originally for 3DO and later Macintosh. It is not Wing Commander II and is not required for the PC route.",
+      "characters": [
+        "blair",
+        "angel",
+        "paladin",
+        "maniac"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 300,
+      "branch": "Remake and arcade",
+      "status": "Released"
+    },
+    {
+      "id": "armada",
+      "title": "Wing Commander: Armada",
+      "year": 1994,
+      "era": "A strategic combat experiment",
+      "premise": "Command a carrier, acquire resources and build fighters, then take part in battles from the cockpit.",
+      "why": "An optional strategy/action hybrid, with multiplayer as part of its original design. The lighter strategic layer and absence of a named crew change the appeal.",
+      "characters": [],
+      "recap": "",
+      "optional": true,
+      "chronology": 201,
+      "branch": "Combat experiments",
+      "status": "Released"
+    },
+    {
+      "id": "wc3",
+      "title": "Wing Commander III: Heart of the Tiger",
+      "year": 1994,
+      "era": "2669 / the Victory",
+      "premise": "Blair joins an ageing carrier as the Confederation faces mounting pressure in its war with the Kilrathi.",
+      "why": "The recommended cinematic starting point. A new posting introduces the immediate crew while the older relationships add history.",
+      "characters": [
+        "blair",
+        "paladin",
+        "maniac",
+        "tolwyn",
+        "hobbes",
+        "thrakhath"
+      ],
+      "recap": "Hobbes betrays the Confederation and Angel’s death is revealed. On the successful campaign route Blair destroys Kilrah with the temblor bomb, bringing the war to its decisive conclusion. Failure paths can end differently.",
+      "optional": false,
+      "chronology": 7,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "wc4",
+      "title": "Wing Commander IV: The Price of Freedom",
+      "year": 1996,
+      "era": "2673 / an uneasy peace",
+      "premise": "Attacks on shipping threaten a new conflict between the Confederation and the Border Worlds. Blair is recalled to service.",
+      "why": "Play after III for the strongest connection to the returning cast. Its more political conflict asks whether loyalty to a uniform is enough.",
+      "characters": [
+        "blair",
+        "paladin",
+        "maniac",
+        "tolwyn"
+      ],
+      "recap": "Blair discovers the Black Lance operation and Tolwyn’s attempt to manufacture a new war. Successful choices let him expose the conspiracy before the assembly. Other decisions can lead to defeat or a darker future.",
+      "optional": false,
+      "chronology": 8,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "privateer2",
+      "title": "Privateer 2: The Darkening",
+      "year": 1996,
+      "era": "The Tri-System / a separate cast",
+      "premise": "A survivor with a missing past works through a strange trading region while investigating his identity.",
+      "why": "Clive Owen leads an unusual cinematic mystery. Treat this as a separate adventure, not a continuation of Burrows’s relationships or ship progression. Older launch reviews document faults that should not automatically be attributed to the restored edition.",
+      "characters": [
+        "lev"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 102,
+      "branch": "Privateer",
+      "status": "Released"
+    },
+    {
+      "id": "prophecy",
+      "title": "Wing Commander: Prophecy",
+      "year": 1997,
+      "era": "2681 / the Midway",
+      "premise": "Lance Casey joins a new carrier as evidence of an unfamiliar alien threat emerges.",
+      "why": "A combat-focused alternative beginning. Returning characters connect it to the earlier games, but Casey has his own introduction.",
+      "characters": [
+        "casey",
+        "blair",
+        "maniac"
+      ],
+      "recap": "The enemy invasion is repelled by closing its wormhole. Blair is lost during the final operation, while Casey and the Midway’s surviving crew continue into the new conflict.",
+      "optional": true,
+      "chronology": 9,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "secretops",
+      "title": "Wing Commander: Secret Ops",
+      "year": 1998,
+      "era": "After Prophecy / the Cerberus",
+      "premise": "Casey and other pilots face further incursions while operating from the Cerberus.",
+      "why": "A standalone follow-up first distributed in episodes, later bundled with Prophecy. Play after that campaign. More flying and less filmed crew interaction give it a different balance.",
+      "characters": [
+        "casey"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 10,
+      "branch": "Carrier campaigns",
+      "status": "Released"
+    },
+    {
+      "id": "arena",
+      "title": "Wing Commander Arena",
+      "year": 2007,
+      "era": "An Xbox Live Arcade offshoot",
+      "premise": "Small spacecraft fight in an arcade format designed around multiplayer battles.",
+      "why": "A separate experiment rather than a continuation of the carrier campaigns. Included to explain the name, not as a current purchase recommendation.",
+      "characters": [],
+      "recap": "",
+      "optional": true,
+      "chronology": 301,
+      "branch": "Remake and arcade",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "blair",
+      "name": "Christopher Blair",
+      "role": "The pilot followed through I–IV",
+      "motivation": "He wants to serve effectively while dealing with reputation, personal loyalty and the judgement of his superiors. The games move him from a young pilot to someone whose decisions carry political weight.",
+      "relationships": "Angel, Paladin and Maniac give his career continuity. Tolwyn is a powerful authority whose approval and priorities matter.",
+      "route": [
+        "wc1",
+        "wc2",
+        "wc3",
+        "wc4",
+        "prophecy"
+      ],
+      "updates": [
+        {
+          "event": "wc2",
+          "text": "He clears his name after the accusations surrounding the Tiger’s Claw."
+        },
+        {
+          "event": "wc4",
+          "text": "His loyalty is tested by the discovery of a conspiracy within the Confederation."
+        }
+      ]
+    },
+    {
+      "id": "angel",
+      "name": "Jeannette “Angel” Devereaux",
+      "role": "A disciplined Confederation pilot",
+      "motivation": "Her professionalism makes a useful counterweight to the louder personalities around her. Duty and personal attachment become difficult to keep separate.",
+      "relationships": "An important colleague in Blair’s early career; their relationship develops through II.",
+      "route": [
+        "wc1",
+        "wc2"
+      ],
+      "updates": [
+        {
+          "event": "wc2",
+          "text": "Her relationship with Blair becomes romantic."
+        }
+      ]
+    },
+    {
+      "id": "paladin",
+      "name": "James “Paladin” Taggart",
+      "role": "Veteran pilot and later intelligence figure",
+      "motivation": "Experience makes him attentive to the larger situation behind an assignment. His role changes as the series moves beyond the original carrier.",
+      "relationships": "An older friend and adviser to Blair, with responsibilities that extend beyond the flight deck.",
+      "route": [
+        "wc1",
+        "wc2",
+        "so1",
+        "wc3",
+        "wc4"
+      ],
+      "updates": []
+    },
+    {
+      "id": "maniac",
+      "name": "Todd “Maniac” Marshall",
+      "role": "A talented and infuriating pilot",
+      "motivation": "He wants recognition and rarely doubts that he deserves it. His skill keeps the boasting from being entirely empty, which probably makes him harder to tolerate.",
+      "relationships": "A recurring colleague and rival to Blair; later pilots inherit the pleasure of serving around him.",
+      "route": [
+        "wc1",
+        "wc2",
+        "so2",
+        "wc3",
+        "wc4",
+        "prophecy"
+      ],
+      "updates": []
+    },
+    {
+      "id": "tolwyn",
+      "name": "Geoffrey Tolwyn",
+      "role": "A senior Confederation officer",
+      "motivation": "Military preparedness and humanity’s survival dominate his thinking. Watch what those priorities make him ask of the people under his command.",
+      "relationships": "His authority shapes Blair’s career. Their relationship gives IV’s political conflict a personal history.",
+      "route": [
+        "wc2",
+        "wc3",
+        "wc4"
+      ],
+      "updates": [
+        {
+          "event": "wc4",
+          "text": "His commitment to imposed military evolution underlies the Black Lance conspiracy."
+        }
+      ]
+    },
+    {
+      "id": "hobbes",
+      "name": "Ralgha “Hobbes” nar Hhallas",
+      "role": "A Kilrathi officer serving the Confederation",
+      "motivation": "His presence makes trust across enemy lines a practical question for the crew. He must be understood as an individual amid a war that encourages broad assumptions.",
+      "relationships": "An ally of Blair in II and III. His relationship with the Confederation is part of the story to discover.",
+      "route": [
+        "wc2",
+        "so1",
+        "wc3"
+      ],
+      "updates": [
+        {
+          "event": "wc3",
+          "text": "His betrayal is a major revelation. Avoid character encyclopaedias before completing III."
+        }
+      ]
+    },
+    {
+      "id": "thrakhath",
+      "name": "Prince Thrakhath nar Kiranka",
+      "role": "A Kilrathi military leader",
+      "motivation": "He pursues imperial victory while carrying the expectations of a ruling dynasty. His place in the war makes him a recurring opponent rather than an anonymous cockpit target.",
+      "relationships": "Blair’s growing reputation gives their opposition increasing personal importance.",
+      "route": [
+        "wc2",
+        "so1",
+        "wc3"
+      ],
+      "updates": []
+    },
+    {
+      "id": "casey",
+      "name": "Lance Casey",
+      "role": "Prophecy’s player character",
+      "motivation": "A young pilot must establish himself among veterans and peers while confronting an unfamiliar enemy. His introduction gives newcomers permission to learn this generation’s crew.",
+      "relationships": "Blair is a senior figure rather than the player’s identity. Maniac supplies a less reassuring connection to the old guard.",
+      "route": [
+        "prophecy",
+        "secretops"
+      ],
+      "updates": []
+    },
+    {
+      "id": "burrows",
+      "name": "Grayson Burrows",
+      "role": "The original Privateer’s independent pilot",
+      "motivation": "He needs income and a ship capable of surviving the next job. Ambition grows out of the practical business of trading, repairs and equipment.",
+      "relationships": "His contacts are clients, sources of information and people with their own uses for an independent pilot. He does not report to Blair.",
+      "route": [
+        "privateer",
+        "righteous"
+      ],
+      "updates": []
+    },
+    {
+      "id": "lev",
+      "name": "Lev Arris",
+      "role": "Privateer 2’s protagonist",
+      "motivation": "A missing personal history gives him a reason to investigate the Tri-System while taking work to finance the journey.",
+      "relationships": "His mystery belongs to The Darkening’s cast. Burrows’s campaign is not assumed background.",
+      "route": [
+        "privateer2"
+      ],
+      "updates": []
+    }
+  ],
+  "factions": [
+    [
+      "Terran Confederation",
+      "The human-led state and military in which the main pilots serve. Its need to win a war does not settle every argument about how it should act."
+    ],
+    [
+      "Kilrathi Empire",
+      "A feline alien civilisation with a powerful imperial military and ruling clans. Individual Kilrathi can have different loyalties; the games do not require you to treat every member as interchangeable."
+    ],
+    [
+      "Union of Border Worlds",
+      "A political grouping central to IV’s post-war conflict. Its relationship with the Confederation raises questions about whose security and independence receive priority."
+    ],
+    [
+      "Gemini’s independent operators",
+      "Merchants, mercenaries, pirates and other groups make Privateer’s space a place of work. Their attitudes help determine how safe a profitable route really is."
+    ],
+    [
+      "The Tri-System",
+      "Privateer 2’s trading region has its own institutions and criminal interests. Its distinct setting is why the title’s sequel number is a poor explanation of what to expect."
+    ],
+    [
+      "The new threat in Prophecy",
+      "An unfamiliar enemy changes the strategic situation after the Kilrathi war. Let the campaign introduce its methods and history; an encyclopaedia search will reveal more than the opening briefing does."
+    ]
+  ],
+  "scope": "Covers the five main carrier campaigns, both Privateers, the four early mission packs, Righteous Fire, Secret Ops, Academy, Armada, Super Wing Commander and Arena. The timeline uses original release years; Anniversary editions and Kilrathi Saga are packages or revisions, not new story chapters. Branch grouping avoids presenting Privateer 2 as a direct sequel to Burrows. The novels, animated Academy series, 1999 film, card game and fan projects are optional outside media; the film should not be used as a prerequisite or assumed to match every game detail. The Anniversary notes summarise announced contents, not hands-on performance tests. Arena is historical coverage, with no claim about present storefront access or matchmaking.",
+  "timeline_help": "Release order shows the original games and add-ons. Suggested campaign groups keep the carrier story and its mission packs together, followed by Privateer and the optional experiments. These groups are a reading aid, not exact shared dates for every release. The starting-route filter shows I–IV. Completion settings unlock only that game; the two clearly labelled catch-up options reveal the earlier campaigns listed in their names.",
+  "sources": [
+    [
+      "EA: Anniversary editions, restored cinematics and included features",
+      "https://www.ea.com/news/ea-classics-launch"
+    ],
+    [
+      "GOG: original and Anniversary packaging",
+      "https://www.gog.com/pressroom/were-celebrating-18-years-with-the-first-gog-showcase-restored-wing-commander-prophecy-gog-galaxy-announcements-and-more/"
+    ],
+    [
+      "Origin: Wing Commander series bible (contains major spoilers)",
+      "https://download.wcnews.com/files/documents/WC_Bible_91-97.pdf"
+    ],
+    [
+      "Origin: 1992 catalogue and Special Operations descriptions",
+      "https://download.wcnews.com/files/ofx/1992OriginCatalog.pdf"
+    ],
+    [
+      "GameSpot: Wing Commander IV contemporary review",
+      "https://www.gamespot.com/reviews/wing-commander-iv-the-price-of-freedom-review/1900-2531853/"
+    ],
+    [
+      "GameSpot: Prophecy contemporary review",
+      "https://www.gamespot.com/reviews/wing-commander-prophecy-review/1900-2545907/"
+    ],
+    [
+      "GameSpot: Privateer 2 original-release review",
+      "https://www.gamespot.com/reviews/privateer-2-the-darkening-review/1900-2545893/"
+    ],
+    [
+      "Origin: Armada play guide",
+      "https://download.wcnews.com/files/arma/Armada%20-%20Play%20Guide%20-%20Text.pdf"
+    ],
+    [
+      "Wing Commander Academy: official store description",
+      "https://store.steampowered.com/app/3067090/Wing_Commander_Academy/"
+    ],
+    [
+      "MobyGames: Righteous Fire release and contents",
+      "https://www.mobygames.com/game/1577/privateer-righteous-fire/"
+    ],
+    [
+      "MobyGames: Privateer CD-ROM contents",
+      "https://www.mobygames.com/game/23543/wing-commander-privateer-cd-rom-edition/"
+    ],
+    [
+      "MobyGames: Secret Ops release and episodic format",
+      "https://www.mobygames.com/game/1822/wing-commander-secret-ops/"
+    ],
+    [
+      "MobyGames: Super Wing Commander",
+      "https://www.mobygames.com/game/12303/super-wing-commander/"
+    ],
+    [
+      "MobyGames: Wing Commander release catalogue",
+      "https://www.mobygames.com/group/99/wing-commander-universe/"
+    ],
+    [
+      "Den of Geek: the main games and Privateer branches",
+      "https://www.denofgeek.com/games/looking-back-at-the-wing-commander-games/"
+    ]
+  ],
+  "related": [
+    [
+      "Revisiting Mass Effect",
+      "mass-effect-revisited"
+    ],
+    [
+      "Games to play instead of waiting for Mass Effect 5",
+      "games-to-play-instead-of-mass-effect-5"
+    ]
+  ],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "wc1",
+      "label": "Finished Wing Commander only",
+      "unlocks": [
+        "wc1"
+      ]
+    },
+    {
+      "value": "wc2",
+      "label": "Finished Wing Commander II: Vengeance of the Kilrathi only",
+      "unlocks": [
+        "wc2"
+      ]
+    },
+    {
+      "value": "privateer",
+      "label": "Finished Wing Commander: Privateer only",
+      "unlocks": [
+        "privateer"
+      ]
+    },
+    {
+      "value": "wc3",
+      "label": "Finished Wing Commander III: Heart of the Tiger only",
+      "unlocks": [
+        "wc3"
+      ]
+    },
+    {
+      "value": "wc4",
+      "label": "Finished Wing Commander IV: The Price of Freedom only",
+      "unlocks": [
+        "wc4"
+      ]
+    },
+    {
+      "value": "prophecy",
+      "label": "Finished Wing Commander: Prophecy only",
+      "unlocks": [
+        "prophecy"
+      ]
+    },
+    {
+      "value": "before-wc3",
+      "label": "Catch up before III: reveal I–II",
+      "unlocks": [
+        "wc1",
+        "wc2"
+      ]
+    },
+    {
+      "value": "before-wc4",
+      "label": "Catch up before IV: reveal I–III",
+      "unlocks": [
+        "wc1",
+        "wc2",
+        "wc3"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal every story outcome in this guide",
+      "unlocks": [
+        "wc1",
+        "wc2",
+        "privateer",
+        "wc3",
+        "wc4",
+        "prophecy"
+      ]
+    }
+  ]
+}

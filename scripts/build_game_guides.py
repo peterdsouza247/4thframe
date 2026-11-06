@@ -15,6 +15,7 @@ def game_world_tiles(guides):
 
 
 def render(g):
+    reviewed = esc(g.get('reviewed', '3 October 2026'))
     is_screen=g.get('medium')=='screen'
     medium_label='Screen' if is_screen else 'Games'
     verb='watch' if is_screen else 'play'
@@ -39,7 +40,8 @@ def render(g):
     for e in g['entries']:
         entries += f'''<article class="entry-card" id="start-{e['id']}"><p class="entry-audience">{esc(e['audience'])}</p><h3>{esc(e['title'])}</h3><p>{esc(e['why'])}</p><dl><dt>Know this much</dt><dd>{esc(e['need'])}</dd><dt>You can skip</dt><dd>{esc(e['skip'])}</dd><dt>The trade-off</dt><dd>{esc(e['tradeoff'])}</dd><dt>Go next</dt><dd>{esc(e['next'])}</dd></dl>'''
         if e['unlock'] != 'none':
-            entries += f'''<button type="button" class="recap-button" data-entry="{e['id']}" hidden>Read earlier-story recap (spoilers)</button><noscript><p>For earlier-story outcomes, open the relevant timeline recaps below.</p></noscript>'''
+            recap_label = esc(e.get('recap_label', 'Read earlier-story recap (spoilers)'))
+            entries += f'''<button type="button" class="recap-button" data-entry="{e['id']}" hidden>{recap_label}</button><noscript><p>For earlier-story outcomes, open the relevant timeline recaps below.</p></noscript>'''
         entries += '</article>'
     basics=''.join(f'<div><h3>{esc(title)}</h3><p>{esc(text)}</p></div>' for title,text in g['basics'])
     options=''.join(f'<option value="{m["value"]}">{esc(m["label"])}</option>' for m in g['milestones'])
@@ -91,7 +93,7 @@ def render(g):
 <p class="timeline-help">{esc(g['timeline_help'])}</p><p id="timeline-status" role="status" aria-live="polite"></p><div id="story-timeline">{timeline}</div><p id="timeline-empty" hidden>No entries match these choices. Show everyone, select all branches, or turn off the starting-route filter.</p></section>
 <section id="characters" aria-labelledby="characters-title"><div class="section-head"><h2 id="characters-title">People worth knowing.</h2></div><p class="section-intro">Start with who they are and what drives them. Their routes show relevant appearances, not a list of {route_noun} you must finish. Development notes follow your spoiler setting.</p><div class="character-grid">{people}</div></section>
 <section id="factions" aria-labelledby="factions-title"><div class="section-head"><h2 id="factions-title">The bigger picture.</h2></div><div class="faction-grid">{factions}</div></section>
-<section class="lore-scope" aria-labelledby="scope-title"><h2 id="scope-title">Sources and scope</h2><p>Reviewed 3 October 2026. Entry points, optional routes, and play order are Fourth Frame’s editorial recommendations.</p><p>{esc(g['scope'])}</p><details><summary>Reference material (may contain spoilers)</summary><ul>{sources}</ul></details>{related_block}</section>
+<section class="lore-scope" aria-labelledby="scope-title"><h2 id="scope-title">Sources and scope</h2><p>Reviewed {reviewed}. Entry points, optional routes, and play order are Fourth Frame’s editorial recommendations.</p><p>{esc(g['scope'])}</p><details><summary>Reference material (may contain spoilers)</summary><ul>{sources}</ul></details>{related_block}</section>
 <dialog id="recap-dialog" aria-labelledby="recap-title"><button id="recap-close" type="button" autofocus>Close recap</button><h2 id="recap-title">Before you begin</h2><p id="recap-intro"></p><div id="recap-body"></div><p>You have enough context to begin. Return to the deeper guide whenever a name or event becomes relevant.</p></dialog>
 <script type="application/json" id="game-guide-data">{payload}</script></main><footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer></body></html>'''
 

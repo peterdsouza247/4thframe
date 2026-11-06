@@ -1,0 +1,850 @@
+{
+  "slug": "ultima",
+  "name": "Ultima",
+  "reviewed": "6 November 2026",
+  "strap": "Where to start Ultima, and what makes Britannia worth exploring.",
+  "description": "A guide to Ultima’s play order, best starting points, Underworld and Online, with edition advice, characters and optional story recaps.",
+  "intro": "Start with Ultima VII: The Black Gate if you want to explore a country full of people with jobs, grievances and suspiciously helpful advice. Choose Ultima IV if you want to understand the Avatar, or Underworld if a first-person dungeon sounds more inviting. There is no need to finish three early computer RPGs before reaching the part that interests you.",
+  "recommendation": "For a first visit, play The Black Gate, then Serpent Isle. For the moral foundations of Britannia, take IV → V → VI. Underworld I → II is a separate playing route; Online is an MMO, not the next chapter after IX.",
+  "branch_label": "Part of the series",
+  "story_order_label": "Suggested story groups",
+  "atlas_title": "Choose the kind of adventure you want.",
+  "atlas_intro": "Britannia supplies the central history. Underworld approaches it from inside a dungeon, while the other branches change the setting or the way you play. These groups keep the timeline useful without turning every release into homework.",
+  "strand_link": "See these games ↓",
+  "strands": [
+    {
+      "name": "Britannia",
+      "title": "The Avatar and Britannia",
+      "text": "The numbered games follow a recurring hero through a country whose ideals become harder to live up to. Begin with IV or VII."
+    },
+    {
+      "name": "Underworld",
+      "title": "Explore from ground level",
+      "text": "Two first-person RPGs built around finding routes, reading your surroundings and talking to the people surviving underground."
+    },
+    {
+      "name": "Other worlds",
+      "title": "Pulp adventures and the MMO",
+      "text": "Visit the lost world of Savage Empire, investigate Martian Dreams, or share Britannia with other players in Ultima Online."
+    }
+  ],
+  "entries": [
+    {
+      "id": "black-gate",
+      "title": "Ultima VII: The Black Gate",
+      "audience": "I want the strongest introduction to the world",
+      "why": "A murder in Trinsic gives you a reason to question people and follow leads. Soon you are comparing what an organisation promises with how its members behave. Exploring houses, reading books and checking an apparently minor conversation are a large part of the game.",
+      "need": "You are the Avatar, a visitor from Earth and an established friend of Lord British. Iolo and the other companions know you already. Accept that history as background; the investigation starts here.",
+      "skip": "Ultima I–VI, both Worlds of Ultima games and Underworld. The earlier-story recap is optional.",
+      "tradeoff": "Party combat is untidy and feeding people can become a chore. The attraction is the investigation and the amount of ordinary life surrounding it. Use the PC game for this route; the SNES adaptation is substantially different.",
+      "next": "Continue with Serpent Isle. Underworld II fits between the two if you want an additional Guardian story in a different style.",
+      "unlock": "before-u7",
+      "recap_events": [
+        "u4",
+        "u5",
+        "u6"
+      ],
+      "recap_label": "Read the IV–VI recap (spoilers)"
+    },
+    {
+      "id": "virtues",
+      "title": "Ultima IV: Quest of the Avatar",
+      "audience": "I want to understand why this series matters",
+      "why": "IV makes your conduct the central objective. Paying honestly, helping people and knowing when to show restraint contribute to becoming the Avatar. V then asks what happens when a ruler turns those ideals into punishable laws. That is a good reason to play two very old RPGs.",
+      "need": "Britannia has emerged from earlier wars. Lord British wants an example of how to live, and your character must become worthy of that responsibility.",
+      "skip": "I–III and their villains. You can learn that history later without weakening IV’s purpose.",
+      "tradeoff": "Expect a command reference, typed conversation keywords and your own notes. Some moral tasks can feel mechanical once you understand their rules. Begin here because the idea interests you, rather than because the numbering says you must.",
+      "next": "Play V, then VI. Together they develop the virtues through coercion, cultural conflict and the limits of the hero’s own assumptions.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "abyss",
+      "title": "Ultima Underworld: The Stygian Abyss",
+      "audience": "I want a first-person dungeon RPG",
+      "why": "You enter an underground colony that has fallen apart. Its survivors have different loyalties and useful information; finding a way through involves conversation, supplies and a gradually improving understanding of the place. The dungeon becomes familiar as you learn its connections.",
+      "need": "You have been blamed for a kidnapping. Finding the missing girl in the Abyss is your way to prove your innocence. Earlier Ultima plots are unnecessary.",
+      "skip": "Every numbered game. Underworld provides a self-contained problem and enough context to solve it.",
+      "tradeoff": "The original interface predates familiar modern first-person controls. Learn turning, looking, attacking and using objects before judging the whole game by your first encounter. Jumping remains awkward.",
+      "next": "Play Underworld II for more varied worlds and a stronger connection to Britannia. Its opening follows The Black Gate, whose conclusion it can spoil.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "early",
+      "title": "Ultima III: Exodus",
+      "audience": "I enjoy early computer RPGs and want the foundations",
+      "why": "III gives you a four-person party to build and tactical battles to prepare for. Its choices of classes, supplies and exploration make a more focused introduction to early Ultima than II’s sprawling time travel.",
+      "need": "Earlier adventurers defeated Mondain and Minax. A new threat named Exodus now endangers Sosaria.",
+      "skip": "I and II unless their historical importance is part of the attraction. Their recaps supply enough context.",
+      "tradeoff": "Its appeal depends on enjoying old interfaces and working out how a world operates with limited guidance. Later Ultimas offer much more convincing societies and character writing.",
+      "next": "Move to IV. Return to I for a shorter look at the series’ beginnings; leave II until you know you want the detour.",
+      "unlock": "none",
+      "recap_events": []
+    },
+    {
+      "id": "online",
+      "title": "Ultima Online",
+      "audience": "I want a shared world with crafting and other players",
+      "why": "Online builds its appeal around people making a life in Britannia: learning skills, trading, adventuring and joining a community. Choosing a shard and understanding its rules matter more than knowing the numbered games’ endings.",
+      "need": "A shard is a server world. This is a separate multiplayer continuity with its own updates and rules, not a single-player sequel.",
+      "skip": "The complete Avatar saga. You do not have to earn the title in IV before making an Online character.",
+      "tradeoff": "Access rules differ between the Endless Journey option and subscriptions. Housing and some other systems have restrictions. Check the official account comparison and the rules of the shard you choose.",
+      "next": "Use the official beginner material, choose a shard and find a community that suits your pace. Treat New Legacy as a distinct ruleset, not an exact restoration of 1997.",
+      "unlock": "none",
+      "recap_events": []
+    }
+  ],
+  "basics": [
+    [
+      "What playing Ultima actually involves",
+      "A conversation may give you a person’s name, a place or a word to ask somebody else about. Follow that lead, write down what changes your understanding, and return when you have something useful to ask. In the earlier games, the manual and map are part of learning to play. A quest journal cannot remember a clue for you if the game never had one."
+    ],
+    [
+      "The Avatar and the virtues",
+      "The player character begins as a stranger in another world. From IV, becoming the Avatar means embodying eight virtues: honesty, compassion, valour, justice, sacrifice, honour, spirituality and humility. Their practical meaning changes across the games. V is interested in coercion; VI questions the assumption that the apparent enemy must be wrong."
+    ],
+    [
+      "Sosaria, Britannia and returning companions",
+      "Sosaria is the early setting; Britannia is the kingdom familiar from IV onwards. Lord British is its ruler. Iolo, Shamino and Dupre are recurring friends, which is why VII can begin with familiar greetings. Your character has a past here even when you, the player, do not."
+    ],
+    [
+      "Which Ultima VII edition to choose",
+      "The Complete Edition contains The Black Gate and Serpent Isle, with Forge of Virtue and The Silver Seed respectively. Serpent Isle is a full second adventure, not a small optional mission pack. Play Black Gate first. Forge of Virtue belongs inside its campaign; Silver Seed belongs inside Serpent Isle. You can leave both expansions for later without losing the central plot."
+    ],
+    [
+      "Running VII with Exult",
+      "Exult is a community engine for the PC versions of VII and Serpent Isle. It needs your legally acquired game data and offers modern conveniences. Follow its own setup documentation, keep separate saves when changing engines, and check whether you are installing optional content changes as well. A new engine does not make the original combat or inventory design disappear."
+    ],
+    [
+      "What the November 2026 releases change",
+      "EA brought the numbered PC games and both Underworld titles to Steam on 5 November 2026. Its launch announcement lists these Ultimas as faithful ports rather than the restored Anniversary editions given to selected Wing Commander games. Check each store’s system details before buying. A new store listing does not by itself mean redesigned controls."
+    ],
+    [
+      "A few habits that save frustration",
+      "Keep rotating saves, including one before a major journey or experiment. Carry food, check what your companions are carrying and make brief notes about unresolved conversations. If you need help, look up the specific obstacle before opening a full walkthrough. The next paragraph may answer a mystery you had not reached yet."
+    ],
+    [
+      "How the branches fit",
+      "Underworld I can stand alone. Underworld II follows Black Gate and precedes Serpent Isle in the story. Savage Empire and Martian Dreams use VI’s foundations for separate adventures beyond Britannia. Online has its own continuity. The story-group sort keeps those routes together; it does not assign exact dates to every side trip."
+    ]
+  ],
+  "events": [
+    {
+      "id": "u1",
+      "title": "Ultima I: The First Age of Darkness",
+      "year": 1981,
+      "era": "The Age of Darkness",
+      "premise": "A stranger travels through Sosaria to confront the wizard Mondain. The adventure freely mixes fantasy with science fiction.",
+      "why": "A historical starting point rather than required preparation. The widely circulated later PC edition is a remake of the 1981 game.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "The Stranger defeats Mondain by destroying the Gem of Immortality. His defeat establishes the earlier heroic history remembered by the later games.",
+      "optional": true,
+      "chronology": 1,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u2",
+      "title": "Ultima II: The Revenge of the Enchantress",
+      "year": 1982,
+      "era": "The Age of Darkness",
+      "premise": "Minax’s revenge leads through time gates and different eras of Earth.",
+      "why": "The weakest early recommendation: imaginative geography, considerable grinding and obscure progression. Return for curiosity rather than story preparation.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "The Stranger defeats Minax, ending the temporal threat. III introduces a further danger linked to Mondain and Minax.",
+      "optional": true,
+      "chronology": 2,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u3",
+      "title": "Ultima III: Exodus",
+      "year": 1983,
+      "era": "The Age of Darkness",
+      "premise": "A four-person party explores Sosaria as a new power called Exodus threatens it.",
+      "why": "The most useful early entry for players who enjoy party construction and tactical battles. Its conclusion closes the initial trilogy.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "Exodus is a constructed entity rather than the conventional monster the party might expect. The heroes disable it and end the immediate threat to Sosaria.",
+      "optional": true,
+      "chronology": 3,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u4",
+      "title": "Ultima IV: Quest of the Avatar",
+      "year": 1985,
+      "era": "The Age of Enlightenment",
+      "premise": "An adventurer seeks to become an example of the eight virtues in a kingdom recovering from earlier conflicts.",
+      "why": "The best foundation for understanding the Avatar. Completing a dungeon is only part of a quest that judges how you conduct yourself.",
+      "characters": [
+        "avatar",
+        "british",
+        "iolo",
+        "shamino",
+        "dupre"
+      ],
+      "recap": "The hero attains Avatarhood and reaches the Codex of Ultimate Wisdom. The achievement becomes a public ideal whose interpretation is contested in V.",
+      "optional": false,
+      "chronology": 4,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u5",
+      "title": "Ultima V: Warriors of Destiny",
+      "year": 1988,
+      "era": "The Age of Enlightenment",
+      "premise": "Lord British has vanished. Blackthorn rules Britannia through harsh laws framed as obedience to the virtues.",
+      "why": "The strongest companion to IV. Schedules, curfews and political suspicion make the oppressive rule something you encounter while travelling.",
+      "characters": [
+        "avatar",
+        "british",
+        "blackthorn",
+        "iolo",
+        "shamino",
+        "dupre"
+      ],
+      "recap": "The Avatar defeats the Shadowlords and rescues Lord British from the Underworld. Blackthorn’s rule ends, but the damage beneath Britannia has consequences for another people.",
+      "optional": false,
+      "chronology": 5,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u6",
+      "title": "Ultima VI: The False Prophet",
+      "year": 1990,
+      "era": "The Age of Enlightenment",
+      "premise": "The Avatar returns during a conflict between Britannia and gargoyles who have occupied its shrines.",
+      "why": "Concludes IV–VI’s examination of virtue by asking the player to investigate the apparent enemy’s perspective. The more continuous world comes with a cramped interface.",
+      "characters": [
+        "avatar",
+        "british",
+        "iolo",
+        "shamino",
+        "dupre"
+      ],
+      "recap": "The gargoyles have their own account of the conflict and of the Avatar. The resolution makes the Codex accessible to both peoples rather than accepting that one civilisation must destroy the other.",
+      "optional": false,
+      "chronology": 6,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "savage",
+      "title": "Worlds of Ultima: The Savage Empire",
+      "year": 1990,
+      "era": "A lost-world detour",
+      "premise": "The Avatar arrives in Eodon, a valley of dinosaurs and rival tribes threatened by the Myrmidex.",
+      "why": "A pulp adventure with environmental problem solving using VI’s engine. Its treatment of the tribes also carries assumptions worth questioning.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 100,
+      "branch": "Other worlds",
+      "status": "Released"
+    },
+    {
+      "id": "martian",
+      "title": "Ultima: Worlds of Adventure 2: Martian Dreams",
+      "year": 1991,
+      "era": "A scientific-romance detour",
+      "premise": "A Victorian expedition reaches Mars, where the Avatar investigates an apparently abandoned civilisation.",
+      "why": "The more distinctive Worlds adventure, especially if investigation and unusual surroundings matter more to you than frequent combat.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 101,
+      "branch": "Other worlds",
+      "status": "Released"
+    },
+    {
+      "id": "uw1",
+      "title": "Ultima Underworld: The Stygian Abyss",
+      "year": 1992,
+      "era": "The first-person branch",
+      "premise": "Accused of helping a kidnapper, the Avatar is sent into a ruined underground colony to recover the missing girl.",
+      "why": "A strong independent beginning. Survival, conversation and learning the dungeon’s layout matter alongside combat.",
+      "characters": [
+        "avatar",
+        "garamon"
+      ],
+      "recap": "The Avatar rescues Arial and uncovers Tyball’s involvement with the Slasher of Veils. Garamon’s guidance helps the hero banish the daemon and escape the Abyss.",
+      "optional": true,
+      "chronology": 50,
+      "branch": "Underworld",
+      "status": "Released"
+    },
+    {
+      "id": "u7",
+      "title": "Ultima VII: The Black Gate",
+      "year": 1992,
+      "era": "The Age of Armageddon",
+      "premise": "A murder investigation begins in Trinsic while the Fellowship offers a new source of purpose to Britannia’s citizens.",
+      "why": "The strongest general starting point. Its small domestic details give the larger investigation something concrete to threaten.",
+      "characters": [
+        "avatar",
+        "british",
+        "iolo",
+        "shamino",
+        "dupre",
+        "batlin",
+        "guardian"
+      ],
+      "recap": "The Fellowship serves the Guardian’s attempt to enter Britannia. The Avatar destroys the Black Gate, preventing that arrival, but Batlin escapes and the Guardian remains a threat.",
+      "optional": false,
+      "chronology": 7,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "forge",
+      "title": "Ultima VII: Forge of Virtue",
+      "year": 1992,
+      "era": "Inside The Black Gate",
+      "premise": "The Isle of Fire rises, bringing tests associated with Truth, Love and Courage.",
+      "why": "Optional expansion played within Black Gate. Its powerful rewards alter the balance of the remaining adventure; avoid treating it as a compulsory opening errand.",
+      "characters": [
+        "avatar",
+        "british"
+      ],
+      "recap": "The Avatar completes the tests, gains the Black Sword and prevents the return of Exodus through its Dark Core.",
+      "optional": true,
+      "chronology": 8,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "uw2",
+      "title": "Ultima Underworld II: Labyrinth of Worlds",
+      "year": 1993,
+      "era": "After The Black Gate",
+      "premise": "A celebration at Castle Britannia is interrupted when the castle is sealed inside blackrock. A route below leads towards other worlds.",
+      "why": "Play after Underworld I for the interface, and after Black Gate if you want to preserve that game’s revelations. The original dungeon’s cohesion gives way to greater variety.",
+      "characters": [
+        "avatar",
+        "british",
+        "iolo",
+        "shamino",
+        "dupre",
+        "guardian"
+      ],
+      "recap": "The Avatar travels through worlds affected by the Guardian and breaks the blackrock imprisonment of Castle Britannia. The victory resolves the siege while the wider conflict continues.",
+      "optional": true,
+      "chronology": 51,
+      "branch": "Underworld",
+      "status": "Released"
+    },
+    {
+      "id": "serpent",
+      "title": "Ultima VII Part Two: Serpent Isle",
+      "year": 1993,
+      "era": "The Age of Armageddon",
+      "premise": "The Avatar and companions pursue Batlin to a land whose societies developed away from Britannia and its virtues.",
+      "why": "The next full adventure after Black Gate. More directed progression supports strong character drama, although later sections are less fully realised.",
+      "characters": [
+        "avatar",
+        "iolo",
+        "shamino",
+        "dupre",
+        "batlin",
+        "guardian"
+      ],
+      "recap": "The quest becomes a struggle to restore the Balance. Dupre’s sacrifice is central to that restoration. The ending delivers the Avatar into the Guardian’s power, leading into Pagan.",
+      "optional": false,
+      "chronology": 9,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "silver",
+      "title": "Ultima VII Part Two: The Silver Seed",
+      "year": 1993,
+      "era": "Inside Serpent Isle",
+      "premise": "A magical journey takes the Avatar into an earlier conflict associated with the Ophidian civilisation.",
+      "why": "Optional expansion for Serpent Isle, not its sequel. Useful equipment and background are the reward; the base game carries the main story.",
+      "characters": [
+        "avatar"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 10,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "u8",
+      "title": "Ultima VIII: Pagan",
+      "year": 1994,
+      "era": "The Age of Armageddon",
+      "premise": "Stranded on Pagan, the Avatar must learn local forms of elemental magic and find a way home.",
+      "why": "Atmosphere and elaborate rituals are the attraction. Solo play, awkward movement and platforming make it a poor first impression of the wider series.",
+      "characters": [
+        "avatar",
+        "guardian"
+      ],
+      "recap": "The Avatar takes the power of Pagan’s Titans and becomes the Titan of Ether, enabling an escape. The methods and their cost make this a troubling chapter of the hero’s journey.",
+      "optional": true,
+      "chronology": 11,
+      "branch": "Britannia",
+      "status": "Released"
+    },
+    {
+      "id": "uo",
+      "title": "Ultima Online",
+      "year": 1997,
+      "era": "A separate multiplayer continuity",
+      "premise": "Players enter a shared Britannia to develop skills, trade and adventure with others.",
+      "why": "An independent MMO route. Endless Journey has account restrictions; New Legacy is its own ruleset. This guide introduces the distinction rather than attempting an expansion-by-expansion account.",
+      "characters": [
+        "british"
+      ],
+      "recap": "",
+      "optional": true,
+      "chronology": 102,
+      "branch": "Other worlds",
+      "status": "Released"
+    },
+    {
+      "id": "u9",
+      "title": "Ultima IX: Ascension",
+      "year": 1999,
+      "era": "The Age of Armageddon",
+      "premise": "The Avatar returns to a Britannia damaged by enormous columns and the corruption of its virtues.",
+      "why": "The numbered saga’s conclusion. Its music and 3D landscape have appeal, but simplified systems and continuity problems make it a completionist recommendation.",
+      "characters": [
+        "avatar",
+        "british",
+        "iolo",
+        "shamino",
+        "dupre",
+        "blackthorn",
+        "guardian"
+      ],
+      "recap": "IX identifies the Guardian as a dark counterpart created through the Avatar’s own history. The final resolution reunites them and removes their conflict from Britannia. Its account of earlier lore is contentious.",
+      "optional": true,
+      "chronology": 12,
+      "branch": "Britannia",
+      "status": "Released"
+    }
+  ],
+  "characters": [
+    {
+      "id": "avatar",
+      "name": "The Stranger / the Avatar",
+      "role": "The recurring player character",
+      "motivation": "A visitor from Earth becomes responsible for a world that recognises them as a moral example. IV establishes why that title means more than being a successful fighter.",
+      "relationships": "Lord British offers trust and responsibility; recurring companions supply the friendships that make returning to Britannia meaningful.",
+      "route": [
+        "u1",
+        "u2",
+        "u3",
+        "u4",
+        "u5",
+        "u6",
+        "u7",
+        "serpent",
+        "u8",
+        "u9"
+      ],
+      "updates": [
+        {
+          "event": "u4",
+          "text": "The Stranger earns Avatarhood rather than inheriting the title."
+        },
+        {
+          "event": "u6",
+          "text": "The gargoyle conflict forces the hero to reconsider the consequences of earlier victories."
+        }
+      ]
+    },
+    {
+      "id": "british",
+      "name": "Lord British",
+      "role": "Ruler of Britannia",
+      "motivation": "He wants a stable country guided by the virtues. His idealism is worth examining alongside the everyday problems citizens describe.",
+      "relationships": "The Avatar is his trusted champion. Blackthorn provides a very different interpretation of how a realm should be governed.",
+      "route": [
+        "u4",
+        "u5",
+        "u6",
+        "u7",
+        "uw2",
+        "uo",
+        "u9"
+      ],
+      "updates": [
+        {
+          "event": "u5",
+          "text": "His rescue ends Blackthorn’s rule."
+        }
+      ]
+    },
+    {
+      "id": "iolo",
+      "name": "Iolo",
+      "role": "Bard, bowyer and companion",
+      "motivation": "His familiarity makes Britannia feel like somewhere the Avatar has lived before. His conversations and practical help give the returning hero a foothold.",
+      "relationships": "A long-standing friend of the Avatar; Gwenno is his wife. Shamino and Dupre form part of the same recurring circle.",
+      "route": [
+        "u4",
+        "u5",
+        "u6",
+        "u7",
+        "serpent",
+        "u9"
+      ],
+      "updates": []
+    },
+    {
+      "id": "shamino",
+      "name": "Shamino",
+      "role": "Ranger and companion",
+      "motivation": "He carries personal connections to the world beyond the current crisis. Pay attention when local history stops being an abstract account and becomes somebody’s past.",
+      "relationships": "Friend of the Avatar, Iolo and Dupre. Serpent Isle gives his earlier history particular relevance.",
+      "route": [
+        "u4",
+        "u5",
+        "u6",
+        "u7",
+        "serpent",
+        "u9"
+      ],
+      "updates": []
+    },
+    {
+      "id": "dupre",
+      "name": "Dupre",
+      "role": "Knight and companion",
+      "motivation": "His appetite for company and drink makes him an approachable presence beside the grand language of heroism. Courage eventually asks more of him than winning a fight.",
+      "relationships": "One of the Avatar’s closest travelling companions alongside Iolo and Shamino.",
+      "route": [
+        "u4",
+        "u5",
+        "u6",
+        "u7",
+        "serpent",
+        "u9"
+      ],
+      "updates": [
+        {
+          "event": "serpent",
+          "text": "His sacrifice helps restore the Balance. Read this development only after completing Serpent Isle."
+        }
+      ]
+    },
+    {
+      "id": "blackthorn",
+      "name": "Lord Blackthorn",
+      "role": "A rival model of authority",
+      "motivation": "His place in the series is tied to the difference between doing good and compelling obedience. V makes that difference visible in the laws governing ordinary citizens.",
+      "relationships": "He governs during Lord British’s absence and brings the Avatar into conflict with the state.",
+      "route": [
+        "u5",
+        "u9"
+      ],
+      "updates": [
+        {
+          "event": "u5",
+          "text": "His regime falls when the Avatar defeats the Shadowlords and returns Lord British."
+        }
+      ]
+    },
+    {
+      "id": "batlin",
+      "name": "Batlin",
+      "role": "A leader of the Fellowship",
+      "motivation": "He presents a persuasive account of spiritual purpose and belonging. Compare his organisation’s public language with the evidence gathered during the investigation.",
+      "relationships": "The Fellowship connects him to influential citizens across Britannia. Discover the nature of those connections through Black Gate.",
+      "route": [
+        "u7",
+        "serpent"
+      ],
+      "updates": [
+        {
+          "event": "u7",
+          "text": "The Fellowship’s work is exposed as part of the Guardian’s plan; Batlin escapes."
+        }
+      ]
+    },
+    {
+      "id": "guardian",
+      "name": "The Guardian",
+      "role": "The voice addressing the Avatar in VII",
+      "motivation": "He claims authority over the hero and Britannia. His confidence is part of the pressure he applies; his instructions should invite scrutiny.",
+      "relationships": "His relationship with the Avatar develops through VII, Underworld II, Serpent Isle, VIII and IX.",
+      "route": [
+        "u7",
+        "uw2",
+        "serpent",
+        "u8",
+        "u9"
+      ],
+      "updates": [
+        {
+          "event": "uw2",
+          "text": "Other worlds show the practical consequences of his power."
+        },
+        {
+          "event": "u9",
+          "text": "IX makes his origin inseparable from the Avatar’s own story."
+        }
+      ]
+    },
+    {
+      "id": "garamon",
+      "name": "Garamon",
+      "role": "A presence encountered in Underworld",
+      "motivation": "His appearances draw the Avatar towards the history behind the kidnapping. Underworld rewards listening to people whose importance is not immediately clear.",
+      "relationships": "His family connection to Tyball helps explain the danger in the Abyss.",
+      "route": [
+        "uw1"
+      ],
+      "updates": [
+        {
+          "event": "uw1",
+          "text": "His guidance is essential to banishing the Slasher of Veils."
+        }
+      ]
+    }
+  ],
+  "factions": [
+    [
+      "Britannia and the shrines",
+      "The towns and shrines express the virtues in different ways. Their ideals make a useful starting point for questions, rather than proof that every citizen behaves well."
+    ],
+    [
+      "The Fellowship",
+      "An organisation offering community and a coherent answer to spiritual dissatisfaction in VII. Investigate its members and activities before looking up its secrets."
+    ],
+    [
+      "The gargoyles",
+      "A people with their own principles and history. VI becomes more interesting when you listen to their account rather than treating their appearance as an explanation."
+    ],
+    [
+      "The Ophidians",
+      "A civilisation whose ideas about Order, Chaos and Balance underlie Serpent Isle. Learn the terms as the investigation introduces them; solving the entire cosmology before starting would spoil much of the discovery."
+    ],
+    [
+      "Pagan’s elemental powers",
+      "Religious and magical authority on Pagan is organised around forces that affect ordinary life. Learning rituals offers a way forward while raising questions about the price of escape."
+    ]
+  ],
+  "scope": "Covers the ten main single-player adventures when the two parts of VII are counted separately, both Underworld games, both Worlds games, the two VII expansions and an introduction to Online. Original release years are shown, not the dates of store packages. Akalabeth is a precursor; the Runes of Virtue console games are separate action-puzzle detours. Lord of Ultima and Ultima Forever are later offshoots, not steps in this route. Fan remakes and spiritual successors such as Underworld Ascendant are outside the playing sequence. Online coverage does not promise a complete patch or expansion history. Recommendations are researched editorial guidance, not claims of hands-on testing of the November 2026 releases.",
+  "timeline_help": "Release order shows when the original games appeared. Suggested story groups keep the Britannia saga, Underworld route and other-world detours together; they are not a single exact chronology. Underworld II belongs between Black Gate and Serpent Isle. The starting-route filter retains IV, V, VI and both VII adventures. Completion settings reveal only the named game; the optional recap before VII explicitly reveals IV–VI.",
+  "sources": [
+    [
+      "EA: November 2026 releases and edition distinctions",
+      "https://www.ea.com/news/ea-classics-launch"
+    ],
+    [
+      "EA: Ultima catalogue",
+      "https://www.ea.com/games/ultima"
+    ],
+    [
+      "The CRPG Book: Ultima V’s world and moral questions",
+      "https://crpgbook.wordpress.com/review-index/1988-ultima-v-warriors-of-destiny/"
+    ],
+    [
+      "GameSpot: Ultima Collection retrospective",
+      "https://www.gamespot.com/reviews/ultima-collection-review/1900-2531653/"
+    ],
+    [
+      "Codex: Ultima III and its conclusion",
+      "https://wiki.ultimacodex.com/wiki/Ultima_III"
+    ],
+    [
+      "Codex: Ultima V and Blackthorn’s rule",
+      "https://wiki.ultimacodex.com/wiki/Ultima_V"
+    ],
+    [
+      "Codex of Ultima Wisdom: games and documentation",
+      "https://wiki.ultimacodex.com/wiki/Games"
+    ],
+    [
+      "Codex: The Black Gate and its expansion",
+      "https://wiki.ultimacodex.com/wiki/Ultima_VII"
+    ],
+    [
+      "Hardcore Gaming 101: Serpent Isle",
+      "https://www.hardcoregaming101.net/ultima-vii-part-2-serpent-isle/"
+    ],
+    [
+      "Codex: Underworld story and gameplay",
+      "https://wiki.ultimacodex.com/wiki/Ultima_Underworld"
+    ],
+    [
+      "Codex: Underworld II",
+      "https://wiki.ultimacodex.com/wiki/Ultima_Underworld_II"
+    ],
+    [
+      "Ultima Codex: Worlds of Ultima retrospectives",
+      "https://ultimacodex.com/2018/03/the-digital-antiquarian-looks-at-the-worlds-of-ultima-games/"
+    ],
+    [
+      "Hardcore Gaming 101: Pagan",
+      "https://www.hardcoregaming101.net/ultima-viii-pagan/"
+    ],
+    [
+      "Hardcore Gaming 101: Ascension",
+      "https://www.hardcoregaming101.net/ultima-ix-ascension/"
+    ],
+    [
+      "Exult: official setup and game-data requirements",
+      "https://exult.sourceforge.io/docs.html"
+    ],
+    [
+      "Ultima Online: Endless Journey account comparison",
+      "https://uo.com/wiki/ultima-online-wiki/beginning-the-adventure/endless-journey/"
+    ],
+    [
+      "Ultima Online: New Legacy rules and FAQ",
+      "https://uo.com/ultima-online-new-legacy/"
+    ]
+  ],
+  "related": [
+    [
+      "Why the original Dragon Age trilogy mattered",
+      "why-dragon-age-original-trilogy-mattered"
+    ]
+  ],
+  "milestones": [
+    {
+      "value": "none",
+      "label": "I’m new: hide story outcomes",
+      "unlocks": []
+    },
+    {
+      "value": "u1",
+      "label": "Finished Ultima I: The First Age of Darkness only",
+      "unlocks": [
+        "u1"
+      ]
+    },
+    {
+      "value": "u2",
+      "label": "Finished Ultima II: The Revenge of the Enchantress only",
+      "unlocks": [
+        "u2"
+      ]
+    },
+    {
+      "value": "u3",
+      "label": "Finished Ultima III: Exodus only",
+      "unlocks": [
+        "u3"
+      ]
+    },
+    {
+      "value": "u4",
+      "label": "Finished Ultima IV: Quest of the Avatar only",
+      "unlocks": [
+        "u4"
+      ]
+    },
+    {
+      "value": "u5",
+      "label": "Finished Ultima V: Warriors of Destiny only",
+      "unlocks": [
+        "u5"
+      ]
+    },
+    {
+      "value": "u6",
+      "label": "Finished Ultima VI: The False Prophet only",
+      "unlocks": [
+        "u6"
+      ]
+    },
+    {
+      "value": "uw1",
+      "label": "Finished Ultima Underworld: The Stygian Abyss only",
+      "unlocks": [
+        "uw1"
+      ]
+    },
+    {
+      "value": "u7",
+      "label": "Finished Ultima VII: The Black Gate only",
+      "unlocks": [
+        "u7"
+      ]
+    },
+    {
+      "value": "forge",
+      "label": "Finished Ultima VII: Forge of Virtue only",
+      "unlocks": [
+        "forge"
+      ]
+    },
+    {
+      "value": "uw2",
+      "label": "Finished Ultima Underworld II: Labyrinth of Worlds only",
+      "unlocks": [
+        "uw2"
+      ]
+    },
+    {
+      "value": "serpent",
+      "label": "Finished Ultima VII Part Two: Serpent Isle only",
+      "unlocks": [
+        "serpent"
+      ]
+    },
+    {
+      "value": "u8",
+      "label": "Finished Ultima VIII: Pagan only",
+      "unlocks": [
+        "u8"
+      ]
+    },
+    {
+      "value": "u9",
+      "label": "Finished Ultima IX: Ascension only",
+      "unlocks": [
+        "u9"
+      ]
+    },
+    {
+      "value": "before-u7",
+      "label": "Catch up before The Black Gate: reveal IV–VI",
+      "unlocks": [
+        "u4",
+        "u5",
+        "u6"
+      ]
+    },
+    {
+      "value": "all",
+      "label": "Reveal every story outcome in this guide",
+      "unlocks": [
+        "u1",
+        "u2",
+        "u3",
+        "u4",
+        "u5",
+        "u6",
+        "uw1",
+        "u7",
+        "forge",
+        "uw2",
+        "serpent",
+        "u8",
+        "u9"
+      ]
+    }
+  ]
+}
