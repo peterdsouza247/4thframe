@@ -1159,5 +1159,103 @@
       "why-dragon-age-original-trilogy-mattered",
       "mdk-retrospective"
     ]
+  },
+  {
+    "slug": "where-dc-movies-go-after-gunn-safran",
+    "type": "Long read",
+    "tags": [
+      "DC",
+      "DC Studios",
+      "Superman",
+      "Batman",
+      "Comic adaptations",
+      "Film"
+    ],
+    "related": [
+      "dc-standalone-stories-great-movies",
+      "telltales-batman-reinvention",
+      "comic-book-writers-worth-following"
+    ]
+  },
+  {
+    "slug": "dc-standalone-stories-great-movies",
+    "type": "List",
+    "tags": [
+      "DC",
+      "Comic adaptations",
+      "Film",
+      "Superman",
+      "Wonder Woman",
+      "Batman",
+      "Green Lantern"
+    ],
+    "related": [
+      "where-dc-movies-go-after-gunn-safran",
+      "comic-book-writers-worth-following"
+    ]
+  },
+  {
+    "slug": "mass-effect-n7-day-galaxy-worth-caring-about",
+    "type": "Long read",
+    "tags": [
+      "Mass Effect",
+      "N7 Day",
+      "BioWare",
+      "RPGs",
+      "Science fiction",
+      "Game design"
+    ],
+    "related": [
+      "mass-effect-legendary-edition-review",
+      "mass-effect-universe-what-could-have-been",
+      "games-to-play-instead-of-mass-effect-5"
+    ]
+  },
+  {
+    "slug": "last-lantern-making-the-dark-worth-exploring",
+    "type": "Journal",
+    "tags": [
+      "Last Lantern",
+      "Game development",
+      "Game design",
+      "Loot",
+      "Roguelites"
+    ],
+    "related": [
+      "last-lantern-fewer-buttons-better-decisions",
+      "last-lantern-bosses-boons-and-another-run",
+      "master-one-way-or-mix"
+    ]
+  },
+  {
+    "slug": "last-lantern-fewer-buttons-better-decisions",
+    "type": "Journal",
+    "tags": [
+      "Last Lantern",
+      "Game development",
+      "Game design",
+      "UI and UX",
+      "Automatic combat"
+    ],
+    "related": [
+      "last-lantern-making-the-dark-worth-exploring",
+      "master-one-way-or-mix"
+    ]
+  },
+  {
+    "slug": "last-lantern-bosses-boons-and-another-run",
+    "type": "Journal",
+    "tags": [
+      "Last Lantern",
+      "Game development",
+      "Boss design",
+      "Roguelites",
+      "Progression"
+    ],
+    "related": [
+      "last-lantern-fewer-buttons-better-decisions",
+      "last-lantern-making-the-dark-worth-exploring",
+      "when-the-fight-stopped-moving"
+    ]
   }
 ]

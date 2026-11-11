@@ -5,7 +5,7 @@ Refresh from the site (replaces this file): `python3 scripts/export_articles.py 
 Preview: `python3 scripts/import_articles.py --dry-run`
 Apply: `python3 scripts/import_articles.py`
 
-<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play", "mdk-retrospective", "actraiser-retrospective"]} -->
+<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play", "mdk-retrospective", "actraiser-retrospective", "where-dc-movies-go-after-gunn-safran", "dc-standalone-stories-great-movies", "mass-effect-n7-day-galaxy-worth-caring-about", "last-lantern-making-the-dark-worth-exploring", "last-lantern-fewer-buttons-better-decisions", "last-lantern-bosses-boons-and-another-run"]} -->
 
 <!-- fourth-frame:article {"slug": "telltales-batman-reinvention", "sha256": "100f9ea78c5d6fa7ca7a1d580d3d07af36b03e9c3b2c49c0a90bcae5f0610bea", "edit_sha256": "be9a193e68c0b9ae2ca1d82566d78325b805aaa8d3b2215603628d84f634d787"} -->
 ---
@@ -8412,5 +8412,641 @@ The sword clears the way. The settlement shows who the way was cleared for.
 [^5]: [Game Music's February 2011 interview with Yuzo Koshiro](https://www.squareenixmusic.com/features/interviews/yuzokoshiro.shtml), by Chris Greening and Don Kotowski, on the score and the Super Nintendo's sound capabilities.
 
 [^6]: [Official Actraiser Renaissance Steam listing](https://store.steampowered.com/app/1393370/Actraiser_Renaissance/) and [Square Enix's announcement](https://www.square-enix-games.com/en_US/home/actraiser-renaissance-playing-god-has-never-been-so-satisfying). These detail the remake's additional modes, stories and music options.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "where-dc-movies-go-after-gunn-safran", "sha256": "57d7aa401b2d6aa42bc56f0e3c2983525c21c9c8512e0158e5ed0778b7bdc390", "edit_sha256": "4713c30e3f4a0a05f4430723a0a20fbb73f26e45fb08d38d798182a0255b967d"} -->
+---
+title: "Where DC Movies Could Go After Gunn and Safran"
+description: "Why DC is changing leadership, what Gunn and Safran are still making, and the standalone films and team stories worth building towards."
+summary: "Another change at the top. The comics offer better answers than another reset."
+deck: "There are good reasons to bring these characters together. DC needs to give us time to care about them first."
+---
+
+A Wonder Woman film in which Diana protects someone Batman wants to arrest would tell me more about the possibilities of a DC universe than another announcement of ten interconnected projects. There is already a reason for the characters to meet. There is an argument worth having. Someone will have to make a difficult decision before the credits.
+
+That film could draw on *The Hiketeia*. Plenty of other comics offer similarly clear starting points, from a Catwoman robbery to Superman crossing space for one missing child. DC has never lacked material. Finding a structure that lets the material become a good film has been the harder part.
+
+Now the studio is changing leadership again. James Gunn and Peter Safran are leaving their executive roles, and Jeremy Latcham is taking over. It is tempting to treat that as permission to start the whole exercise from scratch. I would rather see the next few films give us reasons to stay.
+
+[TOC]
+
+## Why are Gunn and Safran leaving?
+
+First, the timing needs clearing up. Skydance announced the change on **9 November 2026**; Latcham becomes president and chief creative officer of DC Studios on **1 December**. Gunn and Safran are transitioning out of leadership after four years. The official announcement says they are returning to creative work and confirms that *Man of Tomorrow*, written and directed by Gunn and produced by both men, remains in post-production for a 9 July 2027 theatrical release.[^1]
+
+Leaving the executive offices therefore does not mean abandoning their next Superman film.
+
+The corporate explanation is a managed handover. Reporting gives a less comfortable account. *TheWrap*, citing people familiar with the decision, describes an ouster planned by David Ellison before the Paramount–Warner merger closed. Its sources disagree about precisely when Gunn and Safran were informed. The outlet also places the change against pressure for dependable theatrical business following uneven results from the new DC slate. Skydance declined to elaborate beyond its public statements.[^2]
+
+Gunn's own response adds another part of the picture. In a statement reproduced by *Variety*, he described the demands of the corporate role, the difficulty of dividing his attention and his relief at returning to filmmaking. That tells us how he feels about leaving; it does not establish that the executive decision was his.[^3]
+
+My reading is that new ownership wanted different leadership, while Gunn is also relieved to hand over a job he found exhausting. The public evidence does not support reducing the departure to one bad film or a tidy story about everyone happily choosing their next adventure. Nor does it establish which parts of the longer slate will survive unchanged.
+
+## Keep the characters people have started to know
+
+The immediate priority should be finishing the films already being made and allowing their casts to establish relationships. Starting again carries its own cost: the audience has to decide whether another version of a familiar hero is worth investing in.
+
+Superman benefits particularly from continuity. Clark's kindness becomes more interesting when it has a history. Lois should know when he is avoiding a difficult conversation. Lex should remember a defeat and learn the wrong lesson from it. People in Metropolis ought to develop views about this extraordinary neighbour beyond gratitude when he catches something heavy.
+
+Those things take screen time. Replacing the cast whenever a corporate strategy changes makes that accumulated familiarity difficult to achieve.
+
+Latcham's early Marvel experience is relevant, but the useful lesson from those films is how often the immediate problem belonged to the central character. The shared world became appealing because the individual films supplied people we wanted to see again. A DC film should be able to finish its own argument even when it leaves room for another.
+
+## A standalone film can make the world feel bigger
+
+*Catwoman: Selina's Big Score*, by Darwyn Cooke, offers a particularly straightforward opportunity: Selina puts together a dangerous robbery. The attraction is watching her judge people, assemble a crew and navigate relationships made worse by money. DC's own account describes a train heist and a story that needs very little of the surrounding superhero universe.[^4]
+
+I would keep Batman on the margins. Selina needs room to be the person who makes the plan, misjudges someone and deals with the result. A final rescue by a more famous man would waste the premise. The film could deepen Gotham by showing who works there when Batman is elsewhere.
+
+For Superman, Tom King and Andy Kubert's *Up in the Sky* supplies a different scale. Alice has been abducted by aliens, and Superman goes looking for her.[^5] A film could move through extraordinary places while keeping its purpose easy to understand. The difficult adaptation work would be selecting a handful of trials and connecting them through Clark's decisions. Reproducing every episode would make the search feel like a sightseeing itinerary.
+
+These could fit around a shared continuity without carrying its entire weight. Elseworlds projects could go further. *Superman: Secret Identity*, by Kurt Busiek and Stuart Immonen, begins with a young man named Clark Kent in a world where Superman is fiction.[^6] It has room for an intimate film about privacy and the life someone builds around an impossible secret. Trying to insert it into the main DC continuity would solve a problem the story does not have.
+
+The [companion list](../../stories/dc-standalone-stories-great-movies/) goes further into those possibilities. Here, the practical point is that DC can offer several kinds of film without demanding several kinds of homework.
+
+## Bring two heroes together over something they disagree about
+
+Greg Rucka and J.G. Jones's *Wonder Woman: The Hiketeia* starts with an obligation. Diana grants sanctuary through an ancient ritual; Batman's pursuit of the woman under her protection puts their principles in conflict.[^7]
+
+This is an excellent reason to make a crossover. Diana's understanding of justice and duty differs from Bruce's. The disagreement belongs to both of them, and an audience can understand it without knowing who won their last fictional fight.
+
+I would let the woman asking for sanctuary remain central. Her circumstances should challenge the heroes' certainty. There is a danger in adapting a story like this as a series of famous poses, particularly its image of Diana standing over Batman. The dramatic interest lies in the obligation she has accepted and the cost of keeping it.
+
+Smaller meetings also give actors room to develop a rapport. A Superman–Batman story could start with an investigation in which Clark can hear something Bruce cannot explain, while Bruce notices something Clark has overlooked. Their different methods should produce cooperation as well as friction. By the time a larger team assembles, their opinion of each other would already matter.
+
+## The first team film should let us enjoy the team
+
+Darwyn Cooke's *DC: The New Frontier* is a strong model for bringing several heroes together. Its Cold War setting places their emergence against suspicion and political anxiety. It already received an animated adaptation in 2008.[^8]
+
+A live-action version would work best as a self-contained period film, with a deliberately limited group of viewpoints. Hal Jordan and J'onn J'onzz offer different ways into the world: one trying to find a place in humanity's future, the other trying to understand humanity at all. The established icons can then be seen through their eyes. Attempting to give every character equal billing would flatten the story into introductions.
+
+For the ongoing universe, I would also look at the early *Justice League International* material by Keith Giffen, J.M. DeMatteis and Kevin Maguire. Its first collection puts an unlikely team against external threats while its members struggle to work together.[^9]
+
+The attraction is the time spent between emergencies. A team becomes believable when people disagree about how to do the job, discover someone else's competence and learn which colleague should never be left in charge of a delicate conversation. The humour can grow out of those relationships. It would be a shame to adapt the book by handing everyone the same sarcastic voice.
+
+A tighter film could combine a diplomatic crisis with a threat the team initially underestimates. That is an adaptation proposal, rather than a claim that those issues contain a ready-made two-hour screenplay. The heroes need a victory that depends on becoming better colleagues. Once we enjoy them together, threatening that arrangement will mean something.
+
+## Then use Tower of Babel to damage the trust
+
+Mark Waid and Howard Porter's *JLA: Tower of Babel* provides a strong second or third team film. Batman's contingency plans are turned against the Justice League.[^10]
+
+The appeal goes beyond finding ingenious ways to hurt powerful people. Bruce has thought about what happens if his friends become dangerous. His friends have to confront what that preparation says about the relationship they thought they had.
+
+I would build the film around the aftermath as much as the attacks. Superman can understand the need for safeguards while still objecting to secrecy. Diana can recognise strategic caution without accepting that Bruce alone gets to make the decision. Bruce can have a defensible concern and still have behaved badly.
+
+This needs an established team. If the characters have only just met, their anger has very little history behind it. Spend a film letting us trust the League, then allow Batman's precautions to compromise it. The villain should exploit recognisable relationships rather than simply possess a collection of spectacular weapons.
+
+The existing animated *Justice League: Doom* is a loose adaptation of this material.[^14] A new version would need its own dramatic purpose, and the time to follow the damaged friendships would be a good one.
+
+## Let the villains build something too
+
+Supervillains ought to notice when cooperation is working for the other side.
+
+Gail Simone and Dale Eaglesham's *Villains United*, and the *Secret Six* stories that follow it, offer useful material for a film about criminals refusing to fit neatly into a larger organisation.[^11] There is a sharp contrast available between a Society promising security through membership and a smaller group whose alliances are unstable but personal.
+
+I would adapt the conflict selectively. The original has ties to *Infinite Crisis*; importing all of those explanations would bury the film. A coherent version could centre on the Six refusing recruitment, stealing something valuable and becoming a problem both the Society and the heroes have to address. That last part is my proposed plot, not a summary of the comic.
+
+Such a film could make Lex's ambition visible through negotiations and leverage. Some villains would want payment, some protection, others recognition. Their reasons for joining would help explain what the organisation can achieve and where it might break.
+
+Later, a League-versus-Society film could force temporary partnerships against a shared threat. A villain saving a hero should create an uncomfortable debt. A hero accepting criminal help should have consequences after the emergency. Cooperation is more interesting when the film remembers who agreed to it and why.
+
+## Use the multiverse when the other world has something to say
+
+Grant Morrison and Frank Quitely's *JLA: Earth 2* makes the alternate-universe idea worthwhile by giving the League a world whose dominant powers resemble them and behave very differently. The Crime Syndicate is a political and moral problem as well as a formidable opponent.[^12]
+
+I would keep the film within those two worlds. There is enough to explore in the contrast between service and domination, particularly when people have learned to survive under the latter. Arriving with superior strength does not automatically teach someone how to build a better society.
+
+It would also give the villains an advantage beyond matching the heroes' powers. They understand the institutions they have corrupted. The League would need to learn what helping actually requires.
+
+That is a useful reason to cross universes. The opportunity to display several generations of casting choices is much less persuasive on its own.
+
+## Forever Evil could make an alliance uncomfortable
+
+For a larger film that actually needs heroes and villains on the same side, I would turn to Geoff Johns and David Finch's *Forever Evil*. Its premise puts the Crime Syndicate in control and makes Lex Luthor a central force opposing it.[^15]
+
+That gives an alliance a practical basis. Lex wants a world he can influence, which is difficult when someone else has conquered it. Batman can recognise the usefulness of his help without deciding that help makes him trustworthy.
+
+A film would need to simplify the event's connections to surrounding comics and keep the immediate occupation understandable. I would build it around a small resistance group whose members disagree about what victory should leave behind. They can cooperate in a rescue, then argue about who gets access to the technology recovered during it. The alliance needs friction within the action, rather than an explanatory speech before the final battle.
+
+The ending should preserve the discomfort of owing Lex something. Public gratitude could make him more powerful and complicate the next Superman story. Saving the world is a particularly effective way to improve one's reputation, especially if someone else is left explaining the qualifications.
+
+## Save Kingdom Come until the question has weight
+
+Mark Waid and Alex Ross's *Kingdom Come* is an obvious temptation: older heroes, a more violent generation and a dispute over what heroism has become.[^13] It could support an extraordinary event film.
+
+I would leave it alone for now. A story about Superman's absence has more force after an audience has experienced his presence. A film questioning the legacy of these heroes needs some shared sense of what that legacy meant.
+
+There is a practical danger here too. Adapting the painted spectacle while rushing past the civilian perspective would leave a very expensive argument between people in costumes. The ordinary people who live under their decisions are essential to the story's judgement of them.
+
+For the next few years, I want DC to establish that everyday relationship with its heroes. Let Clark complete a rescue. Give Diana an obligation she cannot comfortably fulfil. Let Selina finish a job whose consequences are hers. Then let the League learn how to work together before someone finds a good way to pull it apart.
+
+Those films would give the next studio head something more useful than a fresh timeline. They would give the audience characters with a history worth following.
+
+[^1]: [Skydance's 9 November leadership announcement](https://enduser-corp-prod.paramount.com/news/press/skydance-names-jeremy-latcham-president-and-chief-creative-officer-dc-studios), including the effective date, reporting structure and continuing *Man of Tomorrow* work. News checked 11 November 2026; future release plans can change.
+
+[^2]: [TheWrap's 10 November report on the leadership change](https://www.thewrap.com/creative-content/movies/dc-studios-why-james-gunn-peter-safran-fired-jeremy-latcham/). Its account relies partly on unnamed sources, whose disagreement about the notification timing is retained here.
+
+[^3]: [Variety's reproduction of Gunn's public statement](https://au.variety.com/2026/film/global/james-gunn-dc-speaks-out-42401/). His account of the role is distinct from reporting about the owner's decision.
+
+[^4]: [DC on *Selina's Big Score*](https://www.dc.com/blog/2025-08-14/the-big-score-dc-s-seven-greatest-heist-comics).
+
+[^5]: [Publisher synopsis and credits for *Up in the Sky*](https://www.penguinrandomhouse.com/books/608853/superman-up-in-the-sky-by-tom-king/).
+
+[^6]: [DC on *Secret Identity*](https://www.dc.com/blog/2025/05/23/superman-secret-identity-puts-clark-kent-first).
+
+[^7]: [DC on the sanctuary ritual and conflict in *The Hiketeia*](https://www.dc.com/blog/2025/01/17/wonder-woman-digs-in-her-heels-in-the-hiketeia).
+
+[^8]: [DC's *New Frontier* collection](https://www.dc.com/graphic-novels/dc-the-new-frontier-2004/dc-the-new-frontier-vol-1) and [the 2008 special marking its film adaptation](https://www.dc.com/comics/dc-the-new-frontier-2004/justice-league-the-new-frontier-special-1).
+
+[^9]: [DC's first *Justice League International* collection](https://www.dc.com/graphic-novels/justice-league-international-1987/justice-league-international-vol-1).
+
+[^10]: [Publisher synopsis and credits for *Tower of Babel*](https://www.penguinrandomhouse.com/books/842158/jla-the-tower-of-babel-dc-compact-comics-edition-by-mark-waid/). The linked Compact edition is forthcoming; the original story is already published.
+
+[^11]: [DC's *Secret Six: Villains United* collection](https://www.dc.com/graphic-novels/secret-six-2006/secret-six-villains-united).
+
+[^12]: [DC on *JLA: Earth 2*](https://www.dc.com/blog/2025-08-22/jla-earth-2-reveals-the-dc-universe-s-dark-reflection).
+
+[^13]: [DC's *Kingdom Come* collection](https://www.dc.com/graphic-novels/kingdom-come-1996/kingdom-come-new-edition). All suggested films and sequencing above are editorial proposals, not an announced slate.
+
+[^14]: [DC on the Tower of Babel inspiration for Justice League: Doom](https://www.dc.com/blog/2012/02/24/announcing-the-justice-league-doom-sale).
+
+[^15]: [DC's Forever Evil collection](https://www.dc.com/graphic-novels/forever-evil-2013/forever-evil) and [its fourth-issue synopsis](https://www.dc.com/comics/forever-evil-2013/forever-evil-4), placing Batman and Luthor in the same crisis. The proposed resistance structure and consequences above are adaptation choices.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "dc-standalone-stories-great-movies", "sha256": "c58edf995f86303ee1b83e0d6e475a27a6d3412988fb17bc0c95feecb88224b4", "edit_sha256": "eca9d548fe67604cf4da9ce54ead2ef0dd87bda4f7190b0831894a00fa4ab3b4"} -->
+---
+title: "10 Standalone DC Stories That Would Make Great Movies"
+description: "Ten DC comics with clear movie potential, from a Catwoman heist to Superman's search for one child, with the adaptation problems each must solve."
+summary: "A robbery, a promise, a missing child: ten films with a reason to exist beyond the next crossover."
+deck: "Ranked for their potential as complete films, with room for the awkward parts an adaptation would need to solve."
+---
+
+The DC film I would be most interested in seeing next might be a Catwoman robbery. Or a Wonder Woman story built around a promise. Both offer a clear conflict before anyone has to explain where they sit in the wider universe.
+
+For this list, standalone means a film that a new viewer could understand and leave satisfied. Some choices take place in the main comic continuity; others invent a separate world. A few include several heroes. The useful test is whether the central story can carry a film without relying on another release to finish it.
+
+These are ranked by the combination of dramatic potential, accessibility and how readily their strengths could survive adaptation. They are suggestions, rather than a report of films in development. Some have already influenced the screen or received animated treatment; those histories deserve acknowledgement, not a claim that the idea has never occurred to anyone.
+
+[TOC]
+
+## 10. Green Lantern: Earth One, volume one
+
+*Corinna Bechko and Gabriel Hardman*
+
+An asteroid prospector finds a ring and discovers the remains of a much larger struggle. In this version of Hal Jordan's origin, the Green Lantern Corps has fallen and the Manhunters dominate the threat facing him.[^1]
+
+I would lean into the unease of working somewhere far beyond help. Give the machinery weight, make the abandoned places feel dangerous, and allow the ring to be something Hal has to understand. The discovery of other Lanterns could then widen the film gradually. A lost organisation is easier to care about once we have met someone who needs it.
+
+The risk is delivering another long induction into cosmic terminology. Concentrating on the first volume would help: one person's survival and decision to rebuild something are enough for an initial film. It should conclude that immediate struggle rather than spending its final act advertising the next colour of ring.
+
+## 9. Far Sector
+
+*N.K. Jemisin and Jamal Campbell*
+
+Green Lantern Jo Mullein is investigating a murder in the City Enduring, a vast alien metropolis that has suppressed its inhabitants' emotions. The premise makes the city's apparent stability part of the mystery.[^2]
+
+This could make a very good science-fiction detective film. Jo has an immediate task, a population she is still learning to understand and institutions with reasons to resist her. An audience could discover the society through interviews, disagreements and the places her investigation takes her.
+
+Campbell's visual imagination is essential to the attraction. I would want a production that preserves the unfamiliar architecture and alien inhabitants instead of filling a recognisable city with a few unusual extras. Stylised animation deserves serious consideration.
+
+Twelve issues contain more political detail than one film can comfortably retain. The screenplay would need to choose which relationships carry the investigation, while preserving the conflict over the city's enforced peace. Making the whole problem the work of one secretly wicked official would be a very dull solution.
+
+## 8. Batman: Ego
+
+*Darwyn Cooke*
+
+An exhausted Bruce Wayne confronts the terrifying Batman within his own mind. Cooke turns an argument about his life into something that can occupy the page beside him.[^3]
+
+There is a striking film here if the director is willing to make Batman frightening from Bruce's perspective. The cave could become a place he cannot comfortably control. Memories could intrude on the argument. His rules would have to survive examination by the part of him that would find abandoning them convenient.
+
+The challenge is length. This is a compact story, and padding it with an unrelated villain would weaken the concentration that makes it interesting. I would favour a lean animated feature, or a film in which a single night's investigation supplies the external pressure around the inner confrontation.
+
+Matt Reeves already cited *Ego* as an influence on *The Batman*. A direct adaptation would therefore need a more specific purpose than claiming to be the first psychological Batman film. Let Cooke's expressionistic imagery determine its form.
+
+## 7. Wonder Woman: Dead Earth
+
+*Daniel Warren Johnson*
+
+Diana wakes in a ruined future and tries to protect the people who remain. The question of what happened to the world makes her own place in it increasingly difficult.[^4]
+
+Johnson gives the premise a physical ferocity that could support a memorable post-apocalyptic film. The monsters ought to feel dangerous. Diana's strength should change a battle, but it should not provide an easy answer to the despair around her.
+
+I would keep this separate from the ongoing film continuity. Its future needs to be allowed to stand, without a later instalment reopening the timeline to make everyone comfortable again. Animation could preserve the violence and exaggerated movement more convincingly than an expensive attempt at photographic realism.
+
+The adaptation's biggest risk is mistaking its brutality for its subject. If Diana becomes simply another angry warrior in a wasteland, the film loses the conflict that makes this her story: how she continues to regard humanity when hope has become difficult to justify.
+
+## 6. Superman: Secret Identity
+
+*Kurt Busiek and Stuart Immonen*
+
+In a world where Superman is a fictional character, a young man called Clark Kent discovers he has the powers associated with his embarrassing name.[^5]
+
+The obvious opening attraction is wish fulfilment. The more lasting one is the prospect of living an ordinary life while carrying an extraordinary secret. A film could follow Clark through selected periods of his life, letting the meaning of privacy change as his responsibilities grow.
+
+I would protect the quiet scenes. Flying has to be wonderful, but the film also needs time for conversation and the gradual business of trusting another person. Turning the authorities' interest in Clark into a conventional chase movie would shrink the story.
+
+This is also a clean use of an alternate continuity. The audience needs to know what Superman means in popular culture, rather than remember the events of a previous film. The marketing could explain that in a sentence. The screenplay would then have room to get on with Clark's life.
+
+## 5. Catwoman: Selina's Big Score
+
+*Darwyn Cooke*
+
+Selina needs money, knows where to steal a great deal of it, and has to work with people whose histories complicate the arrangement. The target is a train carrying criminal money.[^6]
+
+It is an unusually convincing pitch for a superhero-related film because the job itself supplies so much. Planning reveals Selina's judgement. Recruitment reveals her relationships. The robbery tests both under pressure. The consequences can remain serious without putting the planet in danger.
+
+I would give the crew distinct abilities and allow their competence to be enjoyable. A robbery is more satisfying when we understand what was meant to happen before it goes wrong. Cooke's clean visual storytelling is a useful guide to that clarity.
+
+Batman should occupy very little of the running time. Selina's independent life is the reason to adapt this book. The danger would be a studio deciding a Catwoman film needs to become a Batman film whenever the plot slows down. A well-staged train robbery ought to be able to hold its own.
+
+## 4. Superman Smashes the Klan
+
+*Gene Luen Yang and Gurihiru*
+
+The Lee family moves within Metropolis in 1946, and their new life brings them into contact with Superman and the hatred directed against them. Yang and Gurihiru draw on the old Superman radio serial *Clan of the Fiery Cross*.[^7]
+
+This would make a strong family film because the children have perspectives and concerns of their own. Superman's involvement can connect those experiences to his unease about belonging. The audience gets to understand his compassion through the people he helps.
+
+The period setting would need care. Warm colour and an inviting visual style should not turn the racism into a quaint problem everyone solved long ago. Equally, the family should have space for humour and ordinary pleasure alongside the threat.
+
+I would keep Gurihiru's expressiveness as a starting point for an animated feature. The crucial adaptation decision is to preserve the Lees' agency. Superman can defeat an attacker; the film still needs to care about what it takes for a family to make a home.
+
+## 3. Wonder Woman: The Hiketeia
+
+*Greg Rucka and J.G. Jones, with Wade Von Grawbadger*
+
+Diana grants sanctuary to Danielle Wellys under an ancient ritual. Batman wants Danielle to answer for her actions. Diana's obligation and Bruce's pursuit cannot be reconciled by a quick conversation.[^8]
+
+This is my strongest choice for a relatively contained crossover. A viewer can grasp the conflict immediately, then discover why the promise matters to Diana and why Batman refuses to leave. The mythological dimension gives the decision consequences beyond a disagreement between colleagues.
+
+The film should remain Diana's. Danielle also needs to be a person whose circumstances we understand, rather than an excuse to arrange a fight between two famous characters. Giving their conversations sufficient time would make the confrontation more difficult and more worthwhile.
+
+There is a severe subject beneath the memorable cover image. I would resist expanding the scale to make the film feel more like an event. Its distinction is that the heroes cannot solve the problem simply by finding a larger enemy to punch together.
+
+## 2. DC: The New Frontier
+
+*Darwyn Cooke, with colour by Dave Stewart*
+
+Cooke places the emergence of a new heroic age against Cold War suspicion. The world that will need these heroes is also learning to fear them.[^9]
+
+This is the biggest ensemble on the list, and the one with the clearest reason to remain self-contained. Its period and political tensions give the characters a shared context. The film could introduce Hal Jordan and J'onn J'onzz as its principal viewpoints, then let the gathering crisis bring their experiences into contact with the larger cast.
+
+An animated adaptation already appeared in 2008. The case for another version would be the room to develop the setting and individual lives, rather than the novelty of seeing a team assemble. A live-action film would need disciplined selection; the comic's breadth could easily overwhelm its people.
+
+I would preserve the discomfort beneath its optimism. The final cooperation should feel like something these characters have chosen after encountering the failures of their world. If the period becomes decorative nostalgia, much of the story's purpose disappears.
+
+## 1. Superman: Up in the Sky
+
+*Tom King and Andy Kubert*
+
+Aliens abduct a girl named Alice. Superman goes to find her. The search takes him far from Earth and repeatedly tests what he is willing to do for someone he does not know.[^10]
+
+That is enough to explain the film to almost anyone. It also leaves enormous room for spectacle. Each new place can bring a different obstacle, while the rescue keeps the audience attached to a human purpose.
+
+The adaptation should select its episodes carefully. I would build around a few connected encounters that change Clark's understanding of the search, rather than reproduce every diversion. Alice also needs a presence in the film so that she never becomes merely the destination at the end of Superman's trials.
+
+What puts this first is the relationship between the scale of the journey and the reason for making it. A Superman film can spend a fortune showing us what he can lift. This one could make the effort meaningful by keeping one frightened child at the centre of it.
+
+For the larger question of how these films might sit beside an ongoing universe, see [where DC could go after Gunn and Safran](../../stories/where-dc-movies-go-after-gunn-safran/).
+
+[^1]: [DC's first-volume synopsis and credits](https://www.dc.com/graphic-novels/green-lantern-earth-one-2018/green-lantern-earth-one-vol-1). This pick concerns volume one, not a compression of both volumes.
+
+[^2]: [DC's *Far Sector* collection](https://www.dc.com/graphic-novels/far-sector), collecting the twelve-issue story.
+
+[^3]: [DC on *Ego*, its premise and Reeves's stated influence](https://www.dc.com/blog/2022/03/01/darwyn-cooke-gets-inside-batmans-head).
+
+[^4]: [DC's *Dead Earth* collection and credits](https://www.dc.com/graphic-novels/wonder-woman-dead-earth-2019/wonder-woman-dead-earth).
+
+[^5]: [DC on *Secret Identity*](https://www.dc.com/blog/2025/05/23/superman-secret-identity-puts-clark-kent-first).
+
+[^6]: [DC's account of *Selina's Big Score*](https://www.dc.com/blog/2025-08-14/the-big-score-dc-s-seven-greatest-heist-comics).
+
+[^7]: [DC's *Superman Smashes the Klan* synopsis and credits](https://www.dc.com/graphic-novels/superman-smashes-the-klan-periodical-2019/superman-smashes-the-klan).
+
+[^8]: [DC on *The Hiketeia*](https://www.dc.com/blog/2025/01/17/wonder-woman-digs-in-her-heels-in-the-hiketeia).
+
+[^9]: [DC on *The New Frontier*](https://www.dc.com/graphic-novels/dc-the-new-frontier-2004/dc-the-new-frontier-vol-1) and [the special accompanying the 2008 adaptation](https://www.dc.com/comics/dc-the-new-frontier-2004/justice-league-the-new-frontier-special-1).
+
+[^10]: [Publisher synopsis and credits for *Up in the Sky*](https://www.penguinrandomhouse.com/books/608853/superman-up-in-the-sky-by-tom-king/). Comic premises and credits checked 11 November 2026. Rankings, formats and screenplay choices are editorial proposals; endings are deliberately left out.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "mass-effect-n7-day-galaxy-worth-caring-about", "sha256": "7401b398d20ef32c908b630bb06c30787c79c5b7631260106c4d686728896650", "edit_sha256": "b510cfe196737d9d70a228529527150cd9bbaaf753faa0db4efc7500359be391"} -->
+---
+title: "N7 Day: Why Mass Effect Gave Us a Galaxy Worth Caring About"
+description: "A Mass Effect retrospective on the Normandy's crew, connected choices, alien politics and why its universe had the reach to become a wider cultural fixture."
+summary: "The next game is gone. The reasons this became my favourite series are still there."
+deck: "Mass Effect already meant a great deal to its players. It also had room to reach people who would never pick up a controller."
+---
+
+I still think the most important part of *Mass Effect* happens after a mission, when you are back on the Normandy and start looking for people to talk to.
+
+The emergency is temporarily elsewhere. Garrus has his work. Tali has something to say. Someone you recruited is occupying a room that felt empty a few hours ago. You have just spent a mission using these people as a squad; now the ship gives you time to know them.
+
+That rhythm is a large part of why *Mass Effect* became my favourite series. The galaxy was interesting enough to explore, the combat became more satisfying as the games progressed, and the story kept giving those conversations greater weight. By the later games, the Normandy carried relationships I had spent a considerable amount of time building.
+
+This year's N7 Day arrived after BioWare's **21 October 2026** announcement that the studio was closing and early development on the next *Mass Effect* was ending.[^1] The cancellation deserves reporting, and [our earlier investigation](../../stories/mass-effect-universe-what-could-have-been/) follows what was publicly known about that project. For this piece, I want to return to what the finished games achieved, and why the universe still seems capable of reaching a much wider audience.
+
+*The main discussion avoids major outcomes. A collapsible section later on examines specific trilogy consequences.*
+
+[TOC]
+
+## Humanity arrived in someone else's galaxy
+
+The first *Mass Effect* makes a useful decision about its setting: humanity is important to the protagonist, but relatively new to the institutions that govern everyone else.
+
+The Citadel Council has a history before Shepard enters the room. The turians remember humanity's arrival differently from the Alliance. The salarians and krogan carry the consequences of decisions made long before the current crisis. Human ambition meets a galaxy that has its own reasons to be suspicious.
+
+That gives the conversations political friction. An alien official who resists Shepard may be protecting an institution, remembering a war or objecting to humanity's demand for influence. The protagonist's urgency does not automatically erase those concerns.
+
+I particularly like how the setting gives familiar science-fiction ideas practical consequences. The mass relays explain how ships cross enormous distances, but they also establish where people can go, what they can control and which routes matter. Biotics create spectacular combat abilities while raising questions about the lives and treatment of the people who possess them. Technology becomes part of society.
+
+The codex supports this beautifully. It can provide an explanation when curiosity strikes without requiring every character to lecture Shepard during a crisis. More importantly, the best lore also turns up in behaviour. You can hear a historical grievance in an argument, then look up the larger context afterwards.
+
+There are limitations. Alien societies can become too closely associated with one defining trait. The trilogy sometimes relies on a companion to supply nuance that the wider depiction of their species lacks. Even so, that companion often makes a useful difference. Wrex complicates the account other people give of the krogan simply by being someone worth listening to.
+
+## The first game let the mystery get larger
+
+I loved the original game's story and the way it built towards its climax. It begins with an urgent military problem, then gradually changes your understanding of what is happening and how much of the galaxy's history bears on it.
+
+Its quieter stretches help that escalation. A distant world, an abandoned installation or an unfamiliar ruin can leave enough space for the player to wonder what happened there. The music gives those places an isolation that a larger crowd of enemies would struggle to improve.
+
+The exploration does not always deserve the atmosphere surrounding it. Repeated interiors become noticeable. Driving over another awkward ridge can make the promise of planetary discovery feel rather optimistic. The game has moments when the journey between interesting things is doing too much work.
+
+Still, the underlying invitation is excellent: go somewhere because there may be a story there. The galaxy map turns the next destination into a decision, even within a tightly authored main plot. A player can leave the urgent business for a while, investigate something odd and return with a more substantial sense of the setting.
+
+Later games improve the immediate action but lose some of that uncertainty. The original's particular appeal lies in how often the universe seems older and less understood than the people trying to manage it.
+
+## Mass Effect 2 understood the pleasure of recruitment
+
+*Mass Effect 2* remains my favourite of the three. The combat is a substantial improvement, and the structure gives the cast an unusually clear purpose.
+
+Recruitment introduces someone through a problem. You encounter the situation they are in, see how they handle it and decide how Shepard will respond. Their personality has already begun to matter by the time they reach the ship.
+
+Then the loyalty missions complicate that first impression. An abrasive introduction can give way to an explanation of what someone has endured. A confident professional can reveal a private uncertainty. The game allows a companion to be useful in a fight without suggesting their usefulness has resolved their life.
+
+Jack is a particularly good example of why this works. Her aggression is easy to notice. Understanding the experiences behind it asks for more time, and the relationship becomes more interesting when Shepard has to decide how to treat someone who has good reasons to distrust people in authority. The game cannot make her entire history comfortable, and it benefits from leaving some of that discomfort intact.
+
+Garrus works differently because the relationship has a past. Tali brings personal stakes to political arguments that might otherwise remain abstract. These are distinct kinds of attachment. The game gives the returning player familiar people to recognise while leaving room for newcomers to change the group.
+
+The central mission supplies a reason to prepare, but the preparation is enjoyable in its own right. Recruiting the team and attending to its problems would be worth doing even without the promise that those decisions might become important later. That is why the structure avoids feeling like a long checklist before the real game begins.
+
+## A save file gave the sequels a memory
+
+Importing Shepard is one of the trilogy's best ideas. A sequel can recognise decisions made in another game, including choices that were not obviously being made for a future payoff.
+
+The result is a particular kind of ownership. Two players may have completed the same broad story while carrying different relationships and absences into its next chapter. A conversation about the games quickly becomes a comparison of what happened in each person's version.
+
+The system has limits. Some branches converge. Some consequences are represented by a message or a brief scene. A production of this scale was never going to contain three wholly different sequels behind every major decision.
+
+But even modest recognition can be effective when it refers to someone the player remembers. The game is acknowledging a history. That has more emotional value than an enormous number of theoretical choices that never become visible again.
+
+It also creates a useful tension in Shepard. We shape the commander's appearance, history and conduct, while the voice performances and authored dialogue supply enough consistency for Shepard to hold a scene. There is room to inhabit a character without having to invent every part of them.
+
+The Paragon and Renegade systems can make the machinery too visible, particularly when pursuing a preferred outcome encourages repeatedly choosing the same kind of answer. I would want a future interpretation to retain the continuity while making more decisions difficult to sort into a dependable route.
+
+## Combat gave the companions another way to matter
+
+The relationships would be weaker if the crew only existed in conversations. Bringing two companions into a mission gives their abilities a practical place in Shepard's life.
+
+The pause-and-command layer lets the player think about protection, positioning and power combinations. A squadmate can create an opening that Shepard exploits. Biotics can change what an enemy is able to do. Tech abilities make a different contribution from simply carrying another gun.
+
+Across the trilogy, the combat moves further towards responsive third-person action. The second game makes ordinary encounters much more enjoyable; the third develops the movement and combinations further. The changing balance will not suit everyone, especially players who prefer the first game's heavier RPG equipment systems. I appreciate that each entry has its own strengths rather than treating the initial design as untouchable.
+
+The first game's improvements in *Legendary Edition* also make it easier to return to the whole trilogy. BioWare documented changes to aiming, weapon handling, squad commands and other systems ahead of the remaster's release.[^2] Those changes matter because they reduce the gap between wanting to revisit the story and enjoying the next fight.
+
+There is room to criticise the encounter design. Too many hostile rooms can look as though someone has thoughtfully delivered cover before the fighting starts. Yet when squad selection, powers and enemy defences line up, the action supports the fantasy of commanding a capable team. The people you care about are also people you rely on.
+
+## The third game made old arguments urgent
+
+*Mass Effect 3* inherits years of political tension and puts the galaxy under immediate pressure. Familiar disagreements become difficult to postpone. The people involved have to decide what they are willing to offer, forgive or risk while their own survival is uncertain.
+
+That works because the earlier games gave the conflicts time to develop. The krogan and quarian stories already mean something through Wrex and Tali. Their personal relationships with Shepard sit beside responsibilities that are much larger than the Normandy.
+
+:::spoilers Open the discussion of trilogy consequences
+
+Virmire demonstrates the force of removing someone from the continuing story. A later game cannot simply supply the same group again and pretend the decision was dramatic only at the time.
+
+The suicide mission in *Mass Effect 2* goes further by linking survival to preparation and judgement. Loyalty, upgrades and assigning the right people to particular tasks become part of how the operation unfolds. The final mission draws on the work the player has already done, which makes its consequences feel connected to the campaign rather than imposed at the end.
+
+The genophage resolution in *Mass Effect 3* is powerful for related reasons. Wrex and Mordin make the history personal without reducing its scale. Decisions from earlier games can change who is present and which possibilities remain. The argument is harder because the player knows individuals on different sides of it.
+
+Rannoch brings the quarian–geth conflict into a similarly difficult space. The possibility of peace, and the conditions needed for it, ask whether the player has built enough understanding to achieve something beyond choosing a preferred side. These resolutions are among the trilogy's strongest examples of continuity producing drama.
+
+They also help explain the disappointment with the final ending. The trilogy has taught us to expect accumulated circumstances to shape an outcome. Its closing choice compresses that expectation severely. The Extended Cut provides more context, but it cannot give the last decision all the responsiveness of the best earlier resolutions.
+
+:::
+
+My reservations about the ending do not erase the quality of the journey. They do make the last stretch more frustrating. The series had already demonstrated how effectively consequences could grow out of relationships and prior decisions. The criticism comes partly from wanting it to sustain its own best work.
+
+## There was room for a much wider cultural life
+
+Calling *Mass Effect* a missed cultural phenomenon needs qualification. It already has a devoted audience, recognisable imagery and stories people still argue about. N7 is a symbol fans wear. The cast and their relationships have survived far beyond the original release cycle.
+
+What I think remained possible was wider familiarity: the sort of science-fiction setting someone might recognise through a series, a novel or a character without having played a lengthy RPG trilogy. That is an argument about its potential, rather than a claim that it was guaranteed to become the next *Star Wars*.
+
+The setting has several advantages. The Normandy supplies an understandable home. The Citadel offers a place where different societies can meet. The relays make travel possible while allowing enormous distance and uncertainty. A story can concern a ship's crew, a political dispute or an investigation without immediately threatening all life in the galaxy.
+
+There are also ways into the world for different audiences. Someone might be drawn to the military adventure, someone else to the romance, another person to a mystery about synthetic life. The trilogy connects those interests through characters who have to live with one another. A broader franchise could preserve that connection while changing its central cast.
+
+The obstacle is that the games' greatest achievement is difficult to transfer. A television viewer cannot import a Shepard or decide whom to trust. Adapting one route through the trilogy would turn several meaningful player decisions into facts selected by a screenplay.
+
+That does not make an adaptation impossible. It makes choosing the story unusually important.
+
+## A new crew would give an adaptation some freedom
+
+I would be interested in a smaller story elsewhere in the setting: a mixed-species crew investigating a missing vessel, for example, with different governments wanting different answers. The audience could learn the politics through the crew's loyalties and the practical business of completing the job.
+
+That is my proposed direction, not a description of a cancelled game or a television script. BioWare's November 2025 update described the Amazon television project then in development as a new story after the original trilogy, rather than a retelling of Shepard.[^3] That earlier announcement establishes an intention at that date; it does not answer every question about the production's present status.
+
+For me, the useful lesson is to give a new cast problems of their own. A turian should have a life beyond explaining turians. A human should encounter assumptions that make sense to their colleagues and seem strange to them. Disputes should survive the end of a mission, then change as people spend time together.
+
+An adaptation would also need to enjoy the setting's quieter pleasures. The space between crises helps make the crisis matter. A meal, an awkward conversation or an argument about the ship can tell us who these people are before the expensive sequence asks us to fear for them.
+
+Spectacle would bring the galaxy to the screen. Relationships would give viewers a reason to come back.
+
+## What remains worth returning to
+
+The original trilogy is still a substantial body of finished work. *Legendary Edition* brings its three single-player campaigns and most of their additional content together.[^4] It is a good starting point for someone curious about why this series inspires such attachment, and it remains easy for me to recommend with the familiar reservations about the ending.
+
+The cancellation means the next team will not get to show us what it was trying to build. That loss belongs first to the people who were making the game. Fans also lose the chance to see this world develop through another long adventure.
+
+For N7 Day, though, I keep coming back to the ship. The trilogy understands that saving a galaxy is easier to care about when we can name a few people in it. After another difficult mission, it lets us put the weapon away, walk down a corridor and find out how they are doing.
+
+[^1]: [BioWare's 21 October 2026 closure announcement](https://blog.bioware.com/2026/10/21/bioware-update/). The project cancellation is confirmed by the studio; this essay does not speculate about an unannounced replacement. News checked 11 November 2026, after N7 Day on 7 November.
+
+[^2]: [BioWare's account of the Legendary Edition gameplay changes](https://blog.playstation.com/2021/04/06/mass-effect-legendary-edition-rebalancing-tuning-mechanical-improvements/).
+
+[^3]: [BioWare's N7 Day 2025 update](https://blog.bioware.com/2025/11/07/n7-day-2025/), cited for its then-announced television direction. Suggested stories in this essay are the author's proposals.
+
+[^4]: [EA's Legendary Edition overview](https://www.ea.com/games/mass-effect/mass-effect-legendary-edition). The critical discussion concerns the released games. Personal judgements build on [my existing review](../../stories/mass-effect-legendary-edition-review/), rather than a newly claimed playthrough.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "last-lantern-making-the-dark-worth-exploring", "sha256": "da9d61efd5b26280585ce0cfeaaca44fa7ea7f0ebca6c4c7f1f5252a665c2f7e", "edit_sha256": "00ca5b2c57c48abb2ee37aa488424b88fc412369ab328daeb6af26f1c2609ac6"} -->
+---
+title: "Last Lantern: Making the Dark Worth Exploring"
+description: "Why Last Lantern's exploration needed better equipment rewards, subtle roadside clues and a clearer reason to leave the safety of the wagon."
+summary: "I went looking for interesting equipment and kept finding fuel. The road needed a better argument."
+deck: ""
+---
+
+I went exploring in *Last Lantern* because I wanted to find better equipment. Too often, what I found was fuel.
+
+Fuel matters. The Rogue has to carry it back to the lantern wagon, where the Tank and Mage are holding the company together. Leave the light for too long and dread becomes dangerous. That creates a useful reason to venture out and a useful reason to return.
+
+But it is a fairly limited reward for curiosity. The best result is that you can continue doing what you were already doing. I also wanted the possibility of finding something that would change the next fight.
+
+## Give the detour something worth finding
+
+The loot work took inspiration from the pleasure of finding equipment in *Diablo III*: different categories, variable properties and the chance that an item will change how you value the rest of a build. I was interested in those decisions, rather than filling the screen with a similar number of drops.
+
+The 0.11 design gives every road seven equipment stops covering the six slots, including an early Legendary and deeper detours. Oil stores sit nearer the convoy route.[^1] That distribution gives the two kinds of exploration different purposes. A necessary supply trip should not consume every opportunity to pursue a more ambitious reward.
+
+Legendary powers also need to do something the player can recognise. A protective effect around the company or an opening that benefits the Rogue gives a find an identity beyond its rank. The useful question at camp becomes whether that effect suits the way this expedition is developing.
+
+These are placement and reward rules, not proof that every trip now feels rewarding. An item can be numerically good and still feel unexciting if its effect is difficult to see.
+
+## A trail should invite a decision
+
+I also had trouble seeing the clues that were supposed to lead towards loot. That is an awkward problem for a game about making a judgement before stepping away from safety. The temptation has to be visible enough to judge.
+
+The revised clues use things that belong beside the road: broken racks, scattered cloth, tracks and oil jugs. They follow walkable ground, remain beneath unexplored fog and disappear when their associated find has been collected.[^1] I want the player to notice evidence, investigate it and decide whether there is time to continue.
+
+Large starting markers would make that decision too obvious. Removing them preserves some discovery, but the smaller breadcrumbs still have to survive the phone screen, the lighting and everything else competing for attention. Subtle can very easily become invisible.
+
+There is a useful distinction between hiding a reward and hiding the information needed to look for it. The first can make exploration enjoyable. The second can make someone wander until the fuel runs out.
+
+## The return journey is part of the reward
+
+Finding a chest should leave a question behind: push farther, collect oil on the way back, or return now while the company is still in good shape?
+
+That is the part of the loop I want to preserve. The moving wagon means the route home is changing while the Rogue explores. The lantern is both a resource to maintain and the place the player is trying to reach again. Stronger equipment gives a detour an upside; dread and the company's condition give it a cost.
+
+The balance still needs ordinary play. Automated checks can establish that a cache is reachable and that the road contains the intended equipment slots. They cannot tell me whether a player spotted the cloth, understood what it suggested or felt pleased by the item at the end.
+
+For the next pass, the questions are practical: did the trail help, was the detour worth the damage, and did the find make the next camp decision more interesting? If the answers remain unclear, adding another chest will not tell me much.
+
+[^1]: Development baseline: [0.11 exploration and loot notes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.11.0.md) and [0.12 changes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.12.0.md). These links preserve the builds discussed, rather than promising the latest package or a finished balance pass. The game remains in development.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "last-lantern-fewer-buttons-better-decisions", "sha256": "a02db9d16fa088e1e4908665d138f4210a47c1f3d36c25bcbb3e2cffdb56105e", "edit_sha256": "f006ac78bb4e1ec8db223c6cc0dc663cc8cb3c834c2a194ace5c997aa4e0d33b"} -->
+---
+title: "Last Lantern: Fewer Buttons, Better Decisions?"
+description: "Moving Last Lantern towards automatic combat, removing the forge and making equipment and skill choices easier to find at camp."
+summary: "The abilities could happen automatically. The decisions still needed somewhere useful to live."
+deck: ""
+---
+
+I was not sure which items I could equip. The equippable ones were listed below the information I was already reading. In the skill screen, I also missed the second branch because it appeared after all the choices in the first.
+
+Both are fairly small interface mistakes with substantial consequences. A choice may exist in the game, but if the player does not realise it is there, it contributes very little.
+
+This became part of a wider question about *Last Lantern*: which decisions need my attention while the Rogue is moving, and which belong at camp?
+
+## Let the company handle its abilities
+
+The current direction is for attacks and special powers to happen automatically. On the road, the player concentrates on movement, returning towards the lantern and choosing a route. Equipment and skill decisions belong between roads.[^1]
+
+I like the way an auto battler can let a prepared group express the decisions made before the fight. For *Last Lantern*, that still leaves the Rogue's position under direct control. Leaving a marked area, reaching a vulnerable target and deciding when to return to the company remain actions the player has to judge.
+
+That makes encounter design more demanding. If every enemy can be beaten by standing nearby while the abilities fire, automatic combat has removed much of the game. The enemies need to create situations in which moving somewhere else is useful.
+
+It also makes feedback more important. An automatic power has to be visible enough that the player can connect its effect to a character or item. Otherwise the camp choice may be meaningful in the simulation and almost invisible during play.
+
+## Why remove the forge?
+
+Earlier builds let unwanted equipment become scraps for a camp forge. It gave weaker finds a use and offered a more directed way to obtain gear. Those are sensible functions, but they also added another process to every camp.
+
+I decided to remove forging and salvage. The 0.12 camp no longer asks the player to manage those materials or work through a separate crafting choice.[^2]
+
+The cost is worth acknowledging. There is less direct control over generating a replacement for a weak slot. Better loot distribution now has to carry more of that responsibility. Removing a system does not remove the problem it was intended to solve.
+
+What I want to gain is a clearer pause between roads: look at the finds, decide what to equip, choose skills and consider the guardian's boon. Those decisions already have enough to say about the next stage of the expedition.
+
+## Put the options before their explanations
+
+The equipment screen now puts available gear and the Equip action before the detailed comparison. The skill screen presents both branches before their upgrade nodes.[^2]
+
+That ordering follows the problem I actually encountered. First I need to know what is available. Then I can compare it. A long explanation of one branch is useful after I know there is another branch beside it.
+
+The same principle applies to a Legendary item. Its special effect needs a clear explanation, but the basic decision should be easy to find: who can use it, what it replaces and where to equip it. Colour and animated rarity effects can help recognition; they cannot do the work of arranging the information.
+
+## What I want the next playtest to establish
+
+Fewer buttons will not automatically produce better decisions. I want the field to demand attention to position and the camp to reward attention to the company. Either half can fail.
+
+A useful playtest would show where someone hesitates: whether they can identify an upgrade, whether both skill paths are visible, and whether they understand why a choice changed the next fight. It should also reveal whether camp has become a pleasant break or still feels like work before the game resumes.
+
+The existing checks can verify that equipping changes the intended values and that leaving camp preserves a choice. The more important interface test is whether someone can make that choice without needing me to explain where it is.
+
+[^1]: [The 0.11 road-and-camp changes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.11.0.md).
+
+[^2]: [The 0.12 forge removal and camp layout changes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.12.0.md). These are development notes on the 0.11–0.12 design changes, not a claim that phone usability has received final acceptance.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "last-lantern-bosses-boons-and-another-run", "sha256": "75790d3280aebbcf17c2bb9e246f3159130fd4f6f23f14da6097b0129b9299ed", "edit_sha256": "9a8882f288582ce019e5967278589e49c17e88eda25eaf5abcf0b619dbb5b2c4"} -->
+---
+title: "Last Lantern: Bosses That Change the Next Run"
+description: "Distinct guardians, shuffled roads, difficult boon choices and local achievements: the next questions for Last Lantern's replayability."
+summary: "A boss needs its own answer. Its reward should leave a decision behind."
+deck: ""
+---
+
+One of the ideas I wanted to take from *Teamfight Tactics* was the way a unit can change a fight through its behaviour. Calling reinforcements, protecting another target or creating a dangerous area can alter what everyone else needs to do.
+
+For *Last Lantern*, that suggested a useful test for the guardians: if I removed their names and changed their sprites, would the player still recognise which encounter they were in?
+
+Larger health bars would not answer that. The bosses needed different demands on the Rogue's movement, and rewards that helped make the next road feel different too.
+
+## Give each guardian a problem to solve
+
+The 0.12 design separates encounters that require breaking protective wards from those that reward moving behind the guardian during a recovery window. Reinforcements arrive during attacks, with limits on how many can remain alive and how many can be summoned in a phase.[^1]
+
+Candle-Eye asks the Rogue to deal with watch-eyes while leaving marked ground. The Root Matron has root hearts to sever. The Bell-Ram asks the player to move inside a ring and use the silence that follows. The Rimehorn's charge creates a different movement problem and an opportunity once it is exhausted.
+
+Those are the intended distinctions. They will only feel distinct if the warning, danger and opening are readable in an ordinary fight. The player should be able to learn why moving helped without consulting a page of internal rules.
+
+Summons also need a purpose beyond making the screen busier. A ranged enemy changes the safety of an approach. A nuisance near the lantern can make an opening at the boss more expensive to pursue. The cap matters because a fight should remain recoverable after a mistake; an unlimited crowd would eventually bury the guardian's own behaviour.
+
+## Shuffle the journey, keep the destination
+
+The first nine regions now shuffle together for a new expedition. Nox remains the tenth encounter. Region identity determines the mechanics and the boon pair; position in the run determines the health and reward scaling.[^1]
+
+That should make an early guardian more consequential. Meeting Candle-Eye first gives a different opening set of demands from meeting the Thorn Marshal. The equipment and skills available at that point also change what the player can comfortably attempt.
+
+It is not the same as generating a completely new world. These remain authored regions and encounters in a different order. Their value has to come from how they interact with the company's changing resources, rather than the shuffle alone.
+
+## The reward should require a judgement
+
+Each of the first nine defeated guardians offers two themed boons. The player takes one for that expedition, accepting its penalty alongside its benefit. Nox ends the journey, so there is no final gameplay boon with nowhere left to use it.[^1]
+
+The Watching Orchard pair makes the intention fairly clear: a larger protective light at the cost of some Tank damage, or faster searching at the cost of Rogue health. One changes the company's safety; the other makes trips into danger quicker while reducing the margin for error.
+
+These choices should depend on the run. Faster searching may be attractive when detours are paying off. More light may be useful when returning to the company has become difficult. If one option wins regardless of the party and equipment, its alternative is occupying space rather than providing a decision.
+
+## Remember the run without requiring more grind
+
+The Chronicle now includes a named local profile, twelve achievements and links to the runs that earned them. The medals provide no combat stat bonuses.[^2]
+
+I wanted a reason to remember an expedition beyond its score. I also wanted every new attempt to remain a reasonable place to learn. Tying basic combat strength to permanent achievement rewards would make failure harder to interpret: did the player need a better decision, or simply more completed runs?
+
+Profiles and achievements are local, rather than a verified online competitive system. Their role is to record a history worth looking back through. Different parties, equipment and guardian orders still have to provide the reason to play again.
+
+## Then the game froze after Candle-Eye
+
+After defeating Candle-Eye as the first boss, I hit a freeze. That is the less glamorous part of adding a new progression loop: the reward and transition have to work before anyone can judge whether the next choice is enjoyable.
+
+The report makes the next verification quite concrete. Finish that encounter on a phone, reach camp, resolve the boon and leave for the next road. Continue from a save around the same transition and check the sequence again. Until that sequence has been verified on the device, I cannot call the progression loop finished.
+
+Automated encounter checks are useful, but a successful simulated journey is not evidence that every player can complete the same sequence through the interface. Once the transition is dependable, the more interesting question becomes available again: did this boss make the player reconsider how to handle the next road?
+
+[^1]: [The 0.12 guardian and boon guide](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/GUARDIAN_ROADS.md), documenting the intended mechanics, reinforcement caps and trade-offs. Their presence in the build is separate from a claim of finished human balance.
+
+[^2]: [The 0.12 release notes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.12.0.md). This entry records the design change and the subsequent play report; it is not a hotfix announcement.
 
 <!-- fourth-frame:end -->
