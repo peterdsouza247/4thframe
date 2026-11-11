@@ -129,6 +129,12 @@ Article files (updated by `scripts/add_article.py`):
 - the-games-we-never-got-to-play: `stories/the-games-we-never-got-to-play/index.html`
 - mdk-retrospective: `stories/mdk-retrospective/index.html`
 - actraiser-retrospective: `stories/actraiser-retrospective/index.html`
+- where-dc-movies-go-after-gunn-safran: `stories/where-dc-movies-go-after-gunn-safran/index.html`
+- dc-standalone-stories-great-movies: `stories/dc-standalone-stories-great-movies/index.html`
+- mass-effect-n7-day-galaxy-worth-caring-about: `stories/mass-effect-n7-day-galaxy-worth-caring-about/index.html`
+- last-lantern-making-the-dark-worth-exploring: `stories/last-lantern-making-the-dark-worth-exploring/index.html`
+- last-lantern-fewer-buttons-better-decisions: `stories/last-lantern-fewer-buttons-better-decisions/index.html`
+- last-lantern-bosses-boons-and-another-run: `stories/last-lantern-bosses-boons-and-another-run/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
