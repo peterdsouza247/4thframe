@@ -1257,5 +1257,39 @@
       "last-lantern-making-the-dark-worth-exploring",
       "when-the-fight-stopped-moving"
     ]
+  },
+  {
+    "slug": "harrowick-learning-to-read-the-road",
+    "type": "Journal",
+    "tags": [
+      "Harrowick",
+      "Last Lantern",
+      "Game development",
+      "Game design",
+      "UI and UX"
+    ],
+    "related": [
+      "last-lantern-making-the-dark-worth-exploring",
+      "last-lantern-fewer-buttons-better-decisions",
+      "last-lantern-bosses-boons-and-another-run"
+    ],
+    "published": "2026-11-20"
+  },
+  {
+    "slug": "stancebreaker-making-cards-feel-like-a-fight",
+    "type": "Journal",
+    "tags": [
+      "Stancebreaker",
+      "Masters of the Way",
+      "Game development",
+      "Card games",
+      "UI and UX"
+    ],
+    "related": [
+      "master-one-way-or-mix",
+      "when-the-fight-stopped-moving",
+      "from-browser-duel-to-full-game"
+    ],
+    "published": "2026-11-20"
   }
 ]
