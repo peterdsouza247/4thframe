@@ -5,7 +5,7 @@ Refresh from the site (replaces this file): `python3 scripts/export_articles.py 
 Preview: `python3 scripts/import_articles.py --dry-run`
 Apply: `python3 scripts/import_articles.py`
 
-<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play", "mdk-retrospective", "actraiser-retrospective", "where-dc-movies-go-after-gunn-safran", "dc-standalone-stories-great-movies", "mass-effect-n7-day-galaxy-worth-caring-about", "last-lantern-making-the-dark-worth-exploring", "last-lantern-fewer-buttons-better-decisions", "last-lantern-bosses-boons-and-another-run"]} -->
+<!-- fourth-frame:bundle {"version": 1, "slugs": ["telltales-batman-reinvention", "halo-starting-over", "mass-effect-revisited", "warcraft-iii-heroes", "replay-warcraft-iii-campaigns", "vampires-in-gaming", "wolverine-storylines", "best-j2me-games", "j2me-mobile-gaming-history", "underrated-nes-games", "consoles-deserved-better", "cancelled-games-masterpieces", "when-the-world-stopped-being-the-point", "what-made-elden-ring-great", "mmos-that-transported-us", "master-one-way-or-mix", "when-the-fight-stopped-moving", "from-browser-duel-to-full-game", "why-pantheons-ai-story-feels-so-personal", "why-heroes-is-still-worth-watching", "who-is-a-football-club-for", "platforming-gems-worth-revisiting", "best-nes-famicom-shooters", "retro-game-collections-worth-playing", "best-vr-games-ever", "grand-theft-auto-evolution-gta-vi", "house-of-x-powers-of-x-review", "best-jonathan-hickman-comics", "best-grant-morrison-comics", "best-alan-moore-comics", "best-ed-brubaker-comics", "best-brian-k-vaughan-comics", "comic-book-writers-worth-following", "christy-marx-jem-conan-games", "why-indian-game-studios-struggle", "yoddha-the-warrior-indias-early-pc-game", "battledust-forgotten-indian-fighting-game", "why-dragon-age-original-trilogy-mattered", "best-bioware-games-ranked", "mass-effect-universe-what-could-have-been", "games-to-play-instead-of-mass-effect-5", "best-browser-easter-eggs-hidden-games", "genji-dawn-of-the-samurai-retrospective", "short-satisfying-games-between-gta-vi-sessions", "best-platformer-games-to-play-2026", "jojo-bizarre-adventure-watch-guide-spoiler-recaps", "samurai-x-rurouni-kenshin-1996-retrospective", "saber-rider-star-sheriffs-retrospective", "conan-the-adventurer-cartoon-retrospective", "double-dragon-1993-cartoon-retrospective", "gundam-anime-watch-order-beginners-guide", "naruto-anime-watch-guide-filler-recaps", "dragon-age-veilguard-review", "jedi-survivor-review", "mass-effect-legendary-edition-review", "elden-ring-personal-review", "batman-arkham-asylum-review", "tomb-raider-2013-review", "halo-reach-review", "mortal-kombat-11-review", "god-of-war-2018-review", "best-games-2026-ranked", "every-game-of-the-year-winner-reconsidered", "greatest-game-developers-and-teams", "the-people-who-made-our-favourite-games-work", "dragonlance-reading-guide", "hearthstone-stories-expansions-adventures-guide", "world-of-warcraft-stories-expansions-raids-guide", "the-games-we-never-got-to-play", "mdk-retrospective", "actraiser-retrospective", "where-dc-movies-go-after-gunn-safran", "dc-standalone-stories-great-movies", "mass-effect-n7-day-galaxy-worth-caring-about", "last-lantern-making-the-dark-worth-exploring", "last-lantern-fewer-buttons-better-decisions", "last-lantern-bosses-boons-and-another-run", "harrowick-learning-to-read-the-road", "stancebreaker-making-cards-feel-like-a-fight", "stancebreaker-making-room-for-the-fight", "harrowick-two-roads-and-a-lantern"]} -->
 
 <!-- fourth-frame:article {"slug": "telltales-batman-reinvention", "sha256": "100f9ea78c5d6fa7ca7a1d580d3d07af36b03e9c3b2c49c0a90bcae5f0610bea", "edit_sha256": "be9a193e68c0b9ae2ca1d82566d78325b805aaa8d3b2215603628d84f634d787"} -->
 ---
@@ -9048,5 +9048,259 @@ Automated encounter checks are useful, but a successful simulated journey is not
 [^1]: [The 0.12 guardian and boon guide](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/GUARDIAN_ROADS.md), documenting the intended mechanics, reinforcement caps and trade-offs. Their presence in the build is separate from a claim of finished human balance.
 
 [^2]: [The 0.12 release notes](https://github.com/peterdsouza247/last-lantern/blob/38e941000f1e591e4bbeddbc8c5d471ae1449179/docs/RELEASE_0.12.0.md). This entry records the design change and the subsequent play report; it is not a hotfix announcement.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "harrowick-learning-to-read-the-road", "sha256": "b3c94a180648be8ac41db3f0ba1ef8f9831e221ffa5fff18326423d62ca4659a", "edit_sha256": "8abe6279de01432430012a61b309f4d39887f7726d4bb4ff50ae8120538a1472"} -->
+---
+title: "Harrowick: learning to read the road"
+description: "Harrowick's next playtest focuses on party roles, readable enemy cues and clear choices, with a longer-term idea for 3D lantern escorts."
+summary: "The company has more to do. The next test is whether a new player can understand it."
+deck: ""
+---
+
+*Last Lantern* is now *Harrowick: The Wick-Eater*. The company still escorts a light through a place that would rather see it extinguished. You still have to decide how far to leave the wagon behind. The name gives that journey a world to belong to, while the recent work has been about making the journey easier to understand.
+
+I had reached the point where some fairly important decisions were too easy to miss. Buttons could disappear below the text they belonged to. After a boss fight, the next choice did not always catch the eye. Even choosing a company needed a clearer explanation of who the player would actually control.
+
+Those are the problems I want the next playtest to expose. There is already plenty for a new player to learn without making them investigate the menus first.
+
+## You play the Rogue
+
+The company has three roles, with three heroes available in each. You move the Rogue; the Tank and Mage act automatically beside the lantern. That distinction now leads the party screen, with a persistent lineup showing who you have chosen and which role you are looking at.
+
+I want each member to suggest a different way of approaching the road. Mara's backstabs reward getting behind an enemy. Orrin's traps create opportunities as he moves. Vesper's lower threat gives her another relationship with the crowd. The supporting characters should change those opportunities too, rather than simply adding different colours to the same attacks.
+
+The nine heroes produce 27 possible companies. A count like that is only useful if the combinations matter during play. The party screen therefore needs to explain a company's strengths before the player departs, and the encounters need to give those strengths somewhere to work.
+
+I do not expect a newcomer to memorise the roster. I would like them to pick someone whose approach sounds interesting, understand what the other two will do, and recognise a useful interaction when it happens.
+
+## Enemies have to make movement worthwhile
+
+Automatic attacks put a lot of responsibility on positioning. If standing beside an enemy solves every encounter, there is very little reason to scout, circle or retreat.
+
+Different attack patterns are part of the answer. A protected front should encourage a flank. A dangerous charge should give the player a reason to move before it lands. An enemy threatening the wagon should make returning to the company feel like a decision with consequences.
+
+The difficult part is communicating those situations. I asked for clearer visual cues, then found the prominent cues too much. I also wanted audio to help distinguish events. Both requests point towards the same goal: enough information to react, without covering the road in instructions.
+
+I want the guardians to feel eerie too. Animal sounds, muttering and the occasional repeated phrase suit them better than treating every encounter as another conversation. Those sounds need to contribute to the atmosphere while leaving room for the cues that tell the player something dangerous is about to happen.
+
+## The choice needs to stay on screen
+
+At camp, the player can stop moving and consider equipment, skills and boons. After a guardian, there is also a decision about the fort. These are good places for a description to earn some space, provided it does not push the actual decision out of reach.
+
+The recent layouts keep important actions visible while the explanation scrolls. The party screen follows the same principle. A player should be able to read more without losing the way forward.
+
+The complete campaign, progression and saves now need independent phone testing. Automated checks can catch broken rules or a lost checkpoint. They cannot tell me whether someone enjoyed their second expedition, understood a sound in a crowded fight, or found the controls comfortable after half an hour.
+
+The tester build includes the full campaign so those questions can be investigated. Feedback is optional, with a draft kept on the device and a message the tester chooses to share. I am more interested in a specific moment of confusion than a reassuring thumbs-up from someone who already knows what I was trying to make.
+
+## The larger version I would like to explore
+
+I have also been thinking about a 3D version of *Harrowick*. The idea is a lantern escort with deliberate melee combat, distinct companions and pressure from enemy hordes. *Lords of the Fallen* and *Dota* are useful reference points for the direction I have in mind: dark action fantasy on one side, a company of differentiated roles on the other.
+
+That combination would need testing. A crowd can make the lantern feel vulnerable, but too many bodies could obscure the attack the player is supposed to read. The wagon also has to be worth protecting without becoming a companion that spends the entire journey asking to be rescued.
+
+A sensible first prototype would be one short road, one company and one guardian. It would need to make leaving the light, fighting outside it and returning to the wagon interesting before I worried about rebuilding the whole campaign.
+
+This is a future ambition dependent on funding and a convincing prototype. It is not a promised update, and there is no 3D release date. I would like the current game to be affordable and worth buying on its own. For now, the useful question is whether someone who has never heard me explain *Harrowick* can choose a company, read the road and want to take another one.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "stancebreaker-making-cards-feel-like-a-fight", "sha256": "3949f0359f226310d6de5df2e92c3e3f60ef65a21b5adf862ea26600f87ac6b9", "edit_sha256": "2af788ef08ca6060ef6b677917e26a0556725b64f543b2d6ef6a35329565c4d0"} -->
+---
+title: "Stancebreaker: making a hand of cards feel like a fight"
+description: "Stancebreaker's Android card hand, martial-arts presentation and next playtest, plus an exploratory vision for cinematic 3D fighting."
+summary: "Readable cards and convincing exchanges have to work together on a phone."
+deck: ""
+---
+
+*Masters of the Way* has become *Stancebreaker* for its Android edition. The central idea is still a martial-arts fight played through cards: judging distance, managing stamina and finding a sequence that puts the opponent where your next technique can work.
+
+The phone version has a seven-opponent Tournament and a Deck Workshop for starter, custom and generated decks. There are seven fighters and 64 cards. That gives the player plenty to experiment with. The immediate problem is getting the cards and the fight to explain themselves on a small screen.
+
+A martial-arts game can have a good rule for a throw and still leave the player wondering what just happened. It can also explain that rule perfectly in a card they cannot comfortably read. Both halves need attention.
+
+## A hand you can actually browse
+
+I wanted the hand fanned by default. It is a pleasing way to present cards, but it brings a fairly obvious problem: some of the information is covered by other cards.
+
+The hand needs to scroll, and the card in focus needs to show its details clearly. It also needs to be obvious that more cards are available. Arrows, a scrollbar and a position counter help with that. They are small additions, but a player should not have to discover the rest of their hand by accident.
+
+The selection pattern is now two taps. The first lifts a card into a potential selection; tapping the same card again plays it. Browsing the hand clears that selection. I like the idea that picking a card has a little physical hesitation to it, while keeping a separate confirmation dialogue out of every ordinary decision.
+
+Cards that cannot be played are greyed out. Their rules remain available, and trying one produces a quiet explanation of the restriction. Range, stamina and position are already enough to think about. The interface should help explain the consequence of those rules.
+
+The prototype's scrolling was janky. The latest work gives the cards stable dimensions and separates browsing from selection more carefully. Whether it feels comfortable under a thumb is still a phone-playtest question.
+
+## Give the exchange time to register
+
+I also asked for slower animation. A move can finish correctly and still pass too quickly for the player to connect it to the card they chose.
+
+The pixel fighters, arenas and technique illustrations now have a shared visual direction. The card images represent technique families, while fighter portraits and style emblems help identify the character and art. Text still has to do its job; a more attractive card is not much use if its rule disappears into the decoration.
+
+What I want to see in an exchange is the important change. A strike closes the distance or meets a guard. A clinch creates an opportunity for a throw. A ground position gives one fighter control and leaves the other looking for an escape. The animation and the displayed state need to agree about who achieved what.
+
+That becomes especially important during the opponent's turn. A short combination should look connected enough that the player can follow it, while remaining clear about each action that resolved.
+
+## The next test needs unfamiliar players
+
+The new menus put learning, choosing a fight and building a deck into more distinct places. A new profile starts with gentler defaults, while the other difficulty and tournament rules remain available.
+
+I want to know whether someone can finish the lessons and enter a fight without help. After that, I want to know which parts of the duel make sense. Can they explain why a technique was unavailable? Do they recognise a useful counter? When a throw puts them on the ground, do they understand the options they still have?
+
+The Deck Workshop needs the same scrutiny. A legal deck is a starting point for experimentation. It does not guarantee that every matchup will be equally comfortable, especially when a fighter's plan depends on keeping the action standing.
+
+The tester build keeps the full Tournament and deck tools available, with optional feedback that the player chooses to share. Automated checks already cover rules, saves and a range of interface flows. They do not establish whether a new player can read a crowded hand or whether a seven-fight run stays enjoyable on an actual phone.
+
+## A cinematic 3D engine, eventually
+
+The longer-term idea I would like to explore is a cinematic 3D fighting engine for *Stancebreaker*. I want connected strikes, blocks, counters, throws and submissions to convey the character of each martial art more convincingly.
+
+There is a significant design choice to make before treating that as a production plan. A 3D presentation of the card game could retain its tactical decisions and choreograph the results. A game with direct fighting controls would need a different approach to input, timing and balance. I have not settled that choice, and better models would not settle it for me.
+
+The first useful slice would be two fighters in one arena, with enough techniques to complete a bout. A throw should keep its contact points. A camera cut should make an exchange clearer. The result should remain understandable when the fighters grapple, separate or reach the floor.
+
+That work would depend on funding, an appropriate animation pipeline and a prototype that earns the larger scope. It is a future vision, rather than a promised update or a feature being sold with the current game. I would like to release *Stancebreaker* at an accessible price; first, the cards in the player's hand need to make them want another fight.
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "stancebreaker-making-room-for-the-fight", "sha256": "23641cd7e02acf705180e2dea26f54ac0f38bc57970e6911ff9286b0b032ea5e", "edit_sha256": "51d803fd765621c8a98bbd9860b81b6aef1f92e08d12a16d91734cb7a22d5197"} -->
+---
+title: "Stancebreaker: making room for the fight"
+description: "A new fighting-game character select, VS screens and character endings help Stancebreaker's card battles fit a phone screen."
+summary: "The card needs to be readable without pushing the fighters out of view."
+deck: ""
+---
+
+I wanted to see the whole card. I also wanted to see the characters perform the move. On a phone, those two fairly reasonable requests had started competing with each other.
+
+Scrolling down to read a technique could put the fighters out of view. That is a particular problem for *Stancebreaker*, because the animation is supposed to explain what the card achieved. If a throw changes who is on top, the player should be able to connect the written rule to the exchange on screen.
+
+The latest work has been about giving the cards, fighters and decisions enough room to work together. It has also been a chance to borrow more of the ceremony of a fighting game: choosing a portrait, seeing a character take their stance, facing the next opponent and getting an ending worth reaching.
+
+## Keep the arena in view
+
+The combat screen now works within the available viewport. The arena, hand and important actions have defined places, with the focused card's information kept alongside the fight. Browsing a hand still needs movement; moving the entire page just to reach the next decision should be avoidable.
+
+This follows the two-tap selection work in the [previous journal](../../stories/stancebreaker-making-cards-feel-like-a-fight/). The first tap lifts a card into consideration. The second plays it. The player needs room to make that first decision without losing the context of the current stance, range or position.
+
+The title screen had a related problem. The menu covered the sparring artwork. In portrait, the characters now have space above the options; in landscape, they sit to the right, with the options using the space to the left. That arrangement gives the picture a purpose beyond being something attractive underneath a button.
+
+Small screens still need careful judgement about text size and touch targets. Automated layout checks are useful for finding clipped actions. Comfort under a thumb will need phone testing.
+
+## Choose a fighter from a portrait
+
+I wanted character selection to feel closer to a fighting game. A roster of portraits is a better starting point than a long page that makes each fighter compete for vertical space.
+
+Selecting a portrait brings up the larger pixel-art character in a ready pose, with a little movement to keep the screen alive. Deck information and biography sit beside the preview, with tabs keeping both available. The player can compare choices without scrolling past the previous character's entire introduction.
+
+The deck and biography answer different questions. The deck explains what this fighter tends to do. The biography gives a reason to care who is doing it. I would like a player to choose a style because it sounds interesting, then find that the character gives them a reason to stick with it.
+
+The selected portrait and preview also need to agree. A pleasant animation cannot compensate for uncertainty about which fighter will enter the match.
+
+## Give each bout an entrance
+
+A detailed VS screen now puts both fighters in ready poses before the match. It gives the next opponent a face and a stance before the cards arrive. The match presentation then makes room for ready, victory and defeat states.
+
+These moments need a different pace from an ordinary card exchange. There should be time to recognise the opponent and enjoy the artwork, with a way forward that does not leave the player wondering whether the game is waiting for them. Fast and reduced-motion settings need to remain useful too.
+
+The tournament opponent order is shuffled when a run begins and saved with that run. Resuming should bring back the same opponent sequence. A new run can change the order, but loading a save should never quietly replace the player’s next fight.
+
+At the end of a successful tournament, the chosen fighter gets a congratulatory screen with a larger victory pose and an ending drawn from their biography. There are individual resolutions for the roster. I wanted the final win to feel like the end of that character's journey, rather than another bout result with a longer score.
+
+## Let the rules provide the callouts
+
+Combo cues, counter reveals and fighting-game callouts are now part of the presentation. Their usefulness depends on being specific about what happened.
+
+A combo cue should point towards an existing interaction in the cards. It should not promise a bonus the rules do not award. A counter reveal should arrive when the counter triggers, without giving away an opponent's hidden hand beforehand. A finishing callout should reflect the actual result, whether the bout ended through damage, a submission or a decision.
+
+That distinction matters in a card game. Reading the opponent is part of the fight; receiving information the player was never meant to have would change the rules. The cues follow the shared combat events, so the dramatic explanation has to agree with the resolved action.
+
+I am keeping signature finishers and special rival encounters in the future-work document. Both could give the roster more personality, but they need more design than adding another large word to the screen. A finisher needs a clear trigger and a sensible effect on pacing. A rivalry needs something to say about the characters across repeated encounters. Neither is being presented as a completed feature here.
+
+## An icon and a build someone can identify
+
+![Stancebreaker pixel-art icon showing Reyes with red gloves and a fan of combat cards](../../assets/images/stancebreaker-icon-2026.png "Original Stancebreaker artwork generated for Peter D’Souza's game; launcher export.")
+
+The new icon puts Reyes's face and red gloves in front of a small fan of combat cards. That is the combination I want the game to communicate when it is reduced to a square on a phone: a fighter, with cards involved in the fight.
+
+The same artwork is going into the full and demo editions, with different app names and separate identities. The limited demo keeps Boxing, Judo and Brazilian Jiu-Jitsu, a 34-card pool and a three-bout tournament. Its feedback tools remain available. I want someone trying it to reach a proper stopping point and have a straightforward way to tell me what confused them.
+
+There are also four explicit build routes now: full APK, full iOS package, demo APK and demo iOS package. The iOS path includes a native save implementation for *Stancebreaker*, so reaching an iPhone is more than a matter of putting the existing page inside a different shell.
+
+The build downloads identify their edition and source commit. Simulator apps and unsigned device archives can be compiled without Apple signing credentials; a signed IPA needs the appropriate certificate and provisioning profile. An unsigned archive is not an iPhone installer. The new workflows prepare those exports without automatically sending anything to an app store.
+
+These changes are being reviewed in the [full-game PR](https://github.com/peterdsouza247/stancebreaker/pull/19) and [limited-demo PR](https://github.com/peterdsouza247/stancebreaker/pull/20). Automated rules, layout and native build checks are useful evidence. They still leave an important test for an actual phone: can a new player read a technique, watch its effect and choose the next card without fighting the interface?
+
+<!-- fourth-frame:end -->
+
+<!-- fourth-frame:article {"slug": "harrowick-two-roads-and-a-lantern", "sha256": "d1528805a54e28e26f9fa4f7224c1a54ca716e3f5329b6e3772b350d5487814c", "edit_sha256": "ade1e8af7f063681533ef45af465c010d1c6da64edac7ac8efafd66bd238f01d"} -->
+---
+title: "Harrowick: two roads, a lantern, and a proper test build"
+description: "Harrowick's limited demo keeps two roads and all nine heroes, with new lantern artwork and separate Android and iOS build pipelines."
+summary: "A shorter expedition should still explain why leaving the lantern behind is a difficult decision."
+deck: ""
+---
+
+*Harrowick* has enough campaign and company systems now that handing someone the full game is a fairly large request. I also want a shorter version that lets them understand the lantern escort, try a company and reach an ending to that particular expedition.
+
+The limited demo uses two roads. All nine heroes remain available, so the restriction falls on the length of the journey rather than the choice of company. The full campaign remains separate.
+
+That gives the demo a useful job. It should show why the player might leave the wagon to explore, why coming back matters, and how the Rogue, Tank and Mage change the opportunities along the way. If those things are confusing in two roads, adding eight more will give the player a longer opportunity to be confused.
+
+## Keep the company choices
+
+The player moves the Rogue while the Tank and Mage act automatically. That is the central distinction the [recent interface work](../../stories/harrowick-learning-to-read-the-road/) has been trying to communicate.
+
+Keeping the nine-hero roster in the demo means a tester can approach the same limited journey with different companies. Mara's backstabs, Orrin's traps and Vesper's lower threat offer different reasons to move. The supporting roles should make those approaches more interesting as well.
+
+I want feedback about those differences. Did the player notice when a companion created an opening? Did they understand why an enemy could be hurt from one direction and protected from another? Was there a reason to return to the lantern before the situation became hopeless?
+
+A short demo cannot prove that every company will remain satisfying through a full campaign. It can help establish whether the differences are visible early enough to matter.
+
+## A stopping point with a purpose
+
+The limited build has its own completion boundary. It should finish as a demo rather than appear to break when the player tries to continue into unavailable content. That boundary also needs to survive saving and resuming.
+
+Feedback is optional and stays under the tester's control. The existing tools keep a draft on the device and let the tester choose when to share it. I would rather hear that a particular camp choice was difficult to find than receive a score with no idea what produced it.
+
+There is still a use for the full-campaign tester build. It can reveal problems much later in an expedition. The two-road demo answers a narrower question: does the opening make enough sense that someone wants another road?
+
+Neither version should quietly replace the other's saves. The limited demo has its own application identity, so it can sit beside the full game. That separation now carries through to iOS packaging too.
+
+## Put the lantern in someone's hand
+
+![Harrowick pixel-art icon showing a hooded escort carrying a glowing brass lantern](../../assets/images/harrowick-icon-2026.png "Original Harrowick artwork generated for Peter D’Souza's game; launcher export.")
+
+The earlier icon used the lantern as an emblem. The new version keeps the ornate brass lantern and brings a hooded escort into the frame, with the flame lighting her face against the blue of the road behind her.
+
+I liked the new *Stancebreaker* icon and wanted a similar level of pixel-art detail for *Harrowick*. The two games need different moods. Red gloves and combat cards can explain something about *Stancebreaker* immediately. Here, the person carrying the light matters as much as the object itself.
+
+This is key art for the game, rather than the announcement of another playable hero. The lantern remains the recognisable part of the image, and the background is kept darker so it can survive being reduced to a small launcher icon.
+
+Both the full and limited demo builds receive the new artwork. The source image is exported into Android's legacy and adaptive launcher sizes, an opaque iOS icon, and web icons. The adaptive versions leave room for the platform's mask. Those exports still need checking on real launchers; a square preview cannot show every crop a phone might apply.
+
+## Four build choices, with clear names
+
+Each game now has four mobile build entrypoints: an APK for the full game, an iOS package for the full game, a demo APK and a demo iOS package.
+
+The point is to make the choice explicit before the build starts. A tester asking for the demo should receive the content-limited version. The package should identify which source revision produced it, and the workflow should reject a full/demo mismatch rather than give the wrong file a convincing name.
+
+*Harrowick* already had an iOS project in the repository. This work connects it to a repeatable packaging path, synchronises its display name and identity with the chosen edition, and adds verification of the bundled offline game. The existing native identifiers and save compatibility are retained for the full game.
+
+An iOS build can produce a simulator app and an unsigned device archive without a signing account being configured in the workflow. Installing on an iPhone needs the appropriate signed build. The optional IPA export takes a certificate and a matching profile for that edition; it does not submit the game to Apple.
+
+The distinction needs to be visible in the download. Calling an unsigned archive an installable iPhone build would save a few words and cost a tester considerably more time.
+
+Builds also include checksums and source information. Downloads are being kept as unpublished draft releases because the account's Actions artifact storage is full. That is a practical delivery choice, not an announcement that either game has been released.
+
+## The next test is still on a phone
+
+The [full-game PR](https://github.com/peterdsouza247/last-lantern/pull/32) and [limited-demo PR](https://github.com/peterdsouza247/last-lantern/pull/33) contain the icon and packaging work. Automated checks cover the source, demo limits and offline files inside the package. Native compilation establishes that the Android and iOS projects can build. Signed distribution and physical-device acceptance remain separate work.
+
+What I want from the next phone test is fairly specific. Can someone choose a company without needing an explanation from me? Can they read a dangerous attack while moving? Can they find the choice after a guardian? When they stop and return later, does the expedition resume where they expect?
+
+The larger 3D lantern-escort idea remains future work. The current game has a more immediate responsibility: give someone two roads that make them curious about the rest of Harrowick.
 
 <!-- fourth-frame:end -->

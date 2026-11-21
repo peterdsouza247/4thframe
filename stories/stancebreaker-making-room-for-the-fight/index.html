@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171c28">
+  <title>Stancebreaker: making room for the fight | Fourth Frame</title>
+  <meta name="description" content="A new fighting-game character select, VS screens and character endings help Stancebreaker&#x27;s card battles fit a phone screen.">
+  <link rel="canonical" href="https://peterdsouza247.github.io/4thframe/stories/stancebreaker-making-room-for-the-fight/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Stancebreaker: making room for the fight">
+  <meta property="og:description" content="A new fighting-game character select, VS screens and character endings help Stancebreaker&#x27;s card battles fit a phone screen.">
+  <meta property="og:url" content="https://peterdsouza247.github.io/4thframe/stories/stancebreaker-making-room-for-the-fight/">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/style.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Stancebreaker: making room for the fight", "description": "A new fighting-game character select, VS screens and character endings help Stancebreaker's card battles fit a phone screen.", "inLanguage": "en", "articleSection": "Journal", "keywords": ["Stancebreaker", "Game development", "Card games", "Fighting games", "UI and UX"], "mainEntityOfPage": "https://peterdsouza247.github.io/4thframe/stories/stancebreaker-making-room-for-the-fight/", "author": {"@type": "Person", "name": "Peter D’Souza", "url": "https://peterdsouza247.github.io/4thframe/#about"}, "publisher": {"@type": "Organization", "name": "Fourth Frame", "url": "https://peterdsouza247.github.io/4thframe/"}, "datePublished": "2026-11-21"}</script>
+  <script defer src="../../assets/analytics.js"></script>
+  <!-- site-meta:start -->
+  <meta name="author" content="Peter D’Souza">
+  <meta property="og:site_name" content="Fourth Frame">
+  <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Stancebreaker: making room for the fight">
+  <meta name="twitter:description" content="A new fighting-game character select, VS screens and character endings help Stancebreaker&#x27;s card battles fit a phone screen.">
+  <meta property="article:tag" content="Stancebreaker">
+  <meta property="article:tag" content="Game development">
+  <meta property="article:tag" content="Card games">
+  <meta property="article:tag" content="Fighting games">
+  <meta property="article:tag" content="UI and UX">
+  <meta property="article:published_time" content="2026-11-21">
+  <!-- site-meta:end -->
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="mast"><div class="shell">
+    <div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div>
+    <div class="mast-row"><a class="wordmark" href="../../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div>
+    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#screen">Screen</a><a href="../../#lists">Lists</a><a href="../../reviews/">Reviews</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
+  </div></header>
+  <main id="main">
+    <header class="article-header wrap"><span class="kicker">Stancebreaker / Fighting on a phone</span><h1>Stancebreaker: making room for the fight</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
+    <div class="article-band warcraft-band" aria-hidden="true"><span>STANCEBREAKER / DEVELOPMENT JOURNAL</span></div>
+    <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>Journal / 5 min</aside><article class="article-body">
+<p>I wanted to see the whole card. I also wanted to see the characters perform the move. On a phone, those two fairly reasonable requests had started competing with each other.</p>
+<p>Scrolling down to read a technique could put the fighters out of view. That is a particular problem for <em>Stancebreaker</em>, because the animation is supposed to explain what the card achieved. If a throw changes who is on top, the player should be able to connect the written rule to the exchange on screen.</p>
+<p>The latest work has been about giving the cards, fighters and decisions enough room to work together. It has also been a chance to borrow more of the ceremony of a fighting game: choosing a portrait, seeing a character take their stance, facing the next opponent and getting an ending worth reaching.</p>
+<h2>Keep the arena in view</h2>
+<p>The combat screen now works within the available viewport. The arena, hand and important actions have defined places, with the focused card&#x27;s information kept alongside the fight. Browsing a hand still needs movement; moving the entire page just to reach the next decision should be avoidable.</p>
+<p>This follows the two-tap selection work in the <a href="../../stories/stancebreaker-making-cards-feel-like-a-fight/">previous journal</a>. The first tap lifts a card into consideration. The second plays it. The player needs room to make that first decision without losing the context of the current stance, range or position.</p>
+<p>The title screen had a related problem. The menu covered the sparring artwork. In portrait, the characters now have space above the options; in landscape, they sit to the right, with the options using the space to the left. That arrangement gives the picture a purpose beyond being something attractive underneath a button.</p>
+<p>Small screens still need careful judgement about text size and touch targets. Automated layout checks are useful for finding clipped actions. Comfort under a thumb will need phone testing.</p>
+<h2>Choose a fighter from a portrait</h2>
+<p>I wanted character selection to feel closer to a fighting game. A roster of portraits is a better starting point than a long page that makes each fighter compete for vertical space.</p>
+<p>Selecting a portrait brings up the larger pixel-art character in a ready pose, with a little movement to keep the screen alive. Deck information and biography sit beside the preview, with tabs keeping both available. The player can compare choices without scrolling past the previous character&#x27;s entire introduction.</p>
+<p>The deck and biography answer different questions. The deck explains what this fighter tends to do. The biography gives a reason to care who is doing it. I would like a player to choose a style because it sounds interesting, then find that the character gives them a reason to stick with it.</p>
+<p>The selected portrait and preview also need to agree. A pleasant animation cannot compensate for uncertainty about which fighter will enter the match.</p>
+<h2>Give each bout an entrance</h2>
+<p>A detailed VS screen now puts both fighters in ready poses before the match. It gives the next opponent a face and a stance before the cards arrive. The match presentation then makes room for ready, victory and defeat states.</p>
+<p>These moments need a different pace from an ordinary card exchange. There should be time to recognise the opponent and enjoy the artwork, with a way forward that does not leave the player wondering whether the game is waiting for them. Fast and reduced-motion settings need to remain useful too.</p>
+<p>The tournament opponent order is shuffled when a run begins and saved with that run. Resuming should bring back the same opponent sequence. A new run can change the order, but loading a save should never quietly replace the player’s next fight.</p>
+<p>At the end of a successful tournament, the chosen fighter gets a congratulatory screen with a larger victory pose and an ending drawn from their biography. There are individual resolutions for the roster. I wanted the final win to feel like the end of that character&#x27;s journey, rather than another bout result with a longer score.</p>
+<h2>Let the rules provide the callouts</h2>
+<p>Combo cues, counter reveals and fighting-game callouts are now part of the presentation. Their usefulness depends on being specific about what happened.</p>
+<p>A combo cue should point towards an existing interaction in the cards. It should not promise a bonus the rules do not award. A counter reveal should arrive when the counter triggers, without giving away an opponent&#x27;s hidden hand beforehand. A finishing callout should reflect the actual result, whether the bout ended through damage, a submission or a decision.</p>
+<p>That distinction matters in a card game. Reading the opponent is part of the fight; receiving information the player was never meant to have would change the rules. The cues follow the shared combat events, so the dramatic explanation has to agree with the resolved action.</p>
+<p>I am keeping signature finishers and special rival encounters in the future-work document. Both could give the roster more personality, but they need more design than adding another large word to the screen. A finisher needs a clear trigger and a sensible effect on pacing. A rivalry needs something to say about the characters across repeated encounters. Neither is being presented as a completed feature here.</p>
+<h2>An icon and a build someone can identify</h2>
+<figure class="article-figure"><img src="../../assets/images/stancebreaker-icon-2026.png" alt="Stancebreaker pixel-art icon showing Reyes with red gloves and a fan of combat cards" loading="lazy"><figcaption>Original Stancebreaker artwork generated for Peter D’Souza&#x27;s game; launcher export.</figcaption></figure>
+<p>The new icon puts Reyes&#x27;s face and red gloves in front of a small fan of combat cards. That is the combination I want the game to communicate when it is reduced to a square on a phone: a fighter, with cards involved in the fight.</p>
+<p>The same artwork is going into the full and demo editions, with different app names and separate identities. The limited demo keeps Boxing, Judo and Brazilian Jiu-Jitsu, a 34-card pool and a three-bout tournament. Its feedback tools remain available. I want someone trying it to reach a proper stopping point and have a straightforward way to tell me what confused them.</p>
+<p>There are also four explicit build routes now: full APK, full iOS package, demo APK and demo iOS package. The iOS path includes a native save implementation for <em>Stancebreaker</em>, so reaching an iPhone is more than a matter of putting the existing page inside a different shell.</p>
+<p>The build downloads identify their edition and source commit. Simulator apps and unsigned device archives can be compiled without Apple signing credentials; a signed IPA needs the appropriate certificate and provisioning profile. An unsigned archive is not an iPhone installer. The new workflows prepare those exports without automatically sending anything to an app store.</p>
+<p>These changes are being reviewed in the <a href="https://github.com/peterdsouza247/stancebreaker/pull/19">full-game PR</a> and <a href="https://github.com/peterdsouza247/stancebreaker/pull/20">limited-demo PR</a>. Automated rules, layout and native build checks are useful evidence. They still leave an important test for an actual phone: can a new player read a technique, watch its effect and choose the next card without fighting the interface?</p>
+<!-- topics:start -->
+<div class="article-tags" aria-label="Topics"><span>Explore topics</span><a href="../../search/?tag=Stancebreaker">Stancebreaker</a> <a href="../../search/?tag=Game%20development">Game development</a> <a href="../../search/?tag=Card%20games">Card games</a> <a href="../../search/?tag=Fighting%20games">Fighting games</a> <a href="../../search/?tag=UI%20and%20UX">UI and UX</a></div>
+<aside class="related-stories" aria-label="Related stories"><h2>Keep reading</h2><ul><li><a href="../../stories/stancebreaker-making-cards-feel-like-a-fight/">Stancebreaker: making a hand of cards feel like a fight</a></li><li><a href="../../stories/when-the-fight-stopped-moving/">When the fight stopped moving</a></li><li><a href="../../stories/from-browser-duel-to-full-game/">From a browser duel to a full game</a></li></ul></aside>
+<!-- topics:end -->
+<div class="article-end"><a href="../../#journal">← More journal entries</a></div>
+    </article></div>
+  </main>
+  <footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>

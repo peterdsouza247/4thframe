@@ -375,7 +375,7 @@ def main():
         fail("related must contain unique existing article slugs")
     body_html = render_body(body)
     for img in re.findall(r'<img src="([^"]+)"', body_html):
-        if not (target.parent / img).exists():
+        if not (target.parent / img).resolve().exists():
             fail(f"Image does not exist: {img}. Add it and document rights in IMAGE-RIGHTS.md")
     # Reading time covers prose, excluding source definitions and their URLs.
     reading_body = re.sub(r"^\[\^\d+\]: .+$", "", body, flags=re.M)

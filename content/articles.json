@@ -1291,5 +1291,39 @@
       "from-browser-duel-to-full-game"
     ],
     "published": "2026-11-20"
+  },
+  {
+    "slug": "stancebreaker-making-room-for-the-fight",
+    "type": "Journal",
+    "tags": [
+      "Stancebreaker",
+      "Game development",
+      "Card games",
+      "Fighting games",
+      "UI and UX"
+    ],
+    "related": [
+      "stancebreaker-making-cards-feel-like-a-fight",
+      "when-the-fight-stopped-moving",
+      "from-browser-duel-to-full-game"
+    ],
+    "published": "2026-11-21"
+  },
+  {
+    "slug": "harrowick-two-roads-and-a-lantern",
+    "type": "Journal",
+    "tags": [
+      "Harrowick",
+      "Last Lantern",
+      "Game development",
+      "Roguelites",
+      "Playtesting"
+    ],
+    "related": [
+      "harrowick-learning-to-read-the-road",
+      "last-lantern-making-the-dark-worth-exploring",
+      "last-lantern-fewer-buttons-better-decisions"
+    ],
+    "published": "2026-11-21"
   }
 ]

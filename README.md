@@ -137,6 +137,8 @@ Article files (updated by `scripts/add_article.py`):
 - last-lantern-bosses-boons-and-another-run: `stories/last-lantern-bosses-boons-and-another-run/index.html`
 - harrowick-learning-to-read-the-road: `stories/harrowick-learning-to-read-the-road/index.html`
 - stancebreaker-making-cards-feel-like-a-fight: `stories/stancebreaker-making-cards-feel-like-a-fight/index.html`
+- stancebreaker-making-room-for-the-fight: `stories/stancebreaker-making-room-for-the-fight/index.html`
+- harrowick-two-roads-and-a-lantern: `stories/harrowick-two-roads-and-a-lantern/index.html`
 <!-- article-files:end -->
 - Homepage cards and order: `index.html`
 - Shared layout and colors: `assets/style.css`
