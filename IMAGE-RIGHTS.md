@@ -65,3 +65,9 @@ If an image is only there to make the homepage look attractive, obtain an expres
 | File | Article | Copyright owner | Original source URL | Permission/licence basis | Required credit | Date checked |
 | --- | --- | --- | --- | --- | --- | --- |
 | Example: `halo-combat.jpg` | Halo reboot | Microsoft | Official source URL | Xbox content policy / editorial commentary | © Microsoft / Xbox Game Studios | YYYY-MM-DD |
+
+### Game launcher artwork — 21 November 2026
+
+- `assets/images/stancebreaker-icon-2026.png`: 512px export of the original pixel-art launcher artwork generated for Peter D’Souza's Stancebreaker project. Subject: Reyes, red boxing gloves and combat cards. Used in the development journal with the project owner's authorisation; no third-party game screenshot or logo.
+- `assets/images/harrowick-icon-2026.png`: 512px export of the original pixel-art launcher artwork generated for Peter D’Souza's Harrowick project, using its existing lantern emblem as reference. Subject: a hooded escort with a brass lantern. Used in the development journal with the project owner's authorisation; key art, not a newly announced playable character.
+- Sources and export settings are documented in the games' `docs/ICON_ART.md` files. No external press-kit imagery is included.

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171c28">
+  <title>Harrowick: two roads, a lantern, and a proper test build | Fourth Frame</title>
+  <meta name="description" content="Harrowick&#x27;s limited demo keeps two roads and all nine heroes, with new lantern artwork and separate Android and iOS build pipelines.">
+  <link rel="canonical" href="https://peterdsouza247.github.io/4thframe/stories/harrowick-two-roads-and-a-lantern/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Harrowick: two roads, a lantern, and a proper test build">
+  <meta property="og:description" content="Harrowick&#x27;s limited demo keeps two roads and all nine heroes, with new lantern artwork and separate Android and iOS build pipelines.">
+  <meta property="og:url" content="https://peterdsouza247.github.io/4thframe/stories/harrowick-two-roads-and-a-lantern/">
+  <link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../../assets/style.css">
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Harrowick: two roads, a lantern, and a proper test build", "description": "Harrowick's limited demo keeps two roads and all nine heroes, with new lantern artwork and separate Android and iOS build pipelines.", "inLanguage": "en", "articleSection": "Journal", "keywords": ["Harrowick", "Last Lantern", "Game development", "Roguelites", "Playtesting"], "mainEntityOfPage": "https://peterdsouza247.github.io/4thframe/stories/harrowick-two-roads-and-a-lantern/", "author": {"@type": "Person", "name": "Peter D’Souza", "url": "https://peterdsouza247.github.io/4thframe/#about"}, "publisher": {"@type": "Organization", "name": "Fourth Frame", "url": "https://peterdsouza247.github.io/4thframe/"}, "datePublished": "2026-11-21"}</script>
+  <script defer src="../../assets/analytics.js"></script>
+
+  <!-- site-meta:start -->
+  <meta name="author" content="Peter D’Souza">
+  <meta property="og:site_name" content="Fourth Frame">
+  <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Harrowick: two roads, a lantern, and a proper test build">
+  <meta name="twitter:description" content="Harrowick&#x27;s limited demo keeps two roads and all nine heroes, with new lantern artwork and separate Android and iOS build pipelines.">
+  <meta property="article:tag" content="Harrowick">
+  <meta property="article:tag" content="Last Lantern">
+  <meta property="article:tag" content="Game development">
+  <meta property="article:tag" content="Roguelites">
+  <meta property="article:tag" content="Playtesting">
+  <meta property="article:published_time" content="2026-11-21">
+  <!-- site-meta:end -->
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="mast"><div class="shell">
+    <div class="mast-top"><span>Independent games &amp; culture writing</span><span>Vol. 01 / A different angle on familiar worlds</span></div>
+    <div class="mast-row"><a class="wordmark" href="../../" aria-label="Fourth Frame home">Fourth<i>.</i>Frame</a><p class="mast-right">Stories worth revisiting.<br>By Peter D’Souza.</p></div>
+    <nav class="nav" aria-label="Sections"><a href="../../#long-reads">Long reads</a><a href="../../#screen">Screen</a><a href="../../#lists">Lists</a><a href="../../reviews/">Reviews</a><a href="../../#journal">Journal</a><a href="../../guides/">Guides</a><a href="../../search/">Search</a><a href="../../#about">About</a><span>Go deeper ↗</span></nav>
+  </div></header>
+  <main id="main">
+    <header class="article-header wrap"><span class="kicker">Harrowick / Building the demo</span><h1>Harrowick: two roads, a lantern, and a proper test build</h1><div class="byline">By Peter D’Souza <span class="article-views" aria-live="off"></span></div></header>
+    <div class="article-band warcraft-band" aria-hidden="true"><span>HARROWICK / DEVELOPMENT JOURNAL</span></div>
+    <div class="article-layout wrap"><aside class="article-aside">Fourth Frame<br>Journal / 5 min</aside><article class="article-body">
+<p><em>Harrowick</em> has enough campaign and company systems now that handing someone the full game is a fairly large request. I also want a shorter version that lets them understand the lantern escort, try a company and reach an ending to that particular expedition.</p>
+<p>The limited demo uses two roads. All nine heroes remain available, so the restriction falls on the length of the journey rather than the choice of company. The full campaign remains separate.</p>
+<p>That gives the demo a useful job. It should show why the player might leave the wagon to explore, why coming back matters, and how the Rogue, Tank and Mage change the opportunities along the way. If those things are confusing in two roads, adding eight more will give the player a longer opportunity to be confused.</p>
+<h2>Keep the company choices</h2>
+<p>The player moves the Rogue while the Tank and Mage act automatically. That is the central distinction the <a href="../../stories/harrowick-learning-to-read-the-road/">recent interface work</a> has been trying to communicate.</p>
+<p>Keeping the nine-hero roster in the demo means a tester can approach the same limited journey with different companies. Mara&#x27;s backstabs, Orrin&#x27;s traps and Vesper&#x27;s lower threat offer different reasons to move. The supporting roles should make those approaches more interesting as well.</p>
+<p>I want feedback about those differences. Did the player notice when a companion created an opening? Did they understand why an enemy could be hurt from one direction and protected from another? Was there a reason to return to the lantern before the situation became hopeless?</p>
+<p>A short demo cannot prove that every company will remain satisfying through a full campaign. It can help establish whether the differences are visible early enough to matter.</p>
+<h2>A stopping point with a purpose</h2>
+<p>The limited build has its own completion boundary. It should finish as a demo rather than appear to break when the player tries to continue into unavailable content. That boundary also needs to survive saving and resuming.</p>
+<p>Feedback is optional and stays under the tester&#x27;s control. The existing tools keep a draft on the device and let the tester choose when to share it. I would rather hear that a particular camp choice was difficult to find than receive a score with no idea what produced it.</p>
+<p>There is still a use for the full-campaign tester build. It can reveal problems much later in an expedition. The two-road demo answers a narrower question: does the opening make enough sense that someone wants another road?</p>
+<p>Neither version should quietly replace the other&#x27;s saves. The limited demo has its own application identity, so it can sit beside the full game. That separation now carries through to iOS packaging too.</p>
+<h2>Put the lantern in someone&#x27;s hand</h2>
+<figure class="article-figure"><img src="../../assets/images/harrowick-icon-2026.png" alt="Harrowick pixel-art icon showing a hooded escort carrying a glowing brass lantern" loading="lazy"><figcaption>Original Harrowick artwork generated for Peter D’Souza&#x27;s game; launcher export.</figcaption></figure>
+<p>The earlier icon used the lantern as an emblem. The new version keeps the ornate brass lantern and brings a hooded escort into the frame, with the flame lighting her face against the blue of the road behind her.</p>
+<p>I liked the new <em>Stancebreaker</em> icon and wanted a similar level of pixel-art detail for <em>Harrowick</em>. The two games need different moods. Red gloves and combat cards can explain something about <em>Stancebreaker</em> immediately. Here, the person carrying the light matters as much as the object itself.</p>
+<p>This is key art for the game, rather than the announcement of another playable hero. The lantern remains the recognisable part of the image, and the background is kept darker so it can survive being reduced to a small launcher icon.</p>
+<p>Both the full and limited demo builds receive the new artwork. The source image is exported into Android&#x27;s legacy and adaptive launcher sizes, an opaque iOS icon, and web icons. The adaptive versions leave room for the platform&#x27;s mask. Those exports still need checking on real launchers; a square preview cannot show every crop a phone might apply.</p>
+<h2>Four build choices, with clear names</h2>
+<p>Each game now has four mobile build entrypoints: an APK for the full game, an iOS package for the full game, a demo APK and a demo iOS package.</p>
+<p>The point is to make the choice explicit before the build starts. A tester asking for the demo should receive the content-limited version. The package should identify which source revision produced it, and the workflow should reject a full/demo mismatch rather than give the wrong file a convincing name.</p>
+<p><em>Harrowick</em> already had an iOS project in the repository. This work connects it to a repeatable packaging path, synchronises its display name and identity with the chosen edition, and adds verification of the bundled offline game. The existing native identifiers and save compatibility are retained for the full game.</p>
+<p>An iOS build can produce a simulator app and an unsigned device archive without a signing account being configured in the workflow. Installing on an iPhone needs the appropriate signed build. The optional IPA export takes a certificate and a matching profile for that edition; it does not submit the game to Apple.</p>
+<p>The distinction needs to be visible in the download. Calling an unsigned archive an installable iPhone build would save a few words and cost a tester considerably more time.</p>
+<p>Builds also include checksums and source information. Downloads are being kept as unpublished draft releases because the account&#x27;s Actions artifact storage is full. That is a practical delivery choice, not an announcement that either game has been released.</p>
+<h2>The next test is still on a phone</h2>
+<p>The <a href="https://github.com/peterdsouza247/last-lantern/pull/32">full-game PR</a> and <a href="https://github.com/peterdsouza247/last-lantern/pull/33">limited-demo PR</a> contain the icon and packaging work. Automated checks cover the source, demo limits and offline files inside the package. Native compilation establishes that the Android and iOS projects can build. Signed distribution and physical-device acceptance remain separate work.</p>
+<p>What I want from the next phone test is fairly specific. Can someone choose a company without needing an explanation from me? Can they read a dangerous attack while moving? Can they find the choice after a guardian? When they stop and return later, does the expedition resume where they expect?</p>
+<p>The larger 3D lantern-escort idea remains future work. The current game has a more immediate responsibility: give someone two roads that make them curious about the rest of Harrowick.</p>
+
+<!-- topics:start -->
+<div class="article-tags" aria-label="Topics"><span>Explore topics</span><a href="../../search/?tag=Harrowick">Harrowick</a> <a href="../../search/?tag=Last%20Lantern">Last Lantern</a> <a href="../../search/?tag=Game%20development">Game development</a> <a href="../../search/?tag=Roguelites">Roguelites</a> <a href="../../search/?tag=Playtesting">Playtesting</a></div>
+<aside class="related-stories" aria-label="Related stories"><h2>Keep reading</h2><ul><li><a href="../../stories/harrowick-learning-to-read-the-road/">Harrowick: learning to read the road</a></li><li><a href="../../stories/last-lantern-making-the-dark-worth-exploring/">Last Lantern: Making the Dark Worth Exploring</a></li><li><a href="../../stories/last-lantern-fewer-buttons-better-decisions/">Last Lantern: Fewer Buttons, Better Decisions?</a></li></ul></aside>
+<!-- topics:end -->
+<div class="article-end"><a href="../../#journal">← More journal entries</a></div>
+    </article></div>
+  </main>
+  <footer class="footer shell"><span>Fourth Frame · Writing by Peter D’Souza</span><a href="#main">Back to top ↑</a></footer>
+</body>
+</html>
